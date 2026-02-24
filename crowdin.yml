@@ -1,0 +1,3 @@
+files:
+  - source: template.ts
+    translation: '%language%.ts'
