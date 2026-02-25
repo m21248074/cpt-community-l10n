@@ -4323,26 +4323,26 @@ Enter a value in the Index Variable text field to use a variable to determine th
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPActiveDialog.ui" line="17"/>
       <source>Show Active Apps</source>
-      <translation type="unfinished">Show Active Apps</translation>
+      <translation>顯示執行中的應用程式</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPActiveDialog.ui" line="27"/>
       <source>Active Apps</source>
-      <translation type="unfinished">Active Apps</translation>
+      <translation>執行中的應用程式</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPActiveDialog.ui" line="50"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPActiveDialog.ui" line="53"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPActiveDialog.ui" line="56"/>
       <source>Disconnect</source>
-      <translation type="unfinished">Disconnect</translation>
+      <translation>中斷連線</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPActiveDialog.ui" line="63"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPActiveDialog.ui" line="66"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPActiveDialog.ui" line="69"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>取消</translation>
     </message>
   </context>
   <context>
@@ -4350,17 +4350,17 @@ Enter a value in the Index Variable text field to use a variable to determine th
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="14"/>
       <source>Configure Apps</source>
-      <translation type="unfinished">Configure Apps</translation>
+      <translation>設定應用程式</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="20"/>
       <source>Apps List</source>
-      <translation type="unfinished">Apps List</translation>
+      <translation>應用程式列表</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="39"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="44"/>
@@ -4372,31 +4372,31 @@ Enter a value in the Index Variable text field to use a variable to determine th
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="78"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="81"/>
       <source>Launch</source>
-      <translation type="unfinished">Launch</translation>
+      <translation>啟動</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="101"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>除錯</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="153"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="156"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="159"/>
       <source>Add</source>
-      <translation type="unfinished">Add</translation>
+      <translation>新增</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="174"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="177"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="180"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>移除</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="251"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>描述</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="329"/>
@@ -4416,78 +4416,78 @@ Contact: miwang@cisco.com</translation>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="348"/>
       <source>Settings</source>
-      <translation type="unfinished">Settings</translation>
+      <translation>設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="360"/>
       <source>Startup</source>
-      <translation type="unfinished">Startup</translation>
+      <translation>啟動</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="375"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="378"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="381"/>
       <source>How does this application start?</source>
-      <translation type="unfinished">How does this application start?</translation>
+      <translation>此應用程式如何啟動?</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="399"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="402"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="405"/>
       <source>On Startup</source>
-      <translation type="unfinished">On Startup</translation>
+      <translation>啟動時</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="412"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="415"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="418"/>
       <source>On Demand</source>
-      <translation type="unfinished">On Demand</translation>
+      <translation>視需求</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="425"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="428"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="431"/>
       <source>Disabled</source>
-      <translation type="unfinished">Disabled</translation>
+      <translation>已停用</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="457"/>
       <source>Security</source>
-      <translation type="unfinished">Security</translation>
+      <translation>安全性</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="472"/>
       <source>Security Privileges</source>
-      <translation type="unfinished">Security Privileges</translation>
+      <translation>安全性權限</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="481"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="484"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="487"/>
       <source>Application</source>
-      <translation type="unfinished">Application</translation>
+      <translation>應用程式</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="497"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="500"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="503"/>
       <source>Multiuser</source>
-      <translation type="unfinished">Multiuser</translation>
+      <translation>多使用者</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="516"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="519"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="522"/>
       <source>Simulation</source>
-      <translation type="unfinished">Simulation</translation>
+      <translation>模擬</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="535"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="538"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="541"/>
       <source>Activity</source>
-      <translation type="unfinished">Activity</translation>
+      <translation>活動</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="551"/>
@@ -4501,70 +4501,71 @@ Contact: miwang@cisco.com</translation>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="570"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="573"/>
       <source>User Preferences</source>
-      <translation type="unfinished">User Preferences</translation>
+      <translation>使用者偏好設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="583"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="586"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="589"/>
       <source>File Operations</source>
-      <translation type="unfinished">File Operations</translation>
+      <translation>檔案操作</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="599"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="602"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="605"/>
       <source>Get Network Info</source>
-      <translation type="unfinished">Get Network Info</translation>
+      <translation>獲取網路資訊</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="647"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="650"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="653"/>
       <source>Change Network Info</source>
-      <translation type="unfinished">Change Network Info</translation>
+      <translation>更改網路資訊</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="663"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="666"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="669"/>
       <source>The security privileges are determined by the application. If the requested privileges are not acceptable, please remove the application.</source>
-      <translation type="unfinished">The security privileges are determined by the application. If the requested privileges are not acceptable, please remove the application.</translation>
+      <translation>安全性權限由該應用程式決定。
+如果要求的權限不可接受，請移除該應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="717"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="720"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="723"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="730"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="733"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="736"/>
       <source>Ok</source>
-      <translation type="unfinished">Ok</translation>
+      <translation>確定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="743"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="746"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="749"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>取消</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="88"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="91"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="94"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>編輯</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="211"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="214"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="217"/>
       <source>New</source>
-      <translation type="unfinished">New</translation>
+      <translation>新增</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="263"/>
@@ -4637,14 +4638,14 @@ Contact: miwang@cisco.com</translation>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="618"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="621"/>
       <source>Miscellaneous UI</source>
-      <translation type="unfinished">Miscellaneous UI</translation>
+      <translation>雜項使用者介面</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="631"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="634"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="637"/>
       <source>Change UI</source>
-      <translation type="unfinished">Change UI</translation>
+      <translation>更改使用者介面</translation>
     </message>
   </context>
   <context>
@@ -6475,45 +6476,45 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="71"/>
       <source>Context Help</source>
-      <translation type="unfinished">Context Help</translation>
+      <translation>內容說明</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="107"/>
       <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="117"/>
       <source>ACL Filter Name</source>
-      <translation type="unfinished">ACL Filter Name</translation>
+      <translation>ACL 過濾器名稱</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="107"/>
       <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="117"/>
       <source>Enter a new ACL Filter name.</source>
-      <translation type="unfinished">Enter a new ACL Filter name.</translation>
+      <translation>請輸入新的 ACL 過濾器名稱。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="116"/>
       <source>ACL Filter name cannot be empty.</source>
-      <translation type="unfinished">ACL Filter name cannot be empty.</translation>
+      <translation>ACL 過濾器名稱不能為空白。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="116"/>
       <source>Error -- %1</source>
-      <translation type="unfinished">Error -- %1</translation>
+      <translation>錯誤 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="153"/>
       <source>Please start with either &quot;permit&quot; or &quot;deny&quot;</source>
-      <translation type="unfinished">Please start with either &quot;permit&quot; or &quot;deny&quot;</translation>
+      <translation>開頭請使用 &quot;permit&quot; 或 &quot;deny&quot;</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="167"/>
       <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="202"/>
       <source>Invalid Input.</source>
-      <translation type="unfinished">Invalid Input.</translation>
+      <translation>無效輸入。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="243"/>
       <source>Statement Removed.</source>
-      <translation type="unfinished">Statement Removed.</translation>
+      <translation>指令已移除。</translation>
     </message>
   </context>
   <context>
@@ -13217,92 +13218,92 @@ Port</translation>
     <message>
       <location filename="../gui/AppWindow.cpp" line="969"/>
       <source>Display all opened listening TCP/IP ports used by Packet Tracer.</source>
-      <translation type="unfinished">Display all opened listening TCP/IP ports used by Packet Tracer.</translation>
+      <translation>顯示 Packet Tracer 所使用的所有已開啟接聽 TCP/IP 連接埠。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="975"/>
       <source>Manage multiuser listening server options.</source>
-      <translation type="unfinished">Manage multiuser listening server options.</translation>
+      <translation>管理多使用者監聽伺服器選項。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="980"/>
       <source>Manage virtual device ports made available for multiuser connections.</source>
-      <translation type="unfinished">Manage virtual device ports made available for multiuser connections.</translation>
+      <translation>管理可供多使用者連線使用的虛擬設備連接埠。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="986"/>
       <source>Manage multiuser behavior options.</source>
-      <translation type="unfinished">Manage multiuser behavior options.</translation>
+      <translation>管理多使用者行為選項。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="991"/>
       <source>Create a single offline PKT file from all attached multiuser peers.</source>
-      <translation type="unfinished">Create a single offline PKT file from all attached multiuser peers.</translation>
+      <translation>從所有連接的多使用者對等點建立單一離線 PKT 檔案。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1000"/>
       <source>Manage external applications associated with Packet Tracer.</source>
-      <translation type="unfinished">Manage external applications associated with Packet Tracer.</translation>
+      <translation>管理與 Packet Tracer 關聯的外部應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1004"/>
       <source>View all external applications currently attached to Packet Tracer.</source>
-      <translation type="unfinished">View all external applications currently attached to Packet Tracer.</translation>
+      <translation>查看目前所有連接到 Packet Tracer 的外部應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1010"/>
       <source>Manage Packet Tracer Inter-Process Communication options.</source>
-      <translation type="unfinished">Manage Packet Tracer Inter-Process Communication options.</translation>
+      <translation>管理 Packet Tracer 行程間通訊 (IPC) 選項。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1015"/>
       <source>Display the Packet Tracer Inter-Process Communication logs.</source>
-      <translation type="unfinished">Display the Packet Tracer Inter-Process Communication logs.</translation>
+      <translation>顯示 Packet Tracer 行程間通訊 (IPC) 記錄。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1022"/>
       <source>Manage application wide scripts running within Packet Tracer.</source>
-      <translation type="unfinished">Manage application wide scripts running within Packet Tracer.</translation>
+      <translation>管理在 Packet Tracer 中執行的全域應用程式腳本。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1026"/>
       <source>Create your own application wide script module.</source>
-      <translation type="unfinished">Create your own application wide script module.</translation>
+      <translation>建立您自己的全域應用程式腳本模組。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1030"/>
       <source>Edit the file wide singleton script module that is always running.</source>
-      <translation type="unfinished">Edit the file wide singleton script module that is always running.</translation>
+      <translation>編輯持續執行的單一專案全域腳本模組。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1035"/>
       <source>Manage custom HTML based GUI interfaces for specific device models application wide.</source>
-      <translation type="unfinished">Manage custom HTML based GUI interfaces for specific device models application wide.</translation>
+      <translation>管理全軟體範圍內特定設備型號的自定義 HTML 使用者介面。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1039"/>
       <source>Manage custom HTML based GUI interfaces for specific device models to be applied only to this file.</source>
-      <translation type="unfinished">Manage custom HTML based GUI interfaces for specific device models to be applied only to this file.</translation>
+      <translation>管理僅套用於此檔案之特定設備型號的自定義 HTML 使用者介面。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1092"/>
       <source>Go to simulation mode where the simulation time will freeze and you can control the time and view individual packets as they traverse the network.</source>
-      <translation type="unfinished">Go to simulation mode where the simulation time will freeze and you can control the time and view individual packets as they traverse the network.</translation>
+      <translation>進入模擬模式，在此模式下模擬時間將會凍結，您可以控制時間並查看封包在網路中傳輸的個別狀況。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1097"/>
       <source>Go to realtime mode where the simulation will run at almost real life speed.</source>
-      <translation type="unfinished">Go to realtime mode where the simulation will run at almost real life speed.</translation>
+      <translation>進入即時模式，在此模式下模擬將會以接近現實生活的速度運作。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1102"/>
       <source>View the workspace as a logical representation of the network.</source>
-      <translation type="unfinished">View the workspace as a logical representation of the network.</translation>
+      <translation>將工作區視為網路的邏輯呈現。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1107"/>
       <source>View the workspace with a physical representation of the network.</source>
-      <translation type="unfinished">View the workspace with a physical representation of the network.</translation>
+      <translation>以網路的實體呈現來檢視工作區。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1330"/>
@@ -13423,48 +13424,48 @@ Port</translation>
     <message>
       <location filename="../gui/AppWindow.cpp" line="978"/>
       <source>Port Visibility ...</source>
-      <translation type="unfinished">Port Visibility ...</translation>
+      <translation>連接埠可見性 ...</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="984"/>
       <location filename="../gui/AppWindow.cpp" line="1008"/>
       <source>Options ...</source>
-      <translation type="unfinished">Options ...</translation>
+      <translation>選項 ...</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="989"/>
       <source>Save Offline Copy As ...</source>
-      <translation type="unfinished">Save Offline Copy As ...</translation>
+      <translation>另存離線複本為...</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="998"/>
       <source>Configure Apps ...</source>
-      <translation type="unfinished">Configure Apps ...</translation>
+      <translation>設定應用程式 ...</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1002"/>
       <source>Show Active Apps ...</source>
-      <translation type="unfinished">Show Active Apps ...</translation>
+      <translation>顯示執行中的應用程式 ...</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1013"/>
       <source>Log ...</source>
-      <translation type="unfinished">Log ...</translation>
+      <translation>紀錄 ...</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1029"/>
       <source>Edit File Script Module ...</source>
-      <translation type="unfinished">Edit File Script Module ...</translation>
+      <translation>編輯專案腳本模組 ...</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1034"/>
       <source>Configure Global Custom Interfaces ...</source>
-      <translation type="unfinished">Configure Global Custom Interfaces ...</translation>
+      <translation>設定全域自定義介面 ...</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1038"/>
       <source>Configure File Custom Interfaces ...</source>
-      <translation type="unfinished">Configure File Custom Interfaces ...</translation>
+      <translation>設定專案自定義介面 ...</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1049"/>
@@ -13871,7 +13872,7 @@ Port</translation>
     <message>
       <location filename="../gui/AppWindow.cpp" line="6794"/>
       <source>Exit -- %1</source>
-      <translation type="unfinished">Exit -- %1</translation>
+      <translation>結束 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="7041"/>
@@ -14184,12 +14185,12 @@ Port</translation>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1021"/>
       <source>Configure PT Script Modules ...</source>
-      <translation type="unfinished">Configure PT Script Modules ...</translation>
+      <translation>設定 PT 腳本模組 ...</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1025"/>
       <source>New PT Script Module ...</source>
-      <translation type="unfinished">New PT Script Module ...</translation>
+      <translation>新建 PT 腳本模組 ...</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3100"/>
@@ -14232,7 +14233,7 @@ Port</translation>
     <message>
       <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="724"/>
       <source>Multiuser</source>
-      <translation type="unfinished">Multiuser</translation>
+      <translation>多使用者</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="729"/>
@@ -14242,7 +14243,7 @@ Port</translation>
     <message>
       <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="734"/>
       <source>Scripting</source>
-      <translation type="unfinished">Scripting</translation>
+      <translation>腳本</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="696"/>
@@ -14258,65 +14259,65 @@ Port</translation>
       <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="154"/>
       <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="160"/>
       <source>Logical Mode (Shift+L)</source>
-      <translation type="unfinished">Logical Mode (Shift+L)</translation>
+      <translation>邏輯模式 (Shift+L)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="157"/>
       <source>Logical Mode</source>
-      <translation type="unfinished">Logical Mode</translation>
+      <translation>邏輯模式</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="163"/>
       <source>Logical</source>
-      <translation type="unfinished">Logical</translation>
+      <translation>邏輯</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="182"/>
       <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="188"/>
       <source>Physical Mode (Shift+P)</source>
-      <translation type="unfinished">Physical Mode (Shift+P)</translation>
+      <translation>實體模式 (Shift+P)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="185"/>
       <source>Physical Mode</source>
-      <translation type="unfinished">Physical Mode</translation>
+      <translation>實體模式</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="194"/>
       <source>Physical</source>
-      <translation type="unfinished">Physical</translation>
+      <translation>實體</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="450"/>
       <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="456"/>
       <source>Realtime Mode (Shift+R)</source>
-      <translation type="unfinished">Realtime Mode (Shift+R)</translation>
+      <translation>即時模式 (Shift+R)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="453"/>
       <source>Realtime Mode</source>
-      <translation type="unfinished">Realtime Mode</translation>
+      <translation>即時模式</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="462"/>
       <source>Realtime</source>
-      <translation type="unfinished">Realtime</translation>
+      <translation>即時</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="481"/>
       <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="487"/>
       <source>Simulation Mode (Shift+S)</source>
-      <translation type="unfinished">Simulation Mode (Shift+S)</translation>
+      <translation>模擬模式 (Shift+S)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="484"/>
       <source>Simulation Mode</source>
-      <translation type="unfinished">Simulation Mode</translation>
+      <translation>模擬模式</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="493"/>
       <source>Simulation</source>
-      <translation type="unfinished">Simulation</translation>
+      <translation>模擬</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="607"/>
@@ -14374,7 +14375,7 @@ Port</translation>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="14"/>
       <source>ACL Filters</source>
-      <translation type="unfinished">ACL Filters</translation>
+      <translation>ACL 過濾器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="28"/>
@@ -14384,7 +14385,7 @@ Port</translation>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="35"/>
       <source>ACL Filter</source>
-      <translation type="unfinished">ACL Filter</translation>
+      <translation>ACL 過濾器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="43"/>
@@ -14394,7 +14395,7 @@ Port</translation>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="46"/>
       <source>New</source>
-      <translation type="unfinished">New</translation>
+      <translation>新增</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="56"/>
@@ -14404,7 +14405,7 @@ Port</translation>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="59"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>重新命名</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="66"/>
@@ -14414,14 +14415,14 @@ Port</translation>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="69"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>刪除</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="88"/>
       <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="91"/>
       <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="94"/>
       <source>Enter an extended ACL statement below. Start with &quot;permit&quot; or &quot;deny&quot;. The next available commands will show up in the Context Help text field.</source>
-      <translation type="unfinished">Enter an extended ACL statement below. Start with &quot;permit&quot; or &quot;deny&quot;. The next available commands will show up in the Context Help text field.</translation>
+      <translation>請在下方輸入擴充 ACL 指令。開頭請使用 &quot;permit&quot; 或 &quot;deny&quot;。接下來可用的指令會顯示在「內容說明」文字欄位中。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="106"/>
@@ -14436,12 +14437,12 @@ Port</translation>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="116"/>
       <source>Submit</source>
-      <translation type="unfinished">Submit</translation>
+      <translation>提交</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="131"/>
       <source>Context help</source>
-      <translation type="unfinished">Context help</translation>
+      <translation>內容說明</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="143"/>
@@ -14466,7 +14467,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="170"/>
       <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="173"/>
       <source>Delete Statement</source>
-      <translation type="unfinished">Delete Statement</translation>
+      <translation>刪除指令</translation>
     </message>
   </context>
   <context>
@@ -16393,14 +16394,14 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPMessageDialog.ui" line="19"/>
       <source>Log </source>
-      <translation type="unfinished">Log </translation>
+      <translation>紀錄 </translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPMessageDialog.ui" line="47"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPMessageDialog.ui" line="50"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPMessageDialog.ui" line="53"/>
       <source>IPC Log</source>
-      <translation type="unfinished">IPC Log</translation>
+      <translation>IPC 記錄</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPMessageDialog.ui" line="87"/>
@@ -16420,14 +16421,14 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/IPC/BaseCEPMessageDialog.ui" line="116"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPMessageDialog.ui" line="119"/>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>清除</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPMessageDialog.ui" line="126"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPMessageDialog.ui" line="129"/>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPMessageDialog.ui" line="132"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>關閉</translation>
     </message>
   </context>
   <context>
@@ -16592,7 +16593,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseClusterAssociationsDialog.ui" line="32"/>
       <source>Cluster Associations Dialog</source>
-      <translation type="unfinished">Cluster Associations Dialog</translation>
+      <translation>叢集關聯對話框</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseClusterAssociationsDialog.ui" line="52"/>
@@ -16605,37 +16606,37 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseClusterAssociationsDialog.ui" line="74"/>
       <source>Options</source>
-      <translation type="unfinished">Options</translation>
+      <translation>選項</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseClusterAssociationsDialog.ui" line="80"/>
       <source>Copy Background Images</source>
-      <translation type="unfinished">Copy Background Images</translation>
+      <translation>複製背景圖片</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseClusterAssociationsDialog.ui" line="90"/>
       <source>Copy Cluster Icons</source>
-      <translation type="unfinished">Copy Cluster Icons</translation>
+      <translation>複製叢集圖示</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseClusterAssociationsDialog.ui" line="100"/>
       <source>Create New Container</source>
-      <translation type="unfinished">Create New Container</translation>
+      <translation>建立新容器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseClusterAssociationsDialog.ui" line="110"/>
       <source>Move Devices</source>
-      <translation type="unfinished">Move Devices</translation>
+      <translation>移動設備</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseClusterAssociationsDialog.ui" line="125"/>
       <source>Logical To Physical -&gt;</source>
-      <translation type="unfinished">Logical To Physical -&gt;</translation>
+      <translation>邏輯轉實體 -&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseClusterAssociationsDialog.ui" line="145"/>
       <source>&lt;- Physical To Logical</source>
-      <translation type="unfinished">&lt;- Physical To Logical</translation>
+      <translation>&lt;- 實體轉邏輯</translation>
     </message>
   </context>
   <context>
@@ -17021,13 +17022,13 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="38"/>
       <source>Device Template Manager</source>
-      <translation type="unfinished">Device Template Manager</translation>
+      <translation>設備範本管理員</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="50"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="109"/>
       <source>Select</source>
-      <translation type="unfinished">Select</translation>
+      <translation>選擇</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="62"/>
@@ -17036,169 +17037,169 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="103"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="106"/>
       <source>To create a Template Device, press the &quot;Select&quot; button and then select a device from the workspace.</source>
-      <translation type="unfinished">To create a Template Device, press the &quot;Select&quot; button and then select a device from the workspace.</translation>
+      <translation>若要建立範本設備，請按下「選取」按鈕，然後從工作區中選擇一個設備。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="122"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>編輯</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="133"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="136"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="139"/>
       <source>Template:</source>
-      <translation type="unfinished">Template:</translation>
+      <translation>範本:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="155"/>
       <source>Device Template</source>
-      <translation type="unfinished">Device Template</translation>
+      <translation>設備範本</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="185"/>
       <source>Device Description</source>
-      <translation type="unfinished">Device Description</translation>
+      <translation>設備描述</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="212"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="215"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="218"/>
       <source>WAN Emulation</source>
-      <translation type="unfinished">WAN Emulation</translation>
+      <translation>WAN 模擬</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="225"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="228"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="231"/>
       <source>Wireless Devices</source>
-      <translation type="unfinished">Wireless Devices</translation>
+      <translation>無線設備</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="238"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="241"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="244"/>
       <source>End Devices</source>
-      <translation type="unfinished">End Devices</translation>
+      <translation>終端設備</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="251"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="254"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="257"/>
       <source>Security</source>
-      <translation type="unfinished">Security</translation>
+      <translation>安全性</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="264"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="267"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="270"/>
       <source>Boards</source>
-      <translation type="unfinished">Boards</translation>
+      <translation>控制板</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="277"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="280"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="283"/>
       <source>Home</source>
-      <translation type="unfinished">Home</translation>
+      <translation>居家</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="290"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="293"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="296"/>
       <source>Switches</source>
-      <translation type="unfinished">Switches</translation>
+      <translation>交換器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="303"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="306"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="309"/>
       <source>Smart City</source>
-      <translation type="unfinished">Smart City</translation>
+      <translation>智慧城市</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="316"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="319"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="322"/>
       <source>Routers</source>
-      <translation type="unfinished">Routers</translation>
+      <translation>路由器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="329"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="332"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="335"/>
       <source>Hubs</source>
-      <translation type="unfinished">Hubs</translation>
+      <translation>集線器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="342"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="345"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="348"/>
       <source>Industrial</source>
-      <translation type="unfinished">Industrial</translation>
+      <translation>工業</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="355"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="358"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="361"/>
       <source>Power Grid</source>
-      <translation type="unfinished">Power Grid</translation>
+      <translation>電網</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="368"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="371"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="374"/>
       <source>Sensors</source>
-      <translation type="unfinished">Sensors</translation>
+      <translation>感測器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="381"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="384"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="387"/>
       <source>Actuators</source>
-      <translation type="unfinished">Actuators</translation>
+      <translation>致動器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="394"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="397"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="400"/>
       <source>Miscellaneous</source>
-      <translation type="unfinished">Miscellaneous</translation>
+      <translation>雜項</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="430"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="433"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="436"/>
       <source>Update</source>
-      <translation type="unfinished">Update</translation>
+      <translation>更新</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="443"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="446"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="449"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>移除</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="192"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="195"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="198"/>
       <source>Description:</source>
-      <translation type="unfinished">Description:</translation>
+      <translation>描述:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="456"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="459"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="462"/>
       <source>Add</source>
-      <translation type="unfinished">Add</translation>
+      <translation>新增</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="485"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="488"/>
       <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="491"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>取消</translation>
     </message>
   </context>
   <context>
@@ -19568,7 +19569,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="68"/>
       <location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="71"/>
       <source>X and Y coordinates of mouse</source>
-      <translation type="unfinished">X and Y coordinates of mouse</translation>
+      <translation>滑鼠的 X 與 Y 座標</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="74"/>
@@ -19579,7 +19580,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="118"/>
       <location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="121"/>
       <source>Current Cluster Name</source>
-      <translation type="unfinished">Current Cluster Name</translation>
+      <translation>目前叢集名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="155"/>
@@ -19591,31 +19592,31 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="180"/>
       <location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="183"/>
       <source>Go Back One Level (Alt+Left)</source>
-      <translation type="unfinished">Go Back One Level (Alt+Left)</translation>
+      <translation>回到上一層 (Alt+Left)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="205"/>
       <location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="208"/>
       <source>Create New Cluster (Shift+U)</source>
-      <translation type="unfinished">Create New Cluster (Shift+U)</translation>
+      <translation>建立新叢集 (Shift+U)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="233"/>
       <location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="236"/>
       <source>Move Object(Shift+M)</source>
-      <translation type="unfinished">Move Object(Shift+M)</translation>
+      <translation>移動物件(Shift+M)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="258"/>
       <location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="261"/>
       <source>Set Background Image (Shift+I)</source>
-      <translation type="unfinished">Set Background Image (Shift+I)</translation>
+      <translation>設定背景圖片 (Shift+I)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="283"/>
       <location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="286"/>
       <source>Environment (Shift+E)</source>
-      <translation type="unfinished">Environment (Shift+E)</translation>
+      <translation>環境 (Shift+E)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="289"/>
@@ -19702,30 +19703,30 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="19"/>
       <source>Multiuser Listen</source>
-      <translation type="unfinished">Multiuser Listen</translation>
+      <translation>多使用者監聽</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="27"/>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="29"/>
       <source>Local Listening Address:</source>
-      <translation type="unfinished">Local Listening Address:</translation>
+      <translation>本機監聽位址:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="58"/>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="60"/>
       <source>Port Number</source>
-      <translation type="unfinished">Port Number</translation>
+      <translation>連接埠號</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="72"/>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="74"/>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>密碼</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="120"/>
       <source>Existing Remote Networks</source>
-      <translation type="unfinished">Existing Remote Networks</translation>
+      <translation>現有的遠端網路</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="126"/>
@@ -19733,7 +19734,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="162"/>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="164"/>
       <source>Always Accept</source>
-      <translation type="unfinished">Always Accept</translation>
+      <translation>總是接受</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="133"/>
@@ -19741,7 +19742,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="169"/>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="171"/>
       <source>Always Deny</source>
-      <translation type="unfinished">Always Deny</translation>
+      <translation>總是拒絕</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="140"/>
@@ -19749,30 +19750,30 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="176"/>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="178"/>
       <source>Prompt</source>
-      <translation type="unfinished">Prompt</translation>
+      <translation>提示</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="156"/>
       <source>New Remote Networks</source>
-      <translation type="unfinished">New Remote Networks</translation>
+      <translation>新的遠端網路</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="227"/>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="229"/>
       <source>Start Listening</source>
-      <translation type="unfinished">Start Listening</translation>
+      <translation>開始監聽</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="234"/>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="236"/>
       <source>OK</source>
-      <translation type="unfinished">OK</translation>
+      <translation>確定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="241"/>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="243"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>取消</translation>
     </message>
   </context>
   <context>
@@ -19780,7 +19781,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="21"/>
       <source>Multiuser Options</source>
-      <translation type="unfinished">Multiuser Options</translation>
+      <translation>多使用者選項</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="29"/>
@@ -19792,43 +19793,43 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="41"/>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="43"/>
       <source>Allow Remote Saving</source>
-      <translation type="unfinished">Allow Remote Saving</translation>
+      <translation>允許遠端儲存</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="50"/>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="52"/>
       <source>Depth for Remote Saving:</source>
-      <translation type="unfinished">Depth for Remote Saving:</translation>
+      <translation>遠端儲存深度:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="62"/>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="64"/>
       <source>Always Start Listening When Application Starts</source>
-      <translation type="unfinished">Always Start Listening When Application Starts</translation>
+      <translation>程式啟動時自動開啟接聽</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="69"/>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="71"/>
       <source>Allow Peers to see connected devices and port names</source>
-      <translation type="unfinished">Allow Peers to see connected devices and port names</translation>
+      <translation>允許對等點查看已連接的設備與連接埠名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="91"/>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="93"/>
       <source>OK</source>
-      <translation type="unfinished">OK</translation>
+      <translation>確定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="98"/>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="100"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>取消</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="107"/>
       <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="109"/>
       <source>Forward remote PTMP broadcast messages</source>
-      <translation type="unfinished">Forward remote PTMP broadcast messages</translation>
+      <translation>轉發遠端 PTMP 廣播訊息</translation>
     </message>
   </context>
   <context>
@@ -19836,56 +19837,56 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="22"/>
       <source>IPC Options</source>
-      <translation type="unfinished">IPC Options</translation>
+      <translation>IPC 選項</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="30"/>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="33"/>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="36"/>
       <source>Listen Port Number:</source>
-      <translation type="unfinished">Listen Port Number:</translation>
+      <translation>接聽連接埠號:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="48"/>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="51"/>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="54"/>
       <source>Allow Remote Applications</source>
-      <translation type="unfinished">Allow Remote Applications</translation>
+      <translation>允許遠端應用程式</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="76"/>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="79"/>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="82"/>
       <source>OK</source>
-      <translation type="unfinished">OK</translation>
+      <translation>確定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="89"/>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="92"/>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="95"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>取消</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="106"/>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="109"/>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="112"/>
       <source>Start Listening</source>
-      <translation type="unfinished">Start Listening</translation>
+      <translation>開始監聽</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="119"/>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="122"/>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="125"/>
       <source>Stop Listening</source>
-      <translation type="unfinished">Stop Listening</translation>
+      <translation>停止監聽</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="134"/>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="137"/>
       <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="140"/>
       <source>Always Listen On Start</source>
-      <translation type="unfinished">Always Listen On Start</translation>
+      <translation>啟動時自動接聽</translation>
     </message>
   </context>
   <context>
@@ -20913,19 +20914,19 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Switches/BaseRealtimeToolbar.ui" line="72"/>
       <location filename="../gui/DesignerFiles/Switches/BaseRealtimeToolbar.ui" line="75"/>
       <source>Time</source>
-      <translation type="unfinished">Time</translation>
+      <translation>時間</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseRealtimeToolbar.ui" line="78"/>
       <source>Time: 0:0:00</source>
-      <translation type="unfinished">Time: 0:0:00</translation>
+      <translation>時間: 0:0:00</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseRealtimeToolbar.ui" line="100"/>
       <location filename="../gui/DesignerFiles/Switches/BaseRealtimeToolbar.ui" line="103"/>
       <location filename="../gui/DesignerFiles/Switches/BaseRealtimeToolbar.ui" line="106"/>
       <source>Power Cycle Devices (Alt+S)</source>
-      <translation type="unfinished">Power Cycle Devices (Alt+S)</translation>
+      <translation>設備重啟電源 (Alt+S)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseRealtimeToolbar.ui" line="109"/>
@@ -20937,7 +20938,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Switches/BaseRealtimeToolbar.ui" line="134"/>
       <location filename="../gui/DesignerFiles/Switches/BaseRealtimeToolbar.ui" line="137"/>
       <source>Fast Forward Time (Alt+D)</source>
-      <translation type="unfinished">Fast Forward Time (Alt+D)</translation>
+      <translation>快進時間 (Alt+D)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseRealtimeToolbar.ui" line="140"/>
@@ -22255,7 +22256,7 @@ Setting&lt;/p&gt;</translation>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="461"/>
       <source>Play speed slider</source>
-      <translation type="unfinished">Play speed slider</translation>
+      <translation>播放速度滑桿</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="529"/>
@@ -22265,18 +22266,18 @@ Setting&lt;/p&gt;</translation>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="556"/>
       <source>Edit what types of events to show.</source>
-      <translation type="unfinished">Edit what types of events to show.</translation>
+      <translation>編輯要顯示的事件類型。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="559"/>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="562"/>
       <source>Edit Filters</source>
-      <translation type="unfinished">Edit Filters</translation>
+      <translation>編輯過濾器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="334"/>
       <source>Play Controls</source>
-      <translation type="unfinished">Play Controls</translation>
+      <translation>播放控制</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="265"/>
@@ -22295,7 +22296,7 @@ Setting&lt;/p&gt;</translation>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="183"/>
       <source>Resets the simulation.</source>
-      <translation type="unfinished">Resets the simulation.</translation>
+      <translation>重設模擬。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="221"/>
@@ -22305,12 +22306,12 @@ Setting&lt;/p&gt;</translation>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="368"/>
       <source>Go Back to Previous Event (Alt + B).</source>
-      <translation type="unfinished">Go Back to Previous Event (Alt + B).</translation>
+      <translation>回到上一個事件 (Alt + B)。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="396"/>
       <source>Play (Alt + P)</source>
-      <translation type="unfinished">Play (Alt + P)</translation>
+      <translation>播放 (Alt + P)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="399"/>
@@ -22320,12 +22321,12 @@ Setting&lt;/p&gt;</translation>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="424"/>
       <source>If last event, capture then forward (Alt + C).</source>
-      <translation type="unfinished">If last event, capture then forward (Alt + C).</translation>
+      <translation>若為最後一個事件，則擷取並前進 (Alt + C)。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="519"/>
       <source>Event List Filters - Visible Events</source>
-      <translation type="unfinished">Event List Filters - Visible Events</translation>
+      <translation>事件列表過濾器 - 可見事件</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="584"/>
@@ -22345,7 +22346,7 @@ Setting&lt;/p&gt;</translation>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="458"/>
       <source>Play Speed Slider</source>
-      <translation type="unfinished">Play Speed Slider</translation>
+      <translation>播放速度滑桿</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="80"/>
@@ -22356,7 +22357,7 @@ Setting&lt;/p&gt;</translation>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="83"/>
       <source>Event List</source>
-      <translation type="unfinished">Event List</translation>
+      <translation>事件列表</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="161"/>
@@ -22368,18 +22369,18 @@ Setting&lt;/p&gt;</translation>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="186"/>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="189"/>
       <source>Reset Simulation</source>
-      <translation type="unfinished">Reset Simulation</translation>
+      <translation>重設模擬</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="218"/>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="224"/>
       <source>Constant Delay</source>
-      <translation type="unfinished">Constant Delay</translation>
+      <translation>固定延遲</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="215"/>
       <source>Constant Processing, Transmission, and Propagation Delay</source>
-      <translation type="unfinished">Constant Processing, Transmission, and Propagation Delay</translation>
+      <translation>固定處理、傳輸與傳遞延遲</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="286"/>
@@ -22404,19 +22405,19 @@ Setting&lt;/p&gt;</translation>
       <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="72"/>
       <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="75"/>
       <source>Time</source>
-      <translation type="unfinished">Time</translation>
+      <translation>時間</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="84"/>
       <source>Time: 0:0:00</source>
-      <translation type="unfinished">Time: 0:0:00</translation>
+      <translation>時間: 0:0:00</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="106"/>
       <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="109"/>
       <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="112"/>
       <source>Power Cycle Devices</source>
-      <translation type="unfinished">Power Cycle Devices</translation>
+      <translation>設備重啟電源</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="115"/>
@@ -22428,7 +22429,7 @@ Setting&lt;/p&gt;</translation>
       <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="140"/>
       <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="143"/>
       <source>PLAY CONTROLS:</source>
-      <translation type="unfinished">PLAY CONTROLS:</translation>
+      <translation>播放控制:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="168"/>
@@ -22453,7 +22454,7 @@ Setting&lt;/p&gt;</translation>
       <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="280"/>
       <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="283"/>
       <source>Event List</source>
-      <translation type="unfinished">Event List</translation>
+      <translation>事件列表</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="274"/>
@@ -25043,13 +25044,13 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="146"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="148"/>
       <source>OK</source>
-      <translation type="unfinished">OK</translation>
+      <translation>確定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="159"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="161"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>取消</translation>
     </message>
   </context>
   <context>
@@ -26214,17 +26215,17 @@ Please wait until it is finished.</translation>
     <message>
       <location filename="../gui/Workspace/ClusterAssociationsDialog.cpp" line="63"/>
       <source>Physical Locations</source>
-      <translation type="unfinished">Physical Locations</translation>
+      <translation>實體位置</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/ClusterAssociationsDialog.cpp" line="67"/>
       <source>Logical Clusters</source>
-      <translation type="unfinished">Logical Clusters</translation>
+      <translation>邏輯叢集</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/ClusterAssociationsDialog.cpp" line="220"/>
       <source>Intercity</source>
-      <translation type="unfinished">Intercity</translation>
+      <translation>跨城市</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/ClusterAssociationsDialog.cpp" line="297"/>
@@ -26232,12 +26233,12 @@ Please wait until it is finished.</translation>
       <location filename="../gui/Workspace/ClusterAssociationsDialog.cpp" line="338"/>
       <location filename="../gui/Workspace/ClusterAssociationsDialog.cpp" line="352"/>
       <source>Please select both a logical cluster and a physical container.</source>
-      <translation type="unfinished">Please select both a logical cluster and a physical container.</translation>
+      <translation>請同時選擇一個邏輯叢集與一個實體容器。</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/ClusterAssociationsDialog.cpp" line="369"/>
       <source>Unable to create a generic container in physical object.</source>
-      <translation type="unfinished">Unable to create a generic container in physical object.</translation>
+      <translation>無法在實體物件中建立通用容器。</translation>
     </message>
   </context>
   <context>
@@ -26278,7 +26279,7 @@ Please wait until it is finished.</translation>
     <message>
       <location filename="../gui/scripting/CConfigCustomInterfaces.cpp" line="106"/>
       <source>Network</source>
-      <translation type="unfinished">Network</translation>
+      <translation>網路</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CConfigCustomInterfaces.cpp" line="237"/>
@@ -26290,17 +26291,17 @@ Please wait until it is finished.</translation>
     <message>
       <location filename="../gui/scripting/CConfigCustomInterfaces.cpp" line="259"/>
       <source>Use Global Config</source>
-      <translation type="unfinished">Use Global Config</translation>
+      <translation>使用全域配置</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CConfigCustomInterfaces.cpp" line="297"/>
       <source>Use New Devices Config</source>
-      <translation type="unfinished">Use New Devices Config</translation>
+      <translation>使用新設備配置</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CConfigCustomInterfaces.cpp" line="332"/>
       <source>File</source>
-      <translation type="unfinished">File</translation>
+      <translation>檔案</translation>
     </message>
   </context>
   <context>
@@ -27225,7 +27226,7 @@ Publisher Certificate Information:
       <location filename="../gui/NetworkComponentBox/DeviceSpecificBox.cpp" line="81"/>
       <location filename="../gui/NetworkComponentBox/DeviceSpecificBox.cpp" line="586"/>
       <source> (Select a Device to Drag and Drop to the Workspace) </source>
-      <translation type="unfinished"> (Select a Device to Drag and Drop to the Workspace) </translation>
+      <translation> (選取設備並拖放至工作區) </translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceSpecificBox.cpp" line="244"/>
@@ -27243,7 +27244,7 @@ Publisher Certificate Information:
       <location filename="../gui/NetworkComponentBox/DeviceSpecificBox.cpp" line="406"/>
       <location filename="../gui/NetworkComponentBox/DeviceSpecificBox.cpp" line="417"/>
       <source>Remote Network</source>
-      <translation type="unfinished">Remote Network</translation>
+      <translation>遠端網路</translation>
     </message>
   </context>
   <context>
@@ -27599,7 +27600,7 @@ stamp</translation>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="474"/>
       <source>(These devices are only available in Physical View)</source>
-      <translation type="unfinished">(These devices are only available in Physical View)</translation>
+      <translation>(這些設備僅在實體檢視模式中可用)</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="503"/>
@@ -27609,107 +27610,107 @@ stamp</translation>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="532"/>
       <source>[Network Devices]</source>
-      <translation type="unfinished">[Network Devices]</translation>
+      <translation>[網路設備]</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="534"/>
       <source>[Components]</source>
-      <translation type="unfinished">[Components]</translation>
+      <translation>[組件]</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="536"/>
       <source>[Routers]</source>
-      <translation type="unfinished">[Routers]</translation>
+      <translation>[路由器]</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="538"/>
       <source>[Switches]</source>
-      <translation type="unfinished">[Switches]</translation>
+      <translation>[交換器]</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="540"/>
       <source>[Hubs]</source>
-      <translation type="unfinished">[Hubs]</translation>
+      <translation>[集線器]</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="542"/>
       <source>[Wireless Devices]</source>
-      <translation type="unfinished">[Wireless Devices]</translation>
+      <translation>[無線設備]</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="544"/>
       <source>[Boards]</source>
-      <translation type="unfinished">[Boards]</translation>
+      <translation>[控制板]</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="546"/>
       <source>[Connections]</source>
-      <translation type="unfinished">[Connections]</translation>
+      <translation>[連線]</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="548"/>
       <source>[End Devices]</source>
-      <translation type="unfinished">[End Devices]</translation>
+      <translation>[終端設備]</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="550"/>
       <source>[Security]</source>
-      <translation type="unfinished">[Security]</translation>
+      <translation>[安全]</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="552"/>
       <source>[WAN Emulation]</source>
-      <translation type="unfinished">[WAN Emulation]</translation>
+      <translation>[WAN 模擬]</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="554"/>
       <source>[Multiuser Connection]</source>
-      <translation type="unfinished">[Multiuser Connection]</translation>
+      <translation>[多使用者連線]</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="556"/>
       <source>[Custom Made Devices]</source>
-      <translation type="unfinished">[Custom Made Devices]</translation>
+      <translation>[自定義設備]</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="558"/>
       <source>[Home]</source>
-      <translation type="unfinished">[Home]</translation>
+      <translation>[居家]</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="560"/>
       <source>[Smart City]</source>
-      <translation type="unfinished">[Smart City]</translation>
+      <translation>[智慧城市]</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="562"/>
       <source>[Industrial]</source>
-      <translation type="unfinished">[Industrial]</translation>
+      <translation>[工業]</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="564"/>
       <source>[Power Grid]</source>
-      <translation type="unfinished">[Power Grid]</translation>
+      <translation>[電網]</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="566"/>
       <source>[Actuators]</source>
-      <translation type="unfinished">[Actuators]</translation>
+      <translation>[致動器]</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="568"/>
       <source>[Sensors]</source>
-      <translation type="unfinished">[Sensors]</translation>
+      <translation>[感測器]</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="570"/>
       <source>[Miscellaneous]</source>
-      <translation type="unfinished">[Miscellaneous]</translation>
+      <translation>[雜項]</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="572"/>
       <source>[Structured Cabling]</source>
-      <translation type="unfinished">[Structured Cabling]</translation>
+      <translation>[結構化佈線]</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="157"/>
@@ -28418,17 +28419,17 @@ and all previous settings will be erased.</translation>
     <message>
       <location filename="../gui/Common/FilterMenu.cpp" line="531"/>
       <source>None.</source>
-      <translation type="unfinished">None.</translation>
+      <translation>無。</translation>
     </message>
     <message>
       <location filename="../gui/Common/FilterMenu.cpp" line="64"/>
       <source>Edit ACL Filters</source>
-      <translation type="unfinished">Edit ACL Filters</translation>
+      <translation>編輯 ACL 過濾器</translation>
     </message>
     <message>
       <location filename="../gui/Common/FilterMenu.cpp" line="494"/>
       <source>Show All</source>
-      <translation type="unfinished">Show All</translation>
+      <translation>顯示全部</translation>
     </message>
   </context>
   <context>
@@ -32584,17 +32585,17 @@ reset activity?</source>
     <message>
       <location filename="../gui/switches/LogicalToolbar.cpp" line="92"/>
       <source>Root</source>
-      <translation type="unfinished">Root</translation>
+      <translation>根層級</translation>
     </message>
     <message>
       <location filename="../gui/switches/LogicalToolbar.cpp" line="206"/>
       <source>Duplicate cluster names are not allowed.</source>
-      <translation type="unfinished">Duplicate cluster names are not allowed.</translation>
+      <translation>不允許重複的叢集名稱。</translation>
     </message>
     <message>
       <location filename="../gui/switches/LogicalToolbar.cpp" line="206"/>
       <source>Ok</source>
-      <translation type="unfinished">Ok</translation>
+      <translation>確定</translation>
     </message>
     <message>
       <location filename="../gui/switches/LogicalToolbar.cpp" line="349"/>
@@ -32657,13 +32658,13 @@ reset activity?</source>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4133"/>
       <source>Confirm Delete -- %1</source>
-      <translation type="unfinished">Confirm Delete -- %1</translation>
+      <translation>確認刪除 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4171"/>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4173"/>
       <source>Confirm Delete</source>
-      <translation type="unfinished">Confirm Delete</translation>
+      <translation>確認刪除</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4171"/>
@@ -32679,12 +32680,12 @@ reset activity?</source>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="8623"/>
       <source>Yes</source>
-      <translation type="unfinished">Yes</translation>
+      <translation>是</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="8623"/>
       <source>No</source>
-      <translation type="unfinished">No</translation>
+      <translation>否</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4906"/>
@@ -32702,18 +32703,18 @@ reset activity?</source>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4128"/>
       <source>Do you want to delete %1?</source>
-      <translation type="unfinished">Do you want to delete %1?</translation>
+      <translation>您確定要刪除 %1 嗎?</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4133"/>
       <source>&amp;Delete</source>
-      <translation type="unfinished">&amp;Delete</translation>
+      <translation>刪除(&amp;D)</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4906"/>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="9200"/>
       <source>Cluster Info</source>
-      <translation type="unfinished">Cluster Info</translation>
+      <translation>叢集資訊</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4927"/>
@@ -32736,7 +32737,7 @@ reset activity?</source>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="5647"/>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="5659"/>
       <source>Ok</source>
-      <translation type="unfinished">Ok</translation>
+      <translation>確定</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="5591"/>
@@ -32772,7 +32773,7 @@ reset activity?</source>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4117"/>
       <source>Do you want to delete the %1 selected items?</source>
-      <translation type="unfinished">Do you want to delete the %1 selected items?</translation>
+      <translation>您確定要刪除這 %1 個選定的項目嗎?</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4129"/>
@@ -32814,25 +32815,25 @@ reset activity?</source>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="9200"/>
       <source>Select Component(s) to cluster.</source>
-      <translation type="unfinished">Select Component(s) to cluster.</translation>
+      <translation>選擇要加入叢集的元件。</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4171"/>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4173"/>
       <source>&amp;Uncluster</source>
-      <translation type="unfinished">&amp;Uncluster</translation>
+      <translation>解散叢集(&amp;U)</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4171"/>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4173"/>
       <source>&amp;Delete Cluster</source>
-      <translation type="unfinished">&amp;Delete Cluster</translation>
+      <translation>刪除叢集(&amp;D)</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4133"/>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4173"/>
       <source>&amp;Cancel</source>
-      <translation type="unfinished">&amp;Cancel</translation>
+      <translation>取消(&amp;C)</translation>
     </message>
   </context>
   <context>
@@ -33136,37 +33137,37 @@ reset activity?</source>
     <message>
       <location filename="../gui/Multiuser/MultiUserListenDlg.cpp" line="87"/>
       <source>Stop Listening</source>
-      <translation type="unfinished">Stop Listening</translation>
+      <translation>停止監聽</translation>
     </message>
     <message>
       <location filename="../gui/Multiuser/MultiUserListenDlg.cpp" line="150"/>
       <source>This password can be used as a default password for all incoming devices</source>
-      <translation type="unfinished">This password can be used as a default password for all incoming devices</translation>
+      <translation>此密碼可用作所有連入設備的預設密碼</translation>
     </message>
     <message>
       <location filename="../gui/Multiuser/MultiUserListenDlg.cpp" line="179"/>
       <source>Invalid Port Number</source>
-      <translation type="unfinished">Invalid Port Number</translation>
+      <translation>無效連接埠號</translation>
     </message>
     <message>
       <location filename="../gui/Multiuser/MultiUserListenDlg.cpp" line="179"/>
       <source>The Port Number you entered is incorrect!</source>
-      <translation type="unfinished">The Port Number you entered is incorrect!</translation>
+      <translation>您輸入的連接埠號不正確!</translation>
     </message>
     <message>
       <location filename="../gui/Multiuser/MultiUserListenDlg.cpp" line="209"/>
       <source>Multi User Listening</source>
-      <translation type="unfinished">Multi User Listening</translation>
+      <translation>多使用者監聽</translation>
     </message>
     <message>
       <location filename="../gui/Multiuser/MultiUserListenDlg.cpp" line="209"/>
       <source> cannot listen on this port for incoming peer connections.</source>
-      <translation type="unfinished"> cannot listen on this port for incoming peer connections.</translation>
+      <translation> 無法在此連接埠接聽傳入的對等連線。</translation>
     </message>
     <message>
       <location filename="../gui/Multiuser/MultiUserListenDlg.cpp" line="142"/>
       <source>Start Listening</source>
-      <translation type="unfinished">Start Listening</translation>
+      <translation>開始監聽</translation>
     </message>
   </context>
   <context>
@@ -40908,47 +40909,47 @@ Would you like to use the new version?</translation>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="105"/>
       <source>Simulation Panel</source>
-      <translation type="unfinished">Simulation Panel</translation>
+      <translation>模擬面板</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="155"/>
       <source>Vis.</source>
-      <translation type="unfinished">Vis.</translation>
+      <translation>可見性.</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="155"/>
       <source>Time(sec)</source>
-      <translation type="unfinished">Time(sec)</translation>
+      <translation>時間(秒)</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="155"/>
       <source>Last Device</source>
-      <translation type="unfinished">Last Device</translation>
+      <translation>上一個設備</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="155"/>
       <source>At Device</source>
-      <translation type="unfinished">At Device</translation>
+      <translation>目前設備</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="155"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>類型</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="264"/>
       <source>Go Back to Previous Event (Option + B).</source>
-      <translation type="unfinished">Go Back to Previous Event (Option + B).</translation>
+      <translation>回到上一個事件 (Option + B)。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="265"/>
       <source>If last event, capture then forward (Option + C).</source>
-      <translation type="unfinished">If last event, capture then forward (Option + C).</translation>
+      <translation>若為最後一個事件，則擷取並前進 (Option + C)。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="266"/>
       <source>Play (Option + P)</source>
-      <translation type="unfinished">Play (Option + P)</translation>
+      <translation>播放 (Option + P)</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="421"/>
@@ -40958,7 +40959,7 @@ Would you like to use the new version?</translation>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="431"/>
       <source>Event List </source>
-      <translation type="unfinished">Event List </translation>
+      <translation>事件列表 </translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="432"/>
@@ -40973,7 +40974,7 @@ Would you like to use the new version?</translation>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="925"/>
       <source>Reset Network? -- %1</source>
-      <translation type="unfinished">Reset Network? -- %1</translation>
+      <translation>要重設網路嗎? -- %1</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="683"/>
@@ -41022,38 +41023,38 @@ View Previous Events</translation>
       <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="926"/>
       <source>Configurations not in the startup configuration will be lost.
 Reset the network?</source>
-      <translation type="unfinished">Configurations not in the startup configuration will be lost.
-Reset the network?</translation>
+      <translation>未儲存在啟動設定(startup-config)中的組態將會遺失。
+確定要重設網路嗎?</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="927"/>
       <source>Yes</source>
-      <translation type="unfinished">Yes</translation>
+      <translation>是</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="927"/>
       <source>No</source>
-      <translation type="unfinished">No</translation>
+      <translation>否</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="1286"/>
       <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="1324"/>
       <source>Captured to:
  (no captures)</source>
-      <translation type="unfinished">Captured to:
- (no captures)</translation>
+      <translation>已擷取至:
+ (無擷取事件)</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="1303"/>
       <source>Capturing... </source>
-      <translation type="unfinished">Capturing... </translation>
+      <translation>正在擷取... </translation>
     </message>
     <message>
       <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="1333"/>
       <source>Captured to:
  %1 s</source>
-      <translation type="unfinished">Captured to:
- %1 s</translation>
+      <translation>已擷取至:
+ %1 秒</translation>
     </message>
   </context>
   <context>
@@ -41061,92 +41062,92 @@ Reset the network?</translation>
     <message>
       <location filename="../gui/switches/SimulationToolbar.cpp" line="152"/>
       <source>Power Cycle Devices (Option+S)</source>
-      <translation type="unfinished">Power Cycle Devices (Option+S)</translation>
+      <translation>設備重啟電源 (Option+S)</translation>
     </message>
     <message>
       <location filename="../gui/switches/SimulationToolbar.cpp" line="153"/>
       <source>Go Back to Previous Event (Option+B)</source>
-      <translation type="unfinished">Go Back to Previous Event (Option+B)</translation>
+      <translation>回到上一個事件 (Option+B)</translation>
     </message>
     <message>
       <location filename="../gui/switches/SimulationToolbar.cpp" line="154"/>
       <source>Play (Hands Free) (Option+P)</source>
-      <translation type="unfinished">Play (Hands Free) (Option+P)</translation>
+      <translation>自動播放 (Option+P)</translation>
     </message>
     <message>
       <location filename="../gui/switches/SimulationToolbar.cpp" line="155"/>
       <source>Capture then Forward (Option+C)</source>
-      <translation type="unfinished">Capture then Forward (Option+C)</translation>
+      <translation>擷取並前進 (Option+C)</translation>
     </message>
     <message>
       <location filename="../gui/switches/SimulationToolbar.cpp" line="156"/>
       <source>Show Event List (Option+I)</source>
-      <translation type="unfinished">Show Event List (Option+I)</translation>
+      <translation>顯示事件列表 (Option+I)</translation>
     </message>
     <message>
       <location filename="../gui/switches/SimulationToolbar.cpp" line="158"/>
       <source>Power Cycle Devices (Alt+S)</source>
-      <translation type="unfinished">Power Cycle Devices (Alt+S)</translation>
+      <translation>設備重啟電源 (Alt+S)</translation>
     </message>
     <message>
       <location filename="../gui/switches/SimulationToolbar.cpp" line="159"/>
       <source>Go Back to Previous Event (Alt+B)</source>
-      <translation type="unfinished">Go Back to Previous Event (Alt+B)</translation>
+      <translation>回到上一個事件 (Alt+B)</translation>
     </message>
     <message>
       <location filename="../gui/switches/SimulationToolbar.cpp" line="160"/>
       <source>Play (Hands Free) (Alt+P)</source>
-      <translation type="unfinished">Play (Hands Free) (Alt+P)</translation>
+      <translation>自動播放 (Alt+P)</translation>
     </message>
     <message>
       <location filename="../gui/switches/SimulationToolbar.cpp" line="161"/>
       <source>Capture then Forward (Alt+C)</source>
-      <translation type="unfinished">Capture then Forward (Alt+C)</translation>
+      <translation>擷取並前進 (Alt+C)</translation>
     </message>
     <message>
       <location filename="../gui/switches/SimulationToolbar.cpp" line="162"/>
       <source>Show Event List (Alt+I)</source>
-      <translation type="unfinished">Show Event List (Alt+I)</translation>
+      <translation>顯示事件列表 (Alt+I)</translation>
     </message>
     <message>
       <location filename="../gui/switches/SimulationToolbar.cpp" line="167"/>
       <source>Time</source>
-      <translation type="unfinished">Time</translation>
+      <translation>時間</translation>
     </message>
     <message>
       <location filename="../gui/switches/SimulationToolbar.cpp" line="168"/>
       <source>Power Cycle Devices</source>
-      <translation type="unfinished">Power Cycle Devices</translation>
+      <translation>設備重啟電源</translation>
     </message>
     <message>
       <location filename="../gui/switches/SimulationToolbar.cpp" line="169"/>
       <source>Play Controls</source>
-      <translation type="unfinished">Play Controls</translation>
+      <translation>播放控制</translation>
     </message>
     <message>
       <location filename="../gui/switches/SimulationToolbar.cpp" line="170"/>
       <source>Go Back to Previous Events</source>
-      <translation type="unfinished">Go Back to Previous Events</translation>
+      <translation>回到上一個事件</translation>
     </message>
     <message>
       <location filename="../gui/switches/SimulationToolbar.cpp" line="171"/>
       <source>Play</source>
-      <translation type="unfinished">Play</translation>
+      <translation>播放</translation>
     </message>
     <message>
       <location filename="../gui/switches/SimulationToolbar.cpp" line="172"/>
       <source>Capture the Forward</source>
-      <translation type="unfinished">Capture the Forward</translation>
+      <translation>擷取並前進</translation>
     </message>
     <message>
       <location filename="../gui/switches/SimulationToolbar.cpp" line="173"/>
       <source>Show Event List</source>
-      <translation type="unfinished">Show Event List</translation>
+      <translation>顯示事件列表</translation>
     </message>
     <message>
       <location filename="../gui/switches/SimulationToolbar.cpp" line="228"/>
       <source>Time: %1</source>
-      <translation type="unfinished">Time: %1</translation>
+      <translation>時間: %1</translation>
     </message>
   </context>
   <context>
@@ -41167,7 +41168,7 @@ Reset the network?</translation>
     <message>
       <location filename="../gui/DesignerFiles/Sniffer/Sniffer.ui" line="68"/>
       <source>Event List Filters - Visible Events</source>
-      <translation type="unfinished">Event List Filters - Visible Events</translation>
+      <translation>事件列表過濾器 - 可見事件</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Sniffer/Sniffer.ui" line="74"/>
@@ -41179,13 +41180,13 @@ Reset the network?</translation>
       <location filename="../gui/DesignerFiles/Sniffer/Sniffer.ui" line="92"/>
       <location filename="../gui/DesignerFiles/Sniffer/Sniffer.ui" line="94"/>
       <source>Edit Filters</source>
-      <translation type="unfinished">Edit Filters</translation>
+      <translation>編輯過濾器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Sniffer/Sniffer.ui" line="105"/>
       <location filename="../gui/DesignerFiles/Sniffer/Sniffer.ui" line="107"/>
       <source>Show All/None</source>
-      <translation type="unfinished">Show All/None</translation>
+      <translation>全選 / 全不選</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Sniffer/Sniffer.ui" line="119"/>
@@ -56774,18 +56775,18 @@ End the expression with: &quot;)</translation>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="549"/>
       <source>Add Device</source>
-      <translation type="unfinished">Add Device</translation>
+      <translation>新增設備</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="563"/>
       <source>Add</source>
-      <translation type="unfinished">Add</translation>
+      <translation>新增</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="564"/>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="994"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>關閉</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="715"/>
@@ -56843,7 +56844,7 @@ End the expression with: &quot;)</translation>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="970"/>
       <source>Add Link</source>
-      <translation type="unfinished">Add Link</translation>
+      <translation>新增連線</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="976"/>
@@ -56853,7 +56854,7 @@ End the expression with: &quot;)</translation>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="993"/>
       <source>Connect</source>
-      <translation type="unfinished">Connect</translation>
+      <translation>連接</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="1006"/>
@@ -56893,22 +56894,22 @@ End the expression with: &quot;)</translation>
       <location filename="../gui/Workspace/WorkspaceMiniView.cpp" line="49"/>
       <location filename="../gui/Workspace/WorkspaceMiniView.cpp" line="70"/>
       <source>Viewport</source>
-      <translation type="unfinished">Viewport</translation>
+      <translation>視圖</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/WorkspaceMiniView.cpp" line="77"/>
       <source>Contents</source>
-      <translation type="unfinished">Contents</translation>
+      <translation>內容</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/WorkspaceMiniView.cpp" line="78"/>
       <source>Workspace</source>
-      <translation type="unfinished">Workspace</translation>
+      <translation>工作區</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/WorkspaceMiniView.cpp" line="79"/>
       <source>Back</source>
-      <translation type="unfinished">Back</translation>
+      <translation>返回</translation>
     </message>
   </context>
   <context>
@@ -59442,7 +59443,7 @@ You can select multiple tags by selecting/unselecting individual table cells.</t
     <message>
       <location filename="../gui/DesignerFiles/scripting/ConfigCustomInterfaces.ui" line="13"/>
       <source>Configure Custom Interfaces</source>
-      <translation type="unfinished">Configure Custom Interfaces</translation>
+      <translation>設定自定義介面</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ConfigCustomInterfaces.ui" line="23"/>
@@ -59554,28 +59555,28 @@ You can select multiple tags by selecting/unselecting individual table cells.</t
     <message>
       <location filename="../gui/DesignerFiles/DevicePortTreeView.ui" line="14"/>
       <source>Port Visibility</source>
-      <translation type="unfinished">Port Visibility</translation>
+      <translation>連接埠可見性</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/DevicePortTreeView.ui" line="35"/>
       <location filename="../gui/DesignerFiles/DevicePortTreeView.ui" line="38"/>
       <location filename="../gui/DesignerFiles/DevicePortTreeView.ui" line="41"/>
       <source>Network Devices and Ports</source>
-      <translation type="unfinished">Network Devices and Ports</translation>
+      <translation>網路設備與連接埠</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/DevicePortTreeView.ui" line="94"/>
       <location filename="../gui/DesignerFiles/DevicePortTreeView.ui" line="97"/>
       <location filename="../gui/DesignerFiles/DevicePortTreeView.ui" line="100"/>
       <source>OK</source>
-      <translation type="unfinished">OK</translation>
+      <translation>確定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/DevicePortTreeView.ui" line="107"/>
       <location filename="../gui/DesignerFiles/DevicePortTreeView.ui" line="110"/>
       <location filename="../gui/DesignerFiles/DevicePortTreeView.ui" line="113"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>取消</translation>
     </message>
   </context>
   <context>
@@ -60588,22 +60589,22 @@ Do you want to save your changes?</translation>
     <message>
       <location filename="../gui/DesignerFiles/PortMonitor/PortMonitor.ui" line="20"/>
       <source>Port Monitor</source>
-      <translation type="unfinished">Port Monitor</translation>
+      <translation>連接埠監視器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PortMonitor/PortMonitor.ui" line="26"/>
       <source>Device, Project &amp; CPU</source>
-      <translation type="unfinished">Device, Project &amp; CPU</translation>
+      <translation>設備, 專案 &amp; CPU</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PortMonitor/PortMonitor.ui" line="48"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>描述</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PortMonitor/PortMonitor.ui" line="53"/>
       <source>Port</source>
-      <translation type="unfinished">Port</translation>
+      <translation>連接埠</translation>
     </message>
   </context>
   <context>
@@ -60697,27 +60698,27 @@ Do you want to save your changes?</translation>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="20"/>
       <source>Script Project Manager</source>
-      <translation type="unfinished">Script Project Manager</translation>
+      <translation>腳本專案管理員</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="30"/>
       <source>Network</source>
-      <translation type="unfinished">Network</translation>
+      <translation>網路</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="36"/>
       <source>Device, Project &amp; CPU</source>
-      <translation type="unfinished">Device, Project &amp; CPU</translation>
+      <translation>設備, 專案 &amp; CPU</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="58"/>
       <source>Device</source>
-      <translation type="unfinished">Device</translation>
+      <translation>設備</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="63"/>
       <source>Project</source>
-      <translation type="unfinished">Project</translation>
+      <translation>專案</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="68"/>
@@ -60727,34 +60728,34 @@ Do you want to save your changes?</translation>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="91"/>
       <source>Export</source>
-      <translation type="unfinished">Export</translation>
+      <translation>匯出</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="98"/>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="101"/>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="104"/>
       <source>Stop</source>
-      <translation type="unfinished">Stop</translation>
+      <translation>停止</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="114"/>
       <source>Global</source>
-      <translation type="unfinished">Global</translation>
+      <translation>全域</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="120"/>
       <source>Script Project List</source>
-      <translation type="unfinished">Script Project List</translation>
+      <translation>腳本專案列表</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="132"/>
       <source>Name &amp; ID</source>
-      <translation type="unfinished">Name &amp; ID</translation>
+      <translation>名稱 &amp; ID</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="142"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="147"/>
@@ -60764,32 +60765,32 @@ Do you want to save your changes?</translation>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="157"/>
       <source>Add</source>
-      <translation type="unfinished">Add</translation>
+      <translation>新增</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="164"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>移除</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="180"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>描述</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="200"/>
       <source>Settings</source>
-      <translation type="unfinished">Settings</translation>
+      <translation>設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="206"/>
       <source>Auto Install</source>
-      <translation type="unfinished">Auto Install</translation>
+      <translation>自動安裝</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="212"/>
       <source>This app will automatically install on these devices.</source>
-      <translation type="unfinished">This app will automatically install on these devices.</translation>
+      <translation>此應用程式將會自動安裝在這些設備上。</translation>
     </message>
   </context>
   <context>
@@ -62431,59 +62432,59 @@ The typical sequence in creating a script module is as follows:</translation>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/WorkspaceList.ui" line="14"/>
       <source>Workspace List</source>
-      <translation type="unfinished">Workspace List</translation>
+      <translation>工作區列表</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/WorkspaceList.ui" line="26"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/WorkspaceList.ui" line="39"/>
       <source>Devices</source>
-      <translation type="unfinished">Devices</translation>
+      <translation>設備</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/WorkspaceList.ui" line="97"/>
       <source>Add Device</source>
-      <translation type="unfinished">Add Device</translation>
+      <translation>新增設備</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/WorkspaceList.ui" line="104"/>
       <source>Remove Device</source>
-      <translation type="unfinished">Remove Device</translation>
+      <translation>移除設備</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/WorkspaceList.ui" line="111"/>
       <source>Show Parent Cluster</source>
-      <translation type="unfinished">Show Parent Cluster</translation>
+      <translation>顯示父層級叢集</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/WorkspaceList.ui" line="129"/>
       <source>Device slots</source>
-      <translation type="unfinished">Device slots</translation>
+      <translation>設備插槽</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/WorkspaceList.ui" line="145"/>
       <source>Use left or right arrow keys to navigate between device slots.</source>
-      <translation type="unfinished">Use left or right arrow keys to navigate between device slots.</translation>
+      <translation>使用向左或向右方向鍵在設備插槽之間切換。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/WorkspaceList.ui" line="148"/>
       <source>* Use left or right arrow keys to navigate between device slots.  Hit spacebar to open device slot combobox.</source>
-      <translation type="unfinished">* Use left or right arrow keys to navigate between device slots.  Hit spacebar to open device slot combobox.</translation>
+      <translation>* 使用向左或向右方向鍵在設備插槽之間切換。  按空白鍵開啟設備插槽下拉式選單。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/WorkspaceList.ui" line="164"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/WorkspaceList.ui" line="174"/>
       <source>Links</source>
-      <translation type="unfinished">Links</translation>
+      <translation>連線</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/WorkspaceList.ui" line="225"/>
       <source>Add Link</source>
-      <translation type="unfinished">Add Link</translation>
+      <translation>新增連線</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/WorkspaceList.ui" line="232"/>
       <source>Remove Link</source>
-      <translation type="unfinished">Remove Link</translation>
+      <translation>移除連線</translation>
     </message>
   </context>
   <context>
