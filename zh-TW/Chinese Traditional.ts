@@ -14475,166 +14475,166 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="20"/>
       <source>Setup</source>
-      <translation type="unfinished">Setup</translation>
+      <translation>設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2696"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2699"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2705"/>
       <source>Save Settings</source>
-      <translation type="unfinished">Save Settings</translation>
+      <translation>儲存設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2721"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2724"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2730"/>
       <source>Cancel Changes</source>
-      <translation type="unfinished">Cancel Changes</translation>
+      <translation>取消變更</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="739"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="742"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="745"/>
       <source>Access Policy:</source>
-      <translation type="unfinished">Access Policy:</translation>
+      <translation>存取原則：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="898"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="901"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="904"/>
       <source>Edit List</source>
-      <translation type="unfinished">Edit List</translation>
+      <translation>編輯清單</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="798"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="801"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="804"/>
       <source>Enter Policy Name:</source>
-      <translation type="unfinished">Enter Policy Name:</translation>
+      <translation>輸入原則名稱：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="323"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="326"/>
       <source>Internet Setup</source>
-      <translation type="unfinished">Internet Setup</translation>
+      <translation>網際網路設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="363"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="366"/>
       <source>Applied PCs</source>
-      <translation type="unfinished">Applied PCs</translation>
+      <translation>套用的 PC</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="400"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="403"/>
       <source>Access Restriction</source>
-      <translation type="unfinished">Access Restriction</translation>
+      <translation>存取限制</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="437"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="440"/>
       <source>Schedule</source>
-      <translation type="unfinished">Schedule</translation>
+      <translation>排程</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="474"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="477"/>
       <source>Website Blocking by URL Address</source>
-      <translation type="unfinished">Website Blocking by URL Address</translation>
+      <translation>依 URL 位址封鎖網站</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="511"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="514"/>
       <source>Website Blocking by Keyword</source>
-      <translation type="unfinished">Website Blocking by Keyword</translation>
+      <translation>依關鍵字封鎖網站</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="548"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="551"/>
       <source>Blocked Applications</source>
-      <translation type="unfinished">Blocked Applications</translation>
+      <translation>封鎖的應用程式</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="675"/>
       <source>These settings are not available in this connection mode.</source>
-      <translation type="unfinished">These settings are not available in this connection mode.</translation>
+      <translation>此連線模式下無法使用這些設定。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="818"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="821"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="824"/>
       <source>Status:</source>
-      <translation type="unfinished">Status:</translation>
+      <translation>狀態：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1028"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1031"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1034"/>
       <source>Days:</source>
-      <translation type="unfinished">Days:</translation>
+      <translation>天數：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1046"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1049"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1052"/>
       <source>EveryDay</source>
-      <translation type="unfinished">EveryDay</translation>
+      <translation>每天</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1065"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1068"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1167"/>
       <source>Sun</source>
-      <translation type="unfinished">Sun</translation>
+      <translation>週日</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1071"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1081"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1084"/>
       <source>Mon</source>
-      <translation type="unfinished">Mon</translation>
+      <translation>週一</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1087"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1097"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1100"/>
       <source>Tue</source>
-      <translation type="unfinished">Tue</translation>
+      <translation>週二</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1103"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1113"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1116"/>
       <source>Wed</source>
-      <translation type="unfinished">Wed</translation>
+      <translation>週三</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1119"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1129"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1132"/>
       <source>Thu</source>
-      <translation type="unfinished">Thu</translation>
+      <translation>週四</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1135"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1145"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1148"/>
       <source>Fri</source>
-      <translation type="unfinished">Fri</translation>
+      <translation>週五</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1151"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1161"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1164"/>
       <source>Sat</source>
-      <translation type="unfinished">Sat</translation>
+      <translation>週六</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1180"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1183"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1186"/>
       <source>Times:</source>
-      <translation type="unfinished">Times:</translation>
+      <translation>時間：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1322"/>
@@ -14644,7 +14644,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1785"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1788"/>
       <source>:</source>
-      <translation type="unfinished">:</translation>
+      <translation>:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1199"/>
@@ -14652,7 +14652,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1659"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1799"/>
       <source>00</source>
-      <translation type="unfinished">00</translation>
+      <translation>00</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1642"/>
@@ -14662,159 +14662,159 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2475"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2478"/>
       <source>to</source>
-      <translation type="unfinished">to</translation>
+      <translation>至</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2115"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2118"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2121"/>
       <source>URL 1:</source>
-      <translation type="unfinished">URL 1:</translation>
+      <translation>URL 1：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2135"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2138"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2141"/>
       <source>URL 3:</source>
-      <translation type="unfinished">URL 3:</translation>
+      <translation>URL 3：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2155"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2158"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2161"/>
       <source>URL 2:</source>
-      <translation type="unfinished">URL 2:</translation>
+      <translation>URL 2：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2175"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2178"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2181"/>
       <source>URL 4:</source>
-      <translation type="unfinished">URL 4:</translation>
+      <translation>URL 4：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2206"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2209"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2212"/>
       <source>Keyword 1:</source>
-      <translation type="unfinished">Keyword 1:</translation>
+      <translation>關鍵字 1：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2246"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2249"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2252"/>
       <source>Keyword 2:</source>
-      <translation type="unfinished">Keyword 2:</translation>
+      <translation>關鍵字 2：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2911"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2914"/>
       <source>Help...</source>
-      <translation type="unfinished">Help...</translation>
+      <translation>說明...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2226"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2229"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2232"/>
       <source>Keyword 3:</source>
-      <translation type="unfinished">Keyword 3:</translation>
+      <translation>關鍵字 3：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2266"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2269"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2272"/>
       <source>Keyword 4:</source>
-      <translation type="unfinished">Keyword 4:</translation>
+      <translation>關鍵字 4：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2297"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2300"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2303"/>
       <source>Note:</source>
-      <translation type="unfinished">Note:</translation>
+      <translation>附註：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2316"/>
       <source>only three applications can be blocked per
 policy.</source>
-      <translation type="unfinished">only three applications can be blocked per
-policy.</translation>
+      <translation>每個原則最多只能封鎖
+三個應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2330"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2333"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2336"/>
       <source>Applications</source>
-      <translation type="unfinished">Applications</translation>
+      <translation>應用程式</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2406"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2409"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2412"/>
       <source>Blocked List</source>
-      <translation type="unfinished">Blocked List</translation>
+      <translation>封鎖清單</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2369"/>
       <source>&gt;&gt;</source>
-      <translation type="unfinished">&gt;&gt;</translation>
+      <translation>&gt;&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="332"/>
       <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Internet Setup&lt;/b&gt;&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Internet Setup&lt;/b&gt;&lt;/p&gt;</translation>
+      <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;網際網路設定&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="369"/>
       <source>&lt;p align=&quot;right&quot;&gt;Applied PCs&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p align=&quot;right&quot;&gt;Applied PCs&lt;/p&gt;</translation>
+      <translation>&lt;p align=&quot;right&quot;&gt;套用的 PC&lt;/p&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="406"/>
       <source>&lt;p align=&quot;right&quot;&gt;Access Restriction&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p align=&quot;right&quot;&gt;Access Restriction&lt;/p&gt;</translation>
+      <translation>&lt;p align=&quot;right&quot;&gt;存取限制&lt;/p&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="443"/>
       <source>&lt;p align=&quot;right&quot;&gt;Schedule&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p align=&quot;right&quot;&gt;Schedule&lt;/p&gt;</translation>
+      <translation>&lt;p align=&quot;right&quot;&gt;排程&lt;/p&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="480"/>
       <source>&lt;p align=&quot;right&quot;&gt;Website Blocking by URL Address&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p align=&quot;right&quot;&gt;Website Blocking by URL Address&lt;/p&gt;</translation>
+      <translation>&lt;p align=&quot;right&quot;&gt;依 URL 位址封鎖網站&lt;/p&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="517"/>
       <source>&lt;p align=&quot;right&quot;&gt;Website Blocking by Keyword&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p align=&quot;right&quot;&gt;Website Blocking by Keyword&lt;/p&gt;</translation>
+      <translation>&lt;p align=&quot;right&quot;&gt;依關鍵字封鎖網站&lt;/p&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="554"/>
       <source>&lt;p align=&quot;right&quot;&gt;Blocked Applications&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p align=&quot;right&quot;&gt;Blocked Applications&lt;/p&gt;</translation>
+      <translation>&lt;p align=&quot;right&quot;&gt;封鎖的應用程式&lt;/p&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="911"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="914"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="917"/>
       <source>(This Policy applies only to PCs on the List.)</source>
-      <translation type="unfinished">(This Policy applies only to PCs on the List.)</translation>
+      <translation>（此原則僅適用於清單中的 PC。）</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="973"/>
       <source>Always</source>
-      <translation type="unfinished">Always</translation>
+      <translation>永遠</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="992"/>
       <source>Never</source>
-      <translation type="unfinished">Never</translation>
+      <translation>永不</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="999"/>
       <source>Specific Time</source>
-      <translation type="unfinished">Specific Time</translation>
+      <translation>特定時間</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1204"/>
@@ -14822,7 +14822,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1664"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1804"/>
       <source>01</source>
-      <translation type="unfinished">01</translation>
+      <translation>01</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1209"/>
@@ -14830,7 +14830,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1669"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1809"/>
       <source>02</source>
-      <translation type="unfinished">02</translation>
+      <translation>02</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1214"/>
@@ -14838,7 +14838,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1674"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1814"/>
       <source>03</source>
-      <translation type="unfinished">03</translation>
+      <translation>03</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1219"/>
@@ -14846,7 +14846,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1679"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1819"/>
       <source>04</source>
-      <translation type="unfinished">04</translation>
+      <translation>04</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1224"/>
@@ -14854,7 +14854,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1684"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1824"/>
       <source>05</source>
-      <translation type="unfinished">05</translation>
+      <translation>05</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1229"/>
@@ -14862,7 +14862,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1689"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1829"/>
       <source>06</source>
-      <translation type="unfinished">06</translation>
+      <translation>06</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1234"/>
@@ -14870,7 +14870,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1694"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1834"/>
       <source>07</source>
-      <translation type="unfinished">07</translation>
+      <translation>07</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1239"/>
@@ -14878,7 +14878,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1699"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1839"/>
       <source>08</source>
-      <translation type="unfinished">08</translation>
+      <translation>08</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1244"/>
@@ -14886,7 +14886,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1704"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1844"/>
       <source>09</source>
-      <translation type="unfinished">09</translation>
+      <translation>09</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1249"/>
@@ -14894,7 +14894,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1709"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1849"/>
       <source>10</source>
-      <translation type="unfinished">10</translation>
+      <translation>10</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1254"/>
@@ -14902,7 +14902,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1714"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1854"/>
       <source>11</source>
-      <translation type="unfinished">11</translation>
+      <translation>11</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1259"/>
@@ -14910,7 +14910,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1719"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1859"/>
       <source>12</source>
-      <translation type="unfinished">12</translation>
+      <translation>12</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1264"/>
@@ -14918,7 +14918,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1724"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1864"/>
       <source>13</source>
-      <translation type="unfinished">13</translation>
+      <translation>13</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1269"/>
@@ -14926,7 +14926,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1729"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1869"/>
       <source>14</source>
-      <translation type="unfinished">14</translation>
+      <translation>14</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1274"/>
@@ -14934,7 +14934,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1734"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1874"/>
       <source>15</source>
-      <translation type="unfinished">15</translation>
+      <translation>15</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1279"/>
@@ -14942,7 +14942,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1739"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1879"/>
       <source>16</source>
-      <translation type="unfinished">16</translation>
+      <translation>16</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1284"/>
@@ -14950,7 +14950,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1744"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1884"/>
       <source>17</source>
-      <translation type="unfinished">17</translation>
+      <translation>17</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1289"/>
@@ -14958,7 +14958,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1749"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1889"/>
       <source>18</source>
-      <translation type="unfinished">18</translation>
+      <translation>18</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1294"/>
@@ -14966,7 +14966,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1754"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1894"/>
       <source>19</source>
-      <translation type="unfinished">19</translation>
+      <translation>19</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1299"/>
@@ -14974,7 +14974,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1759"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1899"/>
       <source>20</source>
-      <translation type="unfinished">20</translation>
+      <translation>20</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1304"/>
@@ -14982,7 +14982,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1764"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1904"/>
       <source>21</source>
-      <translation type="unfinished">21</translation>
+      <translation>21</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1309"/>
@@ -14990,7 +14990,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1769"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1909"/>
       <source>22</source>
-      <translation type="unfinished">22</translation>
+      <translation>22</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1314"/>
@@ -14998,255 +14998,255 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1774"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1914"/>
       <source>23</source>
-      <translation type="unfinished">23</translation>
+      <translation>23</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1459"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1919"/>
       <source>24</source>
-      <translation type="unfinished">24</translation>
+      <translation>24</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1464"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1924"/>
       <source>25</source>
-      <translation type="unfinished">25</translation>
+      <translation>25</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1469"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1929"/>
       <source>26</source>
-      <translation type="unfinished">26</translation>
+      <translation>26</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1474"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1934"/>
       <source>27</source>
-      <translation type="unfinished">27</translation>
+      <translation>27</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1479"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1939"/>
       <source>28</source>
-      <translation type="unfinished">28</translation>
+      <translation>28</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1484"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1944"/>
       <source>29</source>
-      <translation type="unfinished">29</translation>
+      <translation>29</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1489"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1949"/>
       <source>30</source>
-      <translation type="unfinished">30</translation>
+      <translation>30</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1494"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1954"/>
       <source>31</source>
-      <translation type="unfinished">31</translation>
+      <translation>31</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1499"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1959"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1504"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1964"/>
       <source>33</source>
-      <translation type="unfinished">33</translation>
+      <translation>33</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1509"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1969"/>
       <source>34</source>
-      <translation type="unfinished">34</translation>
+      <translation>34</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1514"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1974"/>
       <source>35</source>
-      <translation type="unfinished">35</translation>
+      <translation>35</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1519"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1979"/>
       <source>36</source>
-      <translation type="unfinished">36</translation>
+      <translation>36</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1524"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1984"/>
       <source>37</source>
-      <translation type="unfinished">37</translation>
+      <translation>37</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1529"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1989"/>
       <source>38</source>
-      <translation type="unfinished">38</translation>
+      <translation>38</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1534"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1994"/>
       <source>39</source>
-      <translation type="unfinished">39</translation>
+      <translation>39</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1539"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1999"/>
       <source>40</source>
-      <translation type="unfinished">40</translation>
+      <translation>40</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1544"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2004"/>
       <source>41</source>
-      <translation type="unfinished">41</translation>
+      <translation>41</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1549"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2009"/>
       <source>42</source>
-      <translation type="unfinished">42</translation>
+      <translation>42</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1554"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2014"/>
       <source>43</source>
-      <translation type="unfinished">43</translation>
+      <translation>43</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1559"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2019"/>
       <source>44</source>
-      <translation type="unfinished">44</translation>
+      <translation>44</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1564"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2024"/>
       <source>45</source>
-      <translation type="unfinished">45</translation>
+      <translation>45</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1569"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2029"/>
       <source>46</source>
-      <translation type="unfinished">46</translation>
+      <translation>46</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1574"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2034"/>
       <source>47</source>
-      <translation type="unfinished">47</translation>
+      <translation>47</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1579"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2039"/>
       <source>48</source>
-      <translation type="unfinished">48</translation>
+      <translation>48</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1584"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2044"/>
       <source>49</source>
-      <translation type="unfinished">49</translation>
+      <translation>49</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1589"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2049"/>
       <source>50</source>
-      <translation type="unfinished">50</translation>
+      <translation>50</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1594"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2054"/>
       <source>51</source>
-      <translation type="unfinished">51</translation>
+      <translation>51</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1599"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2059"/>
       <source>52</source>
-      <translation type="unfinished">52</translation>
+      <translation>52</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1604"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2064"/>
       <source>53</source>
-      <translation type="unfinished">53</translation>
+      <translation>53</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1609"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2069"/>
       <source>54</source>
-      <translation type="unfinished">54</translation>
+      <translation>54</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1614"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2074"/>
       <source>55</source>
-      <translation type="unfinished">55</translation>
+      <translation>55</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1619"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2079"/>
       <source>56</source>
-      <translation type="unfinished">56</translation>
+      <translation>56</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1624"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2084"/>
       <source>57</source>
-      <translation type="unfinished">57</translation>
+      <translation>57</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1629"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2089"/>
       <source>58</source>
-      <translation type="unfinished">58</translation>
+      <translation>58</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1634"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2094"/>
       <source>59</source>
-      <translation type="unfinished">59</translation>
+      <translation>59</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2310"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2313"/>
       <source>only three applications can be blocked per policy.</source>
-      <translation type="unfinished">only three applications can be blocked per policy.</translation>
+      <translation>每個原則最多只能封鎖三個應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2382"/>
       <source>&lt;&lt;</source>
-      <translation type="unfinished">&lt;&lt;</translation>
+      <translation>&lt;&lt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2428"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2431"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2434"/>
       <source>Application Name</source>
-      <translation type="unfinished">Application Name</translation>
+      <translation>應用程式名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2452"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2455"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2458"/>
       <source>Port Range</source>
-      <translation type="unfinished">Port Range</translation>
+      <translation>連接埠範圍</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2496"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2499"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2502"/>
       <source>Protocol</source>
-      <translation type="unfinished">Protocol</translation>
+      <translation>通訊協定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2523"/>
@@ -15260,7 +15260,7 @@ policy.</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2542"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2545"/>
       <source>Modify</source>
-      <translation type="unfinished">Modify</translation>
+      <translation>修改</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2555"/>
@@ -15276,32 +15276,32 @@ policy.</translation>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;說明...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="781"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="784"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="787"/>
       <source>Summary</source>
-      <translation type="unfinished">Summary</translation>
+      <translation>摘要</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="765"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="768"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="771"/>
       <source>Delete This Entry</source>
-      <translation type="unfinished">Delete This Entry</translation>
+      <translation>刪除此項目</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="852"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="855"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="858"/>
       <source>Enabled</source>
-      <translation type="unfinished">Enabled</translation>
+      <translation>已啟用</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="865"/>
@@ -15314,13 +15314,13 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="967"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="970"/>
       <source>Deny</source>
-      <translation type="unfinished">Deny</translation>
+      <translation>拒絕</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="986"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="989"/>
       <source>Allow</source>
-      <translation type="unfinished">Allow</translation>
+      <translation>允許</translation>
     </message>
   </context>
   <context>
