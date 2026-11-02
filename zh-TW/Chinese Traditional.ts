@@ -14205,7 +14205,7 @@ Port</translation>
     <message>
       <location filename="../gui/AppWindow.cpp" line="5086"/>
       <source>Please use the Scripting page of Activity Wizard to edit an activity file&apos;s script module. Select Advanced profile in the Welcome page of Activity Wizard to enable the Scripting page.</source>
-      <translation>請使用 Activity Wizard 的「Scripting」頁面編輯活動檔案的指令碼模組。在 Activity Wizard 的歡迎頁面選擇「Advanced」設定檔即可啟用「Scripting」頁面。</translation>
+      <translation>請使用 Activity Wizard 的「指令碼」頁面編輯活動檔案的指令碼模組。在 Activity Wizard 的歡迎頁面選擇「Advanced」設定檔即可啟用「指令碼」頁面。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="5095"/>
