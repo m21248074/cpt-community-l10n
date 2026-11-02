@@ -53665,346 +53665,346 @@ If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask valu
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2271"/>
       <source>The receiving port is in either BLOCKING or LISTENING state. The device does not learn the source MAC address of the frame.</source>
-      <translation type="unfinished">The receiving port is in either BLOCKING or LISTENING state. The device does not learn the source MAC address of the frame.</translation>
+      <translation>接收連接埠處於 BLOCKING 或 LISTENING 狀態。裝置不學習訊框的來源 MAC 位址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2320"/>
       <source>PPPoE Connected.</source>
-      <translation type="unfinished">PPPoE Connected.</translation>
+      <translation>PPPoE 已連線。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2321"/>
       <source>PPPoE Disconnected.</source>
-      <translation type="unfinished">PPPoE Disconnected.</translation>
+      <translation>PPPoE 已中斷連線。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2322"/>
       <source>Port is not connected.</source>
-      <translation type="unfinished">Port is not connected.</translation>
+      <translation>連接埠未連線。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2323"/>
       <source>Connection time out!</source>
-      <translation type="unfinished">Connection time out!</translation>
+      <translation>連線逾時！</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2467"/>
       <source>The FTP client starts a write session with the FTP server.</source>
-      <translation type="unfinished">The FTP client starts a write session with the FTP server.</translation>
+      <translation>FTP 用戶端與 FTP 伺服器開始寫入工作階段。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2468"/>
       <source>The FTP client starts a read session with the FTP server.</source>
-      <translation type="unfinished">The FTP client starts a read session with the FTP server.</translation>
+      <translation>FTP 用戶端與 FTP 伺服器開始讀取工作階段。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2470"/>
       <location filename="../gui/CTranslationDB.cpp" line="2511"/>
       <source>The device sends an FTP data packet.</source>
-      <translation type="unfinished">The device sends an FTP data packet.</translation>
+      <translation>裝置傳送 FTP 資料封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2471"/>
       <location filename="../gui/CTranslationDB.cpp" line="2512"/>
       <source>The device receives an FTP data packet.</source>
-      <translation type="unfinished">The device receives an FTP data packet.</translation>
+      <translation>裝置收到 FTP 資料封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2473"/>
       <source>The device sends an FTP command packet.</source>
-      <translation type="unfinished">The device sends an FTP command packet.</translation>
+      <translation>裝置傳送 FTP 命令封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2474"/>
       <source>The device receives an FTP command packet.</source>
-      <translation type="unfinished">The device receives an FTP command packet.</translation>
+      <translation>裝置收到 FTP 命令封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2475"/>
       <source>The FTP client sends the username to the FTP server.</source>
-      <translation type="unfinished">The FTP client sends the username to the FTP server.</translation>
+      <translation>FTP 用戶端將使用者名稱傳送給 FTP 伺服器。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2476"/>
       <source>The FTP client sends the password to the FTP server.</source>
-      <translation type="unfinished">The FTP client sends the password to the FTP server.</translation>
+      <translation>FTP 用戶端將密碼傳送給 FTP 伺服器。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2477"/>
       <source>The FTP client sends the type command to the FTP server. The type is set to binary by default</source>
-      <translation type="unfinished">The FTP client sends the type command to the FTP server. The type is set to binary by default</translation>
+      <translation>FTP 用戶端對 FTP 伺服器傳送 type 命令。類型預設設為二進位</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2478"/>
       <source>The FTP client sends the passive command to the FTP server.</source>
-      <translation type="unfinished">The FTP client sends the passive command to the FTP server.</translation>
+      <translation>FTP 用戶端對 FTP 伺服器傳送 passive 命令。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2480"/>
       <source>The FTP client sends the retrieve file command to the FTP server.</source>
-      <translation type="unfinished">The FTP client sends the retrieve file command to the FTP server.</translation>
+      <translation>FTP 用戶端對 FTP 伺服器傳送擷取檔案命令。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2481"/>
       <source>The FTP client sends the store file command to the FTP server.</source>
-      <translation type="unfinished">The FTP client sends the store file command to the FTP server.</translation>
+      <translation>FTP 用戶端對 FTP 伺服器傳送儲存檔案命令。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2482"/>
       <source>The FTP client sends the list directory command to the FTP server.</source>
-      <translation type="unfinished">The FTP client sends the list directory command to the FTP server.</translation>
+      <translation>FTP 用戶端對 FTP 伺服器傳送列出目錄命令。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2483"/>
       <source>The FTP client sends the quit command to the FTP server.</source>
-      <translation type="unfinished">The FTP client sends the quit command to the FTP server.</translation>
+      <translation>FTP 用戶端對 FTP 伺服器傳送 quit 命令。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2484"/>
       <source>The FTP client sends the rename from command to the FTP server.</source>
-      <translation type="unfinished">The FTP client sends the rename from command to the FTP server.</translation>
+      <translation>FTP 用戶端對 FTP 伺服器傳送 rename from 命令。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2485"/>
       <source>The FTP client sends the rename to command to the FTP server.</source>
-      <translation type="unfinished">The FTP client sends the rename to command to the FTP server.</translation>
+      <translation>FTP 用戶端對 FTP 伺服器傳送 rename to 命令。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2486"/>
       <source>The FTP client sends the delete command to the FTP server.</source>
-      <translation type="unfinished">The FTP client sends the delete command to the FTP server.</translation>
+      <translation>FTP 用戶端對 FTP 伺服器傳送刪除命令。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2487"/>
       <source>The FTP client sends the cwd command to the FTP server to change the current working directory.</source>
-      <translation type="unfinished">The FTP client sends the cwd command to the FTP server to change the current working directory.</translation>
+      <translation>FTP 用戶端對 FTP 伺服器傳送 cwd 命令，以變更目前的工作目錄。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2488"/>
       <source>The FTP client sends the pwd command to the FTP server to know the present working directory.</source>
-      <translation type="unfinished">The FTP client sends the pwd command to the FTP server to know the present working directory.</translation>
+      <translation>FTP 用戶端對 FTP 伺服器傳送 pwd 命令，以得知目前的工作目錄。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2490"/>
       <source>The FTP client receives a welcome message from the FTP server.</source>
-      <translation type="unfinished">The FTP client receives a welcome message from the FTP server.</translation>
+      <translation>FTP 用戶端收到 FTP 伺服器的歡迎訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2491"/>
       <source>The FTP client receives the response for the username. Username is valid.</source>
-      <translation type="unfinished">The FTP client receives the response for the username. Username is valid.</translation>
+      <translation>FTP 用戶端收到使用者名稱的回應。使用者名稱有效。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2492"/>
       <source>The FTP client receives the response for the password. Password is valid.</source>
-      <translation type="unfinished">The FTP client receives the response for the password. Password is valid.</translation>
+      <translation>FTP 用戶端收到密碼的回應。密碼有效。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2494"/>
       <source>The FTP client receives the response for passive command from the FTP server. The server listens on passive port, waiting for the client to connect and start data transfer.</source>
-      <translation type="unfinished">The FTP client receives the response for passive command from the FTP server. The server listens on passive port, waiting for the client to connect and start data transfer.</translation>
+      <translation>FTP 用戶端收到 FTP 伺服器對 passive 命令的回應。伺服器在被動連接埠上接聽，等待用戶端連線並開始資料傳輸。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2495"/>
       <source>The FTP client receives the response for RETR command confirming that it is ready to send the file.</source>
-      <translation type="unfinished">The FTP client receives the response for RETR command confirming that it is ready to send the file.</translation>
+      <translation>FTP 用戶端收到 RETR 命令的回應，確認伺服器已準備好傳送檔案。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2497"/>
       <source>The FTP client receives the response for LIST command confirming that it is ready to send the directory listing.</source>
-      <translation type="unfinished">The FTP client receives the response for LIST command confirming that it is ready to send the directory listing.</translation>
+      <translation>FTP 用戶端收到 LIST 命令的回應，確認伺服器已準備好傳送目錄清單。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2498"/>
       <source>The FTP client receives the response for QUIT command confirming that the server is willing to logout the current FTP session.</source>
-      <translation type="unfinished">The FTP client receives the response for QUIT command confirming that the server is willing to logout the current FTP session.</translation>
+      <translation>FTP 用戶端收到 QUIT 命令的回應，確認伺服器願意登出目前的 FTP 工作階段。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2499"/>
       <source>The FTP client receives the response for RENFR command from the FTP server. The file exists and FTP server waits for the corresponding RNTO command to complete the rename.</source>
-      <translation type="unfinished">The FTP client receives the response for RENFR command from the FTP server. The file exists and FTP server waits for the corresponding RNTO command to complete the rename.</translation>
+      <translation>FTP 用戶端收到 FTP 伺服器對 RENFR 命令的回應。檔案存在，FTP 伺服器等待對應的 RNTO 命令以完成重新命名。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2500"/>
       <source>The FTP client receives the response for RNTO command confirming that the FTP server successfully renamed the file.</source>
-      <translation type="unfinished">The FTP client receives the response for RNTO command confirming that the FTP server successfully renamed the file.</translation>
+      <translation>FTP 用戶端收到 RNTO 命令的回應，確認 FTP 伺服器已成功重新命名檔案。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2501"/>
       <source>The FTP client receives the response for DELE command confirming that the FTP server has successfully deleted the file.</source>
-      <translation type="unfinished">The FTP client receives the response for DELE command confirming that the FTP server has successfully deleted the file.</translation>
+      <translation>FTP 用戶端收到 DELE 命令的回應，確認 FTP 伺服器已成功刪除檔案。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2502"/>
       <source>The FTP client receives the response from the FTP server indicating that the user does not have permission or the file does not exist in the server.</source>
-      <translation type="unfinished">The FTP client receives the response from the FTP server indicating that the user does not have permission or the file does not exist in the server.</translation>
+      <translation>FTP 用戶端收到 FTP 伺服器的回應，指出使用者沒有權限，或檔案不存在於伺服器中。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2503"/>
       <source>The FTP client receives the response from FTP server indicating that the client failed in establishing a FTP data connection</source>
-      <translation type="unfinished">The FTP client receives the response from FTP server indicating that the client failed in establishing a FTP data connection</translation>
+      <translation>FTP 用戶端收到 FTP 伺服器的回應，指出用戶端建立 FTP 資料連線失敗</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2504"/>
       <source>The FTP client receives the response from FTP server that user account does not exist.</source>
-      <translation type="unfinished">The FTP client receives the response from FTP server that user account does not exist.</translation>
+      <translation>FTP 用戶端收到 FTP 伺服器的回應，指出使用者帳戶不存在。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2505"/>
       <source>The FTP client receives response from the FTP server that the data transfer went successfully</source>
-      <translation type="unfinished">The FTP client receives response from the FTP server that the data transfer went successfully</translation>
+      <translation>FTP 用戶端收到 FTP 伺服器的回應，指出資料傳輸成功</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2506"/>
       <source>The FTP client receives the response for cwd command from the FTP server.</source>
-      <translation type="unfinished">The FTP client receives the response for cwd command from the FTP server.</translation>
+      <translation>FTP 用戶端收到 FTP 伺服器對 cwd 命令的回應。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2507"/>
       <source>The FTP client receives the response for pwd command from the FTP server.</source>
-      <translation type="unfinished">The FTP client receives the response for pwd command from the FTP server.</translation>
+      <translation>FTP 用戶端收到 FTP 伺服器對 pwd 命令的回應。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2509"/>
       <source>CFTPSERVERPROCESS_FC_UNKNOWN_FTP_PACKET</source>
-      <translation type="unfinished">CFTPSERVERPROCESS_FC_UNKNOWN_FTP_PACKET</translation>
+      <translation>CFTPSERVERPROCESS_FC_UNKNOWN_FTP_PACKET</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2515"/>
       <source>The FTP server receives the username from the FTP client.</source>
-      <translation type="unfinished">The FTP server receives the username from the FTP client.</translation>
+      <translation>FTP 伺服器收到 FTP 用戶端的使用者名稱。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2516"/>
       <source>The FTP server receives the password from the FTP client.</source>
-      <translation type="unfinished">The FTP server receives the password from the FTP client.</translation>
+      <translation>FTP 伺服器收到 FTP 用戶端的密碼。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2517"/>
       <source>The FTP server receives the type command from the FTP client.</source>
-      <translation type="unfinished">The FTP server receives the type command from the FTP client.</translation>
+      <translation>FTP 伺服器收到 FTP 用戶端的 type 命令。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2518"/>
       <source>The FTP server receives the passive command from the FTP client.</source>
-      <translation type="unfinished">The FTP server receives the passive command from the FTP client.</translation>
+      <translation>FTP 伺服器收到 FTP 用戶端的 passive 命令。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2520"/>
       <source>The FTP server receives the retrieve file command from the FTP client.</source>
-      <translation type="unfinished">The FTP server receives the retrieve file command from the FTP client.</translation>
+      <translation>FTP 伺服器收到 FTP 用戶端的擷取檔案命令。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2521"/>
       <source>The FTP server receives the store file command from the FTP client.</source>
-      <translation type="unfinished">The FTP server receives the store file command from the FTP client.</translation>
+      <translation>FTP 伺服器收到 FTP 用戶端的儲存檔案命令。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2522"/>
       <source>The FTP server receives the list directory command from the FTP client.</source>
-      <translation type="unfinished">The FTP server receives the list directory command from the FTP client.</translation>
+      <translation>FTP 伺服器收到 FTP 用戶端的列出目錄命令。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2523"/>
       <source>The FTP server receives the quit command from the FTP client.</source>
-      <translation type="unfinished">The FTP server receives the quit command from the FTP client.</translation>
+      <translation>FTP 伺服器收到 FTP 用戶端的 quit 命令。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2524"/>
       <source>The FTP server receives the rename from command from the FTP client.</source>
-      <translation type="unfinished">The FTP server receives the rename from command from the FTP client.</translation>
+      <translation>FTP 伺服器收到 FTP 用戶端的 rename from 命令。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2525"/>
       <source>The FTP server receives the rename to command from the FTP client.</source>
-      <translation type="unfinished">The FTP server receives the rename to command from the FTP client.</translation>
+      <translation>FTP 伺服器收到 FTP 用戶端的 rename to 命令。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2526"/>
       <source>The FTP server receives the delete command from the FTP client.</source>
-      <translation type="unfinished">The FTP server receives the delete command from the FTP client.</translation>
+      <translation>FTP 伺服器收到 FTP 用戶端的刪除命令。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2531"/>
       <source>The FTP server sends a welcome message to the FTP client.</source>
-      <translation type="unfinished">The FTP server sends a welcome message to the FTP client.</translation>
+      <translation>FTP 伺服器對 FTP 用戶端傳送歡迎訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2532"/>
       <source>The FTP server sends the response for the username command to the FTP client.</source>
-      <translation type="unfinished">The FTP server sends the response for the username command to the FTP client.</translation>
+      <translation>FTP 伺服器對 FTP 用戶端傳送使用者名稱命令的回應。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2533"/>
       <source>The FTP server sends the response for the password command to the FTP client.</source>
-      <translation type="unfinished">The FTP server sends the response for the password command to the FTP client.</translation>
+      <translation>FTP 伺服器對 FTP 用戶端傳送密碼命令的回應。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2535"/>
       <source>The FTP server sends the response for passive command to the FTP client. The server listens on passive port, waiting for the client to connect and start data transfer.</source>
-      <translation type="unfinished">The FTP server sends the response for passive command to the FTP client. The server listens on passive port, waiting for the client to connect and start data transfer.</translation>
+      <translation>FTP 伺服器對 FTP 用戶端傳送 passive 命令的回應。伺服器在被動連接埠上接聽，等待用戶端連線並開始資料傳輸。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2537"/>
       <source>The FTP server sends the response for RETR command confirming that it is ready to send the file.</source>
-      <translation type="unfinished">The FTP server sends the response for RETR command confirming that it is ready to send the file.</translation>
+      <translation>FTP 伺服器傳送 RETR 命令的回應，確認已準備好傳送檔案。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2539"/>
       <source>The FTP server sends the response for LIST command confirming that it is ready to send the directory listing.</source>
-      <translation type="unfinished">The FTP server sends the response for LIST command confirming that it is ready to send the directory listing.</translation>
+      <translation>FTP 伺服器傳送 LIST 命令的回應，確認已準備好傳送目錄清單。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2540"/>
       <source>The FTP server sends the response for QUIT command confirming that it is logging out the current FTP client session.</source>
-      <translation type="unfinished">The FTP server sends the response for QUIT command confirming that it is logging out the current FTP client session.</translation>
+      <translation>FTP 伺服器傳送 QUIT 命令的回應，確認正在登出目前的 FTP 用戶端工作階段。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2541"/>
       <source>The FTP server sends the response for RENFR command from the FTP client. 
 The FTP server checks whether the file exists and waits for the corresponding RNTO command from the FTP client to complete the rename operation.</source>
-      <translation type="unfinished">The FTP server sends the response for RENFR command from the FTP client. 
-The FTP server checks whether the file exists and waits for the corresponding RNTO command from the FTP client to complete the rename operation.</translation>
+      <translation>FTP 伺服器傳送 FTP 用戶端 RENFR 命令的回應。
+FTP 伺服器檢查檔案是否存在，並等待 FTP 用戶端對應的 RNTO 命令以完成重新命名操作。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2542"/>
       <source>The FTP server sends the response for RNTO command confirming that it successfully renamed the file.</source>
-      <translation type="unfinished">The FTP server sends the response for RNTO command confirming that it successfully renamed the file.</translation>
+      <translation>FTP 伺服器傳送 RNTO 命令的回應，確認已成功重新命名檔案。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2543"/>
       <source>The FTP server sends the response for DELE command confirming that it has successfully deleted the file.</source>
-      <translation type="unfinished">The FTP server sends the response for DELE command confirming that it has successfully deleted the file.</translation>
+      <translation>FTP 伺服器傳送 DELE 命令的回應，確認已成功刪除檔案。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2544"/>
       <source>The FTP server sends the response indicating that the user does not have permission or the file does not exist.</source>
-      <translation type="unfinished">The FTP server sends the response indicating that the user does not have permission or the file does not exist.</translation>
+      <translation>FTP 伺服器傳送回應，指出使用者沒有權限，或檔案不存在。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2545"/>
       <source>The FTP server sends the response indicating that the client failed in establishing a FTP data connection</source>
-      <translation type="unfinished">The FTP server sends the response indicating that the client failed in establishing a FTP data connection</translation>
+      <translation>FTP 伺服器傳送回應，指出用戶端建立 FTP 資料連線失敗</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2546"/>
       <source>The FTP server sends the response that user account does not exist.</source>
-      <translation type="unfinished">The FTP server sends the response that user account does not exist.</translation>
+      <translation>FTP 伺服器傳送回應，指出使用者帳戶不存在。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2547"/>
       <source>The FTP server sends response that the data transfer went successfully</source>
-      <translation type="unfinished">The FTP server sends response that the data transfer went successfully</translation>
+      <translation>FTP 伺服器傳送回應，指出資料傳輸成功</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2624"/>
       <source>SSID BroadCast</source>
-      <translation type="unfinished">SSID BroadCast</translation>
+      <translation>SSID 廣播</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2625"/>
       <source>Mac Filter Mode</source>
-      <translation type="unfinished">Mac Filter Mode</translation>
+      <translation>Mac Filter Mode</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1547"/>
@@ -54020,7 +54020,7 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2628"/>
       <source>Mac Address List</source>
-      <translation type="unfinished">Mac Address List</translation>
+      <translation>Mac Address List</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2633"/>
@@ -54035,37 +54035,37 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2636"/>
       <source>SSID name</source>
-      <translation type="unfinished">SSID name</translation>
+      <translation>SSID name</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2639"/>
       <source>WPA key management</source>
-      <translation type="unfinished">WPA key management</translation>
+      <translation>WPA 金鑰管理</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2640"/>
       <source>EAP method</source>
-      <translation type="unfinished">EAP method</translation>
+      <translation>EAP method</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2641"/>
       <source>EAP list name</source>
-      <translation type="unfinished">EAP list name</translation>
+      <translation>EAP list name</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2642"/>
       <source>Wpa-psk</source>
-      <translation type="unfinished">Wpa-psk</translation>
+      <translation>Wpa-psk</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2643"/>
       <source>Key entered as</source>
-      <translation type="unfinished">Key entered as</translation>
+      <translation>金鑰輸入格式</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2644"/>
       <source>Unencrypted</source>
-      <translation type="unfinished">Unencrypted</translation>
+      <translation>未加密</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2646"/>
@@ -54075,17 +54075,17 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2650"/>
       <source>Dot11Radio</source>
-      <translation type="unfinished">Dot11Radio</translation>
+      <translation>Dot11Radio</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2651"/>
       <source>Bridge Group</source>
-      <translation type="unfinished">Bridge Group</translation>
+      <translation>橋接群組</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2652"/>
       <source>Station Role</source>
-      <translation type="unfinished">Station Role</translation>
+      <translation>站台角色</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2656"/>
@@ -54095,17 +54095,17 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2658"/>
       <source>Hex String</source>
-      <translation type="unfinished">Hex String</translation>
+      <translation>Hex String</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2659"/>
       <source>Mode WEP</source>
-      <translation type="unfinished">Mode WEP</translation>
+      <translation>WEP 模式</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2660"/>
       <source>Mode Cipher</source>
-      <translation type="unfinished">Mode Cipher</translation>
+      <translation>加密模式</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2832"/>
@@ -54167,315 +54167,315 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3053"/>
       <source>The device sends out a SMTP packet.</source>
-      <translation type="unfinished">The device sends out a SMTP packet.</translation>
+      <translation>裝置送出 SMTP 封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3054"/>
       <location filename="../gui/CTranslationDB.cpp" line="3060"/>
       <source>The device receives a SMTP packet.</source>
-      <translation type="unfinished">The device receives a SMTP packet.</translation>
+      <translation>裝置收到 SMTP 封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3058"/>
       <source>The packet is not a SMTP packet. The SMTP server drops it.</source>
-      <translation type="unfinished">The packet is not a SMTP packet. The SMTP server drops it.</translation>
+      <translation>此封包不是 SMTP 封包。SMTP 伺服器捨棄它。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3056"/>
       <source>The packet is not a SMTP packet. The SMTP client drops it.</source>
-      <translation type="unfinished">The packet is not a SMTP packet. The SMTP client drops it.</translation>
+      <translation>此封包不是 SMTP 封包。SMTP 用戶端捨棄它。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3064"/>
       <location filename="../gui/CTranslationDB.cpp" line="3066"/>
       <source>The device sends out a POP3 packet.</source>
-      <translation type="unfinished">The device sends out a POP3 packet.</translation>
+      <translation>裝置送出 POP3 封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3065"/>
       <location filename="../gui/CTranslationDB.cpp" line="3068"/>
       <source>The device receives a POP3 packet.</source>
-      <translation type="unfinished">The device receives a POP3 packet.</translation>
+      <translation>裝置收到 POP3 封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3069"/>
       <source>The packet is not a POP3 packet. The POP3 server drops it.</source>
-      <translation type="unfinished">The packet is not a POP3 packet. The POP3 server drops it.</translation>
+      <translation>此封包不是 POP3 封包。POP3 伺服器捨棄它。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3070"/>
       <source>The packet is not a POP3 packet. The POP3 client drops it.</source>
-      <translation type="unfinished">The packet is not a POP3 packet. The POP3 client drops it.</translation>
+      <translation>此封包不是 POP3 封包。POP3 用戶端捨棄它。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3138"/>
       <source>RADIUS CLIENT: Send access request</source>
-      <translation type="unfinished">RADIUS CLIENT: Send access request</translation>
+      <translation>RADIUS 用戶端：傳送 access request</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3190"/>
       <source>The indication of whether this entity is acting as an IPv4 Router in respect to the forwarding of datagrams received by, but not addressed to, this entity. IPv4 Routers forward datagrams. IPv4 hosts do not (except those source-routed via the host).</source>
-      <translation type="unfinished">The indication of whether this entity is acting as an IPv4 Router in respect to the forwarding of datagrams received by, but not addressed to, this entity. IPv4 Routers forward datagrams. IPv4 hosts do not (except those source-routed via the host).</translation>
+      <translation>指出此實體在轉送「由本實體收到但目的地並非本實體」的資料包時，是否擔任 IPv4 路由器。IPv4 路由器會轉送資料包，IPv4 主機則不會（透過主機進行來源路由的除外）。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3194"/>
       <source>The indication of whether this entity is acting as an IPv6 Router on any interface in respect to the forwarding of datagrams received by, but not addressed to, this entity. IPv6 Routers forward datagrams. IPv6 hosts do not (except those source-routed via the host).</source>
-      <translation type="unfinished">The indication of whether this entity is acting as an IPv6 Router on any interface in respect to the forwarding of datagrams received by, but not addressed to, this entity. IPv6 Routers forward datagrams. IPv6 hosts do not (except those source-routed via the host).</translation>
+      <translation>指出此實體在任何介面上轉送「由本實體收到但目的地並非本實體」的資料包時，是否擔任 IPv6 路由器。IPv6 路由器會轉送資料包，IPv6 主機則不會（透過主機進行來源路由的除外）。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3201"/>
       <source>The table containing information used to construct Router advertisements.</source>
-      <translation type="unfinished">The table containing information used to construct Router advertisements.</translation>
+      <translation>包含用於建構 Router Advertisement 之資訊的表。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3230"/>
       <source>The indication of whether this entity is acting as an IPv6 Router on this interface with respect to the forwarding of datagrams received by, but not addressed to, this entity. IPv6 Routers forward datagrams. IPv6 hosts do not (except those source-routed via the host).</source>
-      <translation type="unfinished">The indication of whether this entity is acting as an IPv6 Router on this interface with respect to the forwarding of datagrams received by, but not addressed to, this entity. IPv6 Routers forward datagrams. IPv6 hosts do not (except those source-routed via the host).</translation>
+      <translation>指出此實體在此介面上轉送「由本實體收到但目的地並非本實體」的資料包時，是否擔任 IPv6 路由器。IPv6 路由器會轉送資料包，IPv6 主機則不會（透過主機進行來源路由的除外）。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3233"/>
       <source>An entry containing information used to construct Router advertisements.</source>
-      <translation type="unfinished">An entry containing information used to construct Router advertisements.</translation>
+      <translation>包含用於建構 Router Advertisement 之資訊的項目。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3234"/>
       <source>A flag indicating whether the router sends periodic Router advertisements and responds to router solicitations on this interface.</source>
-      <translation type="unfinished">A flag indicating whether the router sends periodic Router advertisements and responds to router solicitations on this interface.</translation>
+      <translation>指出路由器是否在此介面上傳送週期性 Router Advertisement 並回應 Router Solicitation 的旗標。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3235"/>
       <source>The maximum time allowed between sending unsolicited Router advertisements from this interface</source>
-      <translation type="unfinished">The maximum time allowed between sending unsolicited Router advertisements from this interface</translation>
+      <translation>從此介面傳送非請求式 Router Advertisement 之間允許的最長時間</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3236"/>
       <source>The minimum time allowed between sending unsolicited Router advertisements from this interface. The default is 0.33 * ipv6RouterAdvertMaxInterval, however, in the case of a low value for ipv6RouterAdver-tMaxInterval, the minimum value for this object is restricted to 3.</source>
-      <translation type="unfinished">The minimum time allowed between sending unsolicited Router advertisements from this interface. The default is 0.33 * ipv6RouterAdvertMaxInterval, however, in the case of a low value for ipv6RouterAdver-tMaxInterval, the minimum value for this object is restricted to 3.</translation>
+      <translation>從此介面傳送非請求式 Router Advertisement 之間允許的最短時間。預設為 0.33 * ipv6RouterAdvertMaxInterval，但若 ipv6RouterAdvertMaxInterval 的值很低，此物件的最小值限制為 3。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3237"/>
       <source>The true/false value to be placed into the &apos;managed address configuration&apos; flag field in Router advertisements sent from this interface.</source>
-      <translation type="unfinished">The true/false value to be placed into the &apos;managed address configuration&apos; flag field in Router advertisements sent from this interface.</translation>
+      <translation>要放入從此介面傳送之 Router Advertisement 中「managed address configuration」旗標欄位的 true/false 值。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3238"/>
       <source>The true/false value to be placed into the &apos;other stateful configuration&apos; flag field in Router advertisements sent from this interface.</source>
-      <translation type="unfinished">The true/false value to be placed into the &apos;other stateful configuration&apos; flag field in Router advertisements sent from this interface.</translation>
+      <translation>要放入從此介面傳送之 Router Advertisement 中「other stateful configuration」旗標欄位的 true/false 值。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3239"/>
       <source>The value to be placed in MTU options sent by the Router on this interface.  A value of zero indicates that no MTU options are sent.</source>
-      <translation type="unfinished">The value to be placed in MTU options sent by the Router on this interface.  A value of zero indicates that no MTU options are sent.</translation>
+      <translation>要放入路由器在此介面上傳送之 MTU 選項的值。值為零表示不傳送 MTU 選項。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3240"/>
       <source>The value to be placed in the reachable time field in Router advertisement messages sent from this interface. A value of zero in the router advertisement indicates that the advertisement isn&apos;t specifying a value for reachable time.</source>
-      <translation type="unfinished">The value to be placed in the reachable time field in Router advertisement messages sent from this interface. A value of zero in the router advertisement indicates that the advertisement isn&apos;t specifying a value for reachable time.</translation>
+      <translation>要放入從此介面傳送之 Router Advertisement 訊息中 reachable time 欄位的值。Router Advertisement 中的值為零，表示該通告未指定 reachable time 的值。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3241"/>
       <source>The value to be placed in the retransmit timer field in Router advertisements sent from this interface. A value of zero in the router advertisement indicates that the advertisement isn&apos;t specifying a value for retrans time.</source>
-      <translation type="unfinished">The value to be placed in the retransmit timer field in Router advertisements sent from this interface. A value of zero in the router advertisement indicates that the advertisement isn&apos;t specifying a value for retrans time.</translation>
+      <translation>要放入從此介面傳送之 Router Advertisement 中 retransmit timer 欄位的值。Router Advertisement 中的值為零，表示該通告未指定 retrans time 的值。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3242"/>
       <source>The default value to be placed in the current hop limit field in Router advertisements sent from this interface. The value should be set to the current diameter of the Internet. A value of zero in the router advertisement indicates that the advertisement isn&apos;t specifying a value for curHopLimit. The default should be set to the value specified in the IANA web pages (www.iana.org) at the time of implementation.</source>
-      <translation type="unfinished">The default value to be placed in the current hop limit field in Router advertisements sent from this interface. The value should be set to the current diameter of the Internet. A value of zero in the router advertisement indicates that the advertisement isn&apos;t specifying a value for curHopLimit. The default should be set to the value specified in the IANA web pages (www.iana.org) at the time of implementation.</translation>
+      <translation>要放入從此介面傳送之 Router Advertisement 中 current hop limit 欄位的預設值。此值應設為網際網路目前的直徑。Router Advertisement 中的值為零，表示該通告未指定 curHopLimit 的值。預設值應設為實作時 IANA 網頁 (www.iana.org) 上指定的值。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3243"/>
       <source>The value to be placed in the router lifetime field of Router advertisements sent from this interface. This value MUST be either 0 or between ipv6RouterAdvertMaxInterval and 9000 seconds. A value of zero indicates that the Router is not to be used as a default Router. The default is 3 * ipv6RouterAdvertMaxInterval.</source>
-      <translation type="unfinished">The value to be placed in the router lifetime field of Router advertisements sent from this interface. This value MUST be either 0 or between ipv6RouterAdvertMaxInterval and 9000 seconds. A value of zero indicates that the Router is not to be used as a default Router. The default is 3 * ipv6RouterAdvertMaxInterval.</translation>
+      <translation>要放入從此介面傳送之 Router Advertisement 中 router lifetime 欄位的值。此值必須為 0，或介於 ipv6RouterAdvertMaxInterval 與 9000 秒之間。值為零表示此路由器不作為預設路由器使用。預設為 3 * ipv6RouterAdvertMaxInterval。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3260"/>
       <source>The feasibility (best) distance is the minimum distance from this Router to the destination IP network in this topology entry. The feasibility distance is used in determining the best successor for a path to the destination network.</source>
-      <translation type="unfinished">The feasibility (best) distance is the minimum distance from this Router to the destination IP network in this topology entry. The feasibility distance is used in determining the best successor for a path to the destination network.</translation>
+      <translation>可行（最佳）距離是此拓樸項目中，從此路由器到目的 IP 網路的最小距離。可行距離用於決定通往目的網路路徑的最佳後繼者。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3262"/>
       <source>If the origin of the topology route entry is external to this Router, then this object is the IP address of the Router from which it originated. The format is governed by object cEigrpRouteOriginAddrType.</source>
-      <translation type="unfinished">If the origin of the topology route entry is external to this Router, then this object is the IP address of the Router from which it originated. The format is governed by object cEigrpRouteOriginAddrType.</translation>
+      <translation>若拓樸路由項目的來源在此路由器之外，則此物件是其來源路由器的 IP 位址。格式由物件 cEigrpRouteOriginAddrType 決定。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3265"/>
       <source>The computed distance to the destination network entry from this Router.</source>
-      <translation type="unfinished">The computed distance to the destination network entry from this Router.</translation>
+      <translation>從此路由器到目的網路項目的計算距離。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3266"/>
       <source>The computed distance to the destination network in the topology entry reported to this Router by the originator of this route.</source>
-      <translation type="unfinished">The computed distance to the destination network in the topology entry reported to this Router by the originator of this route.</translation>
+      <translation>此路由的來源端向此路由器回報之拓樸項目中，到目的網路的計算距離。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3271"/>
       <source>The source IP address used by the peer to establish the EIGRP adjacency with this Router. The format is governed by object cEigrpPeerAddrType.</source>
-      <translation type="unfinished">The source IP address used by the peer to establish the EIGRP adjacency with this Router. The format is governed by object cEigrpPeerAddrType.</translation>
+      <translation>對等端用來與此路由器建立 EIGRP 鄰接關係的來源 IP 位址。格式由物件 cEigrpPeerAddrType 決定。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3272"/>
       <source>The ifIndex of the interface on this Router through which this peer can be reached.</source>
-      <translation type="unfinished">The ifIndex of the interface on this Router through which this peer can be reached.</translation>
+      <translation>此路由器上可到達此對等端的介面的 ifIndex。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3275"/>
       <source>A 32-bit integer uniquely identifying the Router in the Autonomous System. By convention, to ensure uniqueness, this should default to the value of one of the router&apos;s IP interface addresses.</source>
-      <translation type="unfinished">A 32-bit integer uniquely identifying the Router in the Autonomous System. By convention, to ensure uniqueness, this should default to the value of one of the router&apos;s IP interface addresses.</translation>
+      <translation>唯一識別自治系統中路由器的 32 位元整數。依慣例，為確保唯一性，預設應為路由器其中一個 IP 介面位址的值。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3276"/>
       <source>The administrative status of OSPF in the Router. The value &apos;enabled&apos; denotes that the OSPF Process is active on at least one interface; &apos;disabled&apos; disables it on all interfaces.</source>
-      <translation type="unfinished">The administrative status of OSPF in the Router. The value &apos;enabled&apos; denotes that the OSPF Process is active on at least one interface; &apos;disabled&apos; disables it on all interfaces.</translation>
+      <translation>路由器中 OSPF 的管理狀態。值「enabled」表示 OSPF 處理程序至少在一個介面上作用中；「disabled」則在所有介面上停用它。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3278"/>
       <source>Information describing the configured parameters and cumulative statistics of the Router&apos;s attached areas.</source>
-      <translation type="unfinished">Information describing the configured parameters and cumulative statistics of the Router&apos;s attached areas.</translation>
+      <translation>描述路由器所連接區域之已設定參數與累計統計資料的資訊。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3279"/>
       <source>Information describing the configured parameters and cumulative statistics of one of the Router&apos;s attached areas.</source>
-      <translation type="unfinished">Information describing the configured parameters and cumulative statistics of one of the Router&apos;s attached areas.</translation>
+      <translation>描述路由器所連接其中一個區域之已設定參數與累計統計資料的資訊。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3284"/>
       <source>The 32-bit unsigned sum of the link-state advertisements&apos; LS checksums contained in this area&apos;s link-state database. This sum excludes external (LS type 5) link-state advertisements. The sum can be used to determine if there has been a change in a Router&apos;s link state database, and to compare the link-state database of two routers.</source>
-      <translation type="unfinished">The 32-bit unsigned sum of the link-state advertisements&apos; LS checksums contained in this area&apos;s link-state database. This sum excludes external (LS type 5) link-state advertisements. The sum can be used to determine if there has been a change in a Router&apos;s link state database, and to compare the link-state database of two routers.</translation>
+      <translation>此區域連結狀態資料庫中所含連結狀態通告的 LS 檢查碼總和，為 32 位元無號整數。此總和不含外部（LS 類型 5）連結狀態通告。此總和可用來判斷路由器的連結狀態資料庫是否有變更，並比較兩部路由器的連結狀態資料庫。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3290"/>
       <source>The 32 bit number that uniquely identifies the originating Router in the Autonomous System.</source>
-      <translation type="unfinished">The 32 bit number that uniquely identifies the originating Router in the Autonomous System.</translation>
+      <translation>唯一識別自治系統中來源路由器的 32 位元數字。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3297"/>
       <source>A 32-bit integer (represented as a type IpAddress) uniquely identifying the neighboring Router in the Autonomous System.</source>
-      <translation type="unfinished">A 32-bit integer (represented as a type IpAddress) uniquely identifying the neighboring Router in the Autonomous System.</translation>
+      <translation>唯一識別自治系統中鄰近路由器的 32 位元整數（以 IpAddress 類型表示）。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3299"/>
       <source>The priority of this neighbor in the designated Router election algorithm. The value 0 signifies that the neighbor is not eligible to become the designated Router on this particular network.</source>
-      <translation type="unfinished">The priority of this neighbor in the designated Router election algorithm. The value 0 signifies that the neighbor is not eligible to become the designated Router on this particular network.</translation>
+      <translation>此鄰居在指定路由器選舉演算法中的優先順序。值 0 表示該鄰居沒有資格成為此網路上的指定路由器。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3350"/>
       <source>SCCP client sends a connection request</source>
-      <translation type="unfinished">SCCP client sends a connection request</translation>
+      <translation>SCCP 用戶端傳送連線要求</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3351"/>
       <source>SCCP client sends a register request</source>
-      <translation type="unfinished">SCCP client sends a register request</translation>
+      <translation>SCCP 用戶端傳送註冊要求</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3352"/>
       <source>SCCP client sends a key pad button message</source>
-      <translation type="unfinished">SCCP client sends a key pad button message</translation>
+      <translation>SCCP 用戶端傳送按鍵訊息</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3353"/>
       <source>SCCP client sends an offhook</source>
-      <translation type="unfinished">SCCP client sends an offhook</translation>
+      <translation>SCCP 用戶端傳送 offhook</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3354"/>
       <source>SCCP client sends and onHook</source>
-      <translation type="unfinished">SCCP client sends and onHook</translation>
+      <translation>SCCP 用戶端傳送 onHook</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3355"/>
       <source>SCCP client received call state message</source>
-      <translation type="unfinished">SCCP client received call state message</translation>
+      <translation>SCCP 用戶端收到通話狀態訊息</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3356"/>
       <source>SCCP client received open receive channel</source>
-      <translation type="unfinished">SCCP client received open receive channel</translation>
+      <translation>SCCP 用戶端收到開啟接收通道</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3357"/>
       <source>SCCP client received register acknowledge</source>
-      <translation type="unfinished">SCCP client received register acknowledge</translation>
+      <translation>SCCP 用戶端收到註冊確認</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3358"/>
       <source>SCCP client received set ringer message</source>
-      <translation type="unfinished">SCCP client received set ringer message</translation>
+      <translation>SCCP 用戶端收到設定鈴聲訊息</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3359"/>
       <source>SCCP client received start media transmission</source>
-      <translation type="unfinished">SCCP client received start media transmission</translation>
+      <translation>SCCP 用戶端收到開始媒體傳輸</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3360"/>
       <source>SCCP client received stop media transmission</source>
-      <translation type="unfinished">SCCP client received stop media transmission</translation>
+      <translation>SCCP 用戶端收到停止媒體傳輸</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3361"/>
       <source>SCCP client received reset</source>
-      <translation type="unfinished">SCCP client received reset</translation>
+      <translation>SCCP 用戶端收到重設</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3363"/>
       <source>SCCP client received keepalive acknowlegment</source>
-      <translation type="unfinished">SCCP client received keepalive acknowlegment</translation>
+      <translation>SCCP 用戶端收到保持連線確認</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3364"/>
       <source>SCCP client is sending keepalive message</source>
-      <translation type="unfinished">SCCP client is sending keepalive message</translation>
+      <translation>SCCP 用戶端正在傳送保持連線訊息</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3366"/>
       <source>SCCP server received request</source>
-      <translation type="unfinished">SCCP server received request</translation>
+      <translation>SCCP 伺服器收到要求</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3367"/>
       <source>SCCP server sending line number for register ack</source>
-      <translation type="unfinished">SCCP server sending line number for register ack</translation>
+      <translation>SCCP 伺服器為註冊確認傳送線路號碼</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3368"/>
       <source>SCCP server received open receive channel ack</source>
-      <translation type="unfinished">SCCP server received open receive channel ack</translation>
+      <translation>SCCP 伺服器收到開啟接收通道確認</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3369"/>
       <source>SCCP server received H323 message</source>
-      <translation type="unfinished">SCCP server received H323 message</translation>
+      <translation>SCCP 伺服器收到 H323 訊息</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3370"/>
       <source>SCCP server received H323 setup message</source>
-      <translation type="unfinished">SCCP server received H323 setup message</translation>
+      <translation>SCCP 伺服器收到 H323 設定訊息</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3372"/>
       <source>SCCP server received release complete</source>
-      <translation type="unfinished">SCCP server received release complete</translation>
+      <translation>SCCP 伺服器收到 release complete</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3373"/>
       <source>SCCP server received call proceeding</source>
-      <translation type="unfinished">SCCP server received call proceeding</translation>
+      <translation>SCCP 伺服器收到 call proceeding</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3374"/>
       <source>SCCP server sending reset</source>
-      <translation type="unfinished">SCCP server sending reset</translation>
+      <translation>SCCP 伺服器傳送重設</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3375"/>
       <source>SCCP server received unregister message</source>
-      <translation type="unfinished">SCCP server received unregister message</translation>
+      <translation>SCCP 伺服器收到取消註冊訊息</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3376"/>
       <source>SCCP server received keep alive message</source>
-      <translation type="unfinished">SCCP server received keep alive message</translation>
+      <translation>SCCP 伺服器收到保持連線訊息</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3378"/>
@@ -54520,57 +54520,57 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3388"/>
       <source>Phone media process sending voice data</source>
-      <translation type="unfinished">Phone media process sending voice data</translation>
+      <translation>電話媒體處理程序正在傳送語音資料</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3389"/>
       <source>Phone media process received voice</source>
-      <translation type="unfinished">Phone media process received voice</translation>
+      <translation>電話媒體處理程序收到語音</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3390"/>
       <source>Phone media process does not have voice data present</source>
-      <translation type="unfinished">Phone media process does not have voice data present</translation>
+      <translation>電話媒體處理程序沒有語音資料</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3391"/>
       <source>Voice switcher received voice data</source>
-      <translation type="unfinished">Voice switcher received voice data</translation>
+      <translation>語音交換器收到語音資料</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3392"/>
       <source>No voice data on voice switcher</source>
-      <translation type="unfinished">No voice data on voice switcher</translation>
+      <translation>語音交換器上沒有語音資料</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3394"/>
       <source>Sending RTP data</source>
-      <translation type="unfinished">Sending RTP data</translation>
+      <translation>正在傳送 RTP 資料</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="104"/>
       <source>The headphone allows the user to listen to music and sounds from the computer.</source>
-      <translation type="unfinished">The headphone allows the user to listen to music and sounds from the computer.</translation>
+      <translation>耳機可讓使用者聆聽電腦的音樂與聲音。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="105"/>
       <source>The microphone allows the computer to record sound.</source>
-      <translation type="unfinished">The microphone allows the computer to record sound.</translation>
+      <translation>麥克風可讓電腦錄製聲音。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="106"/>
       <source>The camera allows the computer to capture images and movies.</source>
-      <translation type="unfinished">The camera allows the computer to capture images and movies.</translation>
+      <translation>相機可讓電腦擷取影像與影片。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="107"/>
       <source>The USB hard drive adds extra external storage to the computer.</source>
-      <translation type="unfinished">The USB hard drive adds extra external storage to the computer.</translation>
+      <translation>USB 硬碟可為電腦增加額外的外接儲存空間。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="668"/>
       <source>In Logical Shape</source>
-      <translation type="unfinished">In Logical Shape</translation>
+      <translation>In Logical Shape</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="682"/>
@@ -54590,12 +54590,12 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="685"/>
       <source>Camera Connected</source>
-      <translation type="unfinished">Camera Connected</translation>
+      <translation>相機已連接</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="686"/>
       <source>USB Hard Drive Connected</source>
-      <translation type="unfinished">USB Hard Drive Connected</translation>
+      <translation>USB 硬碟已連接</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="691"/>
@@ -54615,47 +54615,47 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2479"/>
       <source>The FTP client sends the port command to the FTP server.</source>
-      <translation type="unfinished">The FTP client sends the port command to the FTP server.</translation>
+      <translation>FTP 用戶端對 FTP 伺服器傳送 port 命令。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2496"/>
       <source>The FTP client receives the response for STOR command confirming that it is ready to receive the file.</source>
-      <translation type="unfinished">The FTP client receives the response for STOR command confirming that it is ready to receive the file.</translation>
+      <translation>FTP 用戶端收到 STOR 命令的回應，確認伺服器已準備好接收檔案。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2514"/>
       <source>The FTP server received an unknown or unsupported command packet from the FTP client.</source>
-      <translation type="unfinished">The FTP server received an unknown or unsupported command packet from the FTP client.</translation>
+      <translation>FTP 伺服器收到 FTP 用戶端未知或不支援的命令封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2519"/>
       <source>The FTP server receives the port command from the FTP client.</source>
-      <translation type="unfinished">The FTP server receives the port command from the FTP client.</translation>
+      <translation>FTP 伺服器收到 FTP 用戶端的 port 命令。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2538"/>
       <source>The FTP server sends the response for STOR command confirming that it is ready to receive the file.</source>
-      <translation type="unfinished">The FTP server sends the response for STOR command confirming that it is ready to receive the file.</translation>
+      <translation>FTP 伺服器傳送 STOR 命令的回應，確認已準備好接收檔案。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3055"/>
       <source>The device receives an error SMTP packet: [[ERROR]].</source>
-      <translation type="unfinished">The device receives an error SMTP packet: [[ERROR]].</translation>
+      <translation>裝置收到錯誤的 SMTP 封包：[[ERROR]]。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3059"/>
       <source>The device sends out [[TYPE]] SMTP packet: [[ERROR]].</source>
-      <translation type="unfinished">The device sends out [[TYPE]] SMTP packet: [[ERROR]].</translation>
+      <translation>裝置送出 [[TYPE]] SMTP 封包：[[ERROR]]。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3067"/>
       <source>The POP3 server sends out a POP3 error response: [[ERROR]].</source>
-      <translation type="unfinished">The POP3 server sends out a POP3 error response: [[ERROR]].</translation>
+      <translation>POP3 伺服器送出 POP3 錯誤回應：[[ERROR]]。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3071"/>
       <source>The POP3 client receives an error response: [[ERROR]].</source>
-      <translation type="unfinished">The POP3 client receives an error response: [[ERROR]].</translation>
+      <translation>POP3 用戶端收到錯誤回應：[[ERROR]]。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="305"/>
@@ -54675,7 +54675,7 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="627"/>
       <source>Copy Config to Startup Config</source>
-      <translation type="unfinished">Copy Config to Startup Config</translation>
+      <translation>將組態複製到啟動組態</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="689"/>
@@ -54690,22 +54690,22 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="739"/>
       <source>DCE Port Name</source>
-      <translation type="unfinished">DCE Port Name</translation>
+      <translation>DCE 連接埠名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1105"/>
       <source>The packet does not match the criteria of any statement in the access-list, but matches the implicit permit statement for Neighbor Solicitation and Neighbor Advertisement. The packet is permitted.</source>
-      <translation type="unfinished">The packet does not match the criteria of any statement in the access-list, but matches the implicit permit statement for Neighbor Solicitation and Neighbor Advertisement. The packet is permitted.</translation>
+      <translation>封包不符合存取清單中任何陳述式的條件，但符合 Neighbor Solicitation 與 Neighbor Advertisement 的隱含允許陳述式。封包被允許通過。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1712"/>
       <source>The Hello packet shows the zero neighbor field.  Set the neighbor&apos;s state to Init.</source>
-      <translation type="unfinished">The Hello packet shows the zero neighbor field.  Set the neighbor&apos;s state to Init.</translation>
+      <translation>Hello 封包的鄰居欄位為零。將鄰居的狀態設為 Init。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2303"/>
       <source>AH finds a matching SPI for the packet, and it authenticates the packet.</source>
-      <translation type="unfinished">AH finds a matching SPI for the packet, and it authenticates the packet.</translation>
+      <translation>AH 為封包找到相符的 SPI，並驗證此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="531"/>
@@ -54755,7 +54755,7 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="728"/>
       <source>BIA</source>
-      <translation type="unfinished">BIA</translation>
+      <translation>BIA</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="733"/>
@@ -54765,12 +54765,12 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="740"/>
       <source>Is DCE</source>
-      <translation type="unfinished">Is DCE</translation>
+      <translation>Is DCE</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="755"/>
       <source>EtherChannel</source>
-      <translation type="unfinished">EtherChannel</translation>
+      <translation>EtherChannel</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="756"/>
@@ -54785,17 +54785,17 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="842"/>
       <source>MTU</source>
-      <translation type="unfinished">MTU</translation>
+      <translation>MTU</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="843"/>
       <source>IP MTU</source>
-      <translation type="unfinished">IP MTU</translation>
+      <translation>IP MTU</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="844"/>
       <source>IPv6 MTU</source>
-      <translation type="unfinished">IPv6 MTU</translation>
+      <translation>IPv6 MTU</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="848"/>
@@ -54860,12 +54860,12 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="940"/>
       <source>Priority Group</source>
-      <translation type="unfinished">Priority Group</translation>
+      <translation>優先順序群組</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="941"/>
       <source>Custom Queue List</source>
-      <translation type="unfinished">Custom Queue List</translation>
+      <translation>自訂佇列清單</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="942"/>
@@ -54875,7 +54875,7 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="943"/>
       <source>Hold Queue</source>
-      <translation type="unfinished">Hold Queue</translation>
+      <translation>保持佇列</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="944"/>
@@ -54895,17 +54895,17 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="947"/>
       <source>Service Policy Input</source>
-      <translation type="unfinished">Service Policy Input</translation>
+      <translation>輸入服務原則</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="948"/>
       <source>Service Policy Output</source>
-      <translation type="unfinished">Service Policy Output</translation>
+      <translation>輸出服務原則</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="949"/>
       <source>IPv6 NAT</source>
-      <translation type="unfinished">IPv6 NAT</translation>
+      <translation>IPv6 NAT</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="950"/>
@@ -54930,37 +54930,37 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1013"/>
       <source>NATv6</source>
-      <translation type="unfinished">NATv6</translation>
+      <translation>NATv6</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1047"/>
       <source>PPPoE Server</source>
-      <translation type="unfinished">PPPoE Server</translation>
+      <translation>PPPoE 伺服器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1079"/>
       <source>Protocol PPPoE</source>
-      <translation type="unfinished">Protocol PPPoE</translation>
+      <translation>Protocol PPPoE</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2106"/>
       <source>Zone-Based Policy Firewall finds that both interfaces are in the same zone: [[ZONE_NAME]].</source>
-      <translation type="unfinished">Zone-Based Policy Firewall finds that both interfaces are in the same zone: [[ZONE_NAME]].</translation>
+      <translation>區域型原則防火牆發現兩個介面位於同一區域：[[ZONE_NAME]]。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2107"/>
       <source>Zone-Based Policy Firewall finds a zone pair.</source>
-      <translation type="unfinished">Zone-Based Policy Firewall finds a zone pair.</translation>
+      <translation>區域型原則防火牆找到區域配對。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2108"/>
       <source>Zone-Based Policy Firewall does not find a zone pair.</source>
-      <translation type="unfinished">Zone-Based Policy Firewall does not find a zone pair.</translation>
+      <translation>區域型原則防火牆找不到區域配對。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2825"/>
       <source>Authorize Command</source>
-      <translation type="unfinished">Authorize Command</translation>
+      <translation>授權命令</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2908"/>
@@ -54980,7 +54980,7 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3032"/>
       <source>General Prefix</source>
-      <translation type="unfinished">General Prefix</translation>
+      <translation>一般前置碼</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2357"/>
