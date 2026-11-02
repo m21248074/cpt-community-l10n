@@ -8,12 +8,12 @@
       <location filename="../gui/DesignerFiles/AATranslatorInfo.ui" line="40"/>
       <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1163"/>
       <source>http://www.cisco.com</source>
-      <translation type="unfinished">http://www.cisco.com</translation>
+      <translation>http://www.cisco.com</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/AATranslatorInfo.ui" line="13"/>
       <source>Translator Info</source>
-      <translation type="unfinished">Translator Info</translation>
+      <translation>Translator Info</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/AATranslatorInfo.ui" line="25"/>
@@ -34,7 +34,7 @@
       <location filename="../gui/DesignerFiles/APClientStatus.ui" line="19"/>
       <location filename="../gui/DesignerFiles/APClientStatus.ui" line="21"/>
       <source>Refresh Status</source>
-      <translation type="unfinished">Refresh Status</translation>
+      <translation>重新整理狀態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/APClientStatus.ui" line="26"/>
@@ -4298,7 +4298,7 @@ Enter a value in the Index Variable text field to use a variable to determine th
       <location filename="../gui/DesignerFiles/BaseAboutDialog.ui" line="480"/>
       <location filename="../gui/DesignerFiles/BaseAboutDialog.ui" line="483"/>
       <source>image</source>
-      <translation type="unfinished">image</translation>
+      <translation>image</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseAboutDialog.ui" line="496"/>
@@ -4308,14 +4308,14 @@ Enter a value in the Index Variable text field to use a variable to determine th
       <location filename="../gui/DesignerFiles/BaseAboutDialog.ui" line="521"/>
       <location filename="../gui/DesignerFiles/BaseAboutDialog.ui" line="524"/>
       <source>version</source>
-      <translation type="unfinished">version</translation>
+      <translation>version</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseAboutDialog.ui" line="540"/>
       <location filename="../gui/DesignerFiles/BaseAboutDialog.ui" line="543"/>
       <location filename="../gui/DesignerFiles/BaseAboutDialog.ui" line="546"/>
       <source>safec</source>
-      <translation type="unfinished">safec</translation>
+      <translation>safec</translation>
     </message>
   </context>
   <context>
@@ -4365,7 +4365,7 @@ Enter a value in the Index Variable text field to use a variable to determine th
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="44"/>
       <source>ID</source>
-      <translation type="unfinished">ID</translation>
+      <translation>ID</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="75"/>
@@ -4406,12 +4406,12 @@ Version: 1.0
 ID: net.netacad.cisco.autoIP
 Author: Michael Wang
 Contact: miwang@cisco.com</source>
-      <translation type="unfinished">This CAI assigns IP addresses to devices automatically.
+      <translation>此 CAI 會自動為裝置指派 IP 位址。
 
-Version: 1.0
+版本：1.0
 ID: net.netacad.cisco.autoIP
-Author: Michael Wang
-Contact: miwang@cisco.com</translation>
+作者：Michael Wang
+聯絡人：miwang@cisco.com</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="348"/>
@@ -4601,7 +4601,7 @@ Author: Michael Wang
 
 
 Contact: miwang@cisco.com</source>
-      <translation type="unfinished">This CAI assigns IP addresses to devices automatically.
+      <translation>此 CAI 會自動為裝置指派 IP 位址。
 
 
 
@@ -4613,7 +4613,7 @@ Contact: miwang@cisco.com</source>
 
 
 
-Version: 1.0
+版本：1.0
 
 
 
@@ -4625,13 +4625,13 @@ ID: net.netacad.cisco.autoIP
 
 
 
-Author: Michael Wang
+作者：Michael Wang
 
 
 
 
 
-Contact: miwang@cisco.com</translation>
+聯絡人：miwang@cisco.com</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="615"/>
@@ -4782,11 +4782,11 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Debug Messages&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Debug Messages&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;偵錯訊息&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -4794,7 +4794,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/scripting/BaseDebugDialog.ui" line="85"/>
       <location filename="../gui/DesignerFiles/scripting/BaseDebugDialog.ui" line="88"/>
       <source>Debug Messages</source>
-      <translation type="unfinished">Debug Messages</translation>
+      <translation>偵錯訊息</translation>
     </message>
   </context>
   <context>
@@ -4873,7 +4873,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/IoE/DeviceFileManager_edit.ui" line="13"/>
       <source>Edit Page</source>
-      <translation type="unfinished">Edit Page</translation>
+      <translation>編輯頁面</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/DeviceFileManager_edit.ui" line="36"/>
@@ -4920,7 +4920,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseDeviceViewPopWidget.ui" line="227"/>
       <source>Rear</source>
-      <translation type="unfinished">Rear</translation>
+      <translation>後面</translation>
     </message>
   </context>
   <context>
@@ -4928,13 +4928,13 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BaseInputDialog.ui" line="13"/>
       <source>Packet Tracer</source>
-      <translation type="unfinished">Packet Tracer</translation>
+      <translation>Packet Tracer</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BaseInputDialog.ui" line="22"/>
       <location filename="../gui/DesignerFiles/Workstation/BaseInputDialog.ui" line="24"/>
       <source>Enter a name for the new profile.</source>
-      <translation type="unfinished">Enter a name for the new profile.</translation>
+      <translation>請輸入新設定檔的名稱。</translation>
     </message>
   </context>
   <context>
@@ -6198,12 +6198,12 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/IoE/BaseThingEditor.ui" line="203"/>
       <source>Sub Component</source>
-      <translation type="unfinished">Sub Component</translation>
+      <translation>子元件</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/BaseThingEditor.ui" line="208"/>
       <source>Slot Value</source>
-      <translation type="unfinished">Slot Value</translation>
+      <translation>插槽值</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/BaseThingEditor.ui" line="213"/>
@@ -6614,7 +6614,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DeviceConfig/ASA/CASADialog.cpp" line="8"/>
       <source>Equivalent ASA Commands</source>
-      <translation type="unfinished">Equivalent ASA Commands</translation>
+      <translation>對等的 ASA 命令</translation>
     </message>
   </context>
   <context>
@@ -6726,12 +6726,12 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/AboutDialog.cpp" line="81"/>
       <source>Copyright Cisco 2022 EULA</source>
-      <translation type="unfinished">Copyright Cisco 2022 EULA</translation>
+      <translation>Copyright Cisco 2022 EULA</translation>
     </message>
     <message>
       <location filename="../gui/AboutDialog.cpp" line="84"/>
       <source> Link</source>
-      <translation type="unfinished"> Link</translation>
+      <translation> 連結</translation>
     </message>
   </context>
   <context>
@@ -6739,7 +6739,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DeviceConfig/Router/AccessRestrictions.cpp" line="248"/>
       <source>The value is out of range [A-Z, a-z, 0-9, -, _]</source>
-      <translation type="unfinished">The value is out of range [A-Z, a-z, 0-9, -, _]</translation>
+      <translation>值超出範圍 [A-Z, a-z, 0-9, -, _]</translation>
     </message>
   </context>
   <context>
@@ -6747,7 +6747,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../engine/database/CActivityDatabaseWorker.cpp" line="109"/>
       <source>Unable to connect to database. %1</source>
-      <translation type="unfinished">Unable to connect to database. %1</translation>
+      <translation>無法連線到資料庫。%1</translation>
     </message>
   </context>
   <context>
@@ -12958,15 +12958,15 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DeviceConfig/Router/AppAndGaming.cpp" line="113"/>
       <source>External
 Port</source>
-      <translation type="unfinished">External
-Port</translation>
+      <translation>外部
+連接埠</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/AppAndGaming.cpp" line="113"/>
       <source>Internal
 Port</source>
-      <translation type="unfinished">Internal
-Port</translation>
+      <translation>內部
+連接埠</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/AppAndGaming.cpp" line="113"/>
@@ -12976,7 +12976,7 @@ Port</translation>
     <message>
       <location filename="../gui/DeviceConfig/Router/AppAndGaming.cpp" line="114"/>
       <source>To IP Address</source>
-      <translation type="unfinished">To IP Address</translation>
+      <translation>至 IP 位址</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/AppAndGaming.cpp" line="114"/>
@@ -16358,7 +16358,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BaseAuthDialog.ui" line="14"/>
       <source>Authorization</source>
-      <translation type="unfinished">Authorization</translation>
+      <translation>授權</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BaseAuthDialog.ui" line="25"/>
@@ -16683,17 +16683,17 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/BaseConfigureTabWidget.ui" line="13"/>
       <source>Base Configuration Tab </source>
-      <translation type="unfinished">Base Configuration Tab </translation>
+      <translation>基本組態分頁 </translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseConfigureTabWidget.ui" line="29"/>
       <source>GUI</source>
-      <translation type="unfinished">GUI</translation>
+      <translation>GUI</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseConfigureTabWidget.ui" line="34"/>
       <source>HTML</source>
-      <translation type="unfinished">HTML</translation>
+      <translation>HTML</translation>
     </message>
   </context>
   <context>
@@ -18123,13 +18123,13 @@ Configuration</source>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseFactoryDefaults.ui" line="305"/>
       <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Factory Defaults&lt;/b&gt;&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Factory Defaults&lt;/b&gt;&lt;/p&gt;</translation>
+      <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;原廠預設值&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseFactoryDefaults.ui" line="317"/>
       <location filename="../gui/DesignerFiles/Routing/BaseFactoryDefaults.ui" line="320"/>
       <source>Factory Defaults</source>
-      <translation type="unfinished">Factory Defaults</translation>
+      <translation>原廠預設值</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseFactoryDefaults.ui" line="800"/>
@@ -18163,7 +18163,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/BaseFileTreeView.ui" line="13"/>
       <source>Directory: Desktop</source>
-      <translation type="unfinished">Directory: Desktop</translation>
+      <translation>目錄：桌面</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseFileTreeView.ui" line="34"/>
@@ -18175,7 +18175,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/BaseFileTreeView.ui" line="65"/>
       <location filename="../gui/DesignerFiles/BaseFileTreeView.ui" line="67"/>
       <source>File Name:</source>
-      <translation type="unfinished">File Name:</translation>
+      <translation>檔案名稱：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseFileTreeView.ui" line="92"/>
@@ -18536,7 +18536,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicator.ui" line="56"/>
       <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicator.ui" line="59"/>
       <source>IP Communicator</source>
-      <translation type="unfinished">IP Communicator</translation>
+      <translation>IP Communicator</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicator.ui" line="78"/>
@@ -18749,7 +18749,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorMissedCalls.ui" line="601"/>
       <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorMissedCalls.ui" line="611"/>
       <source>From: 9840</source>
-      <translation type="unfinished">From: 9840</translation>
+      <translation>From: 9840</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorMissedCalls.ui" line="596"/>
@@ -18796,7 +18796,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorMissedCalls2.ui" line="601"/>
       <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorMissedCalls2.ui" line="611"/>
       <source>From: 9840</source>
-      <translation type="unfinished">From: 9840</translation>
+      <translation>From: 9840</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorMissedCalls2.ui" line="596"/>
@@ -18865,7 +18865,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPlacedCalls.ui" line="601"/>
       <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPlacedCalls.ui" line="611"/>
       <source>From: 9840</source>
-      <translation type="unfinished">From: 9840</translation>
+      <translation>From: 9840</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPlacedCalls.ui" line="596"/>
@@ -18912,7 +18912,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPlacedCalls2.ui" line="601"/>
       <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPlacedCalls2.ui" line="611"/>
       <source>From: 9840</source>
-      <translation type="unfinished">From: 9840</translation>
+      <translation>From: 9840</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPlacedCalls2.ui" line="596"/>
@@ -19069,7 +19069,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorReceivedCalls.ui" line="600"/>
       <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorReceivedCalls.ui" line="610"/>
       <source>From: 9840</source>
-      <translation type="unfinished">From: 9840</translation>
+      <translation>From: 9840</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorReceivedCalls.ui" line="595"/>
@@ -19116,7 +19116,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorReceivedCalls2.ui" line="600"/>
       <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorReceivedCalls2.ui" line="610"/>
       <source>From: 9840</source>
-      <translation type="unfinished">From: 9840</translation>
+      <translation>From: 9840</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorReceivedCalls2.ui" line="595"/>
@@ -19282,7 +19282,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Common/BaseInfoDialog.ui" line="14"/>
       <source>CBaseInfoDialog</source>
-      <translation type="unfinished">CBaseInfoDialog</translation>
+      <translation>CBaseInfoDialog</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/BaseInfoDialog.ui" line="20"/>
@@ -19404,14 +19404,14 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BaseIoXSdk.ui" line="20"/>
       <source>IoX IDE</source>
-      <translation type="unfinished">IoX IDE</translation>
+      <translation>IoX IDE</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BaseIoXSdk.ui" line="64"/>
       <location filename="../gui/DesignerFiles/Workstation/BaseIoXSdk.ui" line="67"/>
       <location filename="../gui/DesignerFiles/Workstation/BaseIoXSdk.ui" line="70"/>
       <source>IOX IDE</source>
-      <translation type="unfinished">IOX IDE</translation>
+      <translation>IOX IDE</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BaseIoXSdk.ui" line="101"/>
@@ -19430,14 +19430,14 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseLinkSysGUI.ui" line="84"/>
       <source>Linksys GUI</source>
-      <translation type="unfinished">Linksys GUI</translation>
+      <translation>Linksys GUI</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseLinkSysGUI.ui" line="643"/>
       <location filename="../gui/DesignerFiles/Routing/BaseLinkSysGUI.ui" line="646"/>
       <location filename="../gui/DesignerFiles/Routing/BaseLinkSysGUI.ui" line="652"/>
       <source>Wireless-N Broadband Router</source>
-      <translation type="unfinished">Wireless-N Broadband Router</translation>
+      <translation>無線-N 寬頻路由器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseLinkSysGUI.ui" line="712"/>
@@ -20207,7 +20207,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/BasePCWirelessSecuredConnWPA2PSK.ui" line="96"/>
       <location filename="../gui/DesignerFiles/Workstation/BasePCWirelessSecuredConnWPA2PSK.ui" line="99"/>
       <source>PushButton</source>
-      <translation type="unfinished">PushButton</translation>
+      <translation>PushButton</translation>
     </message>
   </context>
   <context>
@@ -20225,7 +20225,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/BasePCWirelessSecuredConnWPAPSK.ui" line="96"/>
       <location filename="../gui/DesignerFiles/Workstation/BasePCWirelessSecuredConnWPAPSK.ui" line="99"/>
       <source>PushButton</source>
-      <translation type="unfinished">PushButton</translation>
+      <translation>PushButton</translation>
     </message>
   </context>
   <context>
@@ -20243,7 +20243,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/BasePCWirelessWPA2PSKSettings.ui" line="83"/>
       <location filename="../gui/DesignerFiles/Workstation/BasePCWirelessWPA2PSKSettings.ui" line="86"/>
       <source>PushButton</source>
-      <translation type="unfinished">PushButton</translation>
+      <translation>PushButton</translation>
     </message>
   </context>
   <context>
@@ -20261,7 +20261,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/BasePCWirelessWPA2Settings.ui" line="93"/>
       <location filename="../gui/DesignerFiles/Workstation/BasePCWirelessWPA2Settings.ui" line="96"/>
       <source>PushButton</source>
-      <translation type="unfinished">PushButton</translation>
+      <translation>PushButton</translation>
     </message>
   </context>
   <context>
@@ -20279,7 +20279,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/BasePCWirelessWPAPSKSettings.ui" line="90"/>
       <location filename="../gui/DesignerFiles/Workstation/BasePCWirelessWPAPSKSettings.ui" line="93"/>
       <source>PushButton</source>
-      <translation type="unfinished">PushButton</translation>
+      <translation>PushButton</translation>
     </message>
   </context>
   <context>
@@ -20297,7 +20297,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/BasePCWirelessWPASettings.ui" line="103"/>
       <location filename="../gui/DesignerFiles/Workstation/BasePCWirelessWPASettings.ui" line="106"/>
       <source>PushButton</source>
-      <translation type="unfinished">PushButton</translation>
+      <translation>PushButton</translation>
     </message>
   </context>
   <context>
@@ -20549,7 +20549,7 @@ Destination:</source>
       <location filename="../gui/DesignerFiles/Workspace/BasePhysicalLocationDialog.ui" line="46"/>
       <location filename="../gui/DesignerFiles/Workspace/BasePhysicalLocationDialog.ui" line="48"/>
       <source>Current Location:</source>
-      <translation type="unfinished">Current Location:</translation>
+      <translation>目前位置：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BasePhysicalLocationDialog.ui" line="65"/>
@@ -20561,7 +20561,7 @@ Destination:</source>
       <location filename="../gui/DesignerFiles/Workspace/BasePhysicalLocationDialog.ui" line="99"/>
       <location filename="../gui/DesignerFiles/Workspace/BasePhysicalLocationDialog.ui" line="101"/>
       <source>Jump to Selected Location</source>
-      <translation type="unfinished">Jump to Selected Location</translation>
+      <translation>跳至所選位置</translation>
     </message>
   </context>
   <context>
@@ -20908,7 +20908,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseRealtimeToolbar.ui" line="23"/>
       <source>CBaseRealtimeToolbar</source>
-      <translation type="unfinished">CBaseRealtimeToolbar</translation>
+      <translation>CBaseRealtimeToolbar</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseRealtimeToolbar.ui" line="72"/>
@@ -20953,7 +20953,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseRouterRipCfg.ui" line="52"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterRipCfg.ui" line="60"/>
       <source>RIP Routing</source>
-      <translation type="unfinished">RIP Routing</translation>
+      <translation>RIP 路由</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterRipCfg.ui" line="98"/>
@@ -20970,7 +20970,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterRipCfg.ui" line="220"/>
       <source>Network Address</source>
-      <translation type="unfinished">Network Address</translation>
+      <translation>網路位址</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterRipCfg.ui" line="255"/>
@@ -21234,13 +21234,13 @@ Connection&lt;/b&gt;&lt;/p&gt;</translation>
     <message>
       <location filename="../gui/DesignerFiles/BaseSelectPkzFilesDlg.ui" line="13"/>
       <source>Pkz-Select Files</source>
-      <translation type="unfinished">Pkz-Select Files</translation>
+      <translation>Pkz - 選取檔案</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseSelectPkzFilesDlg.ui" line="40"/>
       <location filename="../gui/DesignerFiles/BaseSelectPkzFilesDlg.ui" line="42"/>
       <source>Add file(s) to Pkz</source>
-      <translation type="unfinished">Add file(s) to Pkz</translation>
+      <translation>將檔案新增至 Pkz</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseSelectPkzFilesDlg.ui" line="80"/>
@@ -22398,7 +22398,7 @@ Setting&lt;/p&gt;</translation>
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="20"/>
       <source>CBaseSimulationToolbar</source>
-      <translation type="unfinished">CBaseSimulationToolbar</translation>
+      <translation>CBaseSimulationToolbar</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="69"/>
@@ -22447,7 +22447,7 @@ Setting&lt;/p&gt;</translation>
       <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="227"/>
       <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="230"/>
       <source>Capture / Forward</source>
-      <translation type="unfinished">Capture / Forward</translation>
+      <translation>擷取 / 轉送</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="277"/>
@@ -22459,7 +22459,7 @@ Setting&lt;/p&gt;</translation>
     <message>
       <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="274"/>
       <source>Show/Hide Simulation Panel</source>
-      <translation type="unfinished">Show/Hide Simulation Panel</translation>
+      <translation>顯示/隱藏模擬面板</translation>
     </message>
   </context>
   <context>
@@ -22726,7 +22726,7 @@ Setting&lt;/p&gt;</translation>
     <message>
       <location filename="../gui/DesignerFiles/UserCreatedPDU/BaseUserCreatedPDU.ui" line="269"/>
       <source>[ o ]</source>
-      <translation type="unfinished">[ o ]</translation>
+      <translation>[ o ]</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/UserCreatedPDU/BaseUserCreatedPDU.ui" line="260"/>
@@ -24559,7 +24559,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="579"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="582"/>
       <source>Wide Channel:</source>
-      <translation type="unfinished">Wide Channel:</translation>
+      <translation>寬頻道：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="611"/>
@@ -25220,7 +25220,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/WorkstationCustomApp.ui" line="56"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationCustomApp.ui" line="62"/>
       <source>Custom App</source>
-      <translation type="unfinished">Custom App</translation>
+      <translation>自訂應用程式</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationCustomApp.ui" line="81"/>
@@ -25456,7 +25456,7 @@ Send/Receive</source>
       <location filename="../gui/DesignerFiles/Workstation/BaseNetflowCollector.ui" line="56"/>
       <location filename="../gui/DesignerFiles/Workstation/BaseNetflowCollector.ui" line="59"/>
       <source>Netflow Collector</source>
-      <translation type="unfinished">Netflow Collector</translation>
+      <translation>Netflow Collector</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BaseNetflowCollector.ui" line="84"/>
@@ -25561,7 +25561,7 @@ Send/Receive</source>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTextEditor.ui" line="50"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTextEditor.ui" line="56"/>
       <source>Text Editor</source>
-      <translation type="unfinished">Text Editor</translation>
+      <translation>文字編輯器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTextEditor.ui" line="75"/>
@@ -25580,13 +25580,13 @@ Send/Receive</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTextEditorOpen.ui" line="13"/>
       <source>Select Text File</source>
-      <translation type="unfinished">Select Text File</translation>
+      <translation>選取文字檔</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTextEditorOpen.ui" line="36"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTextEditorOpen.ui" line="38"/>
       <source>Select Text File to open in Text Editor</source>
-      <translation type="unfinished">Select Text File to open in Text Editor</translation>
+      <translation>選取要在文字編輯器中開啟的文字檔</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTextEditorOpen.ui" line="86"/>
@@ -25616,12 +25616,12 @@ Send/Receive</source>
     <message>
       <location filename="../gui/IPC/CEPActiveDlg.cpp" line="104"/>
       <source> ExApps</source>
-      <translation type="unfinished"> ExApps</translation>
+      <translation> ExApp</translation>
     </message>
     <message>
       <location filename="../gui/IPC/CEPActiveDlg.cpp" line="105"/>
       <source>This is a mandatory ExApp and may not be disconnected.</source>
-      <translation type="unfinished">This is a mandatory ExApp and may not be disconnected.</translation>
+      <translation>這是必要的 ExApp，不可中斷連線。</translation>
     </message>
   </context>
   <context>
@@ -25692,7 +25692,7 @@ This ExApp is mandatory and may not be removed or disabled.</source>
     <message>
       <location filename="../gui/Workspace/Physical/RackView/CablePegboard.cpp" line="726"/>
       <source>Removing the cable pegboard will also delete all of the cables on it. Continue?</source>
-      <translation type="unfinished">Removing the cable pegboard will also delete all of the cables on it. Continue?</translation>
+      <translation>移除纜線掛板也會刪除其上的所有纜線。是否繼續？</translation>
     </message>
   </context>
   <context>
@@ -25700,22 +25700,22 @@ This ExApp is mandatory and may not be removed or disabled.</source>
     <message>
       <location filename="../gui/Workspace/Physical/RackView/CableViewPopWidget.cpp" line="43"/>
       <source>Dest. Device: %1</source>
-      <translation type="unfinished">Dest. Device: %1</translation>
+      <translation>目的裝置：%1</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/RackView/CableViewPopWidget.cpp" line="44"/>
       <source>Dest. Port: %1</source>
-      <translation type="unfinished">Dest. Port: %1</translation>
+      <translation>目的連接埠：%1</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/RackView/CableViewPopWidget.cpp" line="45"/>
       <source>Total Cable Length: %1 meter(s)</source>
-      <translation type="unfinished">Total Cable Length: %1 meter(s)</translation>
+      <translation>纜線總長度：%1 公尺</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/RackView/CableViewPopWidget.cpp" line="46"/>
       <source>Cable Type: %1</source>
-      <translation type="unfinished">Cable Type: %1</translation>
+      <translation>纜線類型：%1</translation>
     </message>
   </context>
   <context>
@@ -25810,13 +25810,13 @@ This ExApp is mandatory and may not be removed or disabled.</source>
       <location filename="../gui/DeviceConfig/CiscoWireless/CiscoAPDialog.cpp" line="316"/>
       <source>Device is still booting.
 Please wait until it is finished.</source>
-      <translation type="unfinished">Device is still booting.
-Please wait until it is finished.</translation>
+      <translation>裝置仍在開機中。
+請等待完成。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/CiscoWireless/CiscoAPDialog.cpp" line="354"/>
       <source>Device is in ROMMON mode.</source>
-      <translation type="unfinished">Device is in ROMMON mode.</translation>
+      <translation>裝置處於 ROMMON 模式。</translation>
     </message>
   </context>
   <context>
@@ -25826,14 +25826,14 @@ Please wait until it is finished.</translation>
       <location filename="../gui/DeviceConfig/Switch/CiscoDeviceVlanCfg.cpp" line="173"/>
       <location filename="../gui/DeviceConfig/Switch/CiscoDeviceVlanCfg.cpp" line="176"/>
       <source>VLAN Database</source>
-      <translation type="unfinished">VLAN Database</translation>
+      <translation>VLAN 資料庫</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Switch/CiscoDeviceVlanCfg.cpp" line="171"/>
       <location filename="../gui/DeviceConfig/Switch/CiscoDeviceVlanCfg.cpp" line="174"/>
       <location filename="../gui/DeviceConfig/Switch/CiscoDeviceVlanCfg.cpp" line="177"/>
       <source>Please enter a VLAN name and number.</source>
-      <translation type="unfinished">Please enter a VLAN name and number.</translation>
+      <translation>請輸入 VLAN 名稱與編號。</translation>
     </message>
   </context>
   <context>
@@ -26246,17 +26246,17 @@ Please wait until it is finished.</translation>
     <message>
       <location filename="../gui/DeviceConfig/CommandLine.cpp" line="169"/>
       <source>Command+F6 to exit CLI focus.</source>
-      <translation type="unfinished">Command+F6 to exit CLI focus.</translation>
+      <translation>按 Command+F6 結束 CLI 焦點。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/CommandLine.cpp" line="171"/>
       <source>Control+F6 to exit CLI focus.</source>
-      <translation type="unfinished">Control+F6 to exit CLI focus.</translation>
+      <translation>按 Control+F6 結束 CLI 焦點。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/CommandLine.cpp" line="291"/>
       <source>The equivalent IOS Commands are </source>
-      <translation type="unfinished">The equivalent IOS Commands are </translation>
+      <translation>對等的 IOS 命令為 </translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/CommandLine.cpp" line="822"/>
@@ -26772,12 +26772,12 @@ Publisher Certificate Information:
     <message>
       <location filename="../gui/DeviceConfig/Router/DMZSettings.cpp" line="116"/>
       <source>Illegal characters [ acceptable characters: 0 to 9 ].</source>
-      <translation type="unfinished">Illegal characters [ acceptable characters: 0 to 9 ].</translation>
+      <translation>字元不合法 [ 可接受的字元：0 到 9 ]。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/DMZSettings.cpp" line="122"/>
       <source>The value is out of range [0-254].</source>
-      <translation type="unfinished">The value is out of range [0-254].</translation>
+      <translation>值超出範圍 [0-254]。</translation>
     </message>
   </context>
   <context>
@@ -26814,7 +26814,7 @@ Publisher Certificate Information:
     <message>
       <location filename="../gui/scripting/CDataStoreEditor.cpp" line="230"/>
       <source>Import Data Store Files</source>
-      <translation type="unfinished">Import Data Store Files</translation>
+      <translation>匯入資料儲存區檔案</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CDataStoreEditor.cpp" line="168"/>
@@ -26825,12 +26825,12 @@ Publisher Certificate Information:
       <location filename="../gui/scripting/CDataStoreEditor.cpp" line="257"/>
       <location filename="../gui/scripting/CDataStoreEditor.cpp" line="349"/>
       <source>A data store file with the same name (%1) already exists. Do you want to replace it?</source>
-      <translation type="unfinished">A data store file with the same name (%1) already exists. Do you want to replace it?</translation>
+      <translation>已存在同名的資料儲存區檔案 (%1)。是否要取代它？</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CDataStoreEditor.cpp" line="302"/>
       <source>Import Data Store Files from Directory</source>
-      <translation type="unfinished">Import Data Store Files from Directory</translation>
+      <translation>從目錄匯入資料儲存區檔案</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CDataStoreEditor.cpp" line="399"/>
@@ -26863,12 +26863,12 @@ Publisher Certificate Information:
     <message>
       <location filename="../gui/scripting/DebugDialog.cpp" line="72"/>
       <source>Debug - File Script Module</source>
-      <translation type="unfinished">Debug - File Script Module</translation>
+      <translation>偵錯 - 檔案指令碼模組</translation>
     </message>
     <message>
       <location filename="../gui/scripting/DebugDialog.cpp" line="74"/>
       <source>Debug - %1</source>
-      <translation type="unfinished">Debug - %1</translation>
+      <translation>偵錯 - %1</translation>
     </message>
     <message>
       <location filename="../gui/scripting/DebugDialog.cpp" line="76"/>
@@ -27220,7 +27220,7 @@ Publisher Certificate Information:
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceSpecificBox.cpp" line="74"/>
       <source>List of device models</source>
-      <translation type="unfinished">List of device models</translation>
+      <translation>裝置型號清單</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceSpecificBox.cpp" line="81"/>
@@ -27236,7 +27236,7 @@ Publisher Certificate Information:
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceSpecificBox.cpp" line="296"/>
       <source>CDeviceTypesBox</source>
-      <translation type="unfinished">CDeviceTypesBox</translation>
+      <translation>CDeviceTypesBox</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceSpecificBox.cpp" line="223"/>
@@ -27576,12 +27576,12 @@ stamp</source>
     <message>
       <location filename="../gui/Workspace/Logical/DeviceTemplateManager.cpp" line="553"/>
       <source>Save File in Templates Folder</source>
-      <translation type="unfinished">Save File in Templates Folder</translation>
+      <translation>將檔案儲存至範本資料夾</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/DeviceTemplateManager.cpp" line="554"/>
       <source> Custom Device Template File (*.ptd)</source>
-      <translation type="unfinished"> Custom Device Template File (*.ptd)</translation>
+      <translation> 自訂裝置範本檔 (*.ptd)</translation>
     </message>
   </context>
   <context>
@@ -27589,12 +27589,12 @@ stamp</source>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="62"/>
       <source>List of device categories</source>
-      <translation type="unfinished">List of device categories</translation>
+      <translation>裝置類別清單</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="176"/>
       <source>Search for device</source>
-      <translation type="unfinished">Search for device</translation>
+      <translation>搜尋裝置</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="474"/>
@@ -27604,7 +27604,7 @@ stamp</source>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="503"/>
       <source>CDeviceTypesBox</source>
-      <translation type="unfinished">CDeviceTypesBox</translation>
+      <translation>CDeviceTypesBox</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="532"/>
@@ -27725,12 +27725,12 @@ stamp</source>
     <message>
       <location filename="../gui/Workspace/Physical/RackView/DeviceViewPopWidget.cpp" line="186"/>
       <source>Rear</source>
-      <translation type="unfinished">Rear</translation>
+      <translation>後面</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/RackView/DeviceViewPopWidget.cpp" line="191"/>
       <source>Front</source>
-      <translation type="unfinished">Front</translation>
+      <translation>前面</translation>
     </message>
   </context>
   <context>
@@ -28297,13 +28297,13 @@ Address</source>
       <location filename="../gui/DesignerFiles/Cloud/EthernetSettings.ui" line="52"/>
       <location filename="../gui/DesignerFiles/Cloud/EthernetSettings.ui" line="57"/>
       <source>Ethernet6</source>
-      <translation type="unfinished">Ethernet6</translation>
+      <translation>Ethernet6</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Cloud/EthernetSettings.ui" line="95"/>
       <location filename="../gui/DesignerFiles/Cloud/EthernetSettings.ui" line="97"/>
       <source>Provider Network :</source>
-      <translation type="unfinished">Provider Network :</translation>
+      <translation>提供者網路：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Cloud/EthernetSettings.ui" line="126"/>
@@ -30338,17 +30338,17 @@ and all previous settings will be erased.</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/IPCommunicatorPreferencesDlg.cpp" line="32"/>
       <source>Audio</source>
-      <translation type="unfinished">Audio</translation>
+      <translation>音訊</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/IPCommunicatorPreferencesDlg.cpp" line="33"/>
       <source>Directories</source>
-      <translation type="unfinished">Directories</translation>
+      <translation>Directories</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/IPCommunicatorPreferencesDlg.cpp" line="168"/>
       <source>TFTP Server Address contains an empty field.</source>
-      <translation type="unfinished">TFTP Server Address contains an empty field.</translation>
+      <translation>TFTP Server Address contains an empty field.</translation>
     </message>
   </context>
   <context>
@@ -31404,7 +31404,7 @@ reset activity?</source>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="50"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="53"/>
       <source>Wireless Settings</source>
-      <translation type="unfinished">Wireless Settings</translation>
+      <translation>無線設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="96"/>
@@ -31418,7 +31418,7 @@ reset activity?</source>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="138"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="141"/>
       <source>Channel</source>
-      <translation type="unfinished">Channel</translation>
+      <translation>頻道</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="175"/>
@@ -31437,7 +31437,7 @@ reset activity?</source>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="244"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="247"/>
       <source>Key</source>
-      <translation type="unfinished">Key</translation>
+      <translation>Key</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="330"/>
@@ -31505,7 +31505,7 @@ reset activity?</source>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="299"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="302"/>
       <source>Pass Phrase</source>
-      <translation type="unfinished">Pass Phrase</translation>
+      <translation>Pass Phrase</translation>
     </message>
   </context>
   <context>
@@ -32882,7 +32882,7 @@ reset activity?</source>
     <message>
       <location filename="../gui/Common/MessageboxPT4.cpp" line="53"/>
       <source>Question</source>
-      <translation type="unfinished">Question</translation>
+      <translation>問題</translation>
     </message>
     <message>
       <location filename="../gui/Common/MessageboxPT4.cpp" line="58"/>
@@ -32892,7 +32892,7 @@ reset activity?</source>
     <message>
       <location filename="../gui/Common/MessageboxPT4.cpp" line="63"/>
       <source>Information</source>
-      <translation type="unfinished">Information</translation>
+      <translation>資訊</translation>
     </message>
   </context>
   <context>
@@ -32900,17 +32900,17 @@ reset activity?</source>
     <message>
       <location filename="../gui/DeviceConfig/Physical/ModuleContainer.cpp" line="82"/>
       <source>Physical Image</source>
-      <translation type="unfinished">Physical Image</translation>
+      <translation>實體影像</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Physical/ModuleContainer.cpp" line="1241"/>
       <source>Please move the topmost device first.</source>
-      <translation type="unfinished">Please move the topmost device first.</translation>
+      <translation>請先移動最上方的裝置。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Physical/ModuleContainer.cpp" line="1241"/>
       <source>Storage Shelf -- %1</source>
-      <translation type="unfinished">Storage Shelf -- %1</translation>
+      <translation>儲存架 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Physical/ModuleContainer.cpp" line="1327"/>
@@ -32966,7 +32966,7 @@ reset activity?</source>
       <location filename="../gui/DeviceConfig/Physical/ModuleContainer.cpp" line="2403"/>
       <location filename="../gui/DeviceConfig/Physical/ModuleContainer.cpp" line="2419"/>
       <source>A cable is already connected to that port.</source>
-      <translation type="unfinished">A cable is already connected to that port.</translation>
+      <translation>該連接埠已連接纜線。</translation>
     </message>
   </context>
   <context>
@@ -33179,12 +33179,12 @@ reset activity?</source>
     <message>
       <location filename="../gui/Multiuser/MultiUserOptionsDlg.cpp" line="82"/>
       <source>Invalid Depth entered for Remote Saving.</source>
-      <translation type="unfinished">Invalid Depth entered for Remote Saving.</translation>
+      <translation>為遠端儲存輸入的深度無效。</translation>
     </message>
     <message>
       <location filename="../gui/Multiuser/MultiUserOptionsDlg.cpp" line="89"/>
       <source>Enter Depth for Remote Saving.</source>
-      <translation type="unfinished">Enter Depth for Remote Saving.</translation>
+      <translation>請輸入遠端儲存的深度。</translation>
     </message>
   </context>
   <context>
@@ -33330,12 +33330,12 @@ reset activity?</source>
     <message>
       <location filename="../gui/DeviceConfig/NetworkController/NetworkControllerDialog.cpp" line="89"/>
       <source>REAL WORLD</source>
-      <translation type="unfinished">REAL WORLD</translation>
+      <translation>真實世界</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/NetworkController/NetworkControllerDialog.cpp" line="90"/>
       <source>Controller</source>
-      <translation type="unfinished">Controller</translation>
+      <translation>Controller</translation>
     </message>
   </context>
   <context>
@@ -33393,12 +33393,12 @@ Please try to use a different port.</source>
       <location filename="../gui/Multiuser/OfflineSaveProgressDialog.cpp" line="58"/>
       <location filename="../gui/Multiuser/OfflineSaveProgressDialog.cpp" line="64"/>
       <source>Offline Saving Aborted.</source>
-      <translation type="unfinished">Offline Saving Aborted.</translation>
+      <translation>離線儲存已中止。</translation>
     </message>
     <message>
       <location filename="../gui/Multiuser/OfflineSaveProgressDialog.cpp" line="68"/>
       <source>Error Canceling Offline Saving.</source>
-      <translation type="unfinished">Error Canceling Offline Saving.</translation>
+      <translation>取消離線儲存時發生錯誤。</translation>
     </message>
     <message>
       <location filename="../gui/Multiuser/OfflineSaveProgressDialog.cpp" line="70"/>
@@ -33409,7 +33409,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/Multiuser/OfflineSaveProgressDialog.cpp" line="94"/>
       <source>Offline Saving Success.</source>
-      <translation type="unfinished">Offline Saving Success.</translation>
+      <translation>離線儲存成功。</translation>
     </message>
     <message>
       <location filename="../gui/Multiuser/OfflineSaveProgressDialog.cpp" line="128"/>
@@ -33419,7 +33419,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/Multiuser/OfflineSaveProgressDialog.cpp" line="129"/>
       <source>Offline Saving in Progress.</source>
-      <translation type="unfinished">Offline Saving in Progress.</translation>
+      <translation>離線儲存進行中。</translation>
     </message>
   </context>
   <context>
@@ -33435,7 +33435,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessAdHocSettingsBase.ui" line="19"/>
       <source>Form1</source>
-      <translation type="unfinished">Form1</translation>
+      <translation>Form1</translation>
     </message>
   </context>
   <context>
@@ -33443,7 +33443,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessAssociationBase.ui" line="19"/>
       <source>Form1</source>
-      <translation type="unfinished">Form1</translation>
+      <translation>Form1</translation>
     </message>
   </context>
   <context>
@@ -33459,7 +33459,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessConfirmSettingsBase.ui" line="19"/>
       <source>Form1</source>
-      <translation type="unfinished">Form1</translation>
+      <translation>Form1</translation>
     </message>
   </context>
   <context>
@@ -33467,7 +33467,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessConnectionInfoBase.ui" line="19"/>
       <source>Form1</source>
-      <translation type="unfinished">Form1</translation>
+      <translation>Form1</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessConnectionInfoBase.ui" line="217"/>
@@ -33503,7 +33503,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessModeBase.ui" line="20"/>
       <source>Form1</source>
-      <translation type="unfinished">Form1</translation>
+      <translation>Form1</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessModeBase.ui" line="160"/>
@@ -33516,7 +33516,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessNetworkSettingsBase.ui" line="20"/>
       <source>Form1</source>
-      <translation type="unfinished">Form1</translation>
+      <translation>Form1</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessNetworkSettingsBase.ui" line="53"/>
@@ -33531,7 +33531,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessNetworkStatsBase.ui" line="19"/>
       <source>Form1</source>
-      <translation type="unfinished">Form1</translation>
+      <translation>Form1</translation>
     </message>
   </context>
   <context>
@@ -33539,7 +33539,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessNetworkStatusBase.ui" line="19"/>
       <source>Form1</source>
-      <translation type="unfinished">Form1</translation>
+      <translation>Form1</translation>
     </message>
   </context>
   <context>
@@ -33547,7 +33547,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessNoAssociationBase.ui" line="19"/>
       <source>Form1</source>
-      <translation type="unfinished">Form1</translation>
+      <translation>Form1</translation>
     </message>
   </context>
   <context>
@@ -33555,7 +33555,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessProfileEditBase.ui" line="19"/>
       <source>Form1</source>
-      <translation type="unfinished">Form1</translation>
+      <translation>Form1</translation>
     </message>
   </context>
   <context>
@@ -33563,7 +33563,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessProfileSavedBase.ui" line="19"/>
       <source>Form1</source>
-      <translation type="unfinished">Form1</translation>
+      <translation>Form1</translation>
     </message>
   </context>
   <context>
@@ -33571,7 +33571,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessProfilesBase.ui" line="19"/>
       <source>Form1</source>
-      <translation type="unfinished">Form1</translation>
+      <translation>Form1</translation>
     </message>
   </context>
   <context>
@@ -33579,7 +33579,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessSecuredConnWEPBase.ui" line="20"/>
       <source>Form1</source>
-      <translation type="unfinished">Form1</translation>
+      <translation>Form1</translation>
     </message>
   </context>
   <context>
@@ -33587,7 +33587,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessSecurityBase.ui" line="19"/>
       <source>Form1</source>
-      <translation type="unfinished">Form1</translation>
+      <translation>Form1</translation>
     </message>
   </context>
   <context>
@@ -33595,7 +33595,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessSecurityWEPBase.ui" line="20"/>
       <source>Form1</source>
-      <translation type="unfinished">Form1</translation>
+      <translation>Form1</translation>
     </message>
   </context>
   <context>
@@ -33608,7 +33608,7 @@ Please try to use a different port.</source>
       <location filename="../gui/DeviceConfig/Router/PCIPListDlg.cpp" line="213"/>
       <location filename="../gui/DeviceConfig/Router/PCIPListDlg.cpp" line="229"/>
       <source>Illegal characters [ acceptable characters: 0 to 9 ].</source>
-      <translation type="unfinished">Illegal characters [ acceptable characters: 0 to 9 ].</translation>
+      <translation>字元不合法 [ 可接受的字元：0 到 9 ]。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/PCIPListDlg.cpp" line="155"/>
@@ -33618,7 +33618,7 @@ Please try to use a different port.</source>
       <location filename="../gui/DeviceConfig/Router/PCIPListDlg.cpp" line="219"/>
       <location filename="../gui/DeviceConfig/Router/PCIPListDlg.cpp" line="235"/>
       <source>The value is out of range [0-254].</source>
-      <translation type="unfinished">The value is out of range [0-254].</translation>
+      <translation>值超出範圍 [0-254]。</translation>
     </message>
   </context>
   <context>
@@ -33636,12 +33636,12 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessAdHocSettings.cpp" line="56"/>
       <source>Network Mode - Select the network mode in which your Wireless network will operate. In mixed mode, wireless N, Wireless B, and Wireless G devices can operate on the same network. In wireless G only mode, no wireless B devices can operate in the network.</source>
-      <translation type="unfinished">Network Mode - Select the network mode in which your Wireless network will operate. In mixed mode, wireless N, Wireless B, and Wireless G devices can operate on the same network. In wireless G only mode, no wireless B devices can operate in the network.</translation>
+      <translation>網路模式 - 選取無線網路的運作模式。在混合模式下，Wireless-N、Wireless-B 與 Wireless-G 裝置可在同一個網路上運作；在僅 Wireless-G 模式下，網路中不能有 Wireless-B 裝置。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessAdHocSettings.cpp" line="57"/>
       <source>Standard Channel - Select the correct channel for your wireless network. The channel you choose should match the channel set on the other devices in your wireless network. If you are unsure about what channel to use, keep the default setting to auto.</source>
-      <translation type="unfinished">Standard Channel - Select the correct channel for your wireless network. The channel you choose should match the channel set on the other devices in your wireless network. If you are unsure about what channel to use, keep the default setting to auto.</translation>
+      <translation>標準頻道 - 為您的無線網路選取正確的頻道。所選頻道應與無線網路中其他裝置設定的頻道相符。若不確定要使用哪個頻道，請保留預設的自動設定。</translation>
     </message>
   </context>
   <context>
@@ -33664,12 +33664,12 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessAssociation.cpp" line="71"/>
       <source>More Info</source>
-      <translation type="unfinished">More Info</translation>
+      <translation>更多資訊</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessAssociation.cpp" line="72"/>
       <source>You have successfully connected to the access point.</source>
-      <translation type="unfinished">You have successfully connected to the access point.</translation>
+      <translation>您已成功連線到存取點。</translation>
     </message>
   </context>
   <context>
@@ -34236,12 +34236,12 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessMode.cpp" line="65"/>
       <source>Infrastructure mode</source>
-      <translation type="unfinished">Infrastructure mode</translation>
+      <translation>基礎結構模式</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessMode.cpp" line="66"/>
       <source>Adhoc mode</source>
-      <translation type="unfinished">Adhoc mode</translation>
+      <translation>隨意模式</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessMode.cpp" line="67"/>
@@ -34942,12 +34942,12 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecuredConnWPAPSK.cpp" line="48"/>
       <source>AES</source>
-      <translation type="unfinished">AES</translation>
+      <translation>AES</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecuredConnWPAPSK.cpp" line="49"/>
       <source>TKIP</source>
-      <translation type="unfinished">TKIP</translation>
+      <translation>TKIP</translation>
     </message>
   </context>
   <context>
@@ -35041,12 +35041,12 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessWPAPSKSettings.cpp" line="50"/>
       <source>TKIP</source>
-      <translation type="unfinished">TKIP</translation>
+      <translation>TKIP</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessWPAPSKSettings.cpp" line="51"/>
       <source>AES</source>
-      <translation type="unfinished">AES</translation>
+      <translation>AES</translation>
     </message>
   </context>
   <context>
@@ -35054,12 +35054,12 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/PDUInfo/PduHeaderTemplate.cpp" line="260"/>
       <source>Units in </source>
-      <translation type="unfinished">Units in </translation>
+      <translation>單位：</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PduHeaderTemplate.cpp" line="301"/>
       <source> units</source>
-      <translation type="unfinished"> units</translation>
+      <translation> 單位</translation>
     </message>
   </context>
   <context>
@@ -36049,13 +36049,13 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/Workspace/Physical/RackView/PhysicalCable.cpp" line="213"/>
       <source>
 Total Cable Length: %1</source>
-      <translation type="unfinished">
-Total Cable Length: %1</translation>
+      <translation>
+纜線總長度：%1</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/RackView/PhysicalCable.cpp" line="218"/>
       <source>%6 cable connecting device %1 port %2 with device %3 Port %4</source>
-      <translation type="unfinished">%6 cable connecting device %1 port %2 with device %3 Port %4</translation>
+      <translation>%6 纜線連接裝置 %1 的連接埠 %2 與裝置 %3 的連接埠 %4</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/RackView/PhysicalCable.cpp" line="219"/>
@@ -36064,11 +36064,11 @@ Source Port: %2
 Dest. Device: %3 
 Dest. Port: %4 %5
 Cable Type: %6</source>
-      <translation type="unfinished">Source Device: %1 
-Source Port: %2 
-Dest. Device: %3 
-Dest. Port: %4 %5
-Cable Type: %6</translation>
+      <translation>來源裝置：%1 
+來源連接埠：%2 
+目的裝置：%3 
+目的連接埠：%4 %5
+纜線類型：%6</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/RackView/PhysicalCable.cpp" line="669"/>
@@ -36142,17 +36142,17 @@ Cable Type: %6</translation>
     <message>
       <location filename="../gui/Workspace/PhysicalLocationDialog.cpp" line="118"/>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>未知</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/PhysicalLocationDialog.cpp" line="153"/>
       <source>Current Location: %1</source>
-      <translation type="unfinished">Current Location: %1</translation>
+      <translation>目前位置：%1</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/PhysicalLocationDialog.cpp" line="155"/>
       <source>Full Path: %1</source>
-      <translation type="unfinished">Full Path: %1</translation>
+      <translation>完整路徑：%1</translation>
     </message>
   </context>
   <context>
@@ -36228,12 +36228,12 @@ Cable Type: %6</translation>
     <message>
       <location filename="../gui/IoE/PhysicalObjectDialog.cpp" line="224"/>
       <source>Save File in Templates Folder</source>
-      <translation type="unfinished">Save File in Templates Folder</translation>
+      <translation>將檔案儲存至範本資料夾</translation>
     </message>
     <message>
       <location filename="../gui/IoE/PhysicalObjectDialog.cpp" line="225"/>
       <source> Custom Device Template File (*.ptt)</source>
-      <translation type="unfinished"> Custom Device Template File (*.ptt)</translation>
+      <translation> 自訂裝置範本檔 (*.ptt)</translation>
     </message>
   </context>
   <context>
@@ -36341,7 +36341,7 @@ Total Area: scaleless</source>
     <message>
       <location filename="../gui/AdministrativeOptions/CPixmapViewer.cpp" line="56"/>
       <source>Ensure you are no longer using this image! Deletion of utilized images will result in &quot;file not found&quot;. Do you want to delete </source>
-      <translation type="unfinished">Ensure you are no longer using this image! Deletion of utilized images will result in &quot;file not found&quot;. Do you want to delete </translation>
+      <translation>請確認您不再使用此影像！刪除使用中的影像將導致「找不到檔案」。是否要刪除 </translation>
     </message>
     <message>
       <location filename="../gui/AdministrativeOptions/CPixmapViewer.cpp" line="56"/>
@@ -36367,7 +36367,7 @@ Total Area: scaleless</source>
     <message>
       <location filename="../gui/AdministrativeOptions/CPixmapViewer.cpp" line="136"/>
       <source>Movie</source>
-      <translation type="unfinished">Movie</translation>
+      <translation>影片</translation>
     </message>
   </context>
   <context>
@@ -36375,13 +36375,13 @@ Total Area: scaleless</source>
     <message>
       <location filename="../gui/DesignerFiles/Cloud/PotsSettings.ui" line="13"/>
       <source>Pots Config</source>
-      <translation type="unfinished">Pots Config</translation>
+      <translation>POTS 組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Cloud/PotsSettings.ui" line="34"/>
       <location filename="../gui/DesignerFiles/Cloud/PotsSettings.ui" line="45"/>
       <source>POTS</source>
-      <translation type="unfinished">POTS</translation>
+      <translation>POTS</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Cloud/PotsSettings.ui" line="71"/>
@@ -36399,7 +36399,7 @@ Total Area: scaleless</source>
       <location filename="../gui/DesignerFiles/Cloud/PotsSettings.ui" line="123"/>
       <location filename="../gui/DesignerFiles/Cloud/PotsSettings.ui" line="131"/>
       <source>Phone Number</source>
-      <translation type="unfinished">Phone Number</translation>
+      <translation>電話號碼</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Cloud/PotsSettings.ui" line="168"/>
@@ -36459,14 +36459,14 @@ Total Area: scaleless</source>
     <message>
       <location filename="../gui/activity/Wizard/ProficiencyModelPopup.cpp" line="114"/>
       <source>Enter a description.</source>
-      <translation type="unfinished">Enter a description.</translation>
+      <translation>請輸入描述。</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ProficiencyModelPopup.cpp" line="119"/>
       <source>Variables in the scoring model all have a name, value, description, and expression. We are typically interested the value.
  &lt;name&gt;.value, i.e., r0power.value</source>
-      <translation type="unfinished">Variables in the scoring model all have a name, value, description, and expression. We are typically interested the value.
- &lt;name&gt;.value, i.e., r0power.value</translation>
+      <translation>計分模型中的變數都有名稱、值、描述與運算式，我們通常關注的是值。
+ &lt;name&gt;.value，例如 r0power.value</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ProficiencyModelPopup.cpp" line="166"/>
@@ -36593,19 +36593,19 @@ Command Prompt Commands: %7</source>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/CQueuePercentageFilledBase.ui" line="13"/>
       <source>Qos - Queue</source>
-      <translation type="unfinished">Qos - Queue</translation>
+      <translation>Qos - Queue</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/CQueuePercentageFilledBase.ui" line="54"/>
       <location filename="../gui/DesignerFiles/Simulation/CQueuePercentageFilledBase.ui" line="56"/>
       <source>Details</source>
-      <translation type="unfinished">Details</translation>
+      <translation>詳細資料</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/CQueuePercentageFilledBase.ui" line="82"/>
       <location filename="../gui/DesignerFiles/Simulation/CQueuePercentageFilledBase.ui" line="87"/>
       <source>Percentage of Queue Filled</source>
-      <translation type="unfinished">Percentage of Queue Filled</translation>
+      <translation>佇列已填滿百分比</translation>
     </message>
   </context>
   <context>
@@ -36613,13 +36613,13 @@ Command Prompt Commands: %7</source>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/CQueuedPktDetailsBase.ui" line="13"/>
       <source>QoS - Queued Packets</source>
-      <translation type="unfinished">QoS - Queued Packets</translation>
+      <translation>QoS - 佇列中的封包</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/CQueuedPktDetailsBase.ui" line="26"/>
       <location filename="../gui/DesignerFiles/Simulation/CQueuedPktDetailsBase.ui" line="31"/>
       <source>Packet Information</source>
-      <translation type="unfinished">Packet Information</translation>
+      <translation>封包資訊</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/CQueuedPktDetailsBase.ui" line="40"/>
@@ -36629,7 +36629,7 @@ Command Prompt Commands: %7</source>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/CQueuedPktDetailsBase.ui" line="45"/>
       <source>Info</source>
-      <translation type="unfinished">Info</translation>
+      <translation>資訊</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Simulation/CQueuedPktDetailsBase.ui" line="50"/>
@@ -36912,17 +36912,17 @@ Bluetooth Tether AP: %1
     <message>
       <location filename="../gui/Workspace/Physical/RackView/Rack.cpp" line="429"/>
       <source>%1 is not rack mountable.</source>
-      <translation type="unfinished">%1 is not rack mountable.</translation>
+      <translation>%1 無法安裝於機架。</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/RackView/Rack.cpp" line="544"/>
       <source>This slot does not fit this device.</source>
-      <translation type="unfinished">This slot does not fit this device.</translation>
+      <translation>此插槽不適用於此裝置。</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/RackView/Rack.cpp" line="1027"/>
       <source>Removing the rack will also delete all the devices. Continue?</source>
-      <translation type="unfinished">Removing the rack will also delete all the devices. Continue?</translation>
+      <translation>移除機架也會刪除所有裝置。是否繼續？</translation>
     </message>
   </context>
   <context>
@@ -37055,7 +37055,7 @@ Bluetooth Tether AP: %1
     <message>
       <location filename="../gui/switches/RealtimeToolbar.cpp" line="127"/>
       <source>Fast Forward Time (Option+D)</source>
-      <translation type="unfinished">Fast Forward Time (Option+D)</translation>
+      <translation>快轉時間 (Option+D)</translation>
     </message>
     <message>
       <location filename="../gui/switches/RealtimeToolbar.cpp" line="128"/>
@@ -37070,7 +37070,7 @@ Bluetooth Tether AP: %1
     <message>
       <location filename="../gui/switches/RealtimeToolbar.cpp" line="228"/>
       <source>Cannot fast forward time when remote networks are connected.</source>
-      <translation type="unfinished">Cannot fast forward time when remote networks are connected.</translation>
+      <translation>連線遠端網路時無法快轉時間。</translation>
     </message>
   </context>
   <context>
@@ -37384,13 +37384,13 @@ Please wait until it is finished.</source>
       <location filename="../gui/DeviceConfig/Router/RouterRipCfg.cpp" line="65"/>
       <location filename="../gui/DeviceConfig/Router/RouterRipCfg.cpp" line="251"/>
       <source>Network Address</source>
-      <translation type="unfinished">Network Address</translation>
+      <translation>網路位址</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterRipCfg.cpp" line="122"/>
       <location filename="../gui/DeviceConfig/Router/RouterRipCfg.cpp" line="164"/>
       <source>Invalid network address entered.</source>
-      <translation type="unfinished">Invalid network address entered.</translation>
+      <translation>輸入的網路位址無效。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterRipCfg.cpp" line="183"/>
@@ -37403,17 +37403,17 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterServerDhcp.cpp" line="143"/>
       <source>Invalid IP or Mask Address.</source>
-      <translation type="unfinished">Invalid IP or Mask Address.</translation>
+      <translation>IP 或遮罩位址無效。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterServerDhcp.cpp" line="156"/>
       <source>Overlap IP Address.</source>
-      <translation type="unfinished">Overlap IP Address.</translation>
+      <translation>IP 位址重疊。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterServerDhcp.cpp" line="182"/>
       <source>Start IP Address must be a number.</source>
-      <translation type="unfinished">Start IP Address must be a number.</translation>
+      <translation>起始 IP 位址必須是數字。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterServerDhcp.cpp" line="191"/>
@@ -37568,22 +37568,22 @@ Please wait until it is finished.</source>
       <location filename="../gui/DeviceConfig/Router/RouterStaticCfg.cpp" line="64"/>
       <location filename="../gui/DeviceConfig/Router/RouterStaticCfg.cpp" line="243"/>
       <source>Network Address</source>
-      <translation type="unfinished">Network Address</translation>
+      <translation>網路位址</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterStaticCfg.cpp" line="150"/>
       <source>Invalid destination network address.</source>
-      <translation type="unfinished">Invalid destination network address.</translation>
+      <translation>目的網路位址無效。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterStaticCfg.cpp" line="159"/>
       <source>Invalid subnet mask.</source>
-      <translation type="unfinished">Invalid subnet mask.</translation>
+      <translation>子網路遮罩無效。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterStaticCfg.cpp" line="168"/>
       <source>Invalid next hop IP address.</source>
-      <translation type="unfinished">Invalid next hop IP address.</translation>
+      <translation>下一跳 IP 位址無效。</translation>
     </message>
   </context>
   <context>
@@ -37591,12 +37591,12 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterStatus.cpp" line="91"/>
       <source>Static IP</source>
-      <translation type="unfinished">Static IP</translation>
+      <translation>靜態 IP</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterStatus.cpp" line="121"/>
       <source>Automatic Configuration - DHCP</source>
-      <translation type="unfinished">Automatic Configuration - DHCP</translation>
+      <translation>自動組態 - DHCP</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterStatus.cpp" line="358"/>
@@ -37765,21 +37765,21 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../engine/scripting/CScriptHttpServer.cpp" line="74"/>
       <source>PacketTracer Real HTTP server</source>
-      <translation type="unfinished">PacketTracer Real HTTP server</translation>
+      <translation>PacketTracer 真實 HTTP 伺服器</translation>
     </message>
     <message>
       <location filename="../engine/scripting/CScriptHttpServer.cpp" line="130"/>
       <source>Start HTTP Server</source>
-      <translation type="unfinished">Start HTTP Server</translation>
+      <translation>啟動 HTTP 伺服器</translation>
     </message>
     <message>
       <location filename="../engine/scripting/CScriptHttpServer.cpp" line="131"/>
       <source>%1 is requesting permission to start HTTP server on port %2.
 
 Do you want to allow it?</source>
-      <translation type="unfinished">%1 is requesting permission to start HTTP server on port %2.
+      <translation>%1 要求權限以在連接埠 %2 上啟動 HTTP 伺服器。
 
-Do you want to allow it?</translation>
+是否允許？</translation>
     </message>
   </context>
   <context>
@@ -38043,16 +38043,16 @@ Do you want to allow it?</source>
     <message>
       <location filename="../engine/scripting/CScriptTcpServer.cpp" line="59"/>
       <source>Listen to TCP Port</source>
-      <translation type="unfinished">Listen to TCP Port</translation>
+      <translation>接聽 TCP 連接埠</translation>
     </message>
     <message>
       <location filename="../engine/scripting/CScriptTcpServer.cpp" line="60"/>
       <source>%1 is requesting permission to listen on TCP port %2.
 
 Do you want to allow it?</source>
-      <translation type="unfinished">%1 is requesting permission to listen on TCP port %2.
+      <translation>%1 要求權限以接聽 TCP 連接埠 %2。
 
-Do you want to allow it?</translation>
+是否允許？</translation>
     </message>
   </context>
   <context>
@@ -38068,16 +38068,16 @@ Do you want to allow it?</translation>
     <message>
       <location filename="../engine/scripting/CScriptUdpSocket.cpp" line="47"/>
       <source>Bind to UDP Port</source>
-      <translation type="unfinished">Bind to UDP Port</translation>
+      <translation>繫結至 UDP 連接埠</translation>
     </message>
     <message>
       <location filename="../engine/scripting/CScriptUdpSocket.cpp" line="48"/>
       <source>%1 is requesting permission to bind to UDP port %2.
 
 Do you want to allow it?</source>
-      <translation type="unfinished">%1 is requesting permission to bind to UDP port %2.
+      <translation>%1 要求權限以繫結至 UDP 連接埠 %2。
 
-Do you want to allow it?</translation>
+是否允許？</translation>
     </message>
   </context>
   <context>
@@ -38342,7 +38342,7 @@ See Extensions-&gt;Scripting-&gt;Configure Script Modules ...</source>
     <message>
       <location filename="../gui/SelectPkzFilesDlg.cpp" line="155"/>
       <source>Select File</source>
-      <translation type="unfinished">Select File</translation>
+      <translation>選取檔案</translation>
     </message>
     <message>
       <location filename="../gui/SelectPkzFilesDlg.cpp" line="156"/>
@@ -38353,17 +38353,17 @@ See Extensions-&gt;Scripting-&gt;Configure Script Modules ...</source>
       <location filename="../gui/SelectPkzFilesDlg.cpp" line="178"/>
       <location filename="../gui/SelectPkzFilesDlg.cpp" line="181"/>
       <source>The file is not in the same folder as </source>
-      <translation type="unfinished">The file is not in the same folder as </translation>
+      <translation>檔案不在同一個資料夾中，資料夾為 </translation>
     </message>
     <message>
       <location filename="../gui/SelectPkzFilesDlg.cpp" line="179"/>
       <source>SaveAs Pkz..</source>
-      <translation type="unfinished">SaveAs Pkz..</translation>
+      <translation>另存為 Pkz..</translation>
     </message>
     <message>
       <location filename="../gui/SelectPkzFilesDlg.cpp" line="182"/>
       <source>SaveAs Pkc..</source>
-      <translation type="unfinished">SaveAs Pkc..</translation>
+      <translation>另存為 Pkc..</translation>
     </message>
   </context>
   <context>
@@ -38825,13 +38825,13 @@ See Extensions-&gt;Scripting-&gt;Configure Script Modules ...</source>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServerDnsCache.ui" line="24"/>
       <source>DNS  Cache</source>
-      <translation type="unfinished">DNS  Cache</translation>
+      <translation>DNS 快取</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServerDnsCache.ui" line="52"/>
       <location filename="../gui/DesignerFiles/Server/ServerDnsCache.ui" line="54"/>
       <source>Clear Cache</source>
-      <translation type="unfinished">Clear Cache</translation>
+      <translation>清除快取</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServerDnsCache.ui" line="65"/>
@@ -38929,24 +38929,24 @@ See Extensions-&gt;Scripting-&gt;Configure Script Modules ...</source>
       <location filename="../gui/DeviceConfig/Server/ServerHttpEdit.cpp" line="93"/>
       <location filename="../gui/DeviceConfig/Server/ServerHttpEdit.cpp" line="105"/>
       <source>File Edit Warning</source>
-      <translation type="unfinished">File Edit Warning</translation>
+      <translation>檔案編輯警告</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Server/ServerHttpEdit.cpp" line="84"/>
       <source>Please fill out the file name.</source>
-      <translation type="unfinished">Please fill out the file name.</translation>
+      <translation>請填寫檔案名稱。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Server/ServerHttpEdit.cpp" line="93"/>
       <source>File extension is not supported.
 Supported file extensions: .html .htm . php .css .js</source>
-      <translation type="unfinished">File extension is not supported.
-Supported file extensions: .html .htm . php .css .js</translation>
+      <translation>不支援此副檔名。
+支援的副檔名：.html .htm . php .css .js</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Server/ServerHttpEdit.cpp" line="106"/>
       <source>There is already a file with the same name, overwrite?</source>
-      <translation type="unfinished">There is already a file with the same name, overwrite?</translation>
+      <translation>已存在同名的檔案，是否覆寫？</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Server/ServerHttpEdit.cpp" line="107"/>
@@ -38977,12 +38977,12 @@ Supported file extensions: .html .htm . php .css .js</translation>
     <message>
       <location filename="../gui/DeviceConfig/Server/ServerIoe.cpp" line="175"/>
       <source>User Delete Warning</source>
-      <translation type="unfinished">User Delete Warning</translation>
+      <translation>使用者刪除警告</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Server/ServerIoe.cpp" line="175"/>
       <source>User might be in use.</source>
-      <translation type="unfinished">User might be in use.</translation>
+      <translation>使用者可能正在使用中。</translation>
     </message>
   </context>
   <context>
@@ -39043,18 +39043,18 @@ Supported file extensions: .html .htm . php .css .js</translation>
     <message>
       <location filename="../gui/DeviceConfig/Server/ServerNtp.cpp" line="72"/>
       <source>Invalid Year -- %1</source>
-      <translation type="unfinished">Invalid Year -- %1</translation>
+      <translation>年份無效 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Server/ServerNtp.cpp" line="236"/>
       <location filename="../gui/DeviceConfig/Server/ServerNtp.cpp" line="244"/>
       <source>Key should be a number in the range 0-4294967295</source>
-      <translation type="unfinished">Key should be a number in the range 0-4294967295</translation>
+      <translation>金鑰應為 0-4294967295 範圍內的數字</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Server/ServerNtp.cpp" line="72"/>
       <source>Please Input Positive Value for Year.</source>
-      <translation type="unfinished">Please Input Positive Value for Year.</translation>
+      <translation>請為年份輸入正值。</translation>
     </message>
   </context>
   <context>
@@ -39074,13 +39074,13 @@ Supported file extensions: .html .htm . php .css .js</translation>
     <message>
       <location filename="../gui/DeviceConfig/Server/ServerPapChap.cpp" line="151"/>
       <source>User Name already exists.</source>
-      <translation type="unfinished">User Name already exists.</translation>
+      <translation>使用者名稱已存在。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Server/ServerPapChap.cpp" line="206"/>
       <location filename="../gui/DeviceConfig/Server/ServerPapChap.cpp" line="240"/>
       <source>No User Selected.</source>
-      <translation type="unfinished">No User Selected.</translation>
+      <translation>未選取使用者。</translation>
     </message>
   </context>
   <context>
@@ -39981,7 +39981,7 @@ Supported file extensions: .html .htm . php .css .js</translation>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceEap.ui" line="14"/>
       <source>EAP Service</source>
-      <translation type="unfinished">EAP Service</translation>
+      <translation>EAP Service</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceEap.ui" line="35"/>
@@ -39992,12 +39992,12 @@ Supported file extensions: .html .htm . php .css .js</translation>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceEap.ui" line="41"/>
       <source>EAP Configuration</source>
-      <translation type="unfinished">EAP Configuration</translation>
+      <translation>EAP 組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceEap.ui" line="65"/>
       <source>Allow EAP-MD5</source>
-      <translation type="unfinished">Allow EAP-MD5</translation>
+      <translation>Allow EAP-MD5</translation>
     </message>
   </context>
   <context>
@@ -40005,7 +40005,7 @@ Supported file extensions: .html .htm . php .css .js</translation>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceFtp.ui" line="13"/>
       <source>FTP Configuration</source>
-      <translation type="unfinished">FTP Configuration</translation>
+      <translation>FTP 組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceFtp.ui" line="23"/>
@@ -40060,7 +40060,7 @@ Supported file extensions: .html .htm . php .css .js</translation>
       <location filename="../gui/DesignerFiles/Server/ServiceFtp.ui" line="141"/>
       <location filename="../gui/DesignerFiles/Server/ServiceFtp.ui" line="143"/>
       <source>Read</source>
-      <translation type="unfinished">Read</translation>
+      <translation>讀取</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceFtp.ui" line="148"/>
@@ -40078,12 +40078,12 @@ Supported file extensions: .html .htm . php .css .js</translation>
       <location filename="../gui/DesignerFiles/Server/ServiceFtp.ui" line="162"/>
       <location filename="../gui/DesignerFiles/Server/ServiceFtp.ui" line="164"/>
       <source>List</source>
-      <translation type="unfinished">List</translation>
+      <translation>清單</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceFtp.ui" line="209"/>
       <source>Permission</source>
-      <translation type="unfinished">Permission</translation>
+      <translation>權限</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceFtp.ui" line="219"/>
@@ -40192,7 +40192,7 @@ Supported file extensions: .html .htm . php .css .js</translation>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceHttp_edit.ui" line="13"/>
       <source>Edit Page</source>
-      <translation type="unfinished">Edit Page</translation>
+      <translation>編輯頁面</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceHttp_edit.ui" line="49"/>
@@ -40220,7 +40220,7 @@ Supported file extensions: .html .htm . php .css .js</translation>
       <location filename="../gui/DesignerFiles/Server/ServiceHttp_edit.ui" line="82"/>
       <location filename="../gui/DesignerFiles/Server/ServiceHttp_edit.ui" line="87"/>
       <source>File Name:</source>
-      <translation type="unfinished">File Name:</translation>
+      <translation>檔案名稱：</translation>
     </message>
   </context>
   <context>
@@ -40228,7 +40228,7 @@ Supported file extensions: .html .htm . php .css .js</translation>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceIoe.ui" line="14"/>
       <source>IoE Service</source>
-      <translation type="unfinished">IoE Service</translation>
+      <translation>IoE Service</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceIoe.ui" line="35"/>
@@ -40242,12 +40242,12 @@ Supported file extensions: .html .htm . php .css .js</translation>
       <location filename="../gui/DesignerFiles/Server/ServiceIoe.ui" line="68"/>
       <location filename="../gui/DesignerFiles/Server/ServiceIoe.ui" line="71"/>
       <source>Registration Server</source>
-      <translation type="unfinished">Registration Server</translation>
+      <translation>註冊伺服器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceIoe.ui" line="93"/>
       <source>This service runs on top of the HTTP or HTTPS service.</source>
-      <translation type="unfinished">This service runs on top of the HTTP or HTTPS service.</translation>
+      <translation>此服務在 HTTP 或 HTTPS 服務之上執行。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceIoe.ui" line="102"/>
@@ -40276,12 +40276,12 @@ Supported file extensions: .html .htm . php .css .js</translation>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceIox.ui" line="13"/>
       <source>IoX Service</source>
-      <translation type="unfinished">IoX Service</translation>
+      <translation>IoX 服務</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceIox.ui" line="26"/>
       <source>VM</source>
-      <translation type="unfinished">VM</translation>
+      <translation>VM</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceIox.ui" line="31"/>
@@ -40416,7 +40416,7 @@ Password</source>
       <location filename="../gui/DesignerFiles/Server/ServiceNetworkController.ui" line="20"/>
       <location filename="../gui/DesignerFiles/Server/ServiceNetworkController.ui" line="47"/>
       <source>Network Controller</source>
-      <translation type="unfinished">Network Controller</translation>
+      <translation>網路控制器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceNetworkController.ui" line="41"/>
@@ -40427,17 +40427,17 @@ Password</source>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceNetworkController.ui" line="71"/>
       <source>Source Ip</source>
-      <translation type="unfinished">Source Ip</translation>
+      <translation>來源 IP</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceNetworkController.ui" line="85"/>
       <source>Destination Ip</source>
-      <translation type="unfinished">Destination Ip</translation>
+      <translation>目的 IP</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceNetworkController.ui" line="97"/>
       <source>Start Path Trace</source>
-      <translation type="unfinished">Start Path Trace</translation>
+      <translation>開始路徑追蹤</translation>
     </message>
   </context>
   <context>
@@ -40445,7 +40445,7 @@ Password</source>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceNtp.ui" line="13"/>
       <source>NTP Service</source>
-      <translation type="unfinished">NTP Service</translation>
+      <translation>NTP 服務</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceNtp.ui" line="34"/>
@@ -40480,7 +40480,7 @@ Password</source>
       <location filename="../gui/DesignerFiles/Server/ServiceNtp.ui" line="115"/>
       <location filename="../gui/DesignerFiles/Server/ServiceNtp.ui" line="117"/>
       <source>Enable</source>
-      <translation type="unfinished">Enable</translation>
+      <translation>啟用</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceNtp.ui" line="122"/>
@@ -40492,7 +40492,7 @@ Password</source>
       <location filename="../gui/DesignerFiles/Server/ServiceNtp.ui" line="146"/>
       <location filename="../gui/DesignerFiles/Server/ServiceNtp.ui" line="148"/>
       <source>Key:</source>
-      <translation type="unfinished">Key:</translation>
+      <translation>Key:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceNtp.ui" line="160"/>
@@ -40594,14 +40594,14 @@ Password</source>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceSyslog.ui" line="19"/>
       <source>CServerServiceSyslog</source>
-      <translation type="unfinished">CServerServiceSyslog</translation>
+      <translation>CServerServiceSyslog</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceSyslog.ui" line="33"/>
       <location filename="../gui/DesignerFiles/Server/ServiceSyslog.ui" line="35"/>
       <location filename="../gui/DesignerFiles/Server/ServiceSyslog.ui" line="74"/>
       <source>Syslog</source>
-      <translation type="unfinished">Syslog</translation>
+      <translation>Syslog</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceSyslog.ui" line="90"/>
@@ -40625,7 +40625,7 @@ Password</source>
       <location filename="../gui/DesignerFiles/Server/ServiceSyslog.ui" line="193"/>
       <location filename="../gui/DesignerFiles/Server/ServiceSyslog.ui" line="195"/>
       <source>Clear Log</source>
-      <translation type="unfinished">Clear Log</translation>
+      <translation>清除記錄</translation>
     </message>
   </context>
   <context>
@@ -40887,12 +40887,12 @@ Would you like to use the new version?</source>
     <message>
       <location filename="../gui/Workspace/Physical/RackView/Shelf.cpp" line="214"/>
       <source>Please power off and remove all cables before placing in storage shelf.</source>
-      <translation type="unfinished">Please power off and remove all cables before placing in storage shelf.</translation>
+      <translation>放入儲存架前，請先關機並移除所有纜線。</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/RackView/Shelf.cpp" line="214"/>
       <source>Storage Shelf -- %1</source>
-      <translation type="unfinished">Storage Shelf -- %1</translation>
+      <translation>儲存架 -- %1</translation>
     </message>
   </context>
   <context>
@@ -41247,12 +41247,12 @@ Reset the network?</source>
     <message>
       <location filename="../gui/Workspace/Physical/RackView/StackableTable.cpp" line="200"/>
       <source>Please power off and remove all cables before placing in storage shelf.</source>
-      <translation type="unfinished">Please power off and remove all cables before placing in storage shelf.</translation>
+      <translation>放入儲存架前，請先關機並移除所有纜線。</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/RackView/StackableTable.cpp" line="200"/>
       <source>Storage Shelf -- %1</source>
-      <translation type="unfinished">Storage Shelf -- %1</translation>
+      <translation>儲存架 -- %1</translation>
     </message>
   </context>
   <context>
@@ -41260,12 +41260,12 @@ Reset the network?</source>
     <message>
       <location filename="../gui/Workspace/Physical/RackView/StackableWidget.cpp" line="543"/>
       <source>Removing the shelf will also delete all the devices. Continue?</source>
-      <translation type="unfinished">Removing the shelf will also delete all the devices. Continue?</translation>
+      <translation>移除置物架也會刪除所有裝置。是否繼續？</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/RackView/StackableWidget.cpp" line="544"/>
       <source>Removing the table will also delete all the devices. Continue?</source>
-      <translation type="unfinished">Removing the table will also delete all the devices. Continue?</translation>
+      <translation>移除桌子也會刪除所有裝置。是否繼續？</translation>
     </message>
   </context>
   <context>
@@ -41273,7 +41273,7 @@ Reset the network?</source>
     <message>
       <location filename="../gui/IoE/SubComponent.cpp" line="120"/>
       <source>Choose Image</source>
-      <translation type="unfinished">Choose Image</translation>
+      <translation>選擇影像</translation>
     </message>
     <message>
       <location filename="../gui/IoE/SubComponent.cpp" line="121"/>
@@ -41283,12 +41283,12 @@ Reset the network?</source>
     <message>
       <location filename="../gui/IoE/SubComponent.cpp" line="176"/>
       <source>This component name cannot be empty. Please rename.</source>
-      <translation type="unfinished">This component name cannot be empty. Please rename.</translation>
+      <translation>此元件名稱不可為空白，請重新命名。</translation>
     </message>
     <message>
       <location filename="../gui/IoE/SubComponent.cpp" line="197"/>
       <source>This component name already exists. Please rename.</source>
-      <translation type="unfinished">This component name already exists. Please rename.</translation>
+      <translation>此元件名稱已存在，請重新命名。</translation>
     </message>
   </context>
   <context>
@@ -41296,12 +41296,12 @@ Reset the network?</source>
     <message>
       <location filename="../gui/IoE/SubComponentImage.cpp" line="25"/>
       <source>Press to change image</source>
-      <translation type="unfinished">Press to change image</translation>
+      <translation>按下以變更影像</translation>
     </message>
     <message>
       <location filename="../gui/IoE/SubComponentImage.cpp" line="71"/>
       <source>Choose Image</source>
-      <translation type="unfinished">Choose Image</translation>
+      <translation>選擇影像</translation>
     </message>
     <message>
       <location filename="../gui/IoE/SubComponentImage.cpp" line="72"/>
@@ -41320,18 +41320,18 @@ Reset the network?</source>
       <location filename="../gui/DeviceConfig/Switch/SwitchDialog.cpp" line="272"/>
       <source>Device is still booting.
 Please wait until it is finished.</source>
-      <translation type="unfinished">Device is still booting.
-Please wait until it is finished.</translation>
+      <translation>裝置仍在開機中。
+請等待完成。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Switch/SwitchDialog.cpp" line="309"/>
       <source>Device is in ROMMON mode.</source>
-      <translation type="unfinished">Device is in ROMMON mode.</translation>
+      <translation>裝置處於 ROMMON 模式。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Switch/SwitchDialog.cpp" line="460"/>
       <source>CLIENTLESS VPN</source>
-      <translation type="unfinished">CLIENTLESS VPN</translation>
+      <translation>無用戶端 VPN</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Switch/SwitchDialog.cpp" line="461"/>
@@ -41382,7 +41382,7 @@ Please wait until it is finished.</translation>
     <message>
       <location filename="../gui/DeviceConfig/Router/TableCellLineEdit.cpp" line="45"/>
       <source>The MAC Address length is not correct!!</source>
-      <translation type="unfinished">The MAC Address length is not correct!!</translation>
+      <translation>MAC 位址長度不正確！！</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/TableCellLineEdit.cpp" line="46"/>
@@ -41395,7 +41395,7 @@ Please wait until it is finished.</translation>
       <location filename="../gui/DeviceConfig/Router/TableCellLineEdit.cpp" line="57"/>
       <location filename="../gui/DeviceConfig/Router/TableCellLineEdit.cpp" line="70"/>
       <source>Invalid hex value </source>
-      <translation type="unfinished">Invalid hex value </translation>
+      <translation>十六進位值無效 </translation>
     </message>
   </context>
   <context>
@@ -55478,13 +55478,13 @@ The FTP server checks whether the file exists and waits for the corresponding RN
       <location filename="../gui/Workspace/Physical/RackView/UnmanagedPhysicalCable.cpp" line="92"/>
       <source>
 Total Cable Length: %1</source>
-      <translation type="unfinished">
-Total Cable Length: %1</translation>
+      <translation>
+纜線總長度：%1</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/RackView/UnmanagedPhysicalCable.cpp" line="121"/>
       <source>%6 cable connecting device %1 port %2 with device %3 Port %4</source>
-      <translation type="unfinished">%6 cable connecting device %1 port %2 with device %3 Port %4</translation>
+      <translation>%6 纜線連接裝置 %1 的連接埠 %2 與裝置 %3 的連接埠 %4</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/RackView/UnmanagedPhysicalCable.cpp" line="124"/>
@@ -55493,11 +55493,11 @@ Source Port: %2
 Dest. Device: %3 
 Dest. Port: %4 %5
 Cable Type: %6</source>
-      <translation type="unfinished">Source Device: %1 
-Source Port: %2 
-Dest. Device: %3 
-Dest. Port: %4 %5
-Cable Type: %6</translation>
+      <translation>來源裝置：%1 
+來源連接埠：%2 
+目的裝置：%3 
+目的連接埠：%4 %5
+纜線類型：%6</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/RackView/UnmanagedPhysicalCable.cpp" line="547"/>
@@ -56059,12 +56059,12 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
       <location filename="../gui/DeviceConfig/CiscoWireless/WirelessLanControllerDialog.cpp" line="236"/>
       <source>Invalid IP Gateway.</source>
-      <translation type="unfinished">Invalid IP Gateway.</translation>
+      <translation>IP 閘道無效。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/CiscoWireless/WirelessLanControllerDialog.cpp" line="261"/>
       <source>Invalid DNS.</source>
-      <translation type="unfinished">Invalid DNS.</translation>
+      <translation>DNS 無效。</translation>
     </message>
   </context>
   <context>
@@ -56077,24 +56077,24 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessMACFilter.cpp" line="125"/>
       <source>5G(1)</source>
-      <translation type="unfinished">5G(1)</translation>
+      <translation>5G(1)</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessMACFilter.cpp" line="128"/>
       <source>5G(2)</source>
-      <translation type="unfinished">5G(2)</translation>
+      <translation>5G(2)</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessMACFilter.cpp" line="220"/>
       <source>Duplicate and/or invalid MAC entries have been removed.</source>
-      <translation type="unfinished">Duplicate and/or invalid MAC entries have been removed.</translation>
+      <translation>已移除重複和/或無效的 MAC 項目。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessMACFilter.cpp" line="340"/>
       <location filename="../gui/DeviceConfig/Router/WirelessMACFilter.cpp" line="348"/>
       <location filename="../gui/DeviceConfig/Router/WirelessMACFilter.cpp" line="353"/>
       <source>The MAC Address length is not correct!!</source>
-      <translation type="unfinished">The MAC Address length is not correct!!</translation>
+      <translation>MAC 位址長度不正確！！</translation>
     </message>
   </context>
   <context>
@@ -56166,7 +56166,7 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSecurity.cpp" line="442"/>
       <source>Passphrase should be minimum 8 and maximum 63 ascii chars long.</source>
-      <translation type="unfinished">Passphrase should be minimum 8 and maximum 63 ascii chars long.</translation>
+      <translation>通關密語長度必須為 8 到 63 個 ASCII 字元。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSecurity.cpp" line="406"/>
@@ -56176,13 +56176,13 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSecurity.cpp" line="454"/>
       <source>Passphrase should consist of ascii chars only.</source>
-      <translation type="unfinished">Passphrase should consist of ascii chars only.</translation>
+      <translation>通關密語只能包含 ASCII 字元。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSecurity.cpp" line="536"/>
       <location filename="../gui/DeviceConfig/Router/WirelessSecurity.cpp" line="545"/>
       <source>Shared Key should consist of alpha-numeric characters</source>
-      <translation type="unfinished">Shared Key should consist of alpha-numeric characters</translation>
+      <translation>共用金鑰只能包含英數字元</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSecurity.cpp" line="736"/>
@@ -56192,7 +56192,7 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSecurity.cpp" line="747"/>
       <source>Value is out of range [1-255]</source>
-      <translation type="unfinished">Value is out of range [1-255]</translation>
+      <translation>值超出範圍 [1-255]</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSecurity.cpp" line="757"/>
@@ -56230,18 +56230,18 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSecurityForm.cpp" line="456"/>
       <source>Passphrase should be minimum 8 and maximum 63 ascii chars long.</source>
-      <translation type="unfinished">Passphrase should be minimum 8 and maximum 63 ascii chars long.</translation>
+      <translation>通關密語長度必須為 8 到 63 個 ASCII 字元。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSecurityForm.cpp" line="465"/>
       <source>Passphrase should consist of ascii chars only.</source>
-      <translation type="unfinished">Passphrase should consist of ascii chars only.</translation>
+      <translation>通關密語只能包含 ASCII 字元。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSecurityForm.cpp" line="546"/>
       <location filename="../gui/DeviceConfig/Router/WirelessSecurityForm.cpp" line="555"/>
       <source>Shared Key should consist of alpha-numeric characters</source>
-      <translation type="unfinished">Shared Key should consist of alpha-numeric characters</translation>
+      <translation>共用金鑰只能包含英數字元</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSecurityForm.cpp" line="751"/>
@@ -56251,7 +56251,7 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSecurityForm.cpp" line="762"/>
       <source>Value is out of range [1-255]</source>
-      <translation type="unfinished">Value is out of range [1-255]</translation>
+      <translation>值超出範圍 [1-255]</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSecurityForm.cpp" line="772"/>
@@ -57012,14 +57012,14 @@ End the expression with: &quot;)</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationCommandPromptBase.ui" line="20"/>
       <source>Command Prompt</source>
-      <translation type="unfinished">Command Prompt</translation>
+      <translation>命令提示字元</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationCommandPromptBase.ui" line="79"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationCommandPromptBase.ui" line="82"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationCommandPromptBase.ui" line="88"/>
       <source>Command Prompt </source>
-      <translation type="unfinished">Command Prompt </translation>
+      <translation>命令提示字元 </translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationCommandPromptBase.ui" line="119"/>
@@ -57720,8 +57720,8 @@ Port</source>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="110"/>
       <source>Remote
 IP/Prefix</source>
-      <translation type="unfinished">Remote
-IP/Prefix</translation>
+      <translation>遠端
+IP/前置碼</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="110"/>
@@ -57762,7 +57762,7 @@ Port</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="679"/>
       <source>Wrong Input -- %1</source>
-      <translation type="unfinished">Wrong Input -- %1</translation>
+      <translation>輸入錯誤 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="303"/>
@@ -57789,7 +57789,7 @@ Port</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="679"/>
       <source>Please enter a number.</source>
-      <translation type="unfinished">Please enter a number.</translation>
+      <translation>請輸入數字。</translation>
     </message>
   </context>
   <context>
@@ -58198,12 +58198,12 @@ Port</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationNetflowCollector.cpp" line="53"/>
       <source>Label</source>
-      <translation type="unfinished">Label</translation>
+      <translation>Label</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationNetflowCollector.cpp" line="54"/>
       <source>Quantity</source>
-      <translation type="unfinished">Quantity</translation>
+      <translation>數量</translation>
     </message>
   </context>
   <context>
@@ -58211,7 +58211,7 @@ Port</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationNetflowPieChart.cpp" line="260"/>
       <source>Traffic Contribution: </source>
-      <translation type="unfinished">Traffic Contribution: </translation>
+      <translation>流量貢獻：</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationNetflowPieChart.cpp" line="262"/>
@@ -58219,9 +58219,9 @@ Port</source>
 
 Flow information:
 </source>
-      <translation type="unfinished">)
+      <translation>)
 
-Flow information:
+流量資訊：
 </translation>
     </message>
   </context>
@@ -58465,12 +58465,12 @@ Flow information:
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationSshClientSettings.cpp" line="80"/>
       <source>Username field cannot be empty.</source>
-      <translation type="unfinished">Username field cannot be empty.</translation>
+      <translation>使用者名稱欄位不可為空白。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationSshClientSettings.cpp" line="85"/>
       <source>Host Name field cannot be empty.</source>
-      <translation type="unfinished">Host Name field cannot be empty.</translation>
+      <translation>主機名稱欄位不可為空白。</translation>
     </message>
   </context>
   <context>
@@ -58478,12 +58478,12 @@ Flow information:
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetClient.cpp" line="144"/>
       <source>Command+F6 to exit CLI focus.</source>
-      <translation type="unfinished">Command+F6 to exit CLI focus.</translation>
+      <translation>按 Command+F6 結束 CLI 焦點。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetClient.cpp" line="146"/>
       <source>Control+F6 to exit CLI focus.</source>
-      <translation type="unfinished">Control+F6 to exit CLI focus.</translation>
+      <translation>按 Control+F6 結束 CLI 焦點。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetClient.cpp" line="169"/>
@@ -59121,7 +59121,7 @@ and all previous settings will be erased.</source>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="83"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="86"/>
       <source>Web Browser</source>
-      <translation type="unfinished">Web Browser</translation>
+      <translation>網頁瀏覽器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="130"/>
@@ -59137,7 +59137,7 @@ and all previous settings will be erased.</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="178"/>
       <source>&lt;</source>
-      <translation type="unfinished">&lt;</translation>
+      <translation>&lt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="212"/>
@@ -59156,7 +59156,7 @@ and all previous settings will be erased.</source>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="266"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="269"/>
       <source>Go</source>
-      <translation type="unfinished">Go</translation>
+      <translation>Go</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="291"/>
@@ -59171,22 +59171,22 @@ and all previous settings will be erased.</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationWebViewNetworkReply.cpp" line="107"/>
       <source>Authentication Required</source>
-      <translation type="unfinished">Authentication Required</translation>
+      <translation>需要驗證</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationWebViewNetworkReply.cpp" line="111"/>
       <source>Not Found</source>
-      <translation type="unfinished">Not Found</translation>
+      <translation>找不到</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationWebViewNetworkReply.cpp" line="119"/>
       <source>Timeout</source>
-      <translation type="unfinished">Timeout</translation>
+      <translation>逾時</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationWebViewNetworkReply.cpp" line="125"/>
       <source>Protocol Error</source>
-      <translation type="unfinished">Protocol Error</translation>
+      <translation>通訊協定錯誤</translation>
     </message>
   </context>
   <context>
@@ -59194,7 +59194,7 @@ and all previous settings will be erased.</source>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="23"/>
       <source>Right Toolbar</source>
-      <translation type="unfinished">Right Toolbar</translation>
+      <translation>右側工具列</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="59"/>
@@ -59206,7 +59206,7 @@ and all previous settings will be erased.</source>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="93"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="96"/>
       <source>Resize Shape (Alt+R)</source>
-      <translation type="unfinished">Resize Shape (Alt+R)</translation>
+      <translation>調整形狀大小 (Alt+R)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="127"/>
@@ -59230,7 +59230,7 @@ and all previous settings will be erased.</source>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="229"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="232"/>
       <source>Draw a shape (D). Use this tool for encirclement tests.</source>
-      <translation type="unfinished">Draw a shape (D). Use this tool for encirclement tests.</translation>
+      <translation>繪製形狀 (D)。此工具可用於圈選測試。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="270"/>
@@ -59251,12 +59251,12 @@ and all previous settings will be erased.</source>
       <location filename="../gui/DesignerFiles/Cloud/CloudCoaxial7Settings.ui" line="20"/>
       <location filename="../gui/DesignerFiles/Cloud/CloudCoaxial7Settings.ui" line="23"/>
       <source>Configurations not available at present</source>
-      <translation type="unfinished">Configurations not available at present</translation>
+      <translation>目前無可用的組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Cloud/CloudCoaxial7Settings.ui" line="26"/>
       <source>Configurations not available.</source>
-      <translation type="unfinished">Configurations not available.</translation>
+      <translation>無可用的組態。</translation>
     </message>
   </context>
   <context>
@@ -59264,24 +59264,24 @@ and all previous settings will be erased.</source>
     <message>
       <location filename="../gui/CommonCartridgeExporter/CommonCartridgeExporter.cpp" line="101"/>
       <source>Select Common Cartridge Package Name</source>
-      <translation type="unfinished">Select Common Cartridge Package Name</translation>
+      <translation>選取 Common Cartridge 套件名稱</translation>
     </message>
     <message>
       <location filename="../gui/CommonCartridgeExporter/CommonCartridgeExporter.cpp" line="208"/>
       <location filename="../gui/CommonCartridgeExporter/CommonCartridgeExporter.cpp" line="211"/>
       <location filename="../gui/CommonCartridgeExporter/CommonCartridgeExporter.cpp" line="219"/>
       <source>UNDEFINED</source>
-      <translation type="unfinished">UNDEFINED</translation>
+      <translation>UNDEFINED</translation>
     </message>
     <message>
       <location filename="../gui/CommonCartridgeExporter/CommonCartridgeExporter.cpp" line="469"/>
       <source>Select %1 File to Export</source>
-      <translation type="unfinished">Select %1 File to Export</translation>
+      <translation>選取要匯出的 %1 檔案</translation>
     </message>
     <message>
       <location filename="../gui/CommonCartridgeExporter/CommonCartridgeExporter.cpp" line="499"/>
       <source>Open Tags File</source>
-      <translation type="unfinished">Open Tags File</translation>
+      <translation>開啟標籤檔</translation>
     </message>
   </context>
   <context>
@@ -59601,12 +59601,12 @@ You can select multiple tags by selecting/unselecting individual table cells.</s
     <message>
       <location filename="../gui/Workspace/Physical/GeoConnectionItem.cpp" line="858"/>
       <source>Long distance with inline repeaters</source>
-      <translation type="unfinished">Long distance with inline repeaters</translation>
+      <translation>含中繼器的長距離</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/GeoConnectionItem.cpp" line="860"/>
       <source>Long distance</source>
-      <translation type="unfinished">Long distance</translation>
+      <translation>長距離</translation>
     </message>
   </context>
   <context>
@@ -59702,14 +59702,14 @@ Do you want to save your changes?</source>
     <message>
       <location filename="../gui/DesignerFiles/Common/inserthtmldialog.ui" line="14"/>
       <source>Insert HTML</source>
-      <translation type="unfinished">Insert HTML</translation>
+      <translation>插入 HTML</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/inserthtmldialog.ui" line="20"/>
       <location filename="../gui/DesignerFiles/Common/inserthtmldialog.ui" line="23"/>
       <location filename="../gui/DesignerFiles/Common/inserthtmldialog.ui" line="26"/>
       <source>HTML Code:</source>
-      <translation type="unfinished">HTML Code:</translation>
+      <translation>HTML 程式碼：</translation>
     </message>
   </context>
   <context>
@@ -59770,12 +59770,12 @@ Do you want to save your changes?</source>
     <message>
       <location filename="../gui/DeviceConfig/CiscoWireless/LWAPPConfig.cpp" line="88"/>
       <source>Incorrect Format</source>
-      <translation type="unfinished">Incorrect Format</translation>
+      <translation>格式不正確</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/CiscoWireless/LWAPPConfig.cpp" line="88"/>
       <source>The entered text is not a valid IP Address.</source>
-      <translation type="unfinished">The entered text is not a valid IP Address.</translation>
+      <translation>輸入的文字不是有效的 IP 位址。</translation>
     </message>
   </context>
   <context>
@@ -59789,7 +59789,7 @@ Do you want to save your changes?</source>
       <location filename="../gui/DesignerFiles/Login/loginSelector.ui" line="104"/>
       <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot;&gt;Cisco Packet Tracer &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
 </source>
-      <translation type="unfinished">&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot;&gt;Cisco Packet Tracer &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+      <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot;&gt;Cisco Packet Tracer &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
 </translation>
     </message>
     <message>
@@ -60249,16 +60249,16 @@ Do you want to save your changes?</source>
     <message>
       <location filename="../engine/MU/CMUManager.cpp" line="1362"/>
       <source>Saving Offline Copy</source>
-      <translation type="unfinished">Saving Offline Copy</translation>
+      <translation>正在儲存離線副本</translation>
     </message>
     <message>
       <location filename="../engine/MU/CMUManager.cpp" line="1363"/>
       <source>Some peers may be missing from from the saved off-line copy of this Multiuser network.
 
  Common reasons for this are saving errors, peers configured to disallow saving, and password-protected peer networks.</source>
-      <translation type="unfinished">Some peers may be missing from from the saved off-line copy of this Multiuser network.
+      <translation>此多使用者網路已儲存的離線副本中可能缺少部分對等端。
 
- Common reasons for this are saving errors, peers configured to disallow saving, and password-protected peer networks.</translation>
+常見原因包括儲存錯誤、對等端設定為不允許儲存，以及受密碼保護的對等網路。</translation>
     </message>
   </context>
   <context>
@@ -60266,12 +60266,12 @@ Do you want to save your changes?</source>
     <message>
       <location filename="../gui/DesignerFiles/Login/loginNetacad.ui" line="14"/>
       <source>Cisco Network Academy Login</source>
-      <translation type="unfinished">Cisco Network Academy Login</translation>
+      <translation>Cisco Network Academy Login</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Login/loginNetacad.ui" line="39"/>
       <source>about:blank</source>
-      <translation type="unfinished">about:blank</translation>
+      <translation>about:blank</translation>
     </message>
   </context>
   <context>
@@ -60279,7 +60279,7 @@ Do you want to save your changes?</source>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/ObjectPosList.ui" line="14"/>
       <source>Object Position List</source>
-      <translation type="unfinished">Object Position List</translation>
+      <translation>物件位置清單</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/ObjectPosList.ui" line="26"/>
@@ -60290,7 +60290,7 @@ Do you want to save your changes?</source>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/ObjectPosList.ui" line="67"/>
       <source>Object</source>
-      <translation type="unfinished">Object</translation>
+      <translation>物件</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/ObjectPosList.ui" line="72"/>
@@ -60320,12 +60320,12 @@ Do you want to save your changes?</source>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/ObjectPosList.ui" line="124"/>
       <source>Button1</source>
-      <translation type="unfinished">Button1</translation>
+      <translation>Button1</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/ObjectPosList.ui" line="131"/>
       <source>Button2</source>
-      <translation type="unfinished">Button2</translation>
+      <translation>Button2</translation>
     </message>
   </context>
   <context>
@@ -60333,13 +60333,13 @@ Do you want to save your changes?</source>
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseOfflineSaveProgressDialog.ui" line="25"/>
       <source>Offline Saving Progress Dialog</source>
-      <translation type="unfinished">Offline Saving Progress Dialog</translation>
+      <translation>離線儲存進度對話方塊</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseOfflineSaveProgressDialog.ui" line="53"/>
       <location filename="../gui/DesignerFiles/Multiuser/BaseOfflineSaveProgressDialog.ui" line="58"/>
       <source>Offline Saving in Progress...</source>
-      <translation type="unfinished">Offline Saving in Progress...</translation>
+      <translation>離線儲存進行中...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Multiuser/BaseOfflineSaveProgressDialog.ui" line="93"/>
@@ -60372,7 +60372,7 @@ Do you want to save your changes?</source>
     <message>
       <location filename="../gui/DesignerFiles/Login/login.ui" line="359"/>
       <source>https://www.netacad.com/</source>
-      <translation type="unfinished">https://www.netacad.com/</translation>
+      <translation>https://www.netacad.com/</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Login/login.ui" line="468"/>
@@ -60394,7 +60394,7 @@ Do you want to save your changes?</source>
     <message>
       <location filename="../gui/DesignerFiles/Login/login.ui" line="636"/>
       <source>Skills for All with Cisco</source>
-      <translation type="unfinished">Skills for All with Cisco</translation>
+      <translation>Skills for All with Cisco</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Login/login.ui" line="688"/>
@@ -60565,7 +60565,7 @@ Do you want to save your changes?</source>
       <location filename="../engine/models/ports/CExternalPortAccessManager.cpp" line="390"/>
       <source>A few External Access servers failed to start during loading this file.
 </source>
-      <translation type="unfinished">A few External Access servers failed to start during loading this file.
+      <translation>載入此檔案時，有幾個外部存取伺服器啟動失敗。
 </translation>
     </message>
     <message>
@@ -60573,14 +60573,14 @@ Do you want to save your changes?</source>
       <source>They are listed below as Server-Port/Device-Name pairs:
 
 </source>
-      <translation type="unfinished">They are listed below as Server-Port/Device-Name pairs:
+      <translation>下方列出它們的「伺服器-連接埠/裝置名稱」配對：
 
 </translation>
     </message>
     <message>
       <location filename="../engine/models/ports/CExternalPortAccessManager.cpp" line="395"/>
       <source>External Port Status</source>
-      <translation type="unfinished">External Port Status</translation>
+      <translation>外部連接埠狀態</translation>
     </message>
   </context>
   <context>
@@ -60722,7 +60722,7 @@ Do you want to save your changes?</source>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="68"/>
       <source>CPU</source>
-      <translation type="unfinished">CPU</translation>
+      <translation>CPU</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="91"/>
@@ -60759,7 +60759,7 @@ Do you want to save your changes?</source>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="147"/>
       <source>ID</source>
-      <translation type="unfinished">ID</translation>
+      <translation>ID</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="157"/>
@@ -60798,12 +60798,12 @@ Do you want to save your changes?</source>
       <location filename="../gui/scripting/CSmFileSystemResourceReply.cpp" line="85"/>
       <location filename="../gui/scripting/CSmFileSystemResourceReply.cpp" line="109"/>
       <source>Error opening %1: %2</source>
-      <translation type="unfinished">Error opening %1: %2</translation>
+      <translation>開啟 %1 時發生錯誤：%2</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CSmFileSystemResourceReply.cpp" line="96"/>
       <source>Cannot open %1: Path is a directory</source>
-      <translation type="unfinished">Cannot open %1: Path is a directory</translation>
+      <translation>無法開啟 %1：路徑是目錄</translation>
     </message>
   </context>
   <context>
@@ -61125,23 +61125,23 @@ Make sure you review and update your scripts to avoid potential problems with th
     <message>
       <location filename="../gui/DeviceTable/QoSTable.cpp" line="77"/>
       <source>Hardware Queue: FIFO (%1)</source>
-      <translation type="unfinished">Hardware Queue: FIFO (%1)</translation>
+      <translation>硬體佇列：FIFO (%1)</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/QoSTable.cpp" line="95"/>
       <location filename="../gui/DeviceTable/QoSTable.cpp" line="162"/>
       <source>No info</source>
-      <translation type="unfinished">No info</translation>
+      <translation>無資訊</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/QoSTable.cpp" line="124"/>
       <source>Software Queue: %1 (%2)</source>
-      <translation type="unfinished">Software Queue: %1 (%2)</translation>
+      <translation>軟體佇列：%1 (%2)</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/QoSTable.cpp" line="125"/>
       <source>Software Queue: %1</source>
-      <translation type="unfinished">Software Queue: %1</translation>
+      <translation>軟體佇列：%1</translation>
     </message>
   </context>
   <context>
@@ -61831,13 +61831,13 @@ The typical sequence in creating a script module is as follows:</source>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServerAaaViewer.ui" line="13"/>
       <source>ServerAaaViewer</source>
-      <translation type="unfinished">ServerAaaViewer</translation>
+      <translation>ServerAaaViewer</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServerAaaViewer.ui" line="882"/>
       <location filename="../gui/DesignerFiles/Server/ServerAaaViewer.ui" line="884"/>
       <source>AAA Accounting Records</source>
-      <translation type="unfinished">AAA Accounting Records</translation>
+      <translation>AAA 記帳記錄</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServerAaaViewer.ui" line="914"/>
@@ -61848,12 +61848,12 @@ The typical sequence in creating a script module is as follows:</source>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServerAaaViewer.ui" line="928"/>
       <source>TACACS+ Accounting</source>
-      <translation type="unfinished">TACACS+ Accounting</translation>
+      <translation>TACACS+ 記帳</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServerAaaViewer.ui" line="960"/>
       <source>RADIUS Accounting</source>
-      <translation type="unfinished">RADIUS Accounting</translation>
+      <translation>RADIUS 記帳</translation>
     </message>
   </context>
   <context>
@@ -61866,7 +61866,7 @@ The typical sequence in creating a script module is as follows:</source>
     <message>
       <location filename="../gui/DesignerFiles/Login/loginSkillsforall.ui" line="110"/>
       <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot;&gt;Cisco Packet Tracer &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot;&gt;Cisco Packet Tracer &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot;&gt;Cisco Packet Tracer &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Login/loginSkillsforall.ui" line="139"/>
@@ -61878,7 +61878,7 @@ The typical sequence in creating a script module is as follows:</source>
     <message>
       <location filename="../gui/DesignerFiles/Login/loginSkillsforall.ui" line="166"/>
       <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:x-large&quot;&gt;If you click &amp;quot;Back&amp;quot;, you will return to the previous screen and need to restart the login process.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:x-large&quot;&gt;If you click &amp;quot;Back&amp;quot;, you will return to the previous screen and need to restart the login process.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:x-large&quot;&gt;若按「返回」，您將回到上一個畫面，並需要重新開始登入程序。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Login/loginSkillsforall.ui" line="203"/>
@@ -61921,17 +61921,17 @@ The typical sequence in creating a script module is as follows:</source>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceConfigUtils.cpp" line="217"/>
       <source>Invalid DNSv6 entered.</source>
-      <translation type="unfinished">Invalid DNSv6 entered.</translation>
+      <translation>輸入的 DNSv6 無效。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceConfigUtils.cpp" line="225"/>
       <source>DNS Warning!</source>
-      <translation type="unfinished">DNS Warning!</translation>
+      <translation>DNS 警告！</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceConfigUtils.cpp" line="226"/>
       <source>Only the DNS address configured on the 1st port will be used. Configuring DNS on 2nd port is insignificant.</source>
-      <translation type="unfinished">Only the DNS address configured on the 1st port will be used. Configuring DNS on 2nd port is insignificant.</translation>
+      <translation>僅會使用在第 1 個連接埠上設定的 DNS 位址，在第 2 個連接埠上設定 DNS 沒有意義。</translation>
     </message>
   </context>
   <context>
@@ -61939,17 +61939,17 @@ The typical sequence in creating a script module is as follows:</source>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceConfigUtils.cpp" line="272"/>
       <source>Invalid ipv6 gateway entered.</source>
-      <translation type="unfinished">Invalid ipv6 gateway entered.</translation>
+      <translation>輸入的 IPv6 閘道無效。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceConfigUtils.cpp" line="286"/>
       <source>Default Gateway Warning!</source>
-      <translation type="unfinished">Default Gateway Warning!</translation>
+      <translation>預設閘道警告！</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceConfigUtils.cpp" line="287"/>
       <source>PT will use the default gateway of the fastest functional port.</source>
-      <translation type="unfinished">PT will use the default gateway of the fastest functional port.</translation>
+      <translation>PT 將使用速度最快的運作中連接埠的預設閘道。</translation>
     </message>
   </context>
   <context>
@@ -62494,7 +62494,7 @@ The typical sequence in creating a script module is as follows:</source>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationComposeMail.ui" line="53"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationComposeMail.ui" line="56"/>
       <source>Compose Mail</source>
-      <translation type="unfinished">Compose Mail</translation>
+      <translation>撰寫郵件</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationComposeMail.ui" line="75"/>
@@ -62516,7 +62516,7 @@ The typical sequence in creating a script module is as follows:</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationComposeMail.ui" line="111"/>
       <source>&amp;Send</source>
-      <translation type="unfinished">&amp;Send</translation>
+      <translation>傳送(&amp;S)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationComposeMail.ui" line="128"/>
@@ -62758,17 +62758,17 @@ The typical sequence in creating a script module is as follows:</source>
     <message>
       <location filename="../gui/DesignerFiles/LwappConfig.ui" line="42"/>
       <source>Primary Controller</source>
-      <translation type="unfinished">Primary Controller</translation>
+      <translation>主要控制器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/LwappConfig.ui" line="52"/>
       <source>Secondary Controller</source>
-      <translation type="unfinished">Secondary Controller</translation>
+      <translation>次要控制器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/LwappConfig.ui" line="62"/>
       <source>Tertiary Controller</source>
-      <translation type="unfinished">Tertiary Controller</translation>
+      <translation>第三控制器</translation>
     </message>
   </context>
   <context>
