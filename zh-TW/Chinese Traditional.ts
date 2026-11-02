@@ -15429,7 +15429,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="20"/>
       <source>Setup</source>
-      <translation type="unfinished">Setup</translation>
+      <translation>設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="586"/>
@@ -15437,7 +15437,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="733"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="781"/>
       <source>Auto</source>
-      <translation type="unfinished">Auto</translation>
+      <translation>自動</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="634"/>
@@ -15448,12 +15448,12 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1034"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1037"/>
       <source>Times:</source>
-      <translation type="unfinished">Times:</translation>
+      <translation>時間：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1040"/>
       <source>Enable WiFi:</source>
-      <translation type="unfinished">Enable WiFi:</translation>
+      <translation>啟用 WiFi：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1053"/>
@@ -15461,7 +15461,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1513"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1653"/>
       <source>00</source>
-      <translation type="unfinished">00</translation>
+      <translation>00</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1058"/>
@@ -15469,7 +15469,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1518"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1658"/>
       <source>01</source>
-      <translation type="unfinished">01</translation>
+      <translation>01</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1063"/>
@@ -15477,7 +15477,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1523"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1663"/>
       <source>02</source>
-      <translation type="unfinished">02</translation>
+      <translation>02</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1068"/>
@@ -15485,7 +15485,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1528"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1668"/>
       <source>03</source>
-      <translation type="unfinished">03</translation>
+      <translation>03</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1073"/>
@@ -15493,7 +15493,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1533"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1673"/>
       <source>04</source>
-      <translation type="unfinished">04</translation>
+      <translation>04</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1078"/>
@@ -15501,7 +15501,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1538"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1678"/>
       <source>05</source>
-      <translation type="unfinished">05</translation>
+      <translation>05</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1083"/>
@@ -15509,7 +15509,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1543"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1683"/>
       <source>06</source>
-      <translation type="unfinished">06</translation>
+      <translation>06</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1088"/>
@@ -15517,7 +15517,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1548"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1688"/>
       <source>07</source>
-      <translation type="unfinished">07</translation>
+      <translation>07</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1093"/>
@@ -15525,7 +15525,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1553"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1693"/>
       <source>08</source>
-      <translation type="unfinished">08</translation>
+      <translation>08</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1098"/>
@@ -15533,7 +15533,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1558"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1698"/>
       <source>09</source>
-      <translation type="unfinished">09</translation>
+      <translation>09</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1103"/>
@@ -15541,7 +15541,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1563"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1703"/>
       <source>10</source>
-      <translation type="unfinished">10</translation>
+      <translation>10</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1108"/>
@@ -15549,7 +15549,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1568"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1708"/>
       <source>11</source>
-      <translation type="unfinished">11</translation>
+      <translation>11</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1113"/>
@@ -15557,7 +15557,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1573"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1713"/>
       <source>12</source>
-      <translation type="unfinished">12</translation>
+      <translation>12</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1118"/>
@@ -15565,7 +15565,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1578"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1718"/>
       <source>13</source>
-      <translation type="unfinished">13</translation>
+      <translation>13</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1123"/>
@@ -15573,7 +15573,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1583"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1723"/>
       <source>14</source>
-      <translation type="unfinished">14</translation>
+      <translation>14</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1128"/>
@@ -15581,7 +15581,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1588"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1728"/>
       <source>15</source>
-      <translation type="unfinished">15</translation>
+      <translation>15</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1133"/>
@@ -15589,7 +15589,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1593"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1733"/>
       <source>16</source>
-      <translation type="unfinished">16</translation>
+      <translation>16</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1138"/>
@@ -15597,7 +15597,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1598"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1738"/>
       <source>17</source>
-      <translation type="unfinished">17</translation>
+      <translation>17</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1143"/>
@@ -15605,7 +15605,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1603"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1743"/>
       <source>18</source>
-      <translation type="unfinished">18</translation>
+      <translation>18</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1148"/>
@@ -15613,7 +15613,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1608"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1748"/>
       <source>19</source>
-      <translation type="unfinished">19</translation>
+      <translation>19</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1153"/>
@@ -15621,7 +15621,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1613"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1753"/>
       <source>20</source>
-      <translation type="unfinished">20</translation>
+      <translation>20</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1158"/>
@@ -15629,7 +15629,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1618"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1758"/>
       <source>21</source>
-      <translation type="unfinished">21</translation>
+      <translation>21</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1163"/>
@@ -15637,7 +15637,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1623"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1763"/>
       <source>22</source>
-      <translation type="unfinished">22</translation>
+      <translation>22</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1168"/>
@@ -15645,7 +15645,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1628"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1768"/>
       <source>23</source>
-      <translation type="unfinished">23</translation>
+      <translation>23</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1176"/>
@@ -15655,259 +15655,259 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1639"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1642"/>
       <source>:</source>
-      <translation type="unfinished">:</translation>
+      <translation>:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1313"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1773"/>
       <source>24</source>
-      <translation type="unfinished">24</translation>
+      <translation>24</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1318"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1778"/>
       <source>25</source>
-      <translation type="unfinished">25</translation>
+      <translation>25</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1323"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1783"/>
       <source>26</source>
-      <translation type="unfinished">26</translation>
+      <translation>26</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1328"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1788"/>
       <source>27</source>
-      <translation type="unfinished">27</translation>
+      <translation>27</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1333"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1793"/>
       <source>28</source>
-      <translation type="unfinished">28</translation>
+      <translation>28</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1338"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1798"/>
       <source>29</source>
-      <translation type="unfinished">29</translation>
+      <translation>29</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1343"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1803"/>
       <source>30</source>
-      <translation type="unfinished">30</translation>
+      <translation>30</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1348"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1808"/>
       <source>31</source>
-      <translation type="unfinished">31</translation>
+      <translation>31</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1353"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1813"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1358"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1818"/>
       <source>33</source>
-      <translation type="unfinished">33</translation>
+      <translation>33</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1363"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1823"/>
       <source>34</source>
-      <translation type="unfinished">34</translation>
+      <translation>34</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1368"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1828"/>
       <source>35</source>
-      <translation type="unfinished">35</translation>
+      <translation>35</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1373"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1833"/>
       <source>36</source>
-      <translation type="unfinished">36</translation>
+      <translation>36</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1378"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1838"/>
       <source>37</source>
-      <translation type="unfinished">37</translation>
+      <translation>37</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1383"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1843"/>
       <source>38</source>
-      <translation type="unfinished">38</translation>
+      <translation>38</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1388"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1848"/>
       <source>39</source>
-      <translation type="unfinished">39</translation>
+      <translation>39</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1393"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1853"/>
       <source>40</source>
-      <translation type="unfinished">40</translation>
+      <translation>40</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1398"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1858"/>
       <source>41</source>
-      <translation type="unfinished">41</translation>
+      <translation>41</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1403"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1863"/>
       <source>42</source>
-      <translation type="unfinished">42</translation>
+      <translation>42</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1408"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1868"/>
       <source>43</source>
-      <translation type="unfinished">43</translation>
+      <translation>43</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1413"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1873"/>
       <source>44</source>
-      <translation type="unfinished">44</translation>
+      <translation>44</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1418"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1878"/>
       <source>45</source>
-      <translation type="unfinished">45</translation>
+      <translation>45</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1423"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1883"/>
       <source>46</source>
-      <translation type="unfinished">46</translation>
+      <translation>46</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1428"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1888"/>
       <source>47</source>
-      <translation type="unfinished">47</translation>
+      <translation>47</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1433"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1893"/>
       <source>48</source>
-      <translation type="unfinished">48</translation>
+      <translation>48</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1438"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1898"/>
       <source>49</source>
-      <translation type="unfinished">49</translation>
+      <translation>49</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1443"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1903"/>
       <source>50</source>
-      <translation type="unfinished">50</translation>
+      <translation>50</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1448"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1908"/>
       <source>51</source>
-      <translation type="unfinished">51</translation>
+      <translation>51</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1453"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1913"/>
       <source>52</source>
-      <translation type="unfinished">52</translation>
+      <translation>52</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1458"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1918"/>
       <source>53</source>
-      <translation type="unfinished">53</translation>
+      <translation>53</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1463"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1923"/>
       <source>54</source>
-      <translation type="unfinished">54</translation>
+      <translation>54</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1468"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1928"/>
       <source>55</source>
-      <translation type="unfinished">55</translation>
+      <translation>55</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1473"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1933"/>
       <source>56</source>
-      <translation type="unfinished">56</translation>
+      <translation>56</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1478"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1938"/>
       <source>57</source>
-      <translation type="unfinished">57</translation>
+      <translation>57</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1483"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1943"/>
       <source>58</source>
-      <translation type="unfinished">58</translation>
+      <translation>58</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1488"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1948"/>
       <source>59</source>
-      <translation type="unfinished">59</translation>
+      <translation>59</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1496"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1499"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1502"/>
       <source>to</source>
-      <translation type="unfinished">to</translation>
+      <translation>至</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1962"/>
       <source>Beamforming:</source>
-      <translation type="unfinished">Beamforming:</translation>
+      <translation>波束成形：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1969"/>
       <source>Enable</source>
-      <translation type="unfinished">Enable</translation>
+      <translation>啟用</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1979"/>
       <source>Disable</source>
-      <translation type="unfinished">Disable</translation>
+      <translation>停用</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="2129"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="2132"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="2135"/>
       <source>Save Settings</source>
-      <translation type="unfinished">Save Settings</translation>
+      <translation>儲存設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="2151"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="2154"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="2157"/>
       <source>Cancel Changes</source>
-      <translation type="unfinished">Cancel Changes</translation>
+      <translation>取消變更</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="2356"/>
@@ -15916,39 +15916,39 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;說明...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="430"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="433"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="436"/>
       <source>AP Isolation:</source>
-      <translation type="unfinished">AP Isolation:</translation>
+      <translation>AP 隔離：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="566"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="569"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="572"/>
       <source>Authentication Type:</source>
-      <translation type="unfinished">Authentication Type:</translation>
+      <translation>驗證類型：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="614"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="617"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="620"/>
       <source>Basic Rate:</source>
-      <translation type="unfinished">Basic Rate:</translation>
+      <translation>基本速率：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="713"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="716"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="719"/>
       <source>N Transmission Rate:</source>
-      <translation type="unfinished">N Transmission Rate:</translation>
+      <translation>N 傳輸速率：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="449"/>
@@ -15958,18 +15958,18 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="520"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="523"/>
       <source>Enabled</source>
-      <translation type="unfinished">Enabled</translation>
+      <translation>已啟用</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="308"/>
       <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Advanced Wireless&lt;/b&gt;&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Advanced Wireless&lt;/b&gt;&lt;/p&gt;</translation>
+      <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;進階無線&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="299"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="302"/>
       <source>Advanced Wireless</source>
-      <translation type="unfinished">Advanced Wireless</translation>
+      <translation>進階無線</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="465"/>
@@ -15989,14 +15989,14 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="552"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="555"/>
       <source>(Default: Disabled)</source>
-      <translation type="unfinished">(Default: Disabled)</translation>
+      <translation>（預設值：停用）</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="501"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="504"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="507"/>
       <source>Frame Burst:</source>
-      <translation type="unfinished">Frame Burst:</translation>
+      <translation>訊框突發：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="594"/>
@@ -16012,136 +16012,136 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="795"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="798"/>
       <source>(Default: Auto)</source>
-      <translation type="unfinished">(Default: Auto)</translation>
+      <translation>（預設值：自動）</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="645"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="648"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="651"/>
       <source>(Default: Default)</source>
-      <translation type="unfinished">(Default: Default)</translation>
+      <translation>（預設值：預設）</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="665"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="668"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="671"/>
       <source>Transmission Rate:</source>
-      <translation type="unfinished">Transmission Rate:</translation>
+      <translation>傳輸速率：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="764"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="767"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="770"/>
       <source>CTS Protection Mode:</source>
-      <translation type="unfinished">CTS Protection Mode:</translation>
+      <translation>CTS 保護模式：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="819"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="822"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="825"/>
       <source>Beacon Interval:</source>
-      <translation type="unfinished">Beacon Interval:</translation>
+      <translation>Beacon 間隔：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="835"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="838"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="841"/>
       <source>100</source>
-      <translation type="unfinished">100</translation>
+      <translation>100</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="857"/>
       <source>(Default: 100, Milliseconds,
  Range: 1-65535)</source>
-      <translation type="unfinished">(Default: 100, Milliseconds,
- Range: 1-65535)</translation>
+      <translation>（預設值：100，毫秒，
+ 範圍：1-65535）</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="851"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="854"/>
       <source>(Default: 100, Milliseconds, Range: 1-65535)</source>
-      <translation type="unfinished">(Default: 100, Milliseconds, Range: 1-65535)</translation>
+      <translation>（預設值：100，毫秒，範圍：1-65535）</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="872"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="875"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="878"/>
       <source>DTIM Interval:</source>
-      <translation type="unfinished">DTIM Interval:</translation>
+      <translation>DTIM 間隔：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="888"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="891"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="894"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="904"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="907"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="910"/>
       <source>(Default: 1, Range: 1-255)</source>
-      <translation type="unfinished">(Default: 1, Range: 1-255)</translation>
+      <translation>（預設值：1，範圍：1-255）</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="930"/>
       <source>Fragmentation 
 Threshold:</source>
-      <translation type="unfinished">Fragmentation 
-Threshold:</translation>
+      <translation>分段
+臨界值：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="924"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="927"/>
       <source>Fragmentation Threshold:</source>
-      <translation type="unfinished">Fragmentation Threshold:</translation>
+      <translation>分段臨界值：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="941"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="944"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="947"/>
       <source>2346</source>
-      <translation type="unfinished">2346</translation>
+      <translation>2346</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="963"/>
       <source>(Default: 2346, 
 Range: 256-2346)</source>
-      <translation type="unfinished">(Default: 2346, 
-Range: 256-2346)</translation>
+      <translation>（預設值：2346，
+範圍：256-2346）</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="957"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="960"/>
       <source>(Default: 2346, Range: 256-2346)</source>
-      <translation type="unfinished">(Default: 2346, Range: 256-2346)</translation>
+      <translation>（預設值：2346，範圍：256-2346）</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="978"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="981"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="984"/>
       <source>RTS Threshold:</source>
-      <translation type="unfinished">RTS Threshold:</translation>
+      <translation>RTS 臨界值：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="994"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="997"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1000"/>
       <source>2347</source>
-      <translation type="unfinished">2347</translation>
+      <translation>2347</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1010"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1013"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="1016"/>
       <source>(Default: 2347, Range: 0-2347)</source>
-      <translation type="unfinished">(Default: 2347, Range: 0-2347)</translation>
+      <translation>（預設值：2347，範圍：0-2347）</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="2338"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="2341"/>
       <source>Help...</source>
-      <translation type="unfinished">Help...</translation>
+      <translation>說明...</translation>
     </message>
   </context>
   <context>
