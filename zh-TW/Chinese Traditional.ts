@@ -84,29 +84,29 @@ The Activity Wizard is an assessment tool that allows you to create detailed net
 6) Save the activity.
 
 Please refer to the Activity Wizard help files for more detailed information.</source>
-      <translation type="unfinished">Welcome to the Activity Wizard!
+      <translation>歡迎使用 Activity Wizard！
 
-The Activity Wizard is an assessment tool that allows you to create detailed networking scenarios for other users. The typical sequence in making an activity is as follows:
+Activity Wizard 是一項評量工具，可讓您為其他使用者建立詳細的網路情境。製作活動的一般順序如下：
 
-1) Create the answer network and set the assessment items.
-2) Create the initial network, which will be the user&apos;s starting point. A blank initial network may also be used. For accurate scoring, device display names in the initial network must match the ones in the answer network.
-3) Put constraints on the user&apos;s ability to use certain features during the activity.
-4) Write a clear set of instructions for the activity.
-5) Password-protect the activity to prevent unauthorized changes to activity parameters.
-6) Save the activity.
+1) 建立答案網路並設定評量項目。
+2) 建立初始網路，作為使用者的起點。也可以使用空白的初始網路。為了準確評分，初始網路中的裝置顯示名稱必須與答案網路中的名稱相符。
+3) 限制使用者在活動期間使用特定功能。
+4) 撰寫清楚的活動說明。
+5) 為活動設定密碼保護，以防止他人未經授權變更活動參數。
+6) 儲存活動。
 
-Please refer to the Activity Wizard help files for more detailed information.</translation>
+詳細資訊請參閱 Activity Wizard 說明檔。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="643"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="649"/>
       <source>Author Information</source>
-      <translation type="unfinished">Author Information</translation>
+      <translation>作者資訊</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="694"/>
       <source>Introduction</source>
-      <translation type="unfinished">Introduction</translation>
+      <translation>簡介</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="757"/>
@@ -119,12 +119,12 @@ Please refer to the Activity Wizard help files for more detailed information.</t
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="792"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="795"/>
       <source>Show Variable Manager Interface</source>
-      <translation type="unfinished">Show Variable Manager Interface</translation>
+      <translation>顯示變數管理員介面</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1920"/>
       <source>Number</source>
-      <translation type="unfinished">Number</translation>
+      <translation>數字</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12010"/>
@@ -137,22 +137,22 @@ Please refer to the Activity Wizard help files for more detailed information.</t
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="3000"/>
       <source>Min</source>
-      <translation type="unfinished">Min</translation>
+      <translation>最小值</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="3005"/>
       <source>Max</source>
-      <translation type="unfinished">Max</translation>
+      <translation>最大值</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4197"/>
       <source>Strings</source>
-      <translation type="unfinished">Strings</translation>
+      <translation>字串</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="5268"/>
       <source>Text</source>
-      <translation type="unfinished">Text</translation>
+      <translation>文字</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7529"/>
@@ -162,17 +162,17 @@ Please refer to the Activity Wizard help files for more detailed information.</t
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7534"/>
       <source>Mask</source>
-      <translation type="unfinished">Mask</translation>
+      <translation>遮罩</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7539"/>
       <source>1st IP Addr</source>
-      <translation type="unfinished">1st IP Addr</translation>
+      <translation>第一個 IP 位址</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7544"/>
       <source>Last IP Addr</source>
-      <translation type="unfinished">Last IP Addr</translation>
+      <translation>最後一個 IP 位址</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4128"/>
@@ -182,34 +182,34 @@ Please refer to the Activity Wizard help files for more detailed information.</t
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11356"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14196"/>
       <source>Variable Name</source>
-      <translation type="unfinished">Variable Name</translation>
+      <translation>變數名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4133"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="6393"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8669"/>
       <source>Pool Name</source>
-      <translation type="unfinished">Pool Name</translation>
+      <translation>集區名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4143"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="6403"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8679"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>值</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8774"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8777"/>
       <source>Use the text field below to enter the instructions for this activity. The text field supports a limited number of HTML tags. For a complete list of the tags, please refer to the help files.</source>
-      <translation type="unfinished">Use the text field below to enter the instructions for this activity. The text field supports a limited number of HTML tags. For a complete list of the tags, please refer to the help files.</translation>
+      <translation>請使用下方的文字欄位輸入此活動的說明。文字欄位支援有限的 HTML 標籤。完整的標籤清單請參閱說明檔。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9417"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11351"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14191"/>
       <source>Insert</source>
-      <translation type="unfinished">Insert</translation>
+      <translation>插入</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12159"/>
@@ -220,173 +220,173 @@ Please refer to the Activity Wizard help files for more detailed information.</t
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8853"/>
       <source>Preview as HTML</source>
-      <translation type="unfinished">Preview as HTML</translation>
+      <translation>以 HTML 預覽</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9572"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9575"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9578"/>
       <source>Page:</source>
-      <translation type="unfinished">Page:</translation>
+      <translation>頁面：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9609"/>
       <source>100/100</source>
-      <translation type="unfinished">100/100</translation>
+      <translation>100/100</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9628"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9631"/>
       <source>Previous Page</source>
-      <translation type="unfinished">Previous Page</translation>
+      <translation>上一頁</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9650"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9653"/>
       <source>Next Page</source>
-      <translation type="unfinished">Next Page</translation>
+      <translation>下一頁</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13104"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13107"/>
       <source>+</source>
-      <translation type="unfinished">+</translation>
+      <translation>+</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9682"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9685"/>
       <source>Add Page</source>
-      <translation type="unfinished">Add Page</translation>
+      <translation>新增頁面</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9704"/>
       <source>Remove Page</source>
-      <translation type="unfinished">Remove Page</translation>
+      <translation>移除頁面</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8813"/>
       <source>Plain Editor</source>
-      <translation type="unfinished">Plain Editor</translation>
+      <translation>純文字編輯器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8830"/>
       <source>Rich Editor</source>
-      <translation type="unfinished">Rich Editor</translation>
+      <translation>格式化文字編輯器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9453"/>
       <source>Show Pages as Tabs</source>
-      <translation type="unfinished">Show Pages as Tabs</translation>
+      <translation>以分頁顯示頁面</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9514"/>
       <source>Tab Name:</source>
-      <translation type="unfinished">Tab Name:</translation>
+      <translation>分頁名稱：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9736"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9739"/>
       <source>Import Page</source>
-      <translation type="unfinished">Import Page</translation>
+      <translation>匯入頁面</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9752"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9755"/>
       <source>Export Page</source>
-      <translation type="unfinished">Export Page</translation>
+      <translation>匯出頁面</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9778"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9781"/>
       <source>Import All</source>
-      <translation type="unfinished">Import All</translation>
+      <translation>全部匯入</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9794"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9797"/>
       <source>Export All</source>
-      <translation type="unfinished">Export All</translation>
+      <translation>全部匯出</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9840"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9843"/>
       <source>Show Answer Network</source>
-      <translation type="unfinished">Show Answer Network</translation>
+      <translation>顯示答案網路</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9859"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9862"/>
       <source>Import File to Answer Network</source>
-      <translation type="unfinished">Import File to Answer Network</translation>
+      <translation>將檔案匯入答案網路</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9878"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9881"/>
       <source>Export Answer Network to File</source>
-      <translation type="unfinished">Export Answer Network to File</translation>
+      <translation>將答案網路匯出至檔案</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9906"/>
       <source>Assessment Tree</source>
-      <translation type="unfinished">Assessment Tree</translation>
+      <translation>評量樹狀圖</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9921"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9924"/>
       <source>Use the tree below to select the components you want to assess. You may also use the View Filter to show only certain categories.</source>
-      <translation type="unfinished">Use the tree below to select the components you want to assess. You may also use the View Filter to show only certain categories.</translation>
+      <translation>請使用下方的樹狀圖選取要評量的元件。您也可以使用檢視篩選器僅顯示特定類別。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9957"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9960"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9963"/>
       <source>Keyword:</source>
-      <translation type="unfinished">Keyword:</translation>
+      <translation>關鍵字：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9992"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9995"/>
       <source>Filter</source>
-      <translation type="unfinished">Filter</translation>
+      <translation>篩選</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="10030"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="10033"/>
       <source>Show Checked Only</source>
-      <translation type="unfinished">Show Checked Only</translation>
+      <translation>僅顯示已勾選項目</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="10098"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11933"/>
       <source>Points</source>
-      <translation type="unfinished">Points</translation>
+      <translation>分數</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="10103"/>
       <source>Component(s)</source>
-      <translation type="unfinished">Component(s)</translation>
+      <translation>元件</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="10108"/>
       <source>Feedback When Incorrect</source>
-      <translation type="unfinished">Feedback When Incorrect</translation>
+      <translation>答錯時的回饋</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11369"/>
       <source>Connectivity Test</source>
-      <translation type="unfinished">Connectivity Test</translation>
+      <translation>連線測試</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11378"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11381"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11384"/>
       <source>The connectivity tests are based on the first scenario of the answer network&apos;s User Created PDUs list. On the first column, select the test condition.</source>
-      <translation type="unfinished">The connectivity tests are based on the first scenario of the answer network&apos;s User Created PDUs list. On the first column, select the test condition.</translation>
+      <translation>連線測試是依據答案網路的「使用者建立的 PDU」清單中的第一個情境。請在第一欄選取測試條件。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11928"/>
       <source>Test Condition</source>
-      <translation type="unfinished">Test Condition</translation>
+      <translation>測試條件</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11938"/>
@@ -417,7 +417,7 @@ Please refer to the Activity Wizard help files for more detailed information.</t
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11963"/>
       <source>Time (sec)</source>
-      <translation type="unfinished">Time (sec)</translation>
+      <translation>時間（秒）</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11968"/>
@@ -432,25 +432,25 @@ Please refer to the Activity Wizard help files for more detailed information.</t
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12073"/>
       <source>Scoring Model</source>
-      <translation type="unfinished">Scoring Model</translation>
+      <translation>評分模型</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12079"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12082"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12085"/>
       <source>The Scoring Model provides complete control over constructing activity tasks and providing feedback based on the evidence of the proficiencies.</source>
-      <translation type="unfinished">The Scoring Model provides complete control over constructing activity tasks and providing feedback based on the evidence of the proficiencies.</translation>
+      <translation>評分模型讓您完全掌控活動任務的建構，並根據能力表現的證據提供回饋。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12101"/>
       <source>Work Product Features</source>
-      <translation type="unfinished">Work Product Features</translation>
+      <translation>工作成果特徵</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12135"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12293"/>
       <source>Expression</source>
-      <translation type="unfinished">Expression</translation>
+      <translation>運算式</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12140"/>
@@ -462,27 +462,27 @@ Please refer to the Activity Wizard help files for more detailed information.</t
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13123"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13126"/>
       <source>-</source>
-      <translation type="unfinished">-</translation>
+      <translation>-</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="163"/>
       <source>Welcome</source>
-      <translation type="unfinished">Welcome</translation>
+      <translation>歡迎</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="197"/>
       <source>Variable Manager</source>
-      <translation type="unfinished">Variable Manager</translation>
+      <translation>變數管理員</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="228"/>
       <source>Instructions</source>
-      <translation type="unfinished">Instructions</translation>
+      <translation>說明</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="259"/>
       <source>Answer Network</source>
-      <translation type="unfinished">Answer Network</translation>
+      <translation>答案網路</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="290"/>
@@ -492,7 +492,7 @@ Please refer to the Activity Wizard help files for more detailed information.</t
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="321"/>
       <source>Initial Network</source>
-      <translation type="unfinished">Initial Network</translation>
+      <translation>初始網路</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="352"/>
@@ -503,46 +503,46 @@ Please refer to the Activity Wizard help files for more detailed information.</t
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="389"/>
       <source>Test Activity</source>
-      <translation type="unfinished">Test Activity</translation>
+      <translation>測試活動</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="420"/>
       <source>Check Activity</source>
-      <translation type="unfinished">Check Activity</translation>
+      <translation>檢查活動</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="607"/>
       <source>Welcome to the Activity Wizard!The Activity Wizard is an assessment tool that allows you to create detailed networking scenarios for other users. The typical sequence in making an activity is as follows:1) Create the answer network and set the assessment items.2) Create the initial network, which will be the user&apos;s starting point. A blank initial network may also be used. For accurate scoring, device display names in the initial network must match the ones in the answer network.3) Put constraints on the user&apos;s ability to use certain features during the activity.4) Write a clear set of instructions for the activity.5) Password-protect the activity to prevent unauthorized changes to activity parameters.6) Save the activity.Please refer to the Activity Wizard help files for more detailed information.</source>
-      <translation type="unfinished">Welcome to the Activity Wizard!The Activity Wizard is an assessment tool that allows you to create detailed networking scenarios for other users. The typical sequence in making an activity is as follows:1) Create the answer network and set the assessment items.2) Create the initial network, which will be the user&apos;s starting point. A blank initial network may also be used. For accurate scoring, device display names in the initial network must match the ones in the answer network.3) Put constraints on the user&apos;s ability to use certain features during the activity.4) Write a clear set of instructions for the activity.5) Password-protect the activity to prevent unauthorized changes to activity parameters.6) Save the activity.Please refer to the Activity Wizard help files for more detailed information.</translation>
+      <translation>歡迎使用 Activity Wizard！Activity Wizard 是一項評量工具，可讓您為其他使用者建立詳細的網路情境。製作活動的一般順序如下：1) 建立答案網路並設定評量項目。2) 建立初始網路，作為使用者的起點。也可以使用空白的初始網路。為了準確評分，初始網路中的裝置顯示名稱必須與答案網路中的名稱相符。3) 限制使用者在活動期間使用特定功能。4) 撰寫清楚的活動說明。5) 為活動設定密碼保護，以防止他人未經授權變更活動參數。6) 儲存活動。詳細資訊請參閱 Activity Wizard 說明檔。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="652"/>
       <source>Original Author:  
 
 Comments: </source>
-      <translation type="unfinished">Original Author:  
+      <translation>原作者：  
 
-Comments: </translation>
+註解： </translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="706"/>
       <source>Variable Manager Operation</source>
-      <translation type="unfinished">Variable Manager Operation</translation>
+      <translation>變數管理員操作</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="765"/>
       <source>To enable the ability to use the menu feature to insert variables throughout the rest of the Activity Wizard, select “Show Variable Manager Interface”</source>
-      <translation type="unfinished">To enable the ability to use the menu feature to insert variables throughout the rest of the Activity Wizard, select “Show Variable Manager Interface”</translation>
+      <translation>若要啟用在 Activity Wizard 其餘部分透過選單插入變數的功能，請選取「顯示變數管理員介面」</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="813"/>
       <source>Seeds</source>
-      <translation type="unfinished">Seeds</translation>
+      <translation>種子</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="825"/>
       <source>To Add: Fill in the required Name, Minimum and Maximum Values. The Test Value (optional) will specify the value to be used for the seed. This overrides random selection and is only used during Test Activity mode. To Edit: Double-Click in the cell and change the value To Remove: Click anywhere in the row to be deleted and press the Delete key. Negative values should not be used as Seeds. While they will be accepted, they will cause unpredictable results when the activity is used. When Seeds are used as index values to generating variables, make sure the pool range is greater or equal to the Seed range of values. Valid Seed range is from 0 to 2,147,483,647. Note: All variable positions start at 0. Typical Seeds should start at 0.</source>
-      <translation type="unfinished">To Add: Fill in the required Name, Minimum and Maximum Values. The Test Value (optional) will specify the value to be used for the seed. This overrides random selection and is only used during Test Activity mode. To Edit: Double-Click in the cell and change the value To Remove: Click anywhere in the row to be deleted and press the Delete key. Negative values should not be used as Seeds. While they will be accepted, they will cause unpredictable results when the activity is used. When Seeds are used as index values to generating variables, make sure the pool range is greater or equal to the Seed range of values. Valid Seed range is from 0 to 2,147,483,647. Note: All variable positions start at 0. Typical Seeds should start at 0.</translation>
+      <translation>新增：填入必要的名稱、最小值與最大值。測試值（選填）可指定種子所使用的值，這會覆寫隨機選取，且僅在「測試活動」模式下使用。編輯：在儲存格上按兩下並變更值。移除：點選要刪除之列的任一處並按 Delete 鍵。種子不應使用負值，雖然系統會接受，但活動使用時會造成無法預期的結果。當種子作為產生變數的索引值時，請確保集區範圍大於或等於種子的值範圍。有效的種子範圍為 0 到 2,147,483,647。注意：所有變數位置皆從 0 開始，一般種子應從 0 開始。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="869"/>
@@ -557,7 +557,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11428"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13691"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="874"/>
@@ -572,7 +572,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11433"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13696"/>
       <source>2</source>
-      <translation type="unfinished">2</translation>
+      <translation>2</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="879"/>
@@ -587,7 +587,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11438"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13701"/>
       <source>3</source>
-      <translation type="unfinished">3</translation>
+      <translation>3</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="884"/>
@@ -602,7 +602,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11443"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13706"/>
       <source>4</source>
-      <translation type="unfinished">4</translation>
+      <translation>4</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="889"/>
@@ -617,7 +617,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11448"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13711"/>
       <source>5</source>
-      <translation type="unfinished">5</translation>
+      <translation>5</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="894"/>
@@ -632,7 +632,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11453"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13716"/>
       <source>6</source>
-      <translation type="unfinished">6</translation>
+      <translation>6</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="899"/>
@@ -647,7 +647,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11458"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13721"/>
       <source>7</source>
-      <translation type="unfinished">7</translation>
+      <translation>7</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="904"/>
@@ -662,7 +662,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11463"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13726"/>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="909"/>
@@ -677,7 +677,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11468"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13731"/>
       <source>9</source>
-      <translation type="unfinished">9</translation>
+      <translation>9</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="914"/>
@@ -692,7 +692,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11473"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13736"/>
       <source>10</source>
-      <translation type="unfinished">10</translation>
+      <translation>10</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="919"/>
@@ -707,7 +707,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11478"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13741"/>
       <source>11</source>
-      <translation type="unfinished">11</translation>
+      <translation>11</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="924"/>
@@ -722,7 +722,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11483"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13746"/>
       <source>12</source>
-      <translation type="unfinished">12</translation>
+      <translation>12</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="929"/>
@@ -737,7 +737,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11488"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13751"/>
       <source>13</source>
-      <translation type="unfinished">13</translation>
+      <translation>13</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="934"/>
@@ -752,7 +752,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11493"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13756"/>
       <source>14</source>
-      <translation type="unfinished">14</translation>
+      <translation>14</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="939"/>
@@ -767,7 +767,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11498"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13761"/>
       <source>15</source>
-      <translation type="unfinished">15</translation>
+      <translation>15</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="944"/>
@@ -782,7 +782,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11503"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13766"/>
       <source>16</source>
-      <translation type="unfinished">16</translation>
+      <translation>16</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="949"/>
@@ -797,7 +797,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11508"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13771"/>
       <source>17</source>
-      <translation type="unfinished">17</translation>
+      <translation>17</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="954"/>
@@ -812,7 +812,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11513"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13776"/>
       <source>18</source>
-      <translation type="unfinished">18</translation>
+      <translation>18</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="959"/>
@@ -827,7 +827,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11518"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13781"/>
       <source>19</source>
-      <translation type="unfinished">19</translation>
+      <translation>19</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="964"/>
@@ -842,7 +842,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11523"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13786"/>
       <source>20</source>
-      <translation type="unfinished">20</translation>
+      <translation>20</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="969"/>
@@ -857,7 +857,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11528"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13791"/>
       <source>21</source>
-      <translation type="unfinished">21</translation>
+      <translation>21</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="974"/>
@@ -872,7 +872,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11533"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13796"/>
       <source>22</source>
-      <translation type="unfinished">22</translation>
+      <translation>22</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="979"/>
@@ -887,7 +887,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11538"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13801"/>
       <source>23</source>
-      <translation type="unfinished">23</translation>
+      <translation>23</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="984"/>
@@ -902,7 +902,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11543"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13806"/>
       <source>24</source>
-      <translation type="unfinished">24</translation>
+      <translation>24</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="989"/>
@@ -917,7 +917,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11548"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13811"/>
       <source>25</source>
-      <translation type="unfinished">25</translation>
+      <translation>25</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="994"/>
@@ -932,7 +932,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11553"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13816"/>
       <source>26</source>
-      <translation type="unfinished">26</translation>
+      <translation>26</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="999"/>
@@ -947,7 +947,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11558"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13821"/>
       <source>27</source>
-      <translation type="unfinished">27</translation>
+      <translation>27</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1004"/>
@@ -962,7 +962,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11563"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13826"/>
       <source>28</source>
-      <translation type="unfinished">28</translation>
+      <translation>28</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1009"/>
@@ -977,7 +977,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11568"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13831"/>
       <source>29</source>
-      <translation type="unfinished">29</translation>
+      <translation>29</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1014"/>
@@ -992,7 +992,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11573"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13836"/>
       <source>30</source>
-      <translation type="unfinished">30</translation>
+      <translation>30</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1019"/>
@@ -1007,7 +1007,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11578"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13841"/>
       <source>31</source>
-      <translation type="unfinished">31</translation>
+      <translation>31</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1024"/>
@@ -1022,7 +1022,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11583"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13846"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1029"/>
@@ -1037,7 +1037,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11588"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13851"/>
       <source>33</source>
-      <translation type="unfinished">33</translation>
+      <translation>33</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1034"/>
@@ -1052,7 +1052,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11593"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13856"/>
       <source>34</source>
-      <translation type="unfinished">34</translation>
+      <translation>34</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1039"/>
@@ -1067,7 +1067,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11598"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13861"/>
       <source>35</source>
-      <translation type="unfinished">35</translation>
+      <translation>35</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1044"/>
@@ -1082,7 +1082,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11603"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13866"/>
       <source>36</source>
-      <translation type="unfinished">36</translation>
+      <translation>36</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1049"/>
@@ -1097,7 +1097,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11608"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13871"/>
       <source>37</source>
-      <translation type="unfinished">37</translation>
+      <translation>37</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1054"/>
@@ -1112,7 +1112,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11613"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13876"/>
       <source>38</source>
-      <translation type="unfinished">38</translation>
+      <translation>38</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1059"/>
@@ -1127,7 +1127,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11618"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13881"/>
       <source>39</source>
-      <translation type="unfinished">39</translation>
+      <translation>39</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1064"/>
@@ -1142,7 +1142,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11623"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13886"/>
       <source>40</source>
-      <translation type="unfinished">40</translation>
+      <translation>40</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1069"/>
@@ -1157,7 +1157,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11628"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13891"/>
       <source>41</source>
-      <translation type="unfinished">41</translation>
+      <translation>41</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1074"/>
@@ -1172,7 +1172,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11633"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13896"/>
       <source>42</source>
-      <translation type="unfinished">42</translation>
+      <translation>42</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1079"/>
@@ -1187,7 +1187,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11638"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13901"/>
       <source>43</source>
-      <translation type="unfinished">43</translation>
+      <translation>43</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1084"/>
@@ -1202,7 +1202,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11643"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13906"/>
       <source>44</source>
-      <translation type="unfinished">44</translation>
+      <translation>44</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1089"/>
@@ -1217,7 +1217,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11648"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13911"/>
       <source>45</source>
-      <translation type="unfinished">45</translation>
+      <translation>45</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1094"/>
@@ -1232,7 +1232,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11653"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13916"/>
       <source>46</source>
-      <translation type="unfinished">46</translation>
+      <translation>46</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1099"/>
@@ -1247,7 +1247,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11658"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13921"/>
       <source>47</source>
-      <translation type="unfinished">47</translation>
+      <translation>47</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1104"/>
@@ -1262,7 +1262,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11663"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13926"/>
       <source>48</source>
-      <translation type="unfinished">48</translation>
+      <translation>48</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1109"/>
@@ -1277,7 +1277,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11668"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13931"/>
       <source>49</source>
-      <translation type="unfinished">49</translation>
+      <translation>49</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1114"/>
@@ -1292,7 +1292,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11673"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13936"/>
       <source>50</source>
-      <translation type="unfinished">50</translation>
+      <translation>50</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1119"/>
@@ -1307,7 +1307,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11678"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13941"/>
       <source>51</source>
-      <translation type="unfinished">51</translation>
+      <translation>51</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1124"/>
@@ -1322,7 +1322,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11683"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13946"/>
       <source>52</source>
-      <translation type="unfinished">52</translation>
+      <translation>52</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1129"/>
@@ -1337,7 +1337,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11688"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13951"/>
       <source>53</source>
-      <translation type="unfinished">53</translation>
+      <translation>53</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1134"/>
@@ -1352,7 +1352,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11693"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13956"/>
       <source>54</source>
-      <translation type="unfinished">54</translation>
+      <translation>54</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1139"/>
@@ -1367,7 +1367,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11698"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13961"/>
       <source>55</source>
-      <translation type="unfinished">55</translation>
+      <translation>55</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1144"/>
@@ -1382,7 +1382,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11703"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13966"/>
       <source>56</source>
-      <translation type="unfinished">56</translation>
+      <translation>56</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1149"/>
@@ -1397,7 +1397,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11708"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13971"/>
       <source>57</source>
-      <translation type="unfinished">57</translation>
+      <translation>57</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1154"/>
@@ -1412,7 +1412,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11713"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13976"/>
       <source>58</source>
-      <translation type="unfinished">58</translation>
+      <translation>58</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1159"/>
@@ -1427,7 +1427,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11718"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13981"/>
       <source>59</source>
-      <translation type="unfinished">59</translation>
+      <translation>59</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1164"/>
@@ -1442,7 +1442,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11723"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13986"/>
       <source>60</source>
-      <translation type="unfinished">60</translation>
+      <translation>60</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1169"/>
@@ -1457,7 +1457,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11728"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13991"/>
       <source>61</source>
-      <translation type="unfinished">61</translation>
+      <translation>61</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1174"/>
@@ -1472,7 +1472,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11733"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13996"/>
       <source>62</source>
-      <translation type="unfinished">62</translation>
+      <translation>62</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1179"/>
@@ -1487,7 +1487,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11738"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14001"/>
       <source>63</source>
-      <translation type="unfinished">63</translation>
+      <translation>63</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1184"/>
@@ -1502,7 +1502,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11743"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14006"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1189"/>
@@ -1517,7 +1517,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11748"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14011"/>
       <source>65</source>
-      <translation type="unfinished">65</translation>
+      <translation>65</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1194"/>
@@ -1532,7 +1532,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11753"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14016"/>
       <source>66</source>
-      <translation type="unfinished">66</translation>
+      <translation>66</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1199"/>
@@ -1547,7 +1547,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11758"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14021"/>
       <source>67</source>
-      <translation type="unfinished">67</translation>
+      <translation>67</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1204"/>
@@ -1562,7 +1562,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11763"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14026"/>
       <source>68</source>
-      <translation type="unfinished">68</translation>
+      <translation>68</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1209"/>
@@ -1577,7 +1577,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11768"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14031"/>
       <source>69</source>
-      <translation type="unfinished">69</translation>
+      <translation>69</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1214"/>
@@ -1592,7 +1592,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11773"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14036"/>
       <source>70</source>
-      <translation type="unfinished">70</translation>
+      <translation>70</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1219"/>
@@ -1607,7 +1607,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11778"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14041"/>
       <source>71</source>
-      <translation type="unfinished">71</translation>
+      <translation>71</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1224"/>
@@ -1622,7 +1622,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11783"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14046"/>
       <source>72</source>
-      <translation type="unfinished">72</translation>
+      <translation>72</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1229"/>
@@ -1637,7 +1637,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11788"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14051"/>
       <source>73</source>
-      <translation type="unfinished">73</translation>
+      <translation>73</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1234"/>
@@ -1652,7 +1652,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11793"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14056"/>
       <source>74</source>
-      <translation type="unfinished">74</translation>
+      <translation>74</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1239"/>
@@ -1667,7 +1667,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11798"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14061"/>
       <source>75</source>
-      <translation type="unfinished">75</translation>
+      <translation>75</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1244"/>
@@ -1682,7 +1682,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11803"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14066"/>
       <source>76</source>
-      <translation type="unfinished">76</translation>
+      <translation>76</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1249"/>
@@ -1697,7 +1697,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11808"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14071"/>
       <source>77</source>
-      <translation type="unfinished">77</translation>
+      <translation>77</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1254"/>
@@ -1712,7 +1712,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11813"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14076"/>
       <source>78</source>
-      <translation type="unfinished">78</translation>
+      <translation>78</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1259"/>
@@ -1727,7 +1727,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11818"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14081"/>
       <source>79</source>
-      <translation type="unfinished">79</translation>
+      <translation>79</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1264"/>
@@ -1742,7 +1742,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11823"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14086"/>
       <source>80</source>
-      <translation type="unfinished">80</translation>
+      <translation>80</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1269"/>
@@ -1757,7 +1757,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11828"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14091"/>
       <source>81</source>
-      <translation type="unfinished">81</translation>
+      <translation>81</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1274"/>
@@ -1772,7 +1772,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11833"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14096"/>
       <source>82</source>
-      <translation type="unfinished">82</translation>
+      <translation>82</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1279"/>
@@ -1787,7 +1787,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11838"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14101"/>
       <source>83</source>
-      <translation type="unfinished">83</translation>
+      <translation>83</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1284"/>
@@ -1802,7 +1802,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11843"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14106"/>
       <source>84</source>
-      <translation type="unfinished">84</translation>
+      <translation>84</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1289"/>
@@ -1817,7 +1817,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11848"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14111"/>
       <source>85</source>
-      <translation type="unfinished">85</translation>
+      <translation>85</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1294"/>
@@ -1832,7 +1832,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11853"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14116"/>
       <source>86</source>
-      <translation type="unfinished">86</translation>
+      <translation>86</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1299"/>
@@ -1847,7 +1847,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11858"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14121"/>
       <source>87</source>
-      <translation type="unfinished">87</translation>
+      <translation>87</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1304"/>
@@ -1862,7 +1862,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11863"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14126"/>
       <source>88</source>
-      <translation type="unfinished">88</translation>
+      <translation>88</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1309"/>
@@ -1877,7 +1877,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11868"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14131"/>
       <source>89</source>
-      <translation type="unfinished">89</translation>
+      <translation>89</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1314"/>
@@ -1892,7 +1892,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11873"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14136"/>
       <source>90</source>
-      <translation type="unfinished">90</translation>
+      <translation>90</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1319"/>
@@ -1907,7 +1907,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11878"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14141"/>
       <source>91</source>
-      <translation type="unfinished">91</translation>
+      <translation>91</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1324"/>
@@ -1922,7 +1922,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11883"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14146"/>
       <source>92</source>
-      <translation type="unfinished">92</translation>
+      <translation>92</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1329"/>
@@ -1937,7 +1937,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11888"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14151"/>
       <source>93</source>
-      <translation type="unfinished">93</translation>
+      <translation>93</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1334"/>
@@ -1952,7 +1952,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11893"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14156"/>
       <source>94</source>
-      <translation type="unfinished">94</translation>
+      <translation>94</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1339"/>
@@ -1967,7 +1967,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11898"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14161"/>
       <source>95</source>
-      <translation type="unfinished">95</translation>
+      <translation>95</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1344"/>
@@ -1982,7 +1982,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11903"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14166"/>
       <source>96</source>
-      <translation type="unfinished">96</translation>
+      <translation>96</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1349"/>
@@ -1997,7 +1997,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11908"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14171"/>
       <source>97</source>
-      <translation type="unfinished">97</translation>
+      <translation>97</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1354"/>
@@ -2012,7 +2012,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11913"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14176"/>
       <source>98</source>
-      <translation type="unfinished">98</translation>
+      <translation>98</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1359"/>
@@ -2027,7 +2027,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11918"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14181"/>
       <source>99</source>
-      <translation type="unfinished">99</translation>
+      <translation>99</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1364"/>
@@ -2042,7 +2042,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11923"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14186"/>
       <source>100</source>
-      <translation type="unfinished">100</translation>
+      <translation>100</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1369"/>
@@ -2053,7 +2053,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7024"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8164"/>
       <source>101</source>
-      <translation type="unfinished">101</translation>
+      <translation>101</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1374"/>
@@ -2064,7 +2064,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7029"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8169"/>
       <source>102</source>
-      <translation type="unfinished">102</translation>
+      <translation>102</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1379"/>
@@ -2075,7 +2075,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7034"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8174"/>
       <source>103</source>
-      <translation type="unfinished">103</translation>
+      <translation>103</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1384"/>
@@ -2086,7 +2086,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7039"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8179"/>
       <source>104</source>
-      <translation type="unfinished">104</translation>
+      <translation>104</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1389"/>
@@ -2097,7 +2097,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7044"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8184"/>
       <source>105</source>
-      <translation type="unfinished">105</translation>
+      <translation>105</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1394"/>
@@ -2108,7 +2108,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7049"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8189"/>
       <source>106</source>
-      <translation type="unfinished">106</translation>
+      <translation>106</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1399"/>
@@ -2119,7 +2119,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7054"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8194"/>
       <source>107</source>
-      <translation type="unfinished">107</translation>
+      <translation>107</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1404"/>
@@ -2130,7 +2130,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7059"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8199"/>
       <source>108</source>
-      <translation type="unfinished">108</translation>
+      <translation>108</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1409"/>
@@ -2141,7 +2141,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7064"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8204"/>
       <source>109</source>
-      <translation type="unfinished">109</translation>
+      <translation>109</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1414"/>
@@ -2152,7 +2152,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7069"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8209"/>
       <source>110</source>
-      <translation type="unfinished">110</translation>
+      <translation>110</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1419"/>
@@ -2163,7 +2163,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7074"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8214"/>
       <source>111</source>
-      <translation type="unfinished">111</translation>
+      <translation>111</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1424"/>
@@ -2174,7 +2174,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7079"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8219"/>
       <source>112</source>
-      <translation type="unfinished">112</translation>
+      <translation>112</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1429"/>
@@ -2185,7 +2185,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7084"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8224"/>
       <source>113</source>
-      <translation type="unfinished">113</translation>
+      <translation>113</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1434"/>
@@ -2196,7 +2196,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7089"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8229"/>
       <source>114</source>
-      <translation type="unfinished">114</translation>
+      <translation>114</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1439"/>
@@ -2207,7 +2207,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7094"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8234"/>
       <source>115</source>
-      <translation type="unfinished">115</translation>
+      <translation>115</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1444"/>
@@ -2218,7 +2218,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7099"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8239"/>
       <source>116</source>
-      <translation type="unfinished">116</translation>
+      <translation>116</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1449"/>
@@ -2229,7 +2229,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7104"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8244"/>
       <source>117</source>
-      <translation type="unfinished">117</translation>
+      <translation>117</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1454"/>
@@ -2240,7 +2240,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7109"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8249"/>
       <source>118</source>
-      <translation type="unfinished">118</translation>
+      <translation>118</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1459"/>
@@ -2251,7 +2251,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7114"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8254"/>
       <source>119</source>
-      <translation type="unfinished">119</translation>
+      <translation>119</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1464"/>
@@ -2262,7 +2262,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7119"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8259"/>
       <source>120</source>
-      <translation type="unfinished">120</translation>
+      <translation>120</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1469"/>
@@ -2273,7 +2273,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7124"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8264"/>
       <source>121</source>
-      <translation type="unfinished">121</translation>
+      <translation>121</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1474"/>
@@ -2284,7 +2284,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7129"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8269"/>
       <source>122</source>
-      <translation type="unfinished">122</translation>
+      <translation>122</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1479"/>
@@ -2295,7 +2295,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7134"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8274"/>
       <source>123</source>
-      <translation type="unfinished">123</translation>
+      <translation>123</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1484"/>
@@ -2306,7 +2306,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7139"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8279"/>
       <source>124</source>
-      <translation type="unfinished">124</translation>
+      <translation>124</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1489"/>
@@ -2317,7 +2317,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7144"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8284"/>
       <source>125</source>
-      <translation type="unfinished">125</translation>
+      <translation>125</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1494"/>
@@ -2328,7 +2328,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7149"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8289"/>
       <source>126</source>
-      <translation type="unfinished">126</translation>
+      <translation>126</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1499"/>
@@ -2339,7 +2339,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7154"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8294"/>
       <source>127</source>
-      <translation type="unfinished">127</translation>
+      <translation>127</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1504"/>
@@ -2350,7 +2350,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7159"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8299"/>
       <source>128</source>
-      <translation type="unfinished">128</translation>
+      <translation>128</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1509"/>
@@ -2361,7 +2361,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7164"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8304"/>
       <source>129</source>
-      <translation type="unfinished">129</translation>
+      <translation>129</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1514"/>
@@ -2372,7 +2372,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7169"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8309"/>
       <source>130</source>
-      <translation type="unfinished">130</translation>
+      <translation>130</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1519"/>
@@ -2383,7 +2383,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7174"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8314"/>
       <source>131</source>
-      <translation type="unfinished">131</translation>
+      <translation>131</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1524"/>
@@ -2394,7 +2394,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7179"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8319"/>
       <source>132</source>
-      <translation type="unfinished">132</translation>
+      <translation>132</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1529"/>
@@ -2405,7 +2405,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7184"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8324"/>
       <source>133</source>
-      <translation type="unfinished">133</translation>
+      <translation>133</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1534"/>
@@ -2416,7 +2416,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7189"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8329"/>
       <source>134</source>
-      <translation type="unfinished">134</translation>
+      <translation>134</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1539"/>
@@ -2427,7 +2427,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7194"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8334"/>
       <source>135</source>
-      <translation type="unfinished">135</translation>
+      <translation>135</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1544"/>
@@ -2438,7 +2438,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7199"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8339"/>
       <source>136</source>
-      <translation type="unfinished">136</translation>
+      <translation>136</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1549"/>
@@ -2449,7 +2449,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7204"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8344"/>
       <source>137</source>
-      <translation type="unfinished">137</translation>
+      <translation>137</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1554"/>
@@ -2460,7 +2460,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7209"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8349"/>
       <source>138</source>
-      <translation type="unfinished">138</translation>
+      <translation>138</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1559"/>
@@ -2471,7 +2471,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7214"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8354"/>
       <source>139</source>
-      <translation type="unfinished">139</translation>
+      <translation>139</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1564"/>
@@ -2482,7 +2482,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7219"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8359"/>
       <source>140</source>
-      <translation type="unfinished">140</translation>
+      <translation>140</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1569"/>
@@ -2493,7 +2493,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7224"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8364"/>
       <source>141</source>
-      <translation type="unfinished">141</translation>
+      <translation>141</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1574"/>
@@ -2504,7 +2504,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7229"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8369"/>
       <source>142</source>
-      <translation type="unfinished">142</translation>
+      <translation>142</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1579"/>
@@ -2515,7 +2515,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7234"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8374"/>
       <source>143</source>
-      <translation type="unfinished">143</translation>
+      <translation>143</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1584"/>
@@ -2526,7 +2526,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7239"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8379"/>
       <source>144</source>
-      <translation type="unfinished">144</translation>
+      <translation>144</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1589"/>
@@ -2537,7 +2537,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7244"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8384"/>
       <source>145</source>
-      <translation type="unfinished">145</translation>
+      <translation>145</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1594"/>
@@ -2548,7 +2548,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7249"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8389"/>
       <source>146</source>
-      <translation type="unfinished">146</translation>
+      <translation>146</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1599"/>
@@ -2559,7 +2559,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7254"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8394"/>
       <source>147</source>
-      <translation type="unfinished">147</translation>
+      <translation>147</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1604"/>
@@ -2570,7 +2570,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7259"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8399"/>
       <source>148</source>
-      <translation type="unfinished">148</translation>
+      <translation>148</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1609"/>
@@ -2581,7 +2581,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7264"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8404"/>
       <source>149</source>
-      <translation type="unfinished">149</translation>
+      <translation>149</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1614"/>
@@ -2592,7 +2592,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7269"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8409"/>
       <source>150</source>
-      <translation type="unfinished">150</translation>
+      <translation>150</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1619"/>
@@ -2603,7 +2603,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7274"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8414"/>
       <source>151</source>
-      <translation type="unfinished">151</translation>
+      <translation>151</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1624"/>
@@ -2614,7 +2614,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7279"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8419"/>
       <source>152</source>
-      <translation type="unfinished">152</translation>
+      <translation>152</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1629"/>
@@ -2625,7 +2625,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7284"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8424"/>
       <source>153</source>
-      <translation type="unfinished">153</translation>
+      <translation>153</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1634"/>
@@ -2636,7 +2636,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7289"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8429"/>
       <source>154</source>
-      <translation type="unfinished">154</translation>
+      <translation>154</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1639"/>
@@ -2647,7 +2647,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7294"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8434"/>
       <source>155</source>
-      <translation type="unfinished">155</translation>
+      <translation>155</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1644"/>
@@ -2658,7 +2658,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7299"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8439"/>
       <source>156</source>
-      <translation type="unfinished">156</translation>
+      <translation>156</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1649"/>
@@ -2669,7 +2669,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7304"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8444"/>
       <source>157</source>
-      <translation type="unfinished">157</translation>
+      <translation>157</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1654"/>
@@ -2680,7 +2680,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7309"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8449"/>
       <source>158</source>
-      <translation type="unfinished">158</translation>
+      <translation>158</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1659"/>
@@ -2691,7 +2691,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7314"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8454"/>
       <source>159</source>
-      <translation type="unfinished">159</translation>
+      <translation>159</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1664"/>
@@ -2702,7 +2702,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7319"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8459"/>
       <source>160</source>
-      <translation type="unfinished">160</translation>
+      <translation>160</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1669"/>
@@ -2713,7 +2713,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7324"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8464"/>
       <source>161</source>
-      <translation type="unfinished">161</translation>
+      <translation>161</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1674"/>
@@ -2724,7 +2724,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7329"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8469"/>
       <source>162</source>
-      <translation type="unfinished">162</translation>
+      <translation>162</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1679"/>
@@ -2735,7 +2735,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7334"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8474"/>
       <source>163</source>
-      <translation type="unfinished">163</translation>
+      <translation>163</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1684"/>
@@ -2746,7 +2746,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7339"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8479"/>
       <source>164</source>
-      <translation type="unfinished">164</translation>
+      <translation>164</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1689"/>
@@ -2757,7 +2757,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7344"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8484"/>
       <source>165</source>
-      <translation type="unfinished">165</translation>
+      <translation>165</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1694"/>
@@ -2768,7 +2768,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7349"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8489"/>
       <source>166</source>
-      <translation type="unfinished">166</translation>
+      <translation>166</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1699"/>
@@ -2779,7 +2779,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7354"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8494"/>
       <source>167</source>
-      <translation type="unfinished">167</translation>
+      <translation>167</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1704"/>
@@ -2790,7 +2790,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7359"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8499"/>
       <source>168</source>
-      <translation type="unfinished">168</translation>
+      <translation>168</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1709"/>
@@ -2801,7 +2801,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7364"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8504"/>
       <source>169</source>
-      <translation type="unfinished">169</translation>
+      <translation>169</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1714"/>
@@ -2812,7 +2812,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7369"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8509"/>
       <source>170</source>
-      <translation type="unfinished">170</translation>
+      <translation>170</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1719"/>
@@ -2823,7 +2823,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7374"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8514"/>
       <source>171</source>
-      <translation type="unfinished">171</translation>
+      <translation>171</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1724"/>
@@ -2834,7 +2834,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7379"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8519"/>
       <source>172</source>
-      <translation type="unfinished">172</translation>
+      <translation>172</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1729"/>
@@ -2845,7 +2845,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7384"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8524"/>
       <source>173</source>
-      <translation type="unfinished">173</translation>
+      <translation>173</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1734"/>
@@ -2856,7 +2856,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7389"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8529"/>
       <source>174</source>
-      <translation type="unfinished">174</translation>
+      <translation>174</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1739"/>
@@ -2867,7 +2867,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7394"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8534"/>
       <source>175</source>
-      <translation type="unfinished">175</translation>
+      <translation>175</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1744"/>
@@ -2878,7 +2878,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7399"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8539"/>
       <source>176</source>
-      <translation type="unfinished">176</translation>
+      <translation>176</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1749"/>
@@ -2889,7 +2889,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7404"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8544"/>
       <source>177</source>
-      <translation type="unfinished">177</translation>
+      <translation>177</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1754"/>
@@ -2900,7 +2900,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7409"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8549"/>
       <source>178</source>
-      <translation type="unfinished">178</translation>
+      <translation>178</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1759"/>
@@ -2911,7 +2911,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7414"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8554"/>
       <source>179</source>
-      <translation type="unfinished">179</translation>
+      <translation>179</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1764"/>
@@ -2922,7 +2922,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7419"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8559"/>
       <source>180</source>
-      <translation type="unfinished">180</translation>
+      <translation>180</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1769"/>
@@ -2933,7 +2933,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7424"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8564"/>
       <source>181</source>
-      <translation type="unfinished">181</translation>
+      <translation>181</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1774"/>
@@ -2944,7 +2944,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7429"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8569"/>
       <source>182</source>
-      <translation type="unfinished">182</translation>
+      <translation>182</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1779"/>
@@ -2955,7 +2955,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7434"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8574"/>
       <source>183</source>
-      <translation type="unfinished">183</translation>
+      <translation>183</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1784"/>
@@ -2966,7 +2966,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7439"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8579"/>
       <source>184</source>
-      <translation type="unfinished">184</translation>
+      <translation>184</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1789"/>
@@ -2977,7 +2977,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7444"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8584"/>
       <source>185</source>
-      <translation type="unfinished">185</translation>
+      <translation>185</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1794"/>
@@ -2988,7 +2988,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7449"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8589"/>
       <source>186</source>
-      <translation type="unfinished">186</translation>
+      <translation>186</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1799"/>
@@ -2999,7 +2999,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7454"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8594"/>
       <source>187</source>
-      <translation type="unfinished">187</translation>
+      <translation>187</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1804"/>
@@ -3010,7 +3010,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7459"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8599"/>
       <source>188</source>
-      <translation type="unfinished">188</translation>
+      <translation>188</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1809"/>
@@ -3021,7 +3021,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7464"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8604"/>
       <source>189</source>
-      <translation type="unfinished">189</translation>
+      <translation>189</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1814"/>
@@ -3032,7 +3032,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7469"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8609"/>
       <source>190</source>
-      <translation type="unfinished">190</translation>
+      <translation>190</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1819"/>
@@ -3043,7 +3043,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7474"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8614"/>
       <source>191</source>
-      <translation type="unfinished">191</translation>
+      <translation>191</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1824"/>
@@ -3054,7 +3054,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7479"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8619"/>
       <source>192</source>
-      <translation type="unfinished">192</translation>
+      <translation>192</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1829"/>
@@ -3065,7 +3065,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7484"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8624"/>
       <source>193</source>
-      <translation type="unfinished">193</translation>
+      <translation>193</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1834"/>
@@ -3076,7 +3076,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7489"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8629"/>
       <source>194</source>
-      <translation type="unfinished">194</translation>
+      <translation>194</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1839"/>
@@ -3087,7 +3087,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7494"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8634"/>
       <source>195</source>
-      <translation type="unfinished">195</translation>
+      <translation>195</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1844"/>
@@ -3098,7 +3098,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7499"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8639"/>
       <source>196</source>
-      <translation type="unfinished">196</translation>
+      <translation>196</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1849"/>
@@ -3109,7 +3109,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7504"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8644"/>
       <source>197</source>
-      <translation type="unfinished">197</translation>
+      <translation>197</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1854"/>
@@ -3120,7 +3120,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7509"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8649"/>
       <source>198</source>
-      <translation type="unfinished">198</translation>
+      <translation>198</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1859"/>
@@ -3131,7 +3131,7 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7514"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8654"/>
       <source>199</source>
-      <translation type="unfinished">199</translation>
+      <translation>199</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1864"/>
@@ -3142,211 +3142,211 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7519"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8659"/>
       <source>200</source>
-      <translation type="unfinished">200</translation>
+      <translation>200</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1869"/>
       <source>Seed Name</source>
-      <translation type="unfinished">Seed Name</translation>
+      <translation>種子名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1874"/>
       <source>Minimum</source>
-      <translation type="unfinished">Minimum</translation>
+      <translation>最小值</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1879"/>
       <source>Maximum</source>
-      <translation type="unfinished">Maximum</translation>
+      <translation>最大值</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1884"/>
       <source>Test Value</source>
-      <translation type="unfinished">Test Value</translation>
+      <translation>測試值</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1894"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1897"/>
       <source>Import Seeds</source>
-      <translation type="unfinished">Import Seeds</translation>
+      <translation>匯入種子</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1904"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1907"/>
       <source>Export Seeds</source>
-      <translation type="unfinished">Export Seeds</translation>
+      <translation>匯出種子</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1929"/>
       <source>Pools:</source>
-      <translation type="unfinished">Pools:</translation>
+      <translation>集區：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1936"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1939"/>
       <source>To Add: Fill in the required Name, Minimum and Maximum Values. To Edit: Double-Click in the cell and change the value To Remove: Click anywhere in the row to be deleted and press the Delete key. Range: Positive and negative Integer numbers. Seed variables can be substituted for integers using [[variablename]].</source>
-      <translation type="unfinished">To Add: Fill in the required Name, Minimum and Maximum Values. To Edit: Double-Click in the cell and change the value To Remove: Click anywhere in the row to be deleted and press the Delete key. Range: Positive and negative Integer numbers. Seed variables can be substituted for integers using [[variablename]].</translation>
+      <translation>新增：填入必要的名稱、最小值與最大值。編輯：在儲存格上按兩下並變更值。移除：點選要刪除之列的任一處並按 Delete 鍵。範圍：正負整數。種子變數可使用 [[variablename]] 取代整數。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="2995"/>
       <source>Number Pool Name</source>
-      <translation type="unfinished">Number Pool Name</translation>
+      <translation>數字集區名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="3021"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="3024"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="3027"/>
       <source>Import Number Pools</source>
-      <translation type="unfinished">Import Number Pools</translation>
+      <translation>匯入數字集區</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="3040"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="3043"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="3046"/>
       <source>Export Number Pools</source>
-      <translation type="unfinished">Export Number Pools</translation>
+      <translation>匯出數字集區</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="3074"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="3077"/>
       <source>To Add: Fill in the required Name, Pool Name and Value type fieldIf Value Type is Element Position, an integer value is specified in the value fieldIf Value Type is Seed, a Seed variable name is used in the Value field To Edit: Double-Click in the cell and change the value or reselect the dropdown value To Remove: Click anywhere in the row to be deleted and press the Delete key</source>
-      <translation type="unfinished">To Add: Fill in the required Name, Pool Name and Value type fieldIf Value Type is Element Position, an integer value is specified in the value fieldIf Value Type is Seed, a Seed variable name is used in the Value field To Edit: Double-Click in the cell and change the value or reselect the dropdown value To Remove: Click anywhere in the row to be deleted and press the Delete key</translation>
+      <translation>新增：填入必要的名稱、集區名稱與值類型欄位。若值類型為「元素位置」，請在值欄位指定整數值；若值類型為「種子」，請在值欄位使用種子變數名稱。編輯：在儲存格上按兩下並變更值，或重新選取下拉式清單的值。移除：點選要刪除之列的任一處並按 Delete 鍵。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4138"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="6398"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8674"/>
       <source>Value Type</source>
-      <translation type="unfinished">Value Type</translation>
+      <translation>值類型</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4159"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4162"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4165"/>
       <source>Import Number Variables</source>
-      <translation type="unfinished">Import Number Variables</translation>
+      <translation>匯入數字變數</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4178"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4181"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4184"/>
       <source>Export Number Variables</source>
-      <translation type="unfinished">Export Number Variables</translation>
+      <translation>匯出數字變數</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4213"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4216"/>
       <source>To Add: Fill in the required Name and Text FieldsThe Text field can contain text, numbers, Seeds and Number Variables data, separated by semi-colons to create the data pool. Seed and Number variables can be substituted for text data using [[variablename]].To Edit: Double-Click in the cell and change the valueTo Remove: Click anywhere in the row to be deleted and press the Delete key</source>
-      <translation type="unfinished">To Add: Fill in the required Name and Text FieldsThe Text field can contain text, numbers, Seeds and Number Variables data, separated by semi-colons to create the data pool. Seed and Number variables can be substituted for text data using [[variablename]].To Edit: Double-Click in the cell and change the valueTo Remove: Click anywhere in the row to be deleted and press the Delete key</translation>
+      <translation>新增：填入必要的名稱與文字欄位文字欄位可包含文字、數字、種子與數字變數資料，以分號分隔以建立資料集區。種子與數字變數可使用 [[variablename]] 取代文字資料。編輯：在儲存格上按兩下並變更值移除：點選要刪除之列的任一處並按 Delete 鍵</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4206"/>
       <source>String Pools</source>
-      <translation type="unfinished">String Pools</translation>
+      <translation>字串集區</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="5263"/>
       <source>String Pool Name</source>
-      <translation type="unfinished">String Pool Name</translation>
+      <translation>字串集區名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="5284"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="5287"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="5290"/>
       <source>Import String Pools</source>
-      <translation type="unfinished">Import String Pools</translation>
+      <translation>匯入字串集區</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="5303"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="5306"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="5309"/>
       <source>Export String Pools</source>
-      <translation type="unfinished">Export String Pools</translation>
+      <translation>匯出字串集區</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="5337"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="5340"/>
       <source>To Add: Fill in the required Name, Pool Name and Value type fieldIf Value Type is Element Position, an integer value or Number Variable is specified in the value fieldIf Value Type is Seed, a Seed variable name is used in the Value field To Edit: Double-Click in the cell and change the value or reselect the dropdown value To Remove: Click anywhere in the row to be deleted and press the Delete key</source>
-      <translation type="unfinished">To Add: Fill in the required Name, Pool Name and Value type fieldIf Value Type is Element Position, an integer value or Number Variable is specified in the value fieldIf Value Type is Seed, a Seed variable name is used in the Value field To Edit: Double-Click in the cell and change the value or reselect the dropdown value To Remove: Click anywhere in the row to be deleted and press the Delete key</translation>
+      <translation>新增：填入必要的名稱、集區名稱與值類型欄位。若值類型為「元素位置」，請在值欄位指定整數值或數字變數；若值類型為「種子」，請在值欄位使用種子變數名稱。編輯：在儲存格上按兩下並變更值，或重新選取下拉式清單的值。移除：點選要刪除之列的任一處並按 Delete 鍵。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="5324"/>
       <source>String Variables</source>
-      <translation type="unfinished">String Variables</translation>
+      <translation>字串變數</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="6419"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="6422"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="6425"/>
       <source>Import String Variables</source>
-      <translation type="unfinished">Import String Variables</translation>
+      <translation>匯入字串變數</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="6438"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="6441"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="6444"/>
       <source>Export String Variables</source>
-      <translation type="unfinished">Export String Variables</translation>
+      <translation>匯出字串變數</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="6457"/>
       <source>IP Addresses</source>
-      <translation type="unfinished">IP Addresses</translation>
+      <translation>IP 位址</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="6473"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="6476"/>
       <source>To Add: Fill in the required Name, Network Address, and Mask ValuesThe First and Last IP Address fields will automatically filled in based on the Network and Mask fields if no variables are used. Seed, Number, and String variables can be substituted for address data using [[variablename]].To Edit:Double-Click in the cell and change the valueThe First and Last IP Address fields can be edited to specify a smaller range of addresses that is set by defaultTo Remove: Click anywhere in the row to be deleted and press the Delete key</source>
-      <translation type="unfinished">To Add: Fill in the required Name, Network Address, and Mask ValuesThe First and Last IP Address fields will automatically filled in based on the Network and Mask fields if no variables are used. Seed, Number, and String variables can be substituted for address data using [[variablename]].To Edit:Double-Click in the cell and change the valueThe First and Last IP Address fields can be edited to specify a smaller range of addresses that is set by defaultTo Remove: Click anywhere in the row to be deleted and press the Delete key</translation>
+      <translation>新增：填入必要的名稱、網路位址與遮罩值若未使用變數，第一個與最後一個 IP 位址欄位會依網路與遮罩欄位自動填入。種子、數字與字串變數可使用 [[variablename]] 取代位址資料。編輯：在儲存格上按兩下並變更值第一個與最後一個 IP 位址欄位可編輯，以指定比預設更小的位址範圍移除：點選要刪除之列的任一處並按 Delete 鍵</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="6466"/>
       <source>IP Address Pools</source>
-      <translation type="unfinished">IP Address Pools</translation>
+      <translation>IP 位址集區</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7524"/>
       <source>IP Pool Name</source>
-      <translation type="unfinished">IP Pool Name</translation>
+      <translation>IP 集區名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7560"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7563"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7566"/>
       <source>Import IP Address Pools</source>
-      <translation type="unfinished">Import IP Address Pools</translation>
+      <translation>匯入 IP 位址集區</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7579"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7582"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7585"/>
       <source>Export IP Address Pools</source>
-      <translation type="unfinished">Export IP Address Pools</translation>
+      <translation>匯出 IP 位址集區</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7613"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7616"/>
       <source>To Add: Fill in the required Name, Pool Name and Value type fieldIf Value Type is Element Position, an integer value or Numeric Variable is specified in the value fieldIf Value Type is Seed, a Seed variable name is used in the Value fieldTo Edit:Double-Click in the cell and change the value or reselect the dropdown value To Remove: Click anywhere in the row to be deleted and press the Delete key</source>
-      <translation type="unfinished">To Add: Fill in the required Name, Pool Name and Value type fieldIf Value Type is Element Position, an integer value or Numeric Variable is specified in the value fieldIf Value Type is Seed, a Seed variable name is used in the Value fieldTo Edit:Double-Click in the cell and change the value or reselect the dropdown value To Remove: Click anywhere in the row to be deleted and press the Delete key</translation>
+      <translation>新增：填入必要的名稱、集區名稱與值類型欄位。若值類型為「元素位置」，請在值欄位指定整數值或數字變數；若值類型為「種子」，請在值欄位使用種子變數名稱。編輯：在儲存格上按兩下並變更值，或重新選取下拉式清單的值。移除：點選要刪除之列的任一處並按 Delete 鍵。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7600"/>
       <source>IP Address Variables</source>
-      <translation type="unfinished">IP Address Variables</translation>
+      <translation>IP 位址變數</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8695"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8698"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8701"/>
       <source>Import IP Address Variables</source>
-      <translation type="unfinished">Import IP Address Variables</translation>
+      <translation>匯入 IP 位址變數</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8714"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8717"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8720"/>
       <source>Export IP Address Variables</source>
-      <translation type="unfinished">Export IP Address Variables</translation>
+      <translation>匯出 IP 位址變數</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="10011"/>
@@ -3356,18 +3356,18 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13588"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13591"/>
       <source>Expand/Collapse All</source>
-      <translation type="unfinished">Expand/Collapse All</translation>
+      <translation>全部展開/摺疊</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="10054"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="10057"/>
       <source>Add Shape Test</source>
-      <translation type="unfinished">Add Shape Test</translation>
+      <translation>新增形狀測試</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11982"/>
       <source>Code Testing</source>
-      <translation type="unfinished">Code Testing</translation>
+      <translation>程式碼測試</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12015"/>
@@ -3382,12 +3382,12 @@ Comments: </translation>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12025"/>
       <source>Condition</source>
-      <translation type="unfinished">Condition</translation>
+      <translation>條件</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12030"/>
       <source>Triggers</source>
-      <translation type="unfinished">Triggers</translation>
+      <translation>觸發程序</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9688"/>
@@ -3406,69 +3406,69 @@ Comments: </translation>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12254"/>
       <source>Scoring Rules</source>
-      <translation type="unfinished">Scoring Rules</translation>
+      <translation>計分規則</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12420"/>
       <source>Overall Feedback</source>
-      <translation type="unfinished">Overall Feedback</translation>
+      <translation>整體回饋</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12429"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12432"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12435"/>
       <source>There are two feedback pages. The &quot;Completed Feedback&quot; message is shown when the activity is 100% complete. Otherwise, the &quot;Incomplete Feedback&quot; message is shown.</source>
-      <translation type="unfinished">There are two feedback pages. The &quot;Completed Feedback&quot; message is shown when the activity is 100% complete. Otherwise, the &quot;Incomplete Feedback&quot; message is shown.</translation>
+      <translation>共有兩個回饋頁面。當活動 100% 完成時，會顯示「完成回饋」訊息；否則會顯示「未完成回饋」訊息。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12480"/>
       <source>Incomplete Feedback</source>
-      <translation type="unfinished">Incomplete Feedback</translation>
+      <translation>未完成回饋</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12512"/>
       <source>Time Settings</source>
-      <translation type="unfinished">Time Settings</translation>
+      <translation>時間設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12524"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12527"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12530"/>
       <source>Different timing settings can be applied to this activity. The &quot;Time Elapsed&quot; setting will keep a running time of the activity duration. The &quot;Countdown&quot; setting will pop-up the Check Answers Page once the timer expires.</source>
-      <translation type="unfinished">Different timing settings can be applied to this activity. The &quot;Time Elapsed&quot; setting will keep a running time of the activity duration. The &quot;Countdown&quot; setting will pop-up the Check Answers Page once the timer expires.</translation>
+      <translation>可對此活動套用不同的計時設定。「經過時間」設定會持續記錄活動的進行時間；「倒數計時」設定會在計時器到期時彈出「檢查答案」頁面。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12552"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12555"/>
       <source>Time Elapsed</source>
-      <translation type="unfinished">Time Elapsed</translation>
+      <translation>經過時間</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12576"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12579"/>
       <source>Countdown</source>
-      <translation type="unfinished">Countdown</translation>
+      <translation>倒數計時</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12614"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12617"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12620"/>
       <source>h :</source>
-      <translation type="unfinished">h :</translation>
+      <translation>時 :</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12664"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12667"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12670"/>
       <source>m :</source>
-      <translation type="unfinished">m :</translation>
+      <translation>分 :</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12705"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12708"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12711"/>
       <source>s</source>
-      <translation type="unfinished">s</translation>
+      <translation>秒</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12735"/>
@@ -3481,59 +3481,59 @@ Comments: </translation>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12768"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12771"/>
       <source>Enabling dynamic percentage feedback will assess the user network against the assessment tree every few seconds. Connectivity tests will not be assessed. Warning: Large activities may degrade system performance.</source>
-      <translation type="unfinished">Enabling dynamic percentage feedback will assess the user network against the assessment tree every few seconds. Connectivity tests will not be assessed. Warning: Large activities may degrade system performance.</translation>
+      <translation>啟用動態百分比回饋後，每隔幾秒會依評量樹狀圖評估使用者網路，連線測試不會被評估。警告：大型活動可能會降低系統效能。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12911"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12914"/>
       <source>User Profile Locking</source>
-      <translation type="unfinished">User Profile Locking</translation>
+      <translation>使用者設定檔鎖定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12889"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12892"/>
       <source>User profile locking prevents the user from changing their user profile during an activity.</source>
-      <translation type="unfinished">User profile locking prevents the user from changing their user profile during an activity.</translation>
+      <translation>使用者設定檔鎖定可防止使用者在活動期間變更其使用者設定檔。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12947"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12950"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12953"/>
       <source>Time (ms) to forward Answer Network:</source>
-      <translation type="unfinished">Time (ms) to forward Answer Network:</translation>
+      <translation>轉送答案網路的時間（毫秒）：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13142"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13145"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13148"/>
       <source>rename</source>
-      <translation type="unfinished">rename</translation>
+      <translation>重新命名</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13171"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13174"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13177"/>
       <source>import</source>
-      <translation type="unfinished">import</translation>
+      <translation>匯入</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13190"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13193"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13196"/>
       <source>export</source>
-      <translation type="unfinished">export</translation>
+      <translation>匯出</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13222"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13225"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13228"/>
       <source>defaults</source>
-      <translation type="unfinished">defaults</translation>
+      <translation>預設值</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13219"/>
       <source>Reset Scripts to Default</source>
-      <translation type="unfinished">Reset Scripts to Default</translation>
+      <translation>將指令碼重設為預設值</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="733"/>
@@ -3552,21 +3552,21 @@ Random – Any value in the pool.
 Element Position – An integer value that selects the same position from the pool each time. 
 Seed – A position defined by a Seed variable in the Seed tab. A method for allowing the same position to be used in multiple variable selections. 
 Entire Range – A variable used in the Activity Wizard answer network to accept any input as correct as long as it is contained in the associated pool.</source>
-      <translation type="unfinished">The Variable Manager provides the ability for an activity author to add dynamic capabilities into an activity. These capabilities allow an author to create activities that change each time they are loaded or reset. This capability is enabled by creating pools of values and then creating variables which use the pool values to enable dynamic capabilities. The variables allow you to change many aspects of an activity, including but not limited to, Device names, IP addressing, Routing statements, DHCP and DNS records.
+      <translation>變數管理員讓活動作者能為活動加入動態功能，使活動每次載入或重設時都會變化。啟用方式是先建立值的集區，再建立使用集區值的變數。變數可以改變活動的許多面向，包括但不限於裝置名稱、IP 定址、路由陳述式、DHCP 與 DNS 記錄。
 
-Quick Reference: for a full guide, see the Packet Tracer help files. There are four types of variables that can be created in the Variable Manager. They are identified by the tabs at the top of this page. With the exception of the Seeds, the variables are created using a combination of a resource pool and an associated variable. Each type tab has a place to enter both the pool and the variable information. The seeds tab, due to the simplicity of the type combine both parts into one operation. 
+快速參考：完整指南請參閱 Packet Tracer 說明檔。變數管理員中可建立四種類型的變數，以此頁面上方的分頁區分。除了種子之外，變數都是由資源集區與關聯的變數組合建立；每個類型分頁都有輸入集區與變數資訊的位置。種子分頁因類型單純，將兩部分合併為一個操作。
 
-How to create a variable:
-1. Fill in the variable Name
-2. Select the associated Pool Name (the pool must be already created to show in the dropdown list)
-3. Specify the Variable Type (dropdown: Random, Element Position, Seed, Entire Range)
-4. Specify the Value (if Element Position is selected a number within the range of values is specified, if seed is selected a seed name is entered for the value)
+如何建立變數：
+1. 填入變數名稱
+2. 選取關聯的集區名稱（集區必須已建立才會顯示於下拉式清單）
+3. 指定變數類型（下拉式清單：隨機、元素位置、種子、整個範圍）
+4. 指定值（若選取元素位置，請指定範圍內的數字；若選取種子，請輸入種子名稱作為值）
 
-Variables can select values in one of 4 ways. 
-Random – Any value in the pool. 
-Element Position – An integer value that selects the same position from the pool each time. 
-Seed – A position defined by a Seed variable in the Seed tab. A method for allowing the same position to be used in multiple variable selections. 
-Entire Range – A variable used in the Activity Wizard answer network to accept any input as correct as long as it is contained in the associated pool.</translation>
+變數可用以下 4 種方式選取值：
+隨機 — 集區中的任意值。
+元素位置 — 每次都從集區選取相同位置的整數值。
+種子 — 由「種子」分頁中的種子變數所定義的位置，可讓多個變數選取共用同一個位置。
+整個範圍 — 用於 Activity Wizard 答案網路的變數，只要輸入值包含於關聯的集區中，就視為正確。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="828"/>
@@ -3577,13 +3577,13 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key.
 
 Negative values should not be used as Seeds. While they will be accepted, they will cause unpredictable results when the activity is used. When Seeds are used as index values to generating variables, make sure the pool range is greater or equal to the Seed range of values. Valid Seed range is from 0 to 2,147,483,647. 
 Note: All variable positions start at 0. Typical Seeds should start at 0.</source>
-      <translation type="unfinished">To Add: Fill in the required Name, Minimum and Maximum Values. 
-The Test Value (optional) will specify the value to be used for the seed. This overrides random selection and is only used during Test Activity mode. 
-To Edit: Double-Click in the cell and change the value 
-To Remove: Click anywhere in the row to be deleted and press the Delete key. 
+      <translation>新增：填入必要的名稱、最小值與最大值。
+測試值（選填）可指定種子所使用的值，這會覆寫隨機選取，且僅在「測試活動」模式下使用。
+編輯：在儲存格上按兩下並變更值
+移除：點選要刪除之列的任一處並按 Delete 鍵。
 
-Negative values should not be used as Seeds. While they will be accepted, they will cause unpredictable results when the activity is used. When Seeds are used as index values to generating variables, make sure the pool range is greater or equal to the Seed range of values. Valid Seed range is from 0 to 2,147,483,647. 
-Note: All variable positions start at 0. Typical Seeds should start at 0.</translation>
+種子不應使用負值，雖然系統會接受，但活動使用時會造成無法預期的結果。當種子作為產生變數的索引值時，請確保集區範圍大於或等於種子的值範圍。有效的種子範圍為 0 到 2,147,483,647。
+注意：所有變數位置皆從 0 開始，一般種子應從 0 開始。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1942"/>
@@ -3591,10 +3591,10 @@ Note: All variable positions start at 0. Typical Seeds should start at 0.</trans
 To Edit: Double-Click in the cell and change the value 
 To Remove: Click anywhere in the row to be deleted and press the Delete key. 
 Range: Positive and negative Integer numbers. Seed variables can be substituted for integers using [[variablename]].</source>
-      <translation type="unfinished">To Add: Fill in the required Name, Minimum and Maximum Values. 
-To Edit: Double-Click in the cell and change the value 
-To Remove: Click anywhere in the row to be deleted and press the Delete key. 
-Range: Positive and negative Integer numbers. Seed variables can be substituted for integers using [[variablename]].</translation>
+      <translation>新增：填入必要的名稱、最小值與最大值。
+編輯：在儲存格上按兩下並變更值
+移除：點選要刪除之列的任一處並按 Delete 鍵。
+範圍：正負整數。種子變數可使用 [[variablename]] 取代整數。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="3080"/>
@@ -3603,11 +3603,11 @@ If Value Type is Element Position, an integer value is specified in the value fi
 If Value Type is Seed, a Seed variable name is used in the Value field 
 To Edit: Double-Click in the cell and change the value or reselect the dropdown value 
 To Remove: Click anywhere in the row to be deleted and press the Delete key</source>
-      <translation type="unfinished">To Add: Fill in the required Name, Pool Name and Value type field
-If Value Type is Element Position, an integer value is specified in the value field
-If Value Type is Seed, a Seed variable name is used in the Value field 
-To Edit: Double-Click in the cell and change the value or reselect the dropdown value 
-To Remove: Click anywhere in the row to be deleted and press the Delete key</translation>
+      <translation>新增：填入必要的名稱、集區名稱與值類型欄位
+若值類型為「元素位置」，請在值欄位指定整數值
+若值類型為「種子」，請在值欄位使用種子變數名稱 
+編輯：在儲存格上按兩下並變更值，或重新選取下拉式清單的值 
+移除：點選要刪除之列的任一處並按 Delete 鍵</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4219"/>
@@ -3615,10 +3615,10 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</tra
 The Text field can contain text, numbers, Seeds and Number Variables data, separated by semi-colons to create the data pool. Seed and Number variables can be substituted for text data using [[variablename]].
 To Edit: Double-Click in the cell and change the value
 To Remove: Click anywhere in the row to be deleted and press the Delete key</source>
-      <translation type="unfinished">To Add: Fill in the required Name and Text Fields
-The Text field can contain text, numbers, Seeds and Number Variables data, separated by semi-colons to create the data pool. Seed and Number variables can be substituted for text data using [[variablename]].
-To Edit: Double-Click in the cell and change the value
-To Remove: Click anywhere in the row to be deleted and press the Delete key</translation>
+      <translation>新增：填入必要的名稱與文字欄位
+文字欄位可包含文字、數字、種子與數字變數資料，以分號分隔以建立資料集區。種子與數字變數可使用 [[variablename]] 取代文字資料。
+編輯：在儲存格上按兩下並變更值
+移除：點選要刪除之列的任一處並按 Delete 鍵</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="5343"/>
@@ -3627,11 +3627,11 @@ If Value Type is Element Position, an integer value or Number Variable is specif
 If Value Type is Seed, a Seed variable name is used in the Value field 
 To Edit: Double-Click in the cell and change the value or reselect the dropdown value 
 To Remove: Click anywhere in the row to be deleted and press the Delete key</source>
-      <translation type="unfinished">To Add: Fill in the required Name, Pool Name and Value type field
-If Value Type is Element Position, an integer value or Number Variable is specified in the value field
-If Value Type is Seed, a Seed variable name is used in the Value field 
-To Edit: Double-Click in the cell and change the value or reselect the dropdown value 
-To Remove: Click anywhere in the row to be deleted and press the Delete key</translation>
+      <translation>新增：填入必要的名稱、集區名稱與值類型欄位
+若值類型為「元素位置」，請在值欄位指定整數值或數字變數
+若值類型為「種子」，請在值欄位使用種子變數名稱 
+編輯：在儲存格上按兩下並變更值，或重新選取下拉式清單的值 
+移除：點選要刪除之列的任一處並按 Delete 鍵</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="6479"/>
@@ -3640,11 +3640,11 @@ The First and Last IP Address fields will automatically filled in based on the N
 To Edit:Double-Click in the cell and change the value
 The First and Last IP Address fields can be edited to specify a smaller range of addresses that is set by default
 To Remove: Click anywhere in the row to be deleted and press the Delete key</source>
-      <translation type="unfinished">To Add: Fill in the required Name, Network Address, and Mask Values
-The First and Last IP Address fields will automatically filled in based on the Network and Mask fields if no variables are used. Seed, Number, and String variables can be substituted for address data using [[variablename]].
-To Edit:Double-Click in the cell and change the value
-The First and Last IP Address fields can be edited to specify a smaller range of addresses that is set by default
-To Remove: Click anywhere in the row to be deleted and press the Delete key</translation>
+      <translation>新增：填入必要的名稱、網路位址與遮罩值
+若未使用變數，第一個與最後一個 IP 位址欄位會依網路與遮罩欄位自動填入。種子、數字與字串變數可使用 [[variablename]] 取代位址資料。
+編輯：在儲存格上按兩下並變更值
+第一個與最後一個 IP 位址欄位可編輯，以指定比預設更小的位址範圍
+移除：點選要刪除之列的任一處並按 Delete 鍵</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7619"/>
@@ -3653,138 +3653,138 @@ If Value Type is Element Position, an integer value or Numeric Variable is speci
 If Value Type is Seed, a Seed variable name is used in the Value field
 To Edit:Double-Click in the cell and change the value or reselect the dropdown value 
 To Remove: Click anywhere in the row to be deleted and press the Delete key</source>
-      <translation type="unfinished">To Add: Fill in the required Name, Pool Name and Value type field
-If Value Type is Element Position, an integer value or Numeric Variable is specified in the value field
-If Value Type is Seed, a Seed variable name is used in the Value field
-To Edit:Double-Click in the cell and change the value or reselect the dropdown value 
-To Remove: Click anywhere in the row to be deleted and press the Delete key</translation>
+      <translation>新增：填入必要的名稱、集區名稱與值類型欄位
+若值類型為「元素位置」，請在值欄位指定整數值或數字變數
+若值類型為「種子」，請在值欄位使用種子變數名稱 
+編輯：在儲存格上按兩下並變更值，或重新選取下拉式清單的值 
+移除：點選要刪除之列的任一處並按 Delete 鍵</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8749"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8752"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8755"/>
       <source>Instructions:</source>
-      <translation type="unfinished">Instructions:</translation>
+      <translation>說明：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12753"/>
       <source>Feedback Settings</source>
-      <translation type="unfinished">Feedback Settings</translation>
+      <translation>回饋設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12792"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12795"/>
       <source>No Dynamic Feedback</source>
-      <translation type="unfinished">No Dynamic Feedback</translation>
+      <translation>無動態回饋</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12813"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12816"/>
       <source>Show Score</source>
-      <translation type="unfinished">Show Score</translation>
+      <translation>顯示分數</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12829"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12832"/>
       <source>Show Item Count</source>
-      <translation type="unfinished">Show Item Count</translation>
+      <translation>顯示項目數</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12849"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12852"/>
       <source>Show Item Count Percentage</source>
-      <translation type="unfinished">Show Item Count Percentage</translation>
+      <translation>顯示項目數百分比</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12865"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12868"/>
       <source>Show Score Percentage</source>
-      <translation type="unfinished">Show Score Percentage</translation>
+      <translation>顯示分數百分比</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12930"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12933"/>
       <source>No Guest Profile</source>
-      <translation type="unfinished">No Guest Profile</translation>
+      <translation>無訪客設定檔</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13244"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13247"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13250"/>
       <source>debug</source>
-      <translation type="unfinished">debug</translation>
+      <translation>偵錯</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13380"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13383"/>
       <source>Show Initial Network</source>
-      <translation type="unfinished">Show Initial Network</translation>
+      <translation>顯示初始網路</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13361"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13364"/>
       <source>Copy from Answer Network</source>
-      <translation type="unfinished">Copy from Answer Network</translation>
+      <translation>從答案網路複製</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="856"/>
       <source>Seed Indexes Table</source>
-      <translation type="unfinished">Seed Indexes Table</translation>
+      <translation>種子索引表</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1973"/>
       <source>Number pools table</source>
-      <translation type="unfinished">Number pools table</translation>
+      <translation>數字集區表</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="3061"/>
       <source>Variables:</source>
-      <translation type="unfinished">Variables:</translation>
+      <translation>變數：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="3106"/>
       <source>Number Variables table</source>
-      <translation type="unfinished">Number Variables table</translation>
+      <translation>數字變數表</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4244"/>
       <source>String Pools table</source>
-      <translation type="unfinished">String Pools table</translation>
+      <translation>字串集區表</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="5369"/>
       <source>String Variables table</source>
-      <translation type="unfinished">String Variables table</translation>
+      <translation>字串變數表</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="6505"/>
       <source>IP Address Pools table</source>
-      <translation type="unfinished">IP Address Pools table</translation>
+      <translation>IP 位址集區表</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="7645"/>
       <source>IP Address Variables table</source>
-      <translation type="unfinished">IP Address Variables table</translation>
+      <translation>IP 位址變數表</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8892"/>
       <source>Variable Reference table</source>
-      <translation type="unfinished">Variable Reference table</translation>
+      <translation>變數參考表</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9634"/>
       <source>Previous</source>
-      <translation type="unfinished">Previous</translation>
+      <translation>上一個</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9656"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>下一個</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9707"/>
       <source>Delete Page</source>
-      <translation type="unfinished">Delete Page</translation>
+      <translation>刪除頁面</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9710"/>
@@ -3797,214 +3797,214 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</tra
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9927"/>
       <source>Use the tree below to select the components you want to assess. The values on the Assessment Items tree come from the current answer network state. Converge the answer network if necessary. You may also use the View Filter to show only certain categories.</source>
-      <translation type="unfinished">Use the tree below to select the components you want to assess. The values on the Assessment Items tree come from the current answer network state. Converge the answer network if necessary. You may also use the View Filter to show only certain categories.</translation>
+      <translation>請使用下方的樹狀圖選取要評量的元件。評量項目樹狀圖中的值來自目前答案網路的狀態，必要時請先讓答案網路收斂。您也可以使用檢視篩選器僅顯示特定類別。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="10083"/>
       <source>Assessment Tree Table</source>
-      <translation type="unfinished">Assessment Tree Table</translation>
+      <translation>評量樹狀圖表</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="10123"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13666"/>
       <source>Variable reference table</source>
-      <translation type="unfinished">Variable reference table</translation>
+      <translation>變數參考表</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11406"/>
       <source>Connectivity Test table</source>
-      <translation type="unfinished">Connectivity Test table</translation>
+      <translation>連線測試表</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="11997"/>
       <source>Code Testing table</source>
-      <translation type="unfinished">Code Testing table</translation>
+      <translation>程式碼測試表</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12117"/>
       <source>Work Product Features table</source>
-      <translation type="unfinished">Work Product Features table</translation>
+      <translation>工作成果特徵表</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12156"/>
       <source>Edit WPF</source>
-      <translation type="unfinished">Edit WPF</translation>
+      <translation>編輯 WPF</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12172"/>
       <source>Add WPF</source>
-      <translation type="unfinished">Add WPF</translation>
+      <translation>新增 WPF</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12188"/>
       <source>Delete WPF</source>
-      <translation type="unfinished">Delete WPF</translation>
+      <translation>刪除 WPF</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12204"/>
       <source>Move WPF Down</source>
-      <translation type="unfinished">Move WPF Down</translation>
+      <translation>下移 WPF</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12207"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12365"/>
       <source>Move Down</source>
-      <translation type="unfinished">Move Down</translation>
+      <translation>下移</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12220"/>
       <source>Move WPF Up</source>
-      <translation type="unfinished">Move WPF Up</translation>
+      <translation>上移 WPF</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12223"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12381"/>
       <source>Move Up</source>
-      <translation type="unfinished">Move Up</translation>
+      <translation>上移</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12270"/>
       <source>Scoring Rules Table</source>
-      <translation type="unfinished">Scoring Rules Table</translation>
+      <translation>計分規則表</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12314"/>
       <source>Edit Scoring Rule</source>
-      <translation type="unfinished">Edit Scoring Rule</translation>
+      <translation>編輯計分規則</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12330"/>
       <source>Add Scoring Rule</source>
-      <translation type="unfinished">Add Scoring Rule</translation>
+      <translation>新增計分規則</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12346"/>
       <source>Delete Scoring Rule</source>
-      <translation type="unfinished">Delete Scoring Rule</translation>
+      <translation>刪除計分規則</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12362"/>
       <source>Move Scoring rule down</source>
-      <translation type="unfinished">Move Scoring rule down</translation>
+      <translation>下移計分規則</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12378"/>
       <source>Move Scoring rule up</source>
-      <translation type="unfinished">Move Scoring rule up</translation>
+      <translation>上移計分規則</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12458"/>
       <source>Complete Feedback</source>
-      <translation type="unfinished">Complete Feedback</translation>
+      <translation>完成回饋</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12595"/>
       <source>Hours</source>
-      <translation type="unfinished">Hours</translation>
+      <translation>小時</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12642"/>
       <source>Minutes</source>
-      <translation type="unfinished">Minutes</translation>
+      <translation>分鐘</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12692"/>
       <source>Seconds</source>
-      <translation type="unfinished">Seconds</translation>
+      <translation>秒</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12978"/>
       <source>Time (ms) to forward Answer Network</source>
-      <translation type="unfinished">Time (ms) to forward Answer Network</translation>
+      <translation>轉送答案網路的時間（毫秒）</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13014"/>
       <source>Unlock Assessment Item percent: </source>
-      <translation type="unfinished">Unlock Assessment Item percent: </translation>
+      <translation>解鎖評量項目百分比： </translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13308"/>
       <source>List of script files</source>
-      <translation type="unfinished">List of script files</translation>
+      <translation>指令碼檔案清單</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13327"/>
       <source>Script file contents</source>
-      <translation type="unfinished">Script file contents</translation>
+      <translation>指令碼檔案內容</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13399"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13402"/>
       <source>Import File to Initial Network</source>
-      <translation type="unfinished">Import File to Initial Network</translation>
+      <translation>將檔案匯入初始網路</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13418"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13421"/>
       <source>Export Initial Network to File</source>
-      <translation type="unfinished">Export Initial Network to File</translation>
+      <translation>將初始網路匯出至檔案</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13521"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13524"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13527"/>
       <source>Locking Tree Place Holder</source>
-      <translation type="unfinished">Locking Tree Place Holder</translation>
+      <translation>鎖定樹狀圖預留位置</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13549"/>
       <source>Initial Network Setup</source>
-      <translation type="unfinished">Initial Network Setup</translation>
+      <translation>初始網路設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13561"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13564"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13567"/>
       <source>This activity will use the initial values defined in the Initial Network. Alternatively, some initial values may be defined on the tree below. If checked, the value from the tree will be used.</source>
-      <translation type="unfinished">This activity will use the initial values defined in the Initial Network. Alternatively, some initial values may be defined on the tree below. If checked, the value from the tree will be used.</translation>
+      <translation>此活動將使用初始網路中定義的初始值。或者，也可在下方的樹狀圖定義部分初始值，勾選後將使用樹狀圖中的值。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13641"/>
       <source>Initial Network Setup tree</source>
-      <translation type="unfinished">Initial Network Setup tree</translation>
+      <translation>初始網路設定樹狀圖</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14217"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14220"/>
       <source>Create a set of logical workspace object locations. Click Append Current Locations to create a location set. Create multiple location sets and append them to the list. Input a number into the Edit Set text field to overwrite, load, or delete that location set.Enter a value in the Index Variable text field to use a variable to determine the device location set to choose from when an activity starts or resets. If left blank, a random one will be selected when the activity starts.</source>
-      <translation type="unfinished">Create a set of logical workspace object locations. Click Append Current Locations to create a location set. Create multiple location sets and append them to the list. Input a number into the Edit Set text field to overwrite, load, or delete that location set.Enter a value in the Index Variable text field to use a variable to determine the device location set to choose from when an activity starts or resets. If left blank, a random one will be selected when the activity starts.</translation>
+      <translation>建立一組邏輯工作區物件位置。按一下「附加目前位置」以建立位置集。可建立多個位置集並附加到清單。在「編輯集」文字欄位輸入數字，可覆寫、載入或刪除該位置集。在「索引變數」文字欄位輸入值，可使用變數決定活動開始或重設時要選用的裝置位置集；若留白，活動開始時會隨機選取一個。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14268"/>
       <source>Name of set</source>
-      <translation type="unfinished">Name of set</translation>
+      <translation>集名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14271"/>
       <source>000</source>
-      <translation type="unfinished">000</translation>
+      <translation>000</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14364"/>
       <source>Name of index variable</source>
-      <translation type="unfinished">Name of index variable</translation>
+      <translation>索引變數名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14407"/>
       <source>Object table</source>
-      <translation type="unfinished">Object table</translation>
+      <translation>物件表</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14491"/>
       <source>Password Options</source>
-      <translation type="unfinished">Password Options</translation>
+      <translation>密碼選項</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14506"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14509"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14512"/>
       <source>Setting a password prevents unauthorized changes to this activity&apos;s parameters. When a user is running this activity, the Activity Wizard cannot be accessed unless the correct password is entered.</source>
-      <translation type="unfinished">Setting a password prevents unauthorized changes to this activity&apos;s parameters. When a user is running this activity, the Activity Wizard cannot be accessed unless the correct password is entered.</translation>
+      <translation>設定密碼可防止他人未經授權變更此活動的參數。使用者執行此活動時，必須輸入正確的密碼才能存取 Activity Wizard。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14528"/>
@@ -4018,12 +4018,12 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</tra
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14572"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14575"/>
       <source>Confirm Password:</source>
-      <translation type="unfinished">Confirm Password:</translation>
+      <translation>確認密碼：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14597"/>
       <source>Confirm Password</source>
-      <translation type="unfinished">Confirm Password</translation>
+      <translation>確認密碼</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14618"/>
@@ -4042,138 +4042,138 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</tra
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14710"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14713"/>
       <source>test activity (shouldn&apos;t be here)</source>
-      <translation type="unfinished">test activity (shouldn&apos;t be here)</translation>
+      <translation>測試活動（不應出現在此）</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14733"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14736"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14739"/>
       <source>check activity</source>
-      <translation type="unfinished">check activity</translation>
+      <translation>檢查活動</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14757"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14760"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14763"/>
       <source>exit</source>
-      <translation type="unfinished">exit</translation>
+      <translation>結束</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="169"/>
       <source>&amp;Welcome</source>
-      <translation type="unfinished">&amp;Welcome</translation>
+      <translation>歡迎(&amp;W)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="172"/>
       <source>Alt+W</source>
-      <translation type="unfinished">Alt+W</translation>
+      <translation>Alt+W</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="203"/>
       <source>&amp;Variable Manager</source>
-      <translation type="unfinished">&amp;Variable Manager</translation>
+      <translation>變數管理員(&amp;V)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="206"/>
       <source>Alt+V</source>
-      <translation type="unfinished">Alt+V</translation>
+      <translation>Alt+V</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="234"/>
       <source>&amp;Instructions</source>
-      <translation type="unfinished">&amp;Instructions</translation>
+      <translation>說明(&amp;I)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="237"/>
       <source>Alt+I</source>
-      <translation type="unfinished">Alt+I</translation>
+      <translation>Alt+I</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="265"/>
       <source>&amp;Answer Network</source>
-      <translation type="unfinished">&amp;Answer Network</translation>
+      <translation>答案網路(&amp;A)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="268"/>
       <source>Alt+A</source>
-      <translation type="unfinished">Alt+A</translation>
+      <translation>Alt+A</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="296"/>
       <source>&amp;Scripting</source>
-      <translation type="unfinished">&amp;Scripting</translation>
+      <translation>指令碼(&amp;S)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="299"/>
       <source>Alt+S</source>
-      <translation type="unfinished">Alt+S</translation>
+      <translation>Alt+S</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="327"/>
       <source>I&amp;nitial Network</source>
-      <translation type="unfinished">I&amp;nitial Network</translation>
+      <translation>初始網路(&amp;N)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="330"/>
       <source>Alt+N</source>
-      <translation type="unfinished">Alt+N</translation>
+      <translation>Alt+N</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="361"/>
       <source>&amp;Password</source>
-      <translation type="unfinished">&amp;Password</translation>
+      <translation>密碼(&amp;P)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="364"/>
       <source>Alt+P</source>
-      <translation type="unfinished">Alt+P</translation>
+      <translation>Alt+P</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="395"/>
       <source>&amp;Test Activity</source>
-      <translation type="unfinished">&amp;Test Activity</translation>
+      <translation>測試活動(&amp;T)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="398"/>
       <source>Alt+T</source>
-      <translation type="unfinished">Alt+T</translation>
+      <translation>Alt+T</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="386"/>
       <source>Test the activity from the beginning</source>
-      <translation type="unfinished">Test the activity from the beginning</translation>
+      <translation>從頭測試活動</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="426"/>
       <source>&amp;Check Activity</source>
-      <translation type="unfinished">&amp;Check Activity</translation>
+      <translation>檢查活動(&amp;C)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="429"/>
       <source>Alt+C</source>
-      <translation type="unfinished">Alt+C</translation>
+      <translation>Alt+C</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="417"/>
       <source>Test the activity without restarting it</source>
-      <translation type="unfinished">Test the activity without restarting it</translation>
+      <translation>不重新啟動測試活動</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13440"/>
       <source>Locking / Starting Options</source>
-      <translation type="unfinished">Locking / Starting Options</translation>
+      <translation>鎖定 / 啟動選項</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13493"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13496"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13499"/>
       <source>Use the locking / starting tree below to lock out certain features for this activity or leave this activity open to all features, and to set activity start options.</source>
-      <translation type="unfinished">Use the locking / starting tree below to lock out certain features for this activity or leave this activity open to all features, and to set activity start options.</translation>
+      <translation>請使用下方的鎖定 / 啟動樹狀圖，鎖定此活動的特定功能，或讓此活動開放所有功能，並設定活動啟動選項。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14209"/>
       <source>Object Locations</source>
-      <translation type="unfinished">Object Locations</translation>
+      <translation>物件位置</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14223"/>
@@ -4184,61 +4184,61 @@ Click Append Current Locations to create a location set. Create multiple locatio
 Input a number into the Edit Set text field to overwrite, load, or delete that location set.
 
 Enter a value in the Index Variable text field to use a variable to determine the device location set to choose from when an activity starts or resets. If left blank, a random one will be selected when the activity starts.</source>
-      <translation type="unfinished">Create a set of logical workspace object locations. 
+      <translation>建立一組邏輯工作區物件位置。
 
-Click Append Current Locations to create a location set. Create multiple location sets and append them to the list. 
+按一下「附加目前位置」以建立位置集。可建立多個位置集並附加到清單。
 
-Input a number into the Edit Set text field to overwrite, load, or delete that location set.
+在「編輯集」文字欄位輸入數字，可覆寫、載入或刪除該位置集。
 
-Enter a value in the Index Variable text field to use a variable to determine the device location set to choose from when an activity starts or resets. If left blank, a random one will be selected when the activity starts.</translation>
+在「索引變數」文字欄位輸入值，可使用變數決定活動開始或重設時要選用的裝置位置集；若留白，活動開始時會隨機選取一個。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14246"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14249"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14252"/>
       <source>Edit Set</source>
-      <translation type="unfinished">Edit Set</translation>
+      <translation>編輯集</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14284"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14287"/>
       <source>Overwrite Selected Location</source>
-      <translation type="unfinished">Overwrite Selected Location</translation>
+      <translation>覆寫所選位置</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14300"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14303"/>
       <source>Append Current Locations</source>
-      <translation type="unfinished">Append Current Locations</translation>
+      <translation>附加目前位置</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14316"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14319"/>
       <source>Load Locations</source>
-      <translation type="unfinished">Load Locations</translation>
+      <translation>載入位置</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14332"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14335"/>
       <source>Delete Selected Locations</source>
-      <translation type="unfinished">Delete Selected Locations</translation>
+      <translation>刪除所選位置</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14342"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14345"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14348"/>
       <source>Index Variable</source>
-      <translation type="unfinished">Index Variable</translation>
+      <translation>索引變數</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14426"/>
       <source>ID</source>
-      <translation type="unfinished">ID</translation>
+      <translation>ID</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14436"/>
       <source>Coordinates</source>
-      <translation type="unfinished">Coordinates</translation>
+      <translation>座標</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="448"/>
@@ -4249,19 +4249,19 @@ Enter a value in the Index Variable text field to use a variable to determine th
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="457"/>
       <source>Ctrl+S</source>
-      <translation type="unfinished">Ctrl+S</translation>
+      <translation>Ctrl+S</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="504"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="510"/>
       <source>Save As pkz</source>
-      <translation type="unfinished">Save As pkz</translation>
+      <translation>另存為 pkz</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="532"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="538"/>
       <source>Export As CC</source>
-      <translation type="unfinished">Export As CC</translation>
+      <translation>匯出為 CC</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="560"/>
@@ -4272,18 +4272,18 @@ Enter a value in the Index Variable text field to use a variable to determine th
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="569"/>
       <source>Ctrl+W</source>
-      <translation type="unfinished">Ctrl+W</translation>
+      <translation>Ctrl+W</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="476"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="482"/>
       <source>Save As..</source>
-      <translation type="unfinished">Save As..</translation>
+      <translation>另存新檔..</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="485"/>
       <source>Ctrl+Shift+S</source>
-      <translation type="unfinished">Ctrl+Shift+S</translation>
+      <translation>Ctrl+Shift+S</translation>
     </message>
   </context>
   <context>
