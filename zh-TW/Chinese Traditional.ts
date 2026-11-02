@@ -13012,7 +13012,7 @@ Port</translation>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1075"/>
       <source>Ctrl+H</source>
-      <translation type="unfinished">Ctrl+H</translation>
+      <translation>Ctrl+H</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1806"/>
@@ -13309,18 +13309,18 @@ Port</translation>
       <location filename="../gui/AppWindow.cpp" line="1330"/>
       <source>You have used %1 of your %2 saves available in the guest version of %3. To eliminate this restriction, please go to this location and sign up for the &lt;u&gt;&lt;b&gt;free&lt;/b&gt;&lt;/u&gt; %4 training course.
 </source>
-      <translation type="unfinished">You have used %1 of your %2 saves available in the guest version of %3. To eliminate this restriction, please go to this location and sign up for the &lt;u&gt;&lt;b&gt;free&lt;/b&gt;&lt;/u&gt; %4 training course.
+      <translation>您已使用訪客版 %3 可用的 %2 次儲存中的 %1 次。若要解除此限制，請前往此處註冊&lt;u&gt;&lt;b&gt;免費&lt;/b&gt;&lt;/u&gt;的 %4 訓練課程。
 </translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1332"/>
       <source>Here you will learn how to effectively use %5 and register for a netacad.com ID which in turn will allow you to register your copy of %6 for no cost and eliminate the save restriction in this copy of %7. By getting a netacad.com ID, you will also be able to take other free courses available on netacad.com.</source>
-      <translation type="unfinished">Here you will learn how to effectively use %5 and register for a netacad.com ID which in turn will allow you to register your copy of %6 for no cost and eliminate the save restriction in this copy of %7. By getting a netacad.com ID, you will also be able to take other free courses available on netacad.com.</translation>
+      <translation>您將在此學習如何有效使用 %5，並註冊 netacad.com ID，之後即可免費註冊您的 %6 副本，並解除此 %7 副本的儲存限制。取得 netacad.com ID 後，您也能參加 netacad.com 上其他的免費課程。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1338"/>
       <source>Guest Save -- %1</source>
-      <translation type="unfinished">Guest Save -- %1</translation>
+      <translation>訪客儲存 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1916"/>
@@ -13522,7 +13522,7 @@ Port</translation>
       <location filename="../gui/AppWindow.cpp" line="1111"/>
       <location filename="../gui/AppWindow.cpp" line="1112"/>
       <source>Show Object List</source>
-      <translation type="unfinished">Show Object List</translation>
+      <translation>顯示物件清單</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1701"/>
@@ -13532,37 +13532,37 @@ Port</translation>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1724"/>
       <source>PDU Info</source>
-      <translation type="unfinished">PDU Info</translation>
+      <translation>PDU 資訊</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1736"/>
       <source>create Custom PDU</source>
-      <translation type="unfinished">create Custom PDU</translation>
+      <translation>建立自訂 PDU</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1748"/>
       <source>command log dock window</source>
-      <translation type="unfinished">command log dock window</translation>
+      <translation>命令記錄停駐視窗</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1761"/>
       <source>Info Dialog</source>
-      <translation type="unfinished">Info Dialog</translation>
+      <translation>資訊對話方塊</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1774"/>
       <source>Scenario Info Dialog</source>
-      <translation type="unfinished">Scenario Info Dialog</translation>
+      <translation>情境資訊對話方塊</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1787"/>
       <source>Physical Location</source>
-      <translation type="unfinished">Physical Location</translation>
+      <translation>實體位置</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1800"/>
       <source>PDU List Window:</source>
-      <translation type="unfinished">PDU List Window:</translation>
+      <translation>PDU 清單視窗：</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="1918"/>
@@ -13710,7 +13710,7 @@ Port</translation>
       <location filename="../gui/AppWindow.cpp" line="2518"/>
       <location filename="../gui/AppWindow.cpp" line="2661"/>
       <source>Any unsaved changes will be lost. Do you want to save your network?</source>
-      <translation type="unfinished">Any unsaved changes will be lost. Do you want to save your network?</translation>
+      <translation>任何未儲存的變更都將遺失。是否要儲存您的網路？</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="2406"/>
@@ -13754,73 +13754,73 @@ Port</translation>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3003"/>
       <source>The file was not saved correctly.</source>
-      <translation type="unfinished">The file was not saved correctly.</translation>
+      <translation>檔案未正確儲存。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3005"/>
       <source>This file requires more addressable RAM than a 32bit process is allowed to use. Please use the 64bit version of Cisco Packet Tracer to open this file.</source>
-      <translation type="unfinished">This file requires more addressable RAM than a 32bit process is allowed to use. Please use the 64bit version of Cisco Packet Tracer to open this file.</translation>
+      <translation>此檔案需要的可定址記憶體超過 32 位元處理程序所允許的上限。請使用 64 位元版本的 Cisco Packet Tracer 開啟此檔案。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3009"/>
       <source>Incompatible File -- %1</source>
-      <translation type="unfinished">Incompatible File -- %1</translation>
+      <translation>不相容的檔案 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3013"/>
       <source>This file requires Cisco Packet Tracer version %1. Your current version is %2.</source>
-      <translation type="unfinished">This file requires Cisco Packet Tracer version %1. Your current version is %2.</translation>
+      <translation>此檔案需要 Cisco Packet Tracer 版本 %1。您目前的版本為 %2。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3017"/>
       <source>Unable to open your temporary folder for writing.</source>
-      <translation type="unfinished">Unable to open your temporary folder for writing.</translation>
+      <translation>無法開啟暫存資料夾進行寫入。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3080"/>
       <source>    Issued To: %1</source>
-      <translation type="unfinished">    Issued To: %1</translation>
+      <translation>    核發對象：%1</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3081"/>
       <source>    Issued By: %1</source>
-      <translation type="unfinished">    Issued By: %1</translation>
+      <translation>    核發者：%1</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3082"/>
       <source>    Valid Dates: %1 to %2</source>
-      <translation type="unfinished">    Valid Dates: %1 to %2</translation>
+      <translation>    有效日期：%1 至 %2</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3084"/>
       <source>    Serial Number: %1</source>
-      <translation type="unfinished">    Serial Number: %1</translation>
+      <translation>    序號：%1</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="4145"/>
       <source> Activity File (*.pka)</source>
-      <translation type="unfinished"> Activity File (*.pka)</translation>
+      <translation> 活動檔案 (*.pka)</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="4148"/>
       <location filename="../gui/AppWindow.cpp" line="4155"/>
       <source> Activity File (*.pkt)</source>
-      <translation type="unfinished"> Activity File (*.pkt)</translation>
+      <translation> 活動檔案 (*.pkt)</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="4152"/>
       <source> Activity File (*.pkac)</source>
-      <translation type="unfinished"> Activity File (*.pkac)</translation>
+      <translation> 活動檔案 (*.pkac)</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="4382"/>
       <source> Activity File (*.pkz)</source>
-      <translation type="unfinished"> Activity File (*.pkz)</translation>
+      <translation> 活動檔案 (*.pkz)</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="4421"/>
       <source> Activity File (*.pkc)</source>
-      <translation type="unfinished"> Activity File (*.pkc)</translation>
+      <translation> 活動檔案 (*.pkc)</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="4567"/>
@@ -13832,42 +13832,42 @@ Port</translation>
       <location filename="../gui/AppWindow.cpp" line="4681"/>
       <location filename="../gui/AppWindow.cpp" line="5103"/>
       <source>Incorrect Password -- %1</source>
-      <translation type="unfinished">Incorrect Password -- %1</translation>
+      <translation>密碼不正確 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="4710"/>
       <source>Use as the Answer Network? -- %1</source>
-      <translation type="unfinished">Use as the Answer Network? -- %1</translation>
+      <translation>是否用作答案網路？ -- %1</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="4970"/>
       <source>Saving Offline Copy</source>
-      <translation type="unfinished">Saving Offline Copy</translation>
+      <translation>正在儲存離線副本</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="4970"/>
       <source>Is not allowed.</source>
-      <translation type="unfinished">Is not allowed.</translation>
+      <translation>不允許。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="6313"/>
       <source>%1 is locked by author&apos;s design for this activity.</source>
-      <translation type="unfinished">%1 is locked by author&apos;s design for this activity.</translation>
+      <translation>%1 已被此活動的作者設計為鎖定。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="6324"/>
       <source>Interface Locked -- %1</source>
-      <translation type="unfinished">Interface Locked -- %1</translation>
+      <translation>介面已鎖定 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="6534"/>
       <source>Update Devices? -- %1</source>
-      <translation type="unfinished">Update Devices? -- %1</translation>
+      <translation>是否更新裝置？ -- %1</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="6562"/>
       <source>Update User Apps? -- %1</source>
-      <translation type="unfinished">Update User Apps? -- %1</translation>
+      <translation>是否更新使用者應用程式？ -- %1</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="6794"/>
@@ -13877,22 +13877,22 @@ Port</translation>
     <message>
       <location filename="../gui/AppWindow.cpp" line="7041"/>
       <source>Paste Network Items</source>
-      <translation type="unfinished">Paste Network Items</translation>
+      <translation>貼上網路項目</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="7042"/>
       <source>Unable to paste. The source copy is newer than this version of %1.</source>
-      <translation type="unfinished">Unable to paste. The source copy is newer than this version of %1.</translation>
+      <translation>無法貼上。來源副本比此版本的 %1 更新。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="7904"/>
       <source>Activity Finished -- %1</source>
-      <translation type="unfinished">Activity Finished -- %1</translation>
+      <translation>活動已完成 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="7905"/>
       <source>This activity countdown timer has expired, saving is disallowed.</source>
-      <translation type="unfinished">This activity countdown timer has expired, saving is disallowed.</translation>
+      <translation>此活動的倒數計時器已到期，不允許儲存。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="8136"/>
@@ -13903,13 +13903,13 @@ Port</translation>
       <location filename="../gui/AppWindow.cpp" line="8210"/>
       <source> will now save and launch an offline copy of the multiuser networks in 
  another instance of %1. Do you want to continue?</source>
-      <translation type="unfinished"> will now save and launch an offline copy of the multiuser networks in 
- another instance of %1. Do you want to continue?</translation>
+      <translation> 將立即儲存，並在
+ 另一個 %1 執行個體中啟動多使用者網路的離線副本。是否要繼續？</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="8524"/>
       <source>Database Error -- %1</source>
-      <translation type="unfinished">Database Error -- %1</translation>
+      <translation>資料庫錯誤 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="8671"/>
@@ -13924,33 +13924,33 @@ Port</translation>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3118"/>
       <source>The publisher of this file is in the Untrusted Publishers list. Please go to Options-&gt;Preferences and remove it if you want to open this file. The untrusted publisher certificate has the following information.</source>
-      <translation type="unfinished">The publisher of this file is in the Untrusted Publishers list. Please go to Options-&gt;Preferences and remove it if you want to open this file. The untrusted publisher certificate has the following information.</translation>
+      <translation>此檔案的發行者位於不受信任的發行者清單中。若要開啟此檔案，請前往「選項-&gt;偏好設定」將其移除。不受信任的發行者憑證資訊如下。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="773"/>
       <source>Save your Packet Tracer file and package external resources with it.</source>
-      <translation type="unfinished">Save your Packet Tracer file and package external resources with it.</translation>
+      <translation>儲存您的 Packet Tracer 檔案，並將外部資源一併封裝。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="783"/>
       <source>Export this file as a common cartridge package.</source>
-      <translation type="unfinished">Export this file as a common cartridge package.</translation>
+      <translation>將此檔案匯出為 Common Cartridge 套件。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="791"/>
       <source>Erase all progress and start your PKA Activity from the beginning.</source>
-      <translation type="unfinished">Erase all progress and start your PKA Activity from the beginning.</translation>
+      <translation>清除所有進度，並從頭開始您的 PKA 活動。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="2404"/>
       <location filename="../gui/AppWindow.cpp" line="2517"/>
       <source>New -- %1</source>
-      <translation type="unfinished">New -- %1</translation>
+      <translation>新增 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="2660"/>
       <source>Open -- %1</source>
-      <translation type="unfinished">Open -- %1</translation>
+      <translation>開啟 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="2699"/>
@@ -13960,99 +13960,99 @@ Port</translation>
     <message>
       <location filename="../gui/AppWindow.cpp" line="2703"/>
       <source> and ExApp Supported File</source>
-      <translation type="unfinished"> and ExApp Supported File</translation>
+      <translation> 與 ExApp 支援的檔案</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="2729"/>
       <source> File (*.pkt *.pkac *.pkc)</source>
-      <translation type="unfinished"> File (*.pkt *.pkac *.pkc)</translation>
+      <translation> 檔案 (*.pkt *.pkac *.pkc)</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="2875"/>
       <source>Failed to open file</source>
-      <translation type="unfinished">Failed to open file</translation>
+      <translation>無法開啟檔案</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="2876"/>
       <location filename="../gui/AppWindow.cpp" line="2992"/>
       <source>Invalid File -- %1</source>
-      <translation type="unfinished">Invalid File -- %1</translation>
+      <translation>無效的檔案 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="2877"/>
       <location filename="../gui/AppWindow.cpp" line="3011"/>
       <source>The file %1 is not compatible with this version of %2</source>
-      <translation type="unfinished">The file %1 is not compatible with this version of %2</translation>
+      <translation>檔案 %1 與此版本的 %2 不相容</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="2969"/>
       <location filename="../gui/AppWindow.cpp" line="3935"/>
       <source>File Open finished</source>
-      <translation type="unfinished">File Open finished</translation>
+      <translation>檔案開啟完成</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="2981"/>
       <location filename="../gui/AppWindow.cpp" line="2989"/>
       <location filename="../gui/AppWindow.cpp" line="3936"/>
       <source>File failed to open</source>
-      <translation type="unfinished">File failed to open</translation>
+      <translation>檔案開啟失敗</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3022"/>
       <source>Unable to open file. </source>
-      <translation type="unfinished">Unable to open file. </translation>
+      <translation>無法開啟檔案。 </translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3191"/>
       <source>Loading Network.</source>
-      <translation type="unfinished">Loading Network.</translation>
+      <translation>正在載入網路。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3517"/>
       <source>Scoring the activity</source>
-      <translation type="unfinished">Scoring the activity</translation>
+      <translation>正在為活動評分</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3586"/>
       <location filename="../gui/AppWindow.cpp" line="3640"/>
       <source>Please wait. Opening file...</source>
-      <translation type="unfinished">Please wait. Opening file...</translation>
+      <translation>請稍候。正在開啟檔案...</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3674"/>
       <source>Opening file</source>
-      <translation type="unfinished">Opening file</translation>
+      <translation>正在開啟檔案</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3849"/>
       <source>We encountered a problem while saving </source>
-      <translation type="unfinished">We encountered a problem while saving </translation>
+      <translation>儲存 </translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3849"/>
       <source>. Please report this issue to http://ptbugs.ptnetacad.net and attach the save file.</source>
-      <translation type="unfinished">. Please report this issue to http://ptbugs.ptnetacad.net and attach the save file.</translation>
+      <translation>時發生問題。請將此問題回報至 http://ptbugs.ptnetacad.net 並附上儲存檔。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3852"/>
       <source>We noticed this file contained some recoverable errors and have fixed it for you. You may notice devices or containers may be in a different location or of a difference size than was originally created. The following list of items contains unrecoverable errors and were not fixed: </source>
-      <translation type="unfinished">We noticed this file contained some recoverable errors and have fixed it for you. You may notice devices or containers may be in a different location or of a difference size than was originally created. The following list of items contains unrecoverable errors and were not fixed: </translation>
+      <translation>我們發現此檔案含有一些可復原的錯誤，並已為您修正。您可能會發現裝置或容器的位置或大小與原先建立時不同。以下項目含有無法復原的錯誤，未能修正：</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3852"/>
       <location filename="../gui/AppWindow.cpp" line="3858"/>
       <source>. Please report this issue to http://ptbugs.ptnetacad.net and attach the file without re-saving this file. These errors may be fixed by deleting the corrupt item and recreating it.</source>
-      <translation type="unfinished">. Please report this issue to http://ptbugs.ptnetacad.net and attach the file without re-saving this file. These errors may be fixed by deleting the corrupt item and recreating it.</translation>
+      <translation>。請將此問題回報至 http://ptbugs.ptnetacad.net，並附上未重新儲存的檔案。刪除損毀的項目並重新建立，或許可修正這些錯誤。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3855"/>
       <source>We noticed this file contained some recoverable errors and have fixed it for you. You may notice devices or containers may be in a different location or of a difference size than was originally created.</source>
-      <translation type="unfinished">We noticed this file contained some recoverable errors and have fixed it for you. You may notice devices or containers may be in a different location or of a difference size than was originally created.</translation>
+      <translation>我們發現此檔案含有一些可復原的錯誤，並已為您修正。您可能會發現裝置或容器的位置或大小與原先建立時不同。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3858"/>
       <source>We noticed an unrecoverable error in this file while loading </source>
-      <translation type="unfinished">We noticed an unrecoverable error in this file while loading </translation>
+      <translation>我們在載入下列檔案時發現無法復原的錯誤：</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="4144"/>
@@ -14067,38 +14067,38 @@ Port</translation>
     <message>
       <location filename="../gui/AppWindow.cpp" line="4262"/>
       <source>Save File As Common Cartridge</source>
-      <translation type="unfinished">Save File As Common Cartridge</translation>
+      <translation>另存為 Common Cartridge 檔案</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="4263"/>
       <source>Common Cartridge (*.imscc)</source>
-      <translation type="unfinished">Common Cartridge (*.imscc)</translation>
+      <translation>Common Cartridge (*.imscc)</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="4278"/>
       <source>Can not overwrite exiting file: 
 </source>
-      <translation type="unfinished">Can not overwrite exiting file: 
+      <translation>無法覆寫現有檔案：
 </translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="4315"/>
       <source>Failed to start external CC exporter: 
 </source>
-      <translation type="unfinished">Failed to start external CC exporter: 
+      <translation>無法啟動外部 CC 匯出工具：
 </translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="4318"/>
       <source>External CC exporter is not responding.</source>
-      <translation type="unfinished">External CC exporter is not responding.</translation>
+      <translation>外部 CC 匯出工具沒有回應。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="4322"/>
       <location filename="../gui/AppWindow.cpp" line="4360"/>
       <source>File saved: 
 </source>
-      <translation type="unfinished">File saved: 
+      <translation>檔案已儲存：
 </translation>
     </message>
     <message>
@@ -14118,18 +14118,18 @@ Port</translation>
     <message>
       <location filename="../gui/AppWindow.cpp" line="4568"/>
       <source>Please enter the password: </source>
-      <translation type="unfinished">Please enter the password: </translation>
+      <translation>請輸入密碼：</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="4682"/>
       <location filename="../gui/AppWindow.cpp" line="5104"/>
       <source>The password you entered is incorrect!</source>
-      <translation type="unfinished">The password you entered is incorrect!</translation>
+      <translation>您輸入的密碼不正確！</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="4711"/>
       <source>Do you want to use the current network as the answer network?</source>
-      <translation type="unfinished">Do you want to use the current network as the answer network?</translation>
+      <translation>是否要將目前的網路作為答案網路？</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="4712"/>
@@ -14145,12 +14145,12 @@ Port</translation>
     <message>
       <location filename="../gui/AppWindow.cpp" line="6079"/>
       <source>%1 (%2) wants to pair with %3 on Bluetooth. Do you want to pair?</source>
-      <translation type="unfinished">%1 (%2) wants to pair with %3 on Bluetooth. Do you want to pair?</translation>
+      <translation>%1 (%2) 想要與 %3 進行藍牙配對。是否要配對？</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="6084"/>
       <source>Bluetooth Pairing</source>
-      <translation type="unfinished">Bluetooth Pairing</translation>
+      <translation>藍牙配對</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="6512"/>
@@ -14160,17 +14160,17 @@ Port</translation>
     <message>
       <location filename="../gui/AppWindow.cpp" line="6535"/>
       <source>There are some outdated IoT devices. Do you want to update them?</source>
-      <translation type="unfinished">There are some outdated IoT devices. Do you want to update them?</translation>
+      <translation>有一些過時的 IoT 裝置。是否要更新它們？</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="6536"/>
       <source>&amp;Update and Make a Copy</source>
-      <translation type="unfinished">&amp;Update and Make a Copy</translation>
+      <translation>更新並建立副本(&amp;U)</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="6563"/>
       <source>There are some outdated user apps. Do you want to update them?</source>
-      <translation type="unfinished">There are some outdated user apps. Do you want to update them?</translation>
+      <translation>有一些過時的使用者應用程式。是否要更新它們？</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="6795"/>
@@ -14195,22 +14195,22 @@ Port</translation>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3100"/>
       <source>The publisher certificate of this file is about to expire.  The publisher certificate has the following information.</source>
-      <translation type="unfinished">The publisher certificate of this file is about to expire.  The publisher certificate has the following information.</translation>
+      <translation>此檔案的發行者憑證即將到期。發行者憑證資訊如下。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="3107"/>
       <source>The publisher certificate of this file has expired or is blocked.  The publisher certificate has the following information.</source>
-      <translation type="unfinished">The publisher certificate of this file has expired or is blocked.  The publisher certificate has the following information.</translation>
+      <translation>此檔案的發行者憑證已到期或遭封鎖。發行者憑證資訊如下。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="5086"/>
       <source>Please use the Scripting page of Activity Wizard to edit an activity file&apos;s script module. Select Advanced profile in the Welcome page of Activity Wizard to enable the Scripting page.</source>
-      <translation type="unfinished">Please use the Scripting page of Activity Wizard to edit an activity file&apos;s script module. Select Advanced profile in the Welcome page of Activity Wizard to enable the Scripting page.</translation>
+      <translation>請使用 Activity Wizard 的「Scripting」頁面編輯活動檔案的指令碼模組。在 Activity Wizard 的歡迎頁面選擇「Advanced」設定檔即可啟用「Scripting」頁面。</translation>
     </message>
     <message>
       <location filename="../gui/AppWindow.cpp" line="5095"/>
       <source>Please enter the script module password: </source>
-      <translation type="unfinished">Please enter the script module password: </translation>
+      <translation>請輸入指令碼模組密碼：</translation>
     </message>
   </context>
   <context>
