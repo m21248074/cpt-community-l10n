@@ -6757,12 +6757,12 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="670"/>
       <location filename="../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp" line="476"/>
       <source>Answer Network</source>
-      <translation type="unfinished">Answer Network</translation>
+      <translation>答案網路</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="700"/>
       <source>Exit test mode and return to the Activity Wizard?</source>
-      <translation type="unfinished">Exit test mode and return to the Activity Wizard?</translation>
+      <translation>結束測試模式並返回 Activity Wizard？</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="700"/>
@@ -6774,75 +6774,75 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1119"/>
       <source>Scoring Model</source>
-      <translation type="unfinished">Scoring Model</translation>
+      <translation>評分模型</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="542"/>
       <source>Save as PKC</source>
-      <translation type="unfinished">Save as PKC</translation>
+      <translation>另存為 PKC</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="699"/>
       <source>Exit Test Mode? -- %1</source>
-      <translation type="unfinished">Exit Test Mode? -- %1</translation>
+      <translation>結束測試模式？ -- %1</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1304"/>
       <source>Import Instruction Page</source>
-      <translation type="unfinished">Import Instruction Page</translation>
+      <translation>匯入說明頁面</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1305"/>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1326"/>
       <source>HTML File (*.htm)</source>
-      <translation type="unfinished">HTML File (*.htm)</translation>
+      <translation>HTML 檔案 (*.htm)</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1325"/>
       <source>Export Instruction File</source>
-      <translation type="unfinished">Export Instruction File</translation>
+      <translation>匯出說明檔案</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1338"/>
       <source>Choose a directory to import from</source>
-      <translation type="unfinished">Choose a directory to import from</translation>
+      <translation>選擇要匯入的目錄</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1360"/>
       <source>Choose a directory to export to</source>
-      <translation type="unfinished">Choose a directory to export to</translation>
+      <translation>選擇要匯出的目錄</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1832"/>
       <source>Exit? -- %1</source>
-      <translation type="unfinished">Exit? -- %1</translation>
+      <translation>結束？ -- %1</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1412"/>
       <source>The password entered does not match.</source>
-      <translation type="unfinished">The password entered does not match.</translation>
+      <translation>輸入的密碼不相符。</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1618"/>
       <source>Initial Network</source>
-      <translation type="unfinished">Initial Network</translation>
+      <translation>初始網路</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1630"/>
       <source>Export File</source>
-      <translation type="unfinished">Export File</translation>
+      <translation>匯出檔案</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1664"/>
       <source>Import File</source>
-      <translation type="unfinished">Import File</translation>
+      <translation>匯入檔案</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1706"/>
       <source>Replacing the initial network with the answer network cannot be undone.
 Replace the Initial Network?</source>
-      <translation type="unfinished">Replacing the initial network with the answer network cannot be undone.
-Replace the Initial Network?</translation>
+      <translation>以答案網路取代初始網路後無法復原。
+是否取代初始網路？</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="700"/>
@@ -6854,34 +6854,34 @@ Replace the Initial Network?</translation>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1411"/>
       <source>Password Does Not Match -- %1</source>
-      <translation type="unfinished">Password Does Not Match -- %1</translation>
+      <translation>密碼不相符 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1631"/>
       <location filename="../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp" line="499"/>
       <location filename="../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp" line="533"/>
       <source> Network File (*.pkt)</source>
-      <translation type="unfinished"> Network File (*.pkt)</translation>
+      <translation> 網路檔案 (*.pkt)</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1665"/>
       <source> File (*.pkt)</source>
-      <translation type="unfinished"> File (*.pkt)</translation>
+      <translation> 檔案 (*.pkt)</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1705"/>
       <source>Replace Initial Network? -- %1</source>
-      <translation type="unfinished">Replace Initial Network? -- %1</translation>
+      <translation>取代初始網路？ -- %1</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1759"/>
       <source>Test/Check Activity</source>
-      <translation type="unfinished">Test/Check Activity</translation>
+      <translation>測試/檢查活動</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1833"/>
       <source>Exiting the Activity Wizard will give you a new workspace. All unsaved settings will be lost. Do you want to exit?</source>
-      <translation type="unfinished">Exiting the Activity Wizard will give you a new workspace. All unsaved settings will be lost. Do you want to exit?</translation>
+      <translation>結束 Activity Wizard 後會取得新的工作區，所有未儲存的設定都將遺失。是否要結束？</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1834"/>
@@ -6896,7 +6896,7 @@ Replace the Initial Network?</translation>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp" line="245"/>
       <source>Do Not Test</source>
-      <translation type="unfinished">Do Not Test</translation>
+      <translation>不測試</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp" line="246"/>
@@ -6907,7 +6907,7 @@ Replace the Initial Network?</translation>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp" line="247"/>
       <source>Fail</source>
-      <translation type="unfinished">Fail</translation>
+      <translation>失敗</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp" line="297"/>
@@ -6943,75 +6943,75 @@ Replace the Initial Network?</translation>
       <location filename="../gui/activity/Wizard/ActivityWizard_Scripting.cpp" line="97"/>
       <location filename="../gui/activity/Wizard/ActivityWizard_Scripting.cpp" line="118"/>
       <source>Enter Script ID</source>
-      <translation type="unfinished">Enter Script ID</translation>
+      <translation>輸入指令碼 ID</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_Scripting.cpp" line="98"/>
       <location filename="../gui/activity/Wizard/ActivityWizard_Scripting.cpp" line="119"/>
       <source>Script ID: </source>
-      <translation type="unfinished">Script ID: </translation>
+      <translation>指令碼 ID： </translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_Scripting.cpp" line="139"/>
       <source>Import Script File</source>
-      <translation type="unfinished">Import Script File</translation>
+      <translation>匯入指令碼檔案</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_Scripting.cpp" line="140"/>
       <location filename="../gui/activity/Wizard/ActivityWizard_Scripting.cpp" line="153"/>
       <source>Script Files (*.js)</source>
-      <translation type="unfinished">Script Files (*.js)</translation>
+      <translation>指令碼檔案 (*.js)</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_Scripting.cpp" line="152"/>
       <source>Export Script File</source>
-      <translation type="unfinished">Export Script File</translation>
+      <translation>匯出指令碼檔案</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_Scripting.cpp" line="214"/>
       <source>Do you want to replace your current scripts with the defaults?</source>
-      <translation type="unfinished">Do you want to replace your current scripts with the defaults?</translation>
+      <translation>是否要用預設值取代目前的指令碼？</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="49"/>
       <source>Entire Range</source>
-      <translation type="unfinished">Entire Range</translation>
+      <translation>整個範圍</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="50"/>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="53"/>
       <source>Seed</source>
-      <translation type="unfinished">Seed</translation>
+      <translation>種子</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="51"/>
       <source>Random</source>
-      <translation type="unfinished">Random</translation>
+      <translation>隨機</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="52"/>
       <source>Element Position</source>
-      <translation type="unfinished">Element Position</translation>
+      <translation>元素位置</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="54"/>
       <source>Number</source>
-      <translation type="unfinished">Number</translation>
+      <translation>數字</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="55"/>
       <source>String</source>
-      <translation type="unfinished">String</translation>
+      <translation>字串</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="56"/>
       <source>IP</source>
-      <translation type="unfinished">IP</translation>
+      <translation>IP</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="155"/>
       <source>Import Seeds</source>
-      <translation type="unfinished">Import Seeds</translation>
+      <translation>匯入種子</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="156"/>
@@ -7029,84 +7029,84 @@ Replace the Initial Network?</translation>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="786"/>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="861"/>
       <source>CSV (Comma delimited) (*.csv)</source>
-      <translation type="unfinished">CSV (Comma delimited) (*.csv)</translation>
+      <translation>CSV (Comma delimited) (*.csv)</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="218"/>
       <source>Export Seeds</source>
-      <translation type="unfinished">Export Seeds</translation>
+      <translation>匯出種子</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="259"/>
       <source>Import Number Pools</source>
-      <translation type="unfinished">Import Number Pools</translation>
+      <translation>匯入數字集區</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="311"/>
       <source>Export Number Pools</source>
-      <translation type="unfinished">Export Number Pools</translation>
+      <translation>匯出數字集區</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="352"/>
       <source>Import Number Variables</source>
-      <translation type="unfinished">Import Number Variables</translation>
+      <translation>匯入數字變數</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="428"/>
       <source>Export Number Variables</source>
-      <translation type="unfinished">Export Number Variables</translation>
+      <translation>匯出數字變數</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="475"/>
       <source>Import String Pools</source>
-      <translation type="unfinished">Import String Pools</translation>
+      <translation>匯入字串集區</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="525"/>
       <source>Export String Pools</source>
-      <translation type="unfinished">Export String Pools</translation>
+      <translation>匯出字串集區</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="566"/>
       <source>Import String Variables</source>
-      <translation type="unfinished">Import String Variables</translation>
+      <translation>匯入字串變數</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="641"/>
       <source>Export String Variables</source>
-      <translation type="unfinished">Export String Variables</translation>
+      <translation>匯出字串變數</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="688"/>
       <source>Import IP Address Pools</source>
-      <translation type="unfinished">Import IP Address Pools</translation>
+      <translation>匯入 IP 位址集區</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="744"/>
       <source>Export IP Address Pools</source>
-      <translation type="unfinished">Export IP Address Pools</translation>
+      <translation>匯出 IP 位址集區</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="785"/>
       <source>Import IP Address Variables</source>
-      <translation type="unfinished">Import IP Address Variables</translation>
+      <translation>匯入 IP 位址變數</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="860"/>
       <source>Export IP Address Variables</source>
-      <translation type="unfinished">Export IP Address Variables</translation>
+      <translation>匯出 IP 位址變數</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="1074"/>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="1123"/>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="1170"/>
       <source>UNKNOWN</source>
-      <translation type="unfinished">UNKNOWN</translation>
+      <translation>未知</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="2330"/>
       <source>Select a Pool</source>
-      <translation type="unfinished">Select a Pool</translation>
+      <translation>選取集區</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_ECDModel.cpp" line="129"/>
@@ -7120,7 +7120,7 @@ Replace the Initial Network?</translation>
       <location filename="../gui/activity/Wizard/ActivityWizard_ECDModel.cpp" line="266"/>
       <location filename="../gui/activity/Wizard/ActivityWizard_ECDModel.cpp" line="281"/>
       <source>The Script Module must be running. Start it in the Scripting tab first.</source>
-      <translation type="unfinished">The Script Module must be running. Start it in the Scripting tab first.</translation>
+      <translation>指令碼模組必須正在執行。請先在「指令碼」分頁中啟動它。</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_CodeTesting.cpp" line="106"/>
@@ -7130,17 +7130,17 @@ Replace the Initial Network?</translation>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_CodeTesting.cpp" line="115"/>
       <source>Check Results</source>
-      <translation type="unfinished">Check Results</translation>
+      <translation>檢查結果</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_CodeTesting.cpp" line="116"/>
       <source>Dynamic Checking</source>
-      <translation type="unfinished">Dynamic Checking</translation>
+      <translation>動態檢查</translation>
     </message>
     <message>
       <location filename="../gui/activity/Wizard/ActivityWizard_CodeTesting.cpp" line="117"/>
       <source>Environment Time</source>
-      <translation type="unfinished">Environment Time</translation>
+      <translation>環境時間</translation>
     </message>
   </context>
   <context>
@@ -27254,12 +27254,12 @@ Publisher Certificate Information:
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="111"/>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="134"/>
       <source>DeviceTable</source>
-      <translation type="unfinished">DeviceTable</translation>
+      <translation>DeviceTable</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="296"/>
       <source>ARP Table for </source>
-      <translation type="unfinished">ARP Table for </translation>
+      <translation>ARP 表：</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="302"/>
@@ -27272,22 +27272,22 @@ Publisher Certificate Information:
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="308"/>
       <source>NAT Table for </source>
-      <translation type="unfinished">NAT Table for </translation>
+      <translation>NAT 表：</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="309"/>
       <source>Protocol</source>
-      <translation type="unfinished">Protocol</translation>
+      <translation>通訊協定</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="319"/>
       <source>MAC Table for </source>
-      <translation type="unfinished">MAC Table for </translation>
+      <translation>MAC 表：</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="320"/>
       <source>VLAN</source>
-      <translation type="unfinished">VLAN</translation>
+      <translation>VLAN</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="322"/>
@@ -27299,7 +27299,7 @@ Publisher Certificate Information:
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="328"/>
       <source>Routing Table for </source>
-      <translation type="unfinished">Routing Table for </translation>
+      <translation>路由表：</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="329"/>
@@ -27319,244 +27319,243 @@ Publisher Certificate Information:
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="367"/>
       <source>IP
 Address</source>
-      <translation type="unfinished">IP
-Address</translation>
+      <translation>IP
+位址</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="300"/>
       <source>Hardware
 Address</source>
-      <translation type="unfinished">Hardware
-Address</translation>
+      <translation>硬體
+位址</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="310"/>
       <source>Inside
 Global</source>
-      <translation type="unfinished">Inside
-Global</translation>
+      <translation>內部
+全域</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="311"/>
       <source>Inside
 Local</source>
-      <translation type="unfinished">Inside
-Local</translation>
+      <translation>內部
+本機</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="312"/>
       <source>Outside
 Local</source>
-      <translation type="unfinished">Outside
-Local</translation>
+      <translation>外部
+本機</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="313"/>
       <source>Outside
 Global</source>
-      <translation type="unfinished">Outside
-Global</translation>
+      <translation>外部
+全域</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="321"/>
       <source>Mac
 Address</source>
-      <translation type="unfinished">Mac
-Address</translation>
+      <translation>MAC
+位址</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="332"/>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="343"/>
       <source>Next
 Hop IP</source>
-      <translation type="unfinished">Next
-Hop IP</translation>
+      <translation>下一跳
+IP</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="333"/>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="344"/>
       <source>Metric</source>
-      <translation type="unfinished">Metric</translation>
+      <translation>度量</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="339"/>
       <source>IPv6 Routing Table for </source>
-      <translation type="unfinished">IPv6 Routing Table for </translation>
+      <translation>IPv6 路由表：</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="350"/>
       <source>EIGRP Neighbor Table for </source>
-      <translation type="unfinished">EIGRP Neighbor Table for </translation>
+      <translation>EIGRP 鄰居表：</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="351"/>
       <source>H</source>
-      <translation type="unfinished">H</translation>
+      <translation>H</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="354"/>
       <source>Hold (sec)</source>
-      <translation type="unfinished">Hold (sec)</translation>
+      <translation>保持時間（秒）</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="355"/>
       <source>Uptime</source>
-      <translation type="unfinished">Uptime</translation>
+      <translation>運作時間</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="356"/>
       <source>SRTT (ms)</source>
-      <translation type="unfinished">SRTT (ms)</translation>
+      <translation>SRTT (ms)</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="357"/>
       <source>RTO</source>
-      <translation type="unfinished">RTO</translation>
+      <translation>RTO</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="358"/>
       <source>Q Count</source>
-      <translation type="unfinished">Q Count</translation>
+      <translation>Q 計數</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="359"/>
       <source>Sequence
 Num</source>
-      <translation type="unfinished">Sequence
-Num</translation>
+      <translation>序號
+編號</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="370"/>
       <source>Next
 Hop</source>
-      <translation type="unfinished">Next
-Hop</translation>
+      <translation>下一跳</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="378"/>
       <source>Neighbor
 ID</source>
-      <translation type="unfinished">Neighbor
+      <translation>鄰居
 ID</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="381"/>
       <source>Dead
 Time</source>
-      <translation type="unfinished">Dead
-Time</translation>
+      <translation>失效
+時間</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="390"/>
       <source>Link
 ID</source>
-      <translation type="unfinished">Link
+      <translation>連結
 ID</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="391"/>
       <source>ADV
 Router</source>
-      <translation type="unfinished">ADV
-Router</translation>
+      <translation>ADV
+路由器</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="395"/>
       <source>Link
 Count</source>
-      <translation type="unfinished">Link
-Count</translation>
+      <translation>連結
+數量</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="403"/>
       <source>Record
 Type</source>
-      <translation type="unfinished">Record
-Type</translation>
+      <translation>記錄
+類型</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="404"/>
       <source>Record
 Value</source>
-      <translation type="unfinished">Record
-Value</translation>
+      <translation>記錄
+值</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="405"/>
       <source>Time
 stamp</source>
-      <translation type="unfinished">Time
-stamp</translation>
+      <translation>時間
+戳記</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="365"/>
       <source>EIGRP Database Table for </source>
-      <translation type="unfinished">EIGRP Database Table for </translation>
+      <translation>EIGRP 資料庫表：</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="366"/>
       <source>Codes</source>
-      <translation type="unfinished">Codes</translation>
+      <translation>代碼</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="368"/>
       <source>Successors</source>
-      <translation type="unfinished">Successors</translation>
+      <translation>後繼者</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="369"/>
       <source>FD</source>
-      <translation type="unfinished">FD</translation>
+      <translation>FD</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="377"/>
       <source>OSPF Neighbor Table for </source>
-      <translation type="unfinished">OSPF Neighbor Table for </translation>
+      <translation>OSPF 鄰居表：</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="379"/>
       <source>PRI</source>
-      <translation type="unfinished">PRI</translation>
+      <translation>PRI</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="380"/>
       <source>State</source>
-      <translation type="unfinished">State</translation>
+      <translation>狀態</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="382"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>位址</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="389"/>
       <source>OSPF Database Table for </source>
-      <translation type="unfinished">OSPF Database Table for </translation>
+      <translation>OSPF 資料庫表：</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="392"/>
       <source>Age</source>
-      <translation type="unfinished">Age</translation>
+      <translation>存活時間</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="393"/>
       <source>Seq #</source>
-      <translation type="unfinished">Seq #</translation>
+      <translation>序號 #</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="394"/>
       <source>Checksum</source>
-      <translation type="unfinished">Checksum</translation>
+      <translation>檢查碼</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.h" line="44"/>
       <source>Device Table</source>
-      <translation type="unfinished">Device Table</translation>
+      <translation>裝置表</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="401"/>
       <source>DNS Cache Table for </source>
-      <translation type="unfinished">DNS Cache Table for </translation>
+      <translation>DNS 快取表：</translation>
     </message>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="402"/>
@@ -55087,109 +55086,109 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="14"/>
       <source>Switch Global Settings</source>
-      <translation type="unfinished">Switch Global Settings</translation>
+      <translation>交換器全域設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="89"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="92"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="98"/>
       <source>Global Settings</source>
-      <translation type="unfinished">Global Settings</translation>
+      <translation>全域設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="182"/>
       <source>Merge Running Configuration from File...</source>
-      <translation type="unfinished">Merge Running Configuration from File...</translation>
+      <translation>從檔案合併執行組態...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="185"/>
       <source>Merge file to running config</source>
-      <translation type="unfinished">Merge file to running config</translation>
+      <translation>將檔案合併至執行組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="191"/>
       <source>Merge...</source>
-      <translation type="unfinished">Merge...</translation>
+      <translation>合併...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="273"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="276"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="282"/>
       <source>NVRAM</source>
-      <translation type="unfinished">NVRAM</translation>
+      <translation>NVRAM</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="307"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="310"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="316"/>
       <source>Startup Config</source>
-      <translation type="unfinished">Startup Config</translation>
+      <translation>啟動組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="341"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="344"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="350"/>
       <source>Running Config</source>
-      <translation type="unfinished">Running Config</translation>
+      <translation>執行組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="369"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="372"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="378"/>
       <source>Sync to Current Time</source>
-      <translation type="unfinished">Sync to Current Time</translation>
+      <translation>與目前時間同步</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="394"/>
       <source>Erase Startup Configuration</source>
-      <translation type="unfinished">Erase Startup Configuration</translation>
+      <translation>清除啟動組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="397"/>
       <source>Erase NVRAM</source>
-      <translation type="unfinished">Erase NVRAM</translation>
+      <translation>清除 NVRAM</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="403"/>
       <source>Erase</source>
-      <translation type="unfinished">Erase</translation>
+      <translation>清除</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="419"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="422"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="428"/>
       <source>Display Name</source>
-      <translation type="unfinished">Display Name</translation>
+      <translation>顯示名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="450"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="453"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="459"/>
       <source>Hostname</source>
-      <translation type="unfinished">Hostname</translation>
+      <translation>主機名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="478"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="481"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="487"/>
       <source>PTP</source>
-      <translation type="unfinished">PTP</translation>
+      <translation>PTP</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="541"/>
       <source>Export Running Configuration to File...</source>
-      <translation type="unfinished">Export Running Configuration to File...</translation>
+      <translation>將執行組態匯出至檔案...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="544"/>
       <source>Export running config to file</source>
-      <translation type="unfinished">Export running config to file</translation>
+      <translation>將執行組態匯出至檔案</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="550"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="694"/>
       <source>Export...</source>
-      <translation type="unfinished">Export...</translation>
+      <translation>匯出...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="563"/>
@@ -55199,17 +55198,17 @@ The FTP server checks whether the file exists and waits for the corresponding RN
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1335"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1341"/>
       <source>Server Address</source>
-      <translation type="unfinished">Server Address</translation>
+      <translation>伺服器位址</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="591"/>
       <source>Save Running Configuration to NVRAM</source>
-      <translation type="unfinished">Save Running Configuration to NVRAM</translation>
+      <translation>將執行組態儲存至 NVRAM</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="594"/>
       <source>Save Running config to NVRAM</source>
-      <translation type="unfinished">Save Running config to NVRAM</translation>
+      <translation>將執行組態儲存至 NVRAM</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="600"/>
@@ -55227,59 +55226,59 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="660"/>
       <source>Load Startup Configuration from File...</source>
-      <translation type="unfinished">Load Startup Configuration from File...</translation>
+      <translation>從檔案載入啟動組態...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="663"/>
       <source>Load file to startup config</source>
-      <translation type="unfinished">Load file to startup config</translation>
+      <translation>將檔案載入至啟動組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="669"/>
       <source>Load...</source>
-      <translation type="unfinished">Load...</translation>
+      <translation>載入...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="685"/>
       <source>Export Startup Configuration to File...</source>
-      <translation type="unfinished">Export Startup Configuration to File...</translation>
+      <translation>將啟動組態匯出至檔案...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="688"/>
       <source>Export startup config to file</source>
-      <translation type="unfinished">Export startup config to file</translation>
+      <translation>將啟動組態匯出至檔案</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="713"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="716"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="722"/>
       <source>Interfaces</source>
-      <translation type="unfinished">Interfaces</translation>
+      <translation>介面</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="754"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="757"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="760"/>
       <source>Domain Name</source>
-      <translation type="unfinished">Domain Name</translation>
+      <translation>網域名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="792"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="795"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="801"/>
       <source>Provider</source>
-      <translation type="unfinished">Provider</translation>
+      <translation>提供者</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="827"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1770"/>
       <source>On</source>
-      <translation type="unfinished">On</translation>
+      <translation>開啟</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="840"/>
       <source>Allow External Access</source>
-      <translation type="unfinished">Allow External Access</translation>
+      <translation>允許外部存取</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="847"/>
@@ -55290,27 +55289,27 @@ The FTP server checks whether the file exists and waits for the corresponding RN
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="982"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1130"/>
       <source>Default Gateway</source>
-      <translation type="unfinished">Default Gateway</translation>
+      <translation>預設閘道</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1041"/>
       <source>Gateway/DNS IPv4</source>
-      <translation type="unfinished">Gateway/DNS IPv4</translation>
+      <translation>閘道/DNS IPv4</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1102"/>
       <source>Automatic</source>
-      <translation type="unfinished">Automatic</translation>
+      <translation>自動</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1461"/>
       <source>Ntp</source>
-      <translation type="unfinished">Ntp</translation>
+      <translation>Ntp</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1470"/>
       <source>Authentication</source>
-      <translation type="unfinished">Authentication</translation>
+      <translation>驗證</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1478"/>
@@ -55324,34 +55323,34 @@ The FTP server checks whether the file exists and waits for the corresponding RN
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1505"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1508"/>
       <source>Enable</source>
-      <translation type="unfinished">Enable</translation>
+      <translation>啟用</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1515"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1518"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1521"/>
       <source>Disable</source>
-      <translation type="unfinished">Disable</translation>
+      <translation>停用</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1551"/>
       <source>Server Ip:</source>
-      <translation type="unfinished">Server Ip:</translation>
+      <translation>伺服器 IP：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1565"/>
       <source>Current Time: </source>
-      <translation type="unfinished">Current Time: </translation>
+      <translation>目前時間： </translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1741"/>
       <source>Cellular Tethering</source>
-      <translation type="unfinished">Cellular Tethering</translation>
+      <translation>行動數據共用</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1750"/>
       <source>Bluetooth</source>
-      <translation type="unfinished">Bluetooth</translation>
+      <translation>藍牙</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="901"/>
@@ -55361,7 +55360,7 @@ The FTP server checks whether the file exists and waits for the corresponding RN
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1199"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1205"/>
       <source>Static</source>
-      <translation type="unfinished">Static</translation>
+      <translation>靜態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="945"/>
@@ -55369,55 +55368,55 @@ The FTP server checks whether the file exists and waits for the corresponding RN
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="954"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1161"/>
       <source>DNS Server</source>
-      <translation type="unfinished">DNS Server</translation>
+      <translation>DNS 伺服器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="973"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="976"/>
       <source>Gateway</source>
-      <translation type="unfinished">Gateway</translation>
+      <translation>閘道</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1020"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1023"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1029"/>
       <source>DHCP</source>
-      <translation type="unfinished">DHCP</translation>
+      <translation>DHCP</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1217"/>
       <source>Gateway/DNS IPv6</source>
-      <translation type="unfinished">Gateway/DNS IPv6</translation>
+      <translation>閘道/DNS IPv6</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1152"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1155"/>
       <source>IPv6 DNS Server</source>
-      <translation type="unfinished">IPv6 DNS Server</translation>
+      <translation>IPv6 DNS 伺服器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1121"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1124"/>
       <source>IPv6 Gateway</source>
-      <translation type="unfinished">IPv6 Gateway</translation>
+      <translation>IPv6 閘道</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1093"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1096"/>
       <source>Auto Config</source>
-      <translation type="unfinished">Auto Config</translation>
+      <translation>自動組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1245"/>
       <source>IoT Server</source>
-      <translation type="unfinished">IoT Server</translation>
+      <translation>IoT 伺服器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1260"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1263"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1269"/>
       <source>Reconnect</source>
-      <translation type="unfinished">Reconnect</translation>
+      <translation>重新連線</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1282"/>
@@ -55434,14 +55433,14 @@ The FTP server checks whether the file exists and waits for the corresponding RN
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1711"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1717"/>
       <source>Home Gateway</source>
-      <translation type="unfinished">Home Gateway</translation>
+      <translation>家用閘道</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1354"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1357"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1363"/>
       <source>User Name</source>
-      <translation type="unfinished">User Name</translation>
+      <translation>使用者名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1376"/>
@@ -55456,21 +55455,21 @@ The FTP server checks whether the file exists and waits for the corresponding RN
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1446"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1630"/>
       <source>Remote Server</source>
-      <translation type="unfinished">Remote Server</translation>
+      <translation>遠端伺服器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1658"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1661"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1667"/>
       <source>Host Name:</source>
-      <translation type="unfinished">Host Name:</translation>
+      <translation>主機名稱：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1680"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1683"/>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1689"/>
       <source>Registration Server</source>
-      <translation type="unfinished">Registration Server</translation>
+      <translation>註冊伺服器</translation>
     </message>
   </context>
   <context>
@@ -61265,51 +61264,51 @@ Make sure you review and update your scripts to avoid potential problems with th
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="24"/>
       <source>Info</source>
-      <translation type="unfinished">Info</translation>
+      <translation>資訊</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="51"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="54"/>
       <source>The Scripting Interface allows users to create script modules for adding new functionalities to Packet Tracer. Unlike ExApps, script modules are developed directly in Packet Tracer with no external development environment needed. Each pka/pkt file has its own file script module. The file script module is stopped once the file is closed. PT script modules are running as long as Packet Tracer is running and can be started and stopped manually. Please refer to the Scripting Interface help files for more detailed information.The typical sequence in creating a script module is as follows:</source>
-      <translation type="unfinished">The Scripting Interface allows users to create script modules for adding new functionalities to Packet Tracer. Unlike ExApps, script modules are developed directly in Packet Tracer with no external development environment needed. Each pka/pkt file has its own file script module. The file script module is stopped once the file is closed. PT script modules are running as long as Packet Tracer is running and can be started and stopped manually. Please refer to the Scripting Interface help files for more detailed information.The typical sequence in creating a script module is as follows:</translation>
+      <translation>Scripting Interface 讓使用者建立指令碼模組，為 Packet Tracer 新增功能。與 ExApp 不同，指令碼模組直接在 Packet Tracer 中開發，不需要外部開發環境。每個 pka/pkt 檔案都有自己的檔案指令碼模組，檔案關閉後檔案指令碼模組即停止。PT 指令碼模組在 Packet Tracer 執行期間持續執行，可手動啟動與停止。詳細資訊請參閱指令碼介面說明檔。建立指令碼模組的一般順序如下：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="57"/>
       <source>The Scripting Interface allows users to create script modules for adding new functionalities to Packet Tracer. Unlike ExApps, script modules are developed directly in Packet Tracer with no external development environment needed. Each pka/pkt file has its own file script module. The file script module is stopped once the file is closed. PT script modules are running as long as Packet Tracer is running and can be started and stopped manually. Please refer to the Scripting Interface help files for more detailed information.
 
 The typical sequence in creating a script module is as follows:</source>
-      <translation type="unfinished">The Scripting Interface allows users to create script modules for adding new functionalities to Packet Tracer. Unlike ExApps, script modules are developed directly in Packet Tracer with no external development environment needed. Each pka/pkt file has its own file script module. The file script module is stopped once the file is closed. PT script modules are running as long as Packet Tracer is running and can be started and stopped manually. Please refer to the Scripting Interface help files for more detailed information.
+      <translation>Scripting Interface 讓使用者建立指令碼模組，為 Packet Tracer 新增功能。與 ExApp 不同，指令碼模組直接在 Packet Tracer 中開發，不需要外部開發環境。每個 pka/pkt 檔案都有自己的檔案指令碼模組，檔案關閉後檔案指令碼模組即停止。PT 指令碼模組在 Packet Tracer 執行期間持續執行，可手動啟動與停止。詳細資訊請參閱指令碼介面說明檔。
 
-The typical sequence in creating a script module is as follows:</translation>
+建立指令碼模組的一般順序如下：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="69"/>
       <source>1. Create from Templates</source>
-      <translation type="unfinished">1. Create from Templates</translation>
+      <translation>1. 從範本建立</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="81"/>
       <source>Templates</source>
-      <translation type="unfinished">Templates</translation>
+      <translation>範本</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="94"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="97"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="100"/>
       <source>Select one of these templates to jump-start on a script module. Selecting a new template will remove all changes made to this script module.</source>
-      <translation type="unfinished">Select one of these templates to jump-start on a script module. Selecting a new template will remove all changes made to this script module.</translation>
+      <translation>選取其中一個範本，快速開始建立指令碼模組。選取新的範本會移除對此指令碼模組所做的所有變更。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="113"/>
       <source>2. Script Module General Info</source>
-      <translation type="unfinished">2. Script Module General Info</translation>
+      <translation>2. 指令碼模組一般資訊</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="131"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="134"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="137"/>
       <source>Set this script module&apos;s general info such as name, description, author info, password, startup option, and security privileges.</source>
-      <translation type="unfinished">Set this script module&apos;s general info such as name, description, author info, password, startup option, and security privileges.</translation>
+      <translation>設定此指令碼模組的一般資訊，例如名稱、描述、作者資訊、密碼、啟動選項與安全性權限。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="147"/>
@@ -61321,55 +61320,55 @@ The typical sequence in creating a script module is as follows:</translation>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="300"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="303"/>
       <source>Go To</source>
-      <translation type="unfinished">Go To</translation>
+      <translation>前往</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="160"/>
       <source>3. Script Engine Files</source>
-      <translation type="unfinished">3. Script Engine Files</translation>
+      <translation>3. 指令碼引擎檔案</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="178"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="181"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="184"/>
       <source>Add and edit script engine files with ECMAScript language (JavaScript). Script module logics should be coded in the script engine. The script engine is persistent as long as the script module is running.</source>
-      <translation type="unfinished">Add and edit script engine files with ECMAScript language (JavaScript). Script module logics should be coded in the script engine. The script engine is persistent as long as the script module is running.</translation>
+      <translation>使用 ECMAScript 語言 (JavaScript) 新增與編輯指令碼引擎檔案。指令碼模組的邏輯應撰寫在指令碼引擎中。只要指令碼模組正在執行，指令碼引擎就會持續存在。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="213"/>
       <source>4. Custom Interface Files</source>
-      <translation type="unfinished">4. Custom Interface Files</translation>
+      <translation>4. 自訂介面檔案</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="247"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="250"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="253"/>
       <source>Add and edit custom interface files with HTML, CSS, JavaScript, and images. Custom interface files are rendered in each device&apos;s Custom Interface tab as well as any web view launched by the script module. Custom interface states, including JavaScript, are erased once the rendering web view is closed or changed to another custom interface file.</source>
-      <translation type="unfinished">Add and edit custom interface files with HTML, CSS, JavaScript, and images. Custom interface files are rendered in each device&apos;s Custom Interface tab as well as any web view launched by the script module. Custom interface states, including JavaScript, are erased once the rendering web view is closed or changed to another custom interface file.</translation>
+      <translation>使用 HTML、CSS、JavaScript 與影像新增與編輯自訂介面檔案。自訂介面檔案會在各裝置的「自訂介面」分頁，以及指令碼模組啟動的任何網頁檢視中呈現。一旦呈現的網頁檢視關閉，或切換到另一個自訂介面檔案，自訂介面的狀態（包括 JavaScript）就會被清除。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="266"/>
       <source>5. Data Store</source>
-      <translation type="unfinished">5. Data Store</translation>
+      <translation>5. 資料儲存區</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="284"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="287"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="290"/>
       <source>Add and edit data files with xml, csv, or any plain text data. They can be treated as files or as a hash table. Data can also be dynamically added or removed in code during runtime, and they are saved with the Packet Tracer options file for persistence. Saving or exporting the script module also saves the data.</source>
-      <translation type="unfinished">Add and edit data files with xml, csv, or any plain text data. They can be treated as files or as a hash table. Data can also be dynamically added or removed in code during runtime, and they are saved with the Packet Tracer options file for persistence. Saving or exporting the script module also saves the data.</translation>
+      <translation>使用 xml、csv 或任何純文字資料新增與編輯資料檔案。它們可視為檔案或雜湊表。資料也可以在執行階段透過程式碼動態新增或移除，並隨 Packet Tracer 選項檔儲存以保持持久性。儲存或匯出指令碼模組時也會一併儲存資料。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="313"/>
       <source>6. Saving</source>
-      <translation type="unfinished">6. Saving</translation>
+      <translation>6. 儲存</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="331"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="334"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="337"/>
       <source>Save this script module to file. If this is the file script module, this button is disabled. Saving the current pkt/pka file will save the file script module changes.</source>
-      <translation type="unfinished">Save this script module to file. If this is the file script module, this button is disabled. Saving the current pkt/pka file will save the file script module changes.</translation>
+      <translation>將此指令碼模組儲存為檔案。若這是檔案指令碼模組，此按鈕會停用。儲存目前的 pkt/pka 檔案時，會一併儲存檔案指令碼模組的變更。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="347"/>
@@ -61388,38 +61387,38 @@ The typical sequence in creating a script module is as follows:</translation>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="376"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="379"/>
       <source>Export or save this script module as a pts file. Other users can then import the pts file as a PT script module. New script modules must be exported and added as PT script modules before starting.</source>
-      <translation type="unfinished">Export or save this script module as a pts file. Other users can then import the pts file as a PT script module. New script modules must be exported and added as PT script modules before starting.</translation>
+      <translation>將此指令碼模組匯出或儲存為 pts 檔。其他使用者之後可將 pts 檔匯入為 PT 指令碼模組。新的指令碼模組必須先匯出並新增為 PT 指令碼模組，才能啟動。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="389"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="392"/>
       <source>Translate</source>
-      <translation type="unfinished">Translate</translation>
+      <translation>翻譯</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="405"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="408"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="411"/>
       <source>Export the scripts and interfaces of this script module to a .ts translation file. The exported file can then be opened by Qt Linguist for translation.</source>
-      <translation type="unfinished">Export the scripts and interfaces of this script module to a .ts translation file. The exported file can then be opened by Qt Linguist for translation.</translation>
+      <translation>將此指令碼模組的指令碼與介面匯出為 .ts 翻譯檔。匯出的檔案之後可用 Qt Linguist 開啟進行翻譯。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="424"/>
       <source>7. Testing</source>
-      <translation type="unfinished">7. Testing</translation>
+      <translation>7. 測試</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="436"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="439"/>
       <source>Start</source>
-      <translation type="unfinished">Start</translation>
+      <translation>啟動</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="452"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="455"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="458"/>
       <source>Changes to the script module while running are not reflected immediately. Stop and start the script module to take effect.</source>
-      <translation type="unfinished">Changes to the script module while running are not reflected immediately. Stop and start the script module to take effect.</translation>
+      <translation>執行中對指令碼模組所做的變更不會立即反映。請停止並重新啟動指令碼模組使變更生效。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="468"/>
@@ -61432,7 +61431,7 @@ The typical sequence in creating a script module is as follows:</translation>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="487"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="490"/>
       <source>Open debug window to examine log messages and check script engine states.</source>
-      <translation type="unfinished">Open debug window to examine log messages and check script engine states.</translation>
+      <translation>開啟偵錯視窗以檢查記錄訊息與指令碼引擎狀態。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="508"/>
@@ -61442,7 +61441,7 @@ The typical sequence in creating a script module is as follows:</translation>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="535"/>
       <source>Script Info</source>
-      <translation type="unfinished">Script Info</translation>
+      <translation>指令碼資訊</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="547"/>
@@ -61454,38 +61453,38 @@ The typical sequence in creating a script module is as follows:</translation>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="566"/>
       <source>App Name</source>
-      <translation type="unfinished">App Name</translation>
+      <translation>應用程式名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="573"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="576"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="579"/>
       <source>Version:</source>
-      <translation type="unfinished">Version:</translation>
+      <translation>版本：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="586"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="589"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="592"/>
       <source>Author:</source>
-      <translation type="unfinished">Author:</translation>
+      <translation>作者：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="605"/>
       <source>App Author</source>
-      <translation type="unfinished">App Author</translation>
+      <translation>應用程式作者</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="612"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="615"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="618"/>
       <source>Contact:</source>
-      <translation type="unfinished">Contact:</translation>
+      <translation>聯絡人：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="631"/>
       <source>App Contact</source>
-      <translation type="unfinished">App Contact</translation>
+      <translation>應用程式聯絡人</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="638"/>
@@ -61499,40 +61498,40 @@ The typical sequence in creating a script module is as follows:</translation>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="654"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="657"/>
       <source>ID:</source>
-      <translation type="unfinished">ID:</translation>
+      <translation>ID：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="676"/>
       <source>App Description</source>
-      <translation type="unfinished">App Description</translation>
+      <translation>應用程式描述</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="692"/>
       <source>App ID</source>
-      <translation type="unfinished">App ID</translation>
+      <translation>應用程式 ID</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="705"/>
       <source>App Version</source>
-      <translation type="unfinished">App Version</translation>
+      <translation>應用程式版本</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="720"/>
       <source>Publisher Signing</source>
-      <translation type="unfinished">Publisher Signing</translation>
+      <translation>發行者簽署</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="727"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="730"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="733"/>
       <source>Signing the script module demonstrates the authenticity of its contents. It allows the user to automatically accept script modules signed with the same publisher certificate. Use a PKCS #12 (.p12) file to sign. See Help for instructions on how to generate a .p12 file.</source>
-      <translation type="unfinished">Signing the script module demonstrates the authenticity of its contents. It allows the user to automatically accept script modules signed with the same publisher certificate. Use a PKCS #12 (.p12) file to sign. See Help for instructions on how to generate a .p12 file.</translation>
+      <translation>簽署指令碼模組可證明其內容的真實性，並讓使用者自動接受以相同發行者憑證簽署的指令碼模組。請使用 PKCS #12 (.p12) 檔案簽署。如何產生 .p12 檔案請參閱說明。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="745"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="748"/>
       <source>Browse...</source>
-      <translation type="unfinished">Browse...</translation>
+      <translation>瀏覽...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="755"/>
@@ -61545,14 +61544,14 @@ The typical sequence in creating a script module is as follows:</translation>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="768"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="771"/>
       <source>None Selected</source>
-      <translation type="unfinished">None Selected</translation>
+      <translation>未選取</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="801"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="804"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="807"/>
       <source>Issued To:</source>
-      <translation type="unfinished">Issued To:</translation>
+      <translation>核發對象：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="814"/>
@@ -61568,28 +61567,28 @@ The typical sequence in creating a script module is as follows:</translation>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="895"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="898"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>不適用</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="827"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="830"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="833"/>
       <source>Issued By:</source>
-      <translation type="unfinished">Issued By:</translation>
+      <translation>核發者：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="853"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="856"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="859"/>
       <source>Valid Dates:</source>
-      <translation type="unfinished">Valid Dates:</translation>
+      <translation>有效日期：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="879"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="882"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="885"/>
       <source>Serial Number:</source>
-      <translation type="unfinished">Serial Number:</translation>
+      <translation>序號：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="913"/>
@@ -61603,7 +61602,7 @@ The typical sequence in creating a script module is as follows:</translation>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="929"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="932"/>
       <source>Setting a password prevents unauthorized changes or viewing of this file&apos;s scripts and custom interfaces. When a user is running this file, the Scripting interface cannot be accessed unless the correct password is entered.  If the file is an activity file, the password used to access the Scripting interface is the Activity Wizard password.</source>
-      <translation type="unfinished">Setting a password prevents unauthorized changes or viewing of this file&apos;s scripts and custom interfaces. When a user is running this file, the Scripting interface cannot be accessed unless the correct password is entered.  If the file is an activity file, the password used to access the Scripting interface is the Activity Wizard password.</translation>
+      <translation>設定密碼可防止他人未經授權變更或檢視此檔案的指令碼與自訂介面。使用者執行此檔案時，必須輸入正確的密碼才能存取指令碼介面。  若此檔案是活動檔案，存取指令碼介面所用的密碼即為 Activity Wizard 密碼。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="947"/>
@@ -61617,13 +61616,13 @@ The typical sequence in creating a script module is as follows:</translation>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="963"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="966"/>
       <source>Confirmed Password:</source>
-      <translation type="unfinished">Confirmed Password:</translation>
+      <translation>確認密碼：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1005"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1011"/>
       <source>Confirm Password</source>
-      <translation type="unfinished">Confirm Password</translation>
+      <translation>確認密碼</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1037"/>
@@ -61647,7 +61646,7 @@ The typical sequence in creating a script module is as follows:</translation>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1094"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1097"/>
       <source>How does this script module start?  If this is the file script module, it will always be on opening of the file (On Startup).</source>
-      <translation type="unfinished">How does this script module start?  If this is the file script module, it will always be on opening of the file (On Startup).</translation>
+      <translation>此指令碼模組如何啟動？若這是檔案指令碼模組，一律會在開啟檔案時啟動（On Startup）。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1109"/>
@@ -61671,7 +61670,7 @@ The typical sequence in creating a script module is as follows:</translation>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1148"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1151"/>
       <source>Prevent this script module from being removed or stopped. This option is only for permanent script modules.</source>
-      <translation type="unfinished">Prevent this script module from being removed or stopped. This option is only for permanent script modules.</translation>
+      <translation>防止此指令碼模組被移除或停止。此選項僅適用於永久指令碼模組。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1164"/>
@@ -61683,7 +61682,7 @@ The typical sequence in creating a script module is as follows:</translation>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1180"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1183"/>
       <source>Security privileges determine what IPC functions the script module can make. Select only privileges that the script module needs. Calls to unselected privileges will be denied.</source>
-      <translation type="unfinished">Security privileges determine what IPC functions the script module can make. Select only privileges that the script module needs. Calls to unselected privileges will be denied.</translation>
+      <translation>安全性權限決定指令碼模組可執行哪些 IPC 函式。請僅選取指令碼模組需要的權限。呼叫未選取的權限將被拒絕。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1197"/>
@@ -61707,7 +61706,7 @@ The typical sequence in creating a script module is as follows:</translation>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1227"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1230"/>
       <source>Change User Interface</source>
-      <translation type="unfinished">Change User Interface</translation>
+      <translation>變更使用者介面</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1241"/>
@@ -61719,7 +61718,7 @@ The typical sequence in creating a script module is as follows:</translation>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1251"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1254"/>
       <source>IPC</source>
-      <translation type="unfinished">IPC</translation>
+      <translation>IPC</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1261"/>
@@ -61755,7 +61754,7 @@ The typical sequence in creating a script module is as follows:</translation>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1339"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1342"/>
       <source>Allow opening file even if security privileges are not granted. This option is only for the file script module.</source>
-      <translation type="unfinished">Allow opening file even if security privileges are not granted. This option is only for the file script module.</translation>
+      <translation>即使未授予安全性權限，也允許開啟檔案。此選項僅適用於檔案指令碼模組。</translation>
     </message>
   </context>
   <context>
