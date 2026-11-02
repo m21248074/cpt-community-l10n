@@ -4291,7 +4291,7 @@ Enter a value in the Index Variable text field to use a variable to determine th
     <message>
       <location filename="../gui/DesignerFiles/BaseAboutDialog.ui" line="462"/>
       <source>Dialog</source>
-      <translation>Dialog</translation>
+      <translation>對話方塊</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseAboutDialog.ui" line="477"/>
@@ -4761,7 +4761,7 @@ ID: net.netacad.cisco.autoIP
     <message>
       <location filename="../gui/DesignerFiles/scripting/BaseDebugDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation>Dialog</translation>
+      <translation>對話方塊</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/BaseDebugDialog.ui" line="62"/>
@@ -17887,7 +17887,7 @@ Configuration</source>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseDhcpClientTable.ui" line="13"/>
       <source>Dialog</source>
-      <translation>Dialog</translation>
+      <translation>對話方塊</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseDhcpClientTable.ui" line="304"/>
@@ -17970,7 +17970,7 @@ Configuration</source>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseDhcpReservation.ui" line="14"/>
       <source>Dialog</source>
-      <translation>Dialog</translation>
+      <translation>對話方塊</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseDhcpReservation.ui" line="1606"/>
@@ -25239,7 +25239,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBBrowser.ui" line="20"/>
       <source>MIB Browser</source>
-      <translation>MIB Browser</translation>
+      <translation>MIB 瀏覽器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBBrowser.ui" line="61"/>
@@ -25456,7 +25456,7 @@ Send/Receive</source>
       <location filename="../gui/DesignerFiles/Workstation/BaseNetflowCollector.ui" line="56"/>
       <location filename="../gui/DesignerFiles/Workstation/BaseNetflowCollector.ui" line="59"/>
       <source>Netflow Collector</source>
-      <translation>Netflow Collector</translation>
+      <translation>Netflow 收集器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BaseNetflowCollector.ui" line="84"/>
@@ -31329,7 +31329,7 @@ reset activity?</source>
       <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="321"/>
       <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="326"/>
       <source>Static</source>
-      <translation>Static</translation>
+      <translation>靜態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="44"/>
@@ -31437,7 +31437,7 @@ reset activity?</source>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="244"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="247"/>
       <source>Key</source>
-      <translation>Key</translation>
+      <translation>金鑰</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="330"/>
@@ -31505,7 +31505,7 @@ reset activity?</source>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="299"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="302"/>
       <source>Pass Phrase</source>
-      <translation>Pass Phrase</translation>
+      <translation>通關密語</translation>
     </message>
   </context>
   <context>
@@ -33257,7 +33257,7 @@ reset activity?</source>
       <location filename="../gui/NetworkComponentBox/NetworkComponentBox.cpp" line="226"/>
       <location filename="../gui/NetworkComponentBox/NetworkComponentBox.cpp" line="337"/>
       <source>Console</source>
-      <translation>Console</translation>
+      <translation>主控台</translation>
     </message>
     <message>
       <location filename="../gui/NetworkComponentBox/NetworkComponentBox.cpp" line="236"/>
@@ -33451,7 +33451,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessClientCfgBase.ui" line="31"/>
       <source>PC Wireless</source>
-      <translation>PC Wireless</translation>
+      <translation>PC 無線</translation>
     </message>
   </context>
   <context>
@@ -34823,22 +34823,22 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="214"/>
       <source>WPA-Personal</source>
-      <translation>WPA-Personal</translation>
+      <translation>WPA 個人版</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="216"/>
       <source>WPA-Enterprise</source>
-      <translation>WPA-Enterprise</translation>
+      <translation>WPA 企業版</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="218"/>
       <source>WPA2-Personal</source>
-      <translation>WPA2-Personal</translation>
+      <translation>WPA2 個人版</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="220"/>
       <source>WPA2-Enterprise</source>
-      <translation>WPA2-Enterprise</translation>
+      <translation>WPA2 企業版</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="222"/>
@@ -34886,12 +34886,12 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecuredConnWEP.cpp" line="67"/>
       <source>WPA-Personal</source>
-      <translation>WPA-Personal</translation>
+      <translation>WPA 個人版</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecuredConnWEP.cpp" line="68"/>
       <source>WPA2-Personal</source>
-      <translation>WPA2-Personal</translation>
+      <translation>WPA2 個人版</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecuredConnWEP.cpp" line="72"/>
@@ -34914,12 +34914,12 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecuredConnWPA2PSK.cpp" line="43"/>
       <source>WPA-Personal</source>
-      <translation>WPA-Personal</translation>
+      <translation>WPA 個人版</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecuredConnWPA2PSK.cpp" line="44"/>
       <source>WPA2-Personal</source>
-      <translation>WPA2-Personal</translation>
+      <translation>WPA2 個人版</translation>
     </message>
   </context>
   <context>
@@ -34932,12 +34932,12 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecuredConnWPAPSK.cpp" line="43"/>
       <source>WPA-Personal</source>
-      <translation>WPA-Personal</translation>
+      <translation>WPA 個人版</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecuredConnWPAPSK.cpp" line="44"/>
       <source>WPA2-Personal</source>
-      <translation>WPA2-Personal</translation>
+      <translation>WPA2 個人版</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecuredConnWPAPSK.cpp" line="48"/>
@@ -34975,22 +34975,22 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecurity.cpp" line="54"/>
       <source>WPA-Personal</source>
-      <translation>WPA-Personal</translation>
+      <translation>WPA 個人版</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecurity.cpp" line="55"/>
       <source>WPA-Enterprise</source>
-      <translation>WPA-Enterprise</translation>
+      <translation>WPA 企業版</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecurity.cpp" line="56"/>
       <source>WPA2-Personal</source>
-      <translation>WPA2-Personal</translation>
+      <translation>WPA2 個人版</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecurity.cpp" line="57"/>
       <source>WPA2-Enterprise</source>
-      <translation>WPA2-Enterprise</translation>
+      <translation>WPA2 企業版</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecurity.cpp" line="62"/>
@@ -41466,143 +41466,143 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="70"/>
       <source>The [[MODULE_NAME]] features a single Ethernet port that can connect a LAN backbone which can also support either six PRI connections to aggregate ISDN lines, or 24 synchronous/asynchronous ports.</source>
-      <translation type="unfinished">The [[MODULE_NAME]] features a single Ethernet port that can connect a LAN backbone which can also support either six PRI connections to aggregate ISDN lines, or 24 synchronous/asynchronous ports.</translation>
+      <translation>[[MODULE_NAME]] 具有一個乙太網路連接埠，可連接 LAN 骨幹，同時也支援六個用於彙總 ISDN 線路的 PRI 連線，或 24 個同步/非同步連接埠。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="71"/>
       <source>The [[MODULE_NAME]] features four Ethernet ports for multifunction solutions that require higher-density Ethernet than the mixed-media network modules.</source>
-      <translation type="unfinished">The [[MODULE_NAME]] features four Ethernet ports for multifunction solutions that require higher-density Ethernet than the mixed-media network modules.</translation>
+      <translation>[[MODULE_NAME]] 具有四個乙太網路連接埠，適用於需要比混合媒體網路模組更高乙太網路密度的多功能解決方案。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="72"/>
       <source>The [[MODULE_NAME]] provides a single Ethernet port with two WIC slots that can support a single Ethernet LAN, together with two serial/ISDN backhaul lines, and still allow multiple serial or ISDN in the same chassis.</source>
-      <translation type="unfinished">The [[MODULE_NAME]] provides a single Ethernet port with two WIC slots that can support a single Ethernet LAN, together with two serial/ISDN backhaul lines, and still allow multiple serial or ISDN in the same chassis.</translation>
+      <translation>[[MODULE_NAME]] 提供一個乙太網路連接埠與兩個 WIC 插槽，可支援單一乙太網路 LAN 以及兩條序列/ISDN 回程線路，並仍允許在同一機箱中使用多個序列或 ISDN。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="73"/>
       <source>The [[MODULE_NAME]] Module provides one Fast-Ethernet interface for use with fiber media. Ideal for a wide range of LAN applications, the Fast Ethernet network modules support many internetworking features and standards. Single port network modules offer autosensing 10/100BaseTX or 100BaseFX Ethernet.</source>
-      <translation type="unfinished">The [[MODULE_NAME]] Module provides one Fast-Ethernet interface for use with fiber media. Ideal for a wide range of LAN applications, the Fast Ethernet network modules support many internetworking features and standards. Single port network modules offer autosensing 10/100BaseTX or 100BaseFX Ethernet.</translation>
+      <translation>[[MODULE_NAME]] 模組提供一個適用於光纖媒體的 Fast-Ethernet 介面。快速乙太網路模組適合各種 LAN 應用，支援許多網際網路互連功能與標準。單埠網路模組提供自動感應的 10/100BaseTX 或 100BaseFX 乙太網路。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="74"/>
       <source>The [[MODULE_NAME]] Module provides one Fast-Ethernet interface for use with copper media. Ideal for a wide range of LAN applications, the Fast Ethernet network modules support many internetworking features and standards. Single port network modules offer autosensing 10/100BaseTX or 100BaseFX Ethernet. The TX (copper) version supports virtual LAN (VLAN) deployment.</source>
-      <translation type="unfinished">The [[MODULE_NAME]] Module provides one Fast-Ethernet interface for use with copper media. Ideal for a wide range of LAN applications, the Fast Ethernet network modules support many internetworking features and standards. Single port network modules offer autosensing 10/100BaseTX or 100BaseFX Ethernet. The TX (copper) version supports virtual LAN (VLAN) deployment.</translation>
+      <translation>[[MODULE_NAME]] 模組提供一個適用於銅線媒體的 Fast-Ethernet 介面。快速乙太網路模組適合各種 LAN 應用，支援許多網際網路互連功能與標準。單埠網路模組提供自動感應的 10/100BaseTX 或 100BaseFX 乙太網路。TX（銅線）版本支援虛擬 LAN (VLAN) 部署。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="75"/>
       <source>The [[MODULE_NAME]] Module provides one Fast-Ethernet interface for use with copper media, in addition to two Wan Interface Card expansion slots. Ideal for a wide range of LAN applications, the Fast Ethernet network modules support many internetworking features and standards. Single port network modules offer autosensing 10/100BaseTX or 100BaseFX Ethernet. The TX (copper) version supports virtual LAN (VLAN) deployment.</source>
-      <translation type="unfinished">The [[MODULE_NAME]] Module provides one Fast-Ethernet interface for use with copper media, in addition to two Wan Interface Card expansion slots. Ideal for a wide range of LAN applications, the Fast Ethernet network modules support many internetworking features and standards. Single port network modules offer autosensing 10/100BaseTX or 100BaseFX Ethernet. The TX (copper) version supports virtual LAN (VLAN) deployment.</translation>
+      <translation>[[MODULE_NAME]] 模組除了兩個 WAN 介面卡擴充插槽之外，還提供一個適用於銅線媒體的 Fast-Ethernet 介面。快速乙太網路模組適合各種 LAN 應用，支援許多網際網路互連功能與標準。單埠網路模組提供自動感應的 10/100BaseTX 或 100BaseFX 乙太網路。TX（銅線）版本支援虛擬 LAN (VLAN) 部署。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="76"/>
       <source>The single-port Cisco Gigabit Ethernet Network Module (part number [[MODULE_NAME]]) provides Gigabit Ethernet copper connectivity for access routers. The module is supported by the Cisco 2691, Cisco 3660, Cisco 3725, and Cisco 3745 series routers. This network module has one gigabit interface converter (GBIC) slot to carry any standard copper or optical Cisco GBIC.</source>
-      <translation type="unfinished">The single-port Cisco Gigabit Ethernet Network Module (part number [[MODULE_NAME]]) provides Gigabit Ethernet copper connectivity for access routers. The module is supported by the Cisco 2691, Cisco 3660, Cisco 3725, and Cisco 3745 series routers. This network module has one gigabit interface converter (GBIC) slot to carry any standard copper or optical Cisco GBIC.</translation>
+      <translation>單埠 Cisco Gigabit Ethernet 網路模組（產品編號 [[MODULE_NAME]]）為存取路由器提供 Gigabit Ethernet 銅線連線。Cisco 2691、Cisco 3660、Cisco 3725 與 Cisco 3745 系列路由器支援此模組。此網路模組有一個十億位元介面轉換器 (GBIC) 插槽，可安裝任何標準的銅線或光纖 Cisco GBIC。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="77"/>
       <source>The single-port Cisco Gigabit Ethernet Network Module (part number [[MODULE_NAME]]) provides Gigabit Ethernet optical connectivity for access routers. The module is supported by the Cisco 2691, Cisco 3660, Cisco 3725, and Cisco 3745 series routers. This network module has one gigabit interface converter (GBIC) slot to carry any standard copper or optical Cisco GBIC.</source>
-      <translation type="unfinished">The single-port Cisco Gigabit Ethernet Network Module (part number [[MODULE_NAME]]) provides Gigabit Ethernet optical connectivity for access routers. The module is supported by the Cisco 2691, Cisco 3660, Cisco 3725, and Cisco 3745 series routers. This network module has one gigabit interface converter (GBIC) slot to carry any standard copper or optical Cisco GBIC.</translation>
+      <translation>單埠 Cisco Gigabit Ethernet 網路模組（產品編號 [[MODULE_NAME]]）為存取路由器提供 Gigabit Ethernet 光纖連線。Cisco 2691、Cisco 3660、Cisco 3725 與 Cisco 3745 系列路由器支援此模組。此網路模組有一個十億位元介面轉換器 (GBIC) 插槽，可安裝任何標準的銅線或光纖 Cisco GBIC。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="78"/>
       <source>The [[MODULE_NAME]] provides two Ethernet ports with two WIC slots that can support two Ethernet LANs, together with two serial/ISDN backhaul lines, and still allow multiple serial or ISDN in the same chassis.</source>
-      <translation type="unfinished">The [[MODULE_NAME]] provides two Ethernet ports with two WIC slots that can support two Ethernet LANs, together with two serial/ISDN backhaul lines, and still allow multiple serial or ISDN in the same chassis.</translation>
+      <translation>[[MODULE_NAME]] 提供兩個乙太網路連接埠與兩個 WIC 插槽，可支援兩個乙太網路 LAN 以及兩條序列/ISDN 回程線路，並仍允許在同一機箱中使用多個序列或 ISDN。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="79"/>
       <source>The [[MODULE_NAME]] Module provides two Fast-Ethernet interfaces for use with copper media, in addition to two Wan Interface Card expansion slots. Ideal for a wide range of LAN applications, the Fast Ethernet network modules support many internetworking features and standards.</source>
-      <translation type="unfinished">The [[MODULE_NAME]] Module provides two Fast-Ethernet interfaces for use with copper media, in addition to two Wan Interface Card expansion slots. Ideal for a wide range of LAN applications, the Fast Ethernet network modules support many internetworking features and standards.</translation>
+      <translation>[[MODULE_NAME]] 模組除了兩個 WAN 介面卡擴充插槽之外，還提供兩個適用於銅線媒體的 Fast-Ethernet 介面。快速乙太網路模組適合各種 LAN 應用，支援許多網際網路互連功能與標準。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="80"/>
       <source>The [[MODULE_NAME]] Module provides two WAN Interface Card expansion slots. It can be used with a broad range of interface cards, supporting a diverse array of physical media and network protocols.</source>
-      <translation type="unfinished">The [[MODULE_NAME]] Module provides two WAN Interface Card expansion slots. It can be used with a broad range of interface cards, supporting a diverse array of physical media and network protocols.</translation>
+      <translation>[[MODULE_NAME]] 模組提供兩個 WAN 介面卡擴充插槽，可搭配各種介面卡使用，支援多種實體媒體與網路通訊協定。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="81"/>
       <source>The 4-port asynchronous/synchronous serial network module provides flexible multi-protocol support, with each port individually configurable in synchronous or asynchronous mode, offering mixed-media dial support in a single chassis. Applications for Asynchronous/Synchronous support include: 	Low speed WAN aggregation (up to 128 Kbps), dial-up modem support, Async or Sync connections to management ports of other equipment, and transport of legacy protocols such as Bi-sync and SDLC.</source>
-      <translation type="unfinished">The 4-port asynchronous/synchronous serial network module provides flexible multi-protocol support, with each port individually configurable in synchronous or asynchronous mode, offering mixed-media dial support in a single chassis. Applications for Asynchronous/Synchronous support include: 	Low speed WAN aggregation (up to 128 Kbps), dial-up modem support, Async or Sync connections to management ports of other equipment, and transport of legacy protocols such as Bi-sync and SDLC.</translation>
+      <translation>4 埠非同步/同步序列網路模組提供彈性的多重通訊協定支援，每個連接埠都可個別設定為同步或非同步模式，在單一機箱中提供混合媒體撥號支援。非同步/同步支援的應用包括： 	低速 WAN 彙總（最高 128 Kbps）、撥接數據機支援、與其他設備管理連接埠的非同步或同步連線，以及傳輸 Bi-sync 和 SDLC 等舊式通訊協定。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="82"/>
       <source>The 8-port asynchronous/synchronous serial network module provides flexible multi-protocol support, with each port individually configurable in synchronous or asynchronous mode, offering mixed-media dial support in a single chassis. Applications for Asynchronous/Synchronous support include: 	Low speed WAN aggregation (up to 128 Kbps), dial-up modem support, Async or Sync connections to management ports of other equipment, and transport of legacy protocols such as Bi-sync and SDLC.</source>
-      <translation type="unfinished">The 8-port asynchronous/synchronous serial network module provides flexible multi-protocol support, with each port individually configurable in synchronous or asynchronous mode, offering mixed-media dial support in a single chassis. Applications for Asynchronous/Synchronous support include: 	Low speed WAN aggregation (up to 128 Kbps), dial-up modem support, Async or Sync connections to management ports of other equipment, and transport of legacy protocols such as Bi-sync and SDLC.</translation>
+      <translation>8 埠非同步/同步序列網路模組提供彈性的多重通訊協定支援，每個連接埠都可個別設定為同步或非同步模式，在單一機箱中提供混合媒體撥號支援。非同步/同步支援的應用包括： 	低速 WAN 彙總（最高 128 Kbps）、撥接數據機支援、與其他設備管理連接埠的非同步或同步連線，以及傳輸 Bi-sync 和 SDLC 等舊式通訊協定。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="83"/>
       <source>The [[MODULE_NAME]] Integrated V.92 analog modem network module provides cost-effective analog telephone service connectivity for lower-density remote-access service (RAS), dial-out and fax-out modem access, asynchronous dial-on-demand routing (DDR) plus dial backup, and remote router management. Both the 8-port and 16-port versions use RJ-11 jacks to connect the integrated modems to basic analog telephone lines on the public switched telephone network (PSTN) or private telephony systems.</source>
-      <translation type="unfinished">The [[MODULE_NAME]] Integrated V.92 analog modem network module provides cost-effective analog telephone service connectivity for lower-density remote-access service (RAS), dial-out and fax-out modem access, asynchronous dial-on-demand routing (DDR) plus dial backup, and remote router management. Both the 8-port and 16-port versions use RJ-11 jacks to connect the integrated modems to basic analog telephone lines on the public switched telephone network (PSTN) or private telephony systems.</translation>
+      <translation>[[MODULE_NAME]] 整合式 V.92 類比數據機網路模組，為低密度遠端存取服務 (RAS)、撥出與傳真撥出數據機存取、非同步隨選撥號路由 (DDR) 加撥號備援，以及遠端路由器管理，提供具成本效益的類比電話服務連線。8 埠與 16 埠版本都使用 RJ-11 插孔，將整合式數據機連接到公用交換電話網路 (PSTN) 或私人電話系統上的基本類比電話線路。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="84"/>
       <source>The [[MODULE_NAME]] provides 16 switching ports.</source>
-      <translation type="unfinished">The [[MODULE_NAME]] provides 16 switching ports.</translation>
+      <translation>[[MODULE_NAME]] 提供 16 個交換連接埠。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="85"/>
       <source>The [[MODULE_NAME]] card features dual RJ-11 connectors, which are used for basic telephone service connections. The WIC-1AM uses one port for connection to a standard telephone line, and the other port can be connected to a basic analog telephone for use when the modem is idle.</source>
-      <translation type="unfinished">The [[MODULE_NAME]] card features dual RJ-11 connectors, which are used for basic telephone service connections. The WIC-1AM uses one port for connection to a standard telephone line, and the other port can be connected to a basic analog telephone for use when the modem is idle.</translation>
+      <translation>[[MODULE_NAME]] 介面卡具有雙 RJ-11 連接器，用於基本電話服務連線。WIC-1AM 使用一個連接埠連接標準電話線，另一個連接埠可連接基本類比電話，於數據機閒置時使用。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="86"/>
       <source>The [[MODULE_NAME]] is a single-port 10 Mbps Ethernet interface card, for use with 10BASE-T Ethernet LANs.</source>
-      <translation type="unfinished">The [[MODULE_NAME]] is a single-port 10 Mbps Ethernet interface card, for use with 10BASE-T Ethernet LANs.</translation>
+      <translation>[[MODULE_NAME]] 是單埠 10 Mbps 乙太網路介面卡，適用於 10BASE-T 乙太網路 LAN。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="87"/>
       <source>The [[MODULE_NAME]] provides a single port serial connection to remote sites or legacy serial network devices such as Synchronous Data Link Control (SDLC) concentrators, alarm systems, and packet over SONET (POS) devices.</source>
-      <translation type="unfinished">The [[MODULE_NAME]] provides a single port serial connection to remote sites or legacy serial network devices such as Synchronous Data Link Control (SDLC) concentrators, alarm systems, and packet over SONET (POS) devices.</translation>
+      <translation>[[MODULE_NAME]] 提供單埠序列連線，可連接遠端站點或舊式序列網路裝置，例如同步資料鏈結控制 (SDLC) 集線器、警報系統與 SONET 封包 (POS) 裝置。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="89"/>
       <source>The [[MODULE_NAME]] card features dual RJ-11 connectors, which are used for basic telephone service connections. The WIC-2AM has two modem ports to allow multiple data communication connections.</source>
-      <translation type="unfinished">The [[MODULE_NAME]] card features dual RJ-11 connectors, which are used for basic telephone service connections. The WIC-2AM has two modem ports to allow multiple data communication connections.</translation>
+      <translation>[[MODULE_NAME]] 介面卡具有雙 RJ-11 連接器，用於基本電話服務連線。WIC-2AM 有兩個數據機連接埠，可進行多個資料通訊連線。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="90"/>
       <source>The [[MODULE_NAME]] card features a single coaxial connector, which is used for a cable modem service connection.</source>
-      <translation type="unfinished">The [[MODULE_NAME]] card features a single coaxial connector, which is used for a cable modem service connection.</translation>
+      <translation>[[MODULE_NAME]] 介面卡具有單一同軸連接器，用於纜線數據機服務連線。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="91"/>
       <location filename="../gui/CTranslationDB.cpp" line="92"/>
       <source>The [[MODULE_NAME]] provides four switching ports.</source>
-      <translation type="unfinished">The [[MODULE_NAME]] provides four switching ports.</translation>
+      <translation>[[MODULE_NAME]] 提供四個交換連接埠。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="93"/>
       <source>The [[MODULE_NAME]] module provides one 2.4GHz wireless interface suitable for connection to wireless networks. The module supports protocols that use Ethernet for LAN access.</source>
-      <translation type="unfinished">The [[MODULE_NAME]] module provides one 2.4GHz wireless interface suitable for connection to wireless networks. The module supports protocols that use Ethernet for LAN access.</translation>
+      <translation>[[MODULE_NAME]] 模組提供一個適合連接無線網路的 2.4GHz 無線介面，支援使用乙太網路進行 LAN 存取的通訊協定。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="94"/>
       <source>The [[MODULE_NAME]] module provides one 5GHz wireless interface suitable for connection to wireless 802.11a networks. The module supports protocols that use Ethernet for LAN access.</source>
-      <translation type="unfinished">The [[MODULE_NAME]] module provides one 5GHz wireless interface suitable for connection to wireless 802.11a networks. The module supports protocols that use Ethernet for LAN access.</translation>
+      <translation>[[MODULE_NAME]] 模組提供一個適合連接 802.11a 無線網路的 5GHz 無線介面，支援使用乙太網路進行 LAN 存取的通訊協定。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="96"/>
       <source>The WIC cover plate provides protection for the internal electronic components. It also helps maintain adequate cooling by normalizing airflow.</source>
-      <translation type="unfinished">The WIC cover plate provides protection for the internal electronic components. It also helps maintain adequate cooling by normalizing airflow.</translation>
+      <translation>WIC 蓋板可保護內部電子元件，同時透過規範氣流來維持適當的散熱。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="100"/>
       <source>The NM cover plate provides protection for the internal electronic components. It also helps maintain adequate cooling by normalizing airflow.</source>
-      <translation type="unfinished">The NM cover plate provides protection for the internal electronic components. It also helps maintain adequate cooling by normalizing airflow.</translation>
+      <translation>NM 蓋板可保護內部電子元件，同時透過規範氣流來維持適當的散熱。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="140"/>
       <source>Do you want to change the Device Name?</source>
-      <translation type="unfinished">Do you want to change the Device Name?</translation>
+      <translation>是否要變更裝置名稱？</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="141"/>
       <source>Overwrite File?</source>
-      <translation type="unfinished">Overwrite File?</translation>
+      <translation>是否覆寫檔案？</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="142"/>
       <source>Overwrite</source>
-      <translation type="unfinished">Overwrite</translation>
+      <translation>覆寫</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="143"/>
@@ -41617,17 +41617,17 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="145"/>
       <source>No Write Permission</source>
-      <translation type="unfinished">No Write Permission</translation>
+      <translation>沒有寫入權限</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="146"/>
       <source>Unable to write to file </source>
-      <translation type="unfinished">Unable to write to file </translation>
+      <translation>無法寫入檔案 </translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="152"/>
       <source>Saving...</source>
-      <translation type="unfinished">Saving...</translation>
+      <translation>儲存中...</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="156"/>
@@ -41652,7 +41652,7 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="161"/>
       <source>Connections</source>
-      <translation type="unfinished">Connections</translation>
+      <translation>連線</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="162"/>
@@ -41667,7 +41667,7 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="167"/>
       <source>Erase the startup-config file?</source>
-      <translation type="unfinished">Erase the startup-config file?</translation>
+      <translation>是否清除啟動組態檔？</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="171"/>
@@ -41682,38 +41682,38 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="173"/>
       <source>City</source>
-      <translation type="unfinished">City</translation>
+      <translation>城市</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="174"/>
       <source>Building</source>
-      <translation type="unfinished">Building</translation>
+      <translation>建築物</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="175"/>
       <source>Wiring Closet</source>
-      <translation type="unfinished">Wiring Closet</translation>
+      <translation>配線間</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="178"/>
       <location filename="../gui/CTranslationDB.cpp" line="179"/>
       <source>Access Point</source>
-      <translation type="unfinished">Access Point</translation>
+      <translation>存取點</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="181"/>
       <source>Cloud</source>
-      <translation type="unfinished">Cloud</translation>
+      <translation>雲端</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="182"/>
       <source>Hub</source>
-      <translation type="unfinished">Hub</translation>
+      <translation>集線器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="183"/>
       <source>PC</source>
-      <translation type="unfinished">PC</translation>
+      <translation>PC</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="184"/>
@@ -41728,98 +41728,98 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="186"/>
       <source>Server</source>
-      <translation type="unfinished">Server</translation>
+      <translation>伺服器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="188"/>
       <source>Printer</source>
-      <translation type="unfinished">Printer</translation>
+      <translation>印表機</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="189"/>
       <source>Repeater</source>
-      <translation type="unfinished">Repeater</translation>
+      <translation>中繼器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="192"/>
       <source>Bridge</source>
-      <translation type="unfinished">Bridge</translation>
+      <translation>橋接器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="193"/>
       <source>DSL Modem</source>
-      <translation type="unfinished">DSL Modem</translation>
+      <translation>DSL 數據機</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="194"/>
       <source>Cable Modem</source>
-      <translation type="unfinished">Cable Modem</translation>
+      <translation>纜線數據機</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="195"/>
       <source>Wireless Router</source>
-      <translation type="unfinished">Wireless Router</translation>
+      <translation>無線路由器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="197"/>
       <source>IP Phone</source>
-      <translation type="unfinished">IP Phone</translation>
+      <translation>IP 電話</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="198"/>
       <source>Multilayer Switch</source>
-      <translation type="unfinished">Multilayer Switch</translation>
+      <translation>多層交換器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="200"/>
       <source>Laptop</source>
-      <translation type="unfinished">Laptop</translation>
+      <translation>筆記型電腦</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="222"/>
       <location filename="../gui/CTranslationDB.cpp" line="2928"/>
       <source>Peer</source>
-      <translation type="unfinished">Peer</translation>
+      <translation>對等端</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="228"/>
       <source>HTTP Server</source>
-      <translation type="unfinished">HTTP Server</translation>
+      <translation>HTTP 伺服器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="229"/>
       <source>HTTP Enable</source>
-      <translation type="unfinished">HTTP Enable</translation>
+      <translation>啟用 HTTP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="232"/>
       <source>HTTPS Server</source>
-      <translation type="unfinished">HTTPS Server</translation>
+      <translation>HTTPS 伺服器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="233"/>
       <source>HTTPS Enable</source>
-      <translation type="unfinished">HTTPS Enable</translation>
+      <translation>啟用 HTTPS</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="235"/>
       <source>Internet Connection</source>
-      <translation type="unfinished">Internet Connection</translation>
+      <translation>網際網路連線</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="236"/>
       <source>Router IP</source>
-      <translation type="unfinished">Router IP</translation>
+      <translation>路由器 IP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="237"/>
       <source>Wireless Security Mode</source>
-      <translation type="unfinished">Wireless Security Mode</translation>
+      <translation>無線安全性模式</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="238"/>
       <source>Single Port Forwarding</source>
-      <translation type="unfinished">Single Port Forwarding</translation>
+      <translation>單一連接埠轉送</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="239"/>
@@ -41835,47 +41835,47 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="240"/>
       <source>Remote Management</source>
-      <translation type="unfinished">Remote Management</translation>
+      <translation>遠端管理</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="260"/>
       <source>DNS Server</source>
-      <translation type="unfinished">DNS Server</translation>
+      <translation>DNS 伺服器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="261"/>
       <source>DNS Enable</source>
-      <translation type="unfinished">DNS Enable</translation>
+      <translation>啟用 DNS</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="262"/>
       <source>Resource Records</source>
-      <translation type="unfinished">Resource Records</translation>
+      <translation>資源記錄</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="263"/>
       <source>Record [[NAME]]</source>
-      <translation type="unfinished">Record [[NAME]]</translation>
+      <translation>記錄 [[NAME]]</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="264"/>
       <source>A Records</source>
-      <translation type="unfinished">A Records</translation>
+      <translation>A Records</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="265"/>
       <source>NS Records</source>
-      <translation type="unfinished">NS Records</translation>
+      <translation>NS Records</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="266"/>
       <source>SOA Records</source>
-      <translation type="unfinished">SOA Records</translation>
+      <translation>SOA Records</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="267"/>
       <source>CNAME Records</source>
-      <translation type="unfinished">CNAME Records</translation>
+      <translation>CNAME Records</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="269"/>
@@ -41889,88 +41889,88 @@ Please wait until it is finished.</source>
       <location filename="../gui/CTranslationDB.cpp" line="2849"/>
       <location filename="../gui/CTranslationDB.cpp" line="2930"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>位址</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="271"/>
       <source>SOA Record</source>
-      <translation type="unfinished">SOA Record</translation>
+      <translation>SOA Record</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="272"/>
       <source>Primary Server Name</source>
-      <translation type="unfinished">Primary Server Name</translation>
+      <translation>主要伺服器名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="273"/>
       <source>Mailbox</source>
-      <translation type="unfinished">Mailbox</translation>
+      <translation>郵件信箱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="274"/>
       <source>Min TTL</source>
-      <translation type="unfinished">Min TTL</translation>
+      <translation>Min TTL</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="275"/>
       <source>Refresh Time</source>
-      <translation type="unfinished">Refresh Time</translation>
+      <translation>重新整理時間</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="276"/>
       <source>Retry Time</source>
-      <translation type="unfinished">Retry Time</translation>
+      <translation>重試時間</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="277"/>
       <source>Expire Time</source>
-      <translation type="unfinished">Expire Time</translation>
+      <translation>到期時間</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="278"/>
       <source>Hostname</source>
-      <translation type="unfinished">Hostname</translation>
+      <translation>主機名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="279"/>
       <source>Server Name</source>
-      <translation type="unfinished">Server Name</translation>
+      <translation>伺服器名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="281"/>
       <location filename="../gui/CTranslationDB.cpp" line="520"/>
       <source>TFTP Server</source>
-      <translation type="unfinished">TFTP Server</translation>
+      <translation>TFTP 伺服器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="282"/>
       <source>TFTP Enable</source>
-      <translation type="unfinished">TFTP Enable</translation>
+      <translation>啟用 TFTP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="283"/>
       <source>ServerFiles</source>
-      <translation type="unfinished">ServerFiles</translation>
+      <translation>伺服器檔案</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="295"/>
       <source>SSH Server</source>
-      <translation type="unfinished">SSH Server</translation>
+      <translation>SSH 伺服器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="296"/>
       <source>SSH Version</source>
-      <translation type="unfinished">SSH Version</translation>
+      <translation>SSH 版本</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="297"/>
       <source>SSH Authentication Retries</source>
-      <translation type="unfinished">SSH Authentication Retries</translation>
+      <translation>SSH 驗證重試次數</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="298"/>
       <source>SSH Timeout</source>
-      <translation type="unfinished">SSH Timeout</translation>
+      <translation>SSH 逾時</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="163"/>
@@ -41982,54 +41982,54 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="302"/>
       <source>Crypto Key Set</source>
-      <translation type="unfinished">Crypto Key Set</translation>
+      <translation>加密金鑰組</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="303"/>
       <source>Boot Config</source>
-      <translation type="unfinished">Boot Config</translation>
+      <translation>啟動組態</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="304"/>
       <source>Boot Image</source>
-      <translation type="unfinished">Boot Image</translation>
+      <translation>啟動映像檔</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="337"/>
       <source>IPS</source>
-      <translation type="unfinished">IPS</translation>
+      <translation>IPS</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="339"/>
       <location filename="../gui/CTranslationDB.cpp" line="353"/>
       <source>Category</source>
-      <translation type="unfinished">Category</translation>
+      <translation>類別</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="340"/>
       <source>IPS Name</source>
-      <translation type="unfinished">IPS Name</translation>
+      <translation>IPS Name</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="341"/>
       <source>IPS ACL</source>
-      <translation type="unfinished">IPS ACL</translation>
+      <translation>IPS ACL</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="342"/>
       <source>Notify Log</source>
-      <translation type="unfinished">Notify Log</translation>
+      <translation>通知記錄</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="346"/>
       <source>Signature</source>
-      <translation type="unfinished">Signature</translation>
+      <translation>簽章</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="347"/>
       <location filename="../gui/CTranslationDB.cpp" line="355"/>
       <source>Retired</source>
-      <translation type="unfinished">Retired</translation>
+      <translation>已淘汰</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="348"/>
@@ -42042,60 +42042,60 @@ Please wait until it is finished.</source>
       <location filename="../gui/CTranslationDB.cpp" line="2681"/>
       <location filename="../gui/CTranslationDB.cpp" line="3001"/>
       <source>Enabled</source>
-      <translation type="unfinished">Enabled</translation>
+      <translation>已啟用</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="349"/>
       <source>Icmp Signature ID</source>
-      <translation type="unfinished">Icmp Signature ID</translation>
+      <translation>Icmp Signature ID</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="350"/>
       <source>Icmp Sub ID</source>
-      <translation type="unfinished">Icmp Sub ID</translation>
+      <translation>Icmp Sub ID</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="354"/>
       <source>NAME</source>
-      <translation type="unfinished">NAME</translation>
+      <translation>NAME</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="357"/>
       <source>Zone Based Firewall</source>
-      <translation type="unfinished">Zone Based Firewall</translation>
+      <translation>區域型防火牆</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="358"/>
       <source>Zone Names</source>
-      <translation type="unfinished">Zone Names</translation>
+      <translation>Zone Names</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="359"/>
       <source>Zone Pairs</source>
-      <translation type="unfinished">Zone Pairs</translation>
+      <translation>Zone Pairs</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="309"/>
       <location filename="../gui/CTranslationDB.cpp" line="372"/>
       <location filename="../gui/CTranslationDB.cpp" line="411"/>
       <source>Service Policy</source>
-      <translation type="unfinished">Service Policy</translation>
+      <translation>服務原則</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="361"/>
       <source>Inspect Class</source>
-      <translation type="unfinished">Inspect Class</translation>
+      <translation>檢查類別</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="362"/>
       <location filename="../gui/CTranslationDB.cpp" line="407"/>
       <source>Class Map</source>
-      <translation type="unfinished">Class Map</translation>
+      <translation>Class Map</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="368"/>
       <source>Zone Pair</source>
-      <translation type="unfinished">Zone Pair</translation>
+      <translation>Zone Pair</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="327"/>
@@ -42117,140 +42117,140 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="370"/>
       <source>Source Zone</source>
-      <translation type="unfinished">Source Zone</translation>
+      <translation>來源區域</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="371"/>
       <source>Destination Zone</source>
-      <translation type="unfinished">Destination Zone</translation>
+      <translation>目的區域</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="375"/>
       <source>Custom Queues</source>
-      <translation type="unfinished">Custom Queues</translation>
+      <translation>自訂佇列</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="376"/>
       <source>Custom Queue Info List</source>
-      <translation type="unfinished">Custom Queue Info List</translation>
+      <translation>自訂佇列資訊清單</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="379"/>
       <source>Custom Queue Info</source>
-      <translation type="unfinished">Custom Queue Info</translation>
+      <translation>自訂佇列資訊</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="380"/>
       <source>Protocol List</source>
-      <translation type="unfinished">Protocol List</translation>
+      <translation>通訊協定清單</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="381"/>
       <source>Queue Infos</source>
-      <translation type="unfinished">Queue Infos</translation>
+      <translation>Queue Infos</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="382"/>
       <source>Queue Info</source>
-      <translation type="unfinished">Queue Info</translation>
+      <translation>Queue Info</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="383"/>
       <source>Default Queue</source>
-      <translation type="unfinished">Default Queue</translation>
+      <translation>預設佇列</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="386"/>
       <source>Queue Protocol</source>
-      <translation type="unfinished">Queue Protocol</translation>
+      <translation>佇列通訊協定</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="387"/>
       <source>IP</source>
-      <translation type="unfinished">IP</translation>
+      <translation>IP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="388"/>
       <source>IPv6</source>
-      <translation type="unfinished">IPv6</translation>
+      <translation>IPv6</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="389"/>
       <source>Keyword</source>
-      <translation type="unfinished">Keyword</translation>
+      <translation>關鍵字</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="390"/>
       <source>Key Value</source>
-      <translation type="unfinished">Key Value</translation>
+      <translation>Key Value</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="391"/>
       <source>Queue Index</source>
-      <translation type="unfinished">Queue Index</translation>
+      <translation>佇列索引</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="393"/>
       <source>Class Maps</source>
-      <translation type="unfinished">Class Maps</translation>
+      <translation>類別對應</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="394"/>
       <source>Class Map List</source>
-      <translation type="unfinished">Class Map List</translation>
+      <translation>類別對應清單</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="395"/>
       <source>Map Type</source>
-      <translation type="unfinished">Map Type</translation>
+      <translation>對應類型</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="396"/>
       <location filename="../gui/CTranslationDB.cpp" line="543"/>
       <source>Statements</source>
-      <translation type="unfinished">Statements</translation>
+      <translation>陳述式</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="398"/>
       <source>Policy Maps</source>
-      <translation type="unfinished">Policy Maps</translation>
+      <translation>原則對應</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="399"/>
       <source>Policy Map List</source>
-      <translation type="unfinished">Policy Map List</translation>
+      <translation>原則對應清單</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="400"/>
       <source>Policy Map</source>
-      <translation type="unfinished">Policy Map</translation>
+      <translation>Policy Map</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="401"/>
       <source>Policy Map Name</source>
-      <translation type="unfinished">Policy Map Name</translation>
+      <translation>原則對應名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="402"/>
       <source>Policy Map Type</source>
-      <translation type="unfinished">Policy Map Type</translation>
+      <translation>原則對應類型</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="406"/>
       <source>QoS Class</source>
-      <translation type="unfinished">QoS Class</translation>
+      <translation>QoS 類別</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="408"/>
       <location filename="../gui/CTranslationDB.cpp" line="725"/>
       <source>Bandwidth</source>
-      <translation type="unfinished">Bandwidth</translation>
+      <translation>頻寬</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="409"/>
       <location filename="../gui/CTranslationDB.cpp" line="415"/>
       <source>Queue Limit</source>
-      <translation type="unfinished">Queue Limit</translation>
+      <translation>佇列上限</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="410"/>
@@ -42258,37 +42258,37 @@ Please wait until it is finished.</source>
       <location filename="../gui/CTranslationDB.cpp" line="1945"/>
       <location filename="../gui/CTranslationDB.cpp" line="2759"/>
       <source>Priority</source>
-      <translation type="unfinished">Priority</translation>
+      <translation>優先順序</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="413"/>
       <source>Priority Queue</source>
-      <translation type="unfinished">Priority Queue</translation>
+      <translation>優先佇列</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="414"/>
       <source>Priority Lists</source>
-      <translation type="unfinished">Priority Lists</translation>
+      <translation>優先清單</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="416"/>
       <source>High</source>
-      <translation type="unfinished">High</translation>
+      <translation>高</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="417"/>
       <source>Medium</source>
-      <translation type="unfinished">Medium</translation>
+      <translation>中</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="418"/>
       <source>Normal</source>
-      <translation type="unfinished">Normal</translation>
+      <translation>一般</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="419"/>
       <source>Low</source>
-      <translation type="unfinished">Low</translation>
+      <translation>低</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="420"/>
@@ -42304,80 +42304,80 @@ Please wait until it is finished.</source>
       <location filename="../gui/CTranslationDB.cpp" line="421"/>
       <location filename="../gui/CTranslationDB.cpp" line="2745"/>
       <source>Protocol</source>
-      <translation type="unfinished">Protocol</translation>
+      <translation>通訊協定</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="451"/>
       <source>ACL</source>
-      <translation type="unfinished">ACL</translation>
+      <translation>ACL</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="452"/>
       <source>ACLV6</source>
-      <translation type="unfinished">ACLV6</translation>
+      <translation>ACLV6</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="453"/>
       <location filename="../gui/CTranslationDB.cpp" line="2197"/>
       <source>CDP</source>
-      <translation type="unfinished">CDP</translation>
+      <translation>CDP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="454"/>
       <location filename="../gui/CTranslationDB.cpp" line="876"/>
       <source>CDP Enabled</source>
-      <translation type="unfinished">CDP Enabled</translation>
+      <translation>已啟用 CDP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="457"/>
       <source>DHCP Server</source>
-      <translation type="unfinished">DHCP Server</translation>
+      <translation>DHCP 伺服器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="459"/>
       <source>DHCP Enable</source>
-      <translation type="unfinished">DHCP Enable</translation>
+      <translation>啟用 DHCP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="461"/>
       <location filename="../gui/CTranslationDB.cpp" line="533"/>
       <source>Pools</source>
-      <translation type="unfinished">Pools</translation>
+      <translation>集區</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="463"/>
       <source>Excluded Addresses</source>
-      <translation type="unfinished">Excluded Addresses</translation>
+      <translation>排除位址</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="501"/>
       <source>Pool [[NAME]]</source>
-      <translation type="unfinished">Pool [[NAME]]</translation>
+      <translation>集區 [[NAME]]</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="505"/>
       <source>Pool IPs</source>
-      <translation type="unfinished">Pool IPs</translation>
+      <translation>集區 IP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="507"/>
       <source>DNS server IP</source>
-      <translation type="unfinished">DNS server IP</translation>
+      <translation>DNS 伺服器 IP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="509"/>
       <source>Start IP address</source>
-      <translation type="unfinished">Start IP address</translation>
+      <translation>起始 IP 位址</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="512"/>
       <source>Subnet mask</source>
-      <translation type="unfinished">Subnet mask</translation>
+      <translation>子網路遮罩</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="514"/>
       <source>Max User</source>
-      <translation type="unfinished">Max User</translation>
+      <translation>最大使用者數</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="516"/>
@@ -42385,7 +42385,7 @@ Please wait until it is finished.</source>
       <location filename="../gui/CTranslationDB.cpp" line="714"/>
       <location filename="../gui/CTranslationDB.cpp" line="2600"/>
       <source>Default Gateway</source>
-      <translation type="unfinished">Default Gateway</translation>
+      <translation>預設閘道</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="518"/>
@@ -42393,55 +42393,55 @@ Please wait until it is finished.</source>
       <location filename="../gui/CTranslationDB.cpp" line="858"/>
       <location filename="../gui/CTranslationDB.cpp" line="2601"/>
       <source>DNS Server IP</source>
-      <translation type="unfinished">DNS Server IP</translation>
+      <translation>DNS 伺服器 IP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="529"/>
       <source>NAT</source>
-      <translation type="unfinished">NAT</translation>
+      <translation>NAT</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="535"/>
       <source>Inside Source List</source>
-      <translation type="unfinished">Inside Source List</translation>
+      <translation>內部來源清單</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="536"/>
       <source>Inside Source Static</source>
-      <translation type="unfinished">Inside Source Static</translation>
+      <translation>內部來源靜態</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="537"/>
       <source>Outside Source List</source>
-      <translation type="unfinished">Outside Source List</translation>
+      <translation>外部來源清單</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="538"/>
       <source>Outside Source Static</source>
-      <translation type="unfinished">Outside Source Static</translation>
+      <translation>外部來源靜態</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="546"/>
       <source>Static Routes</source>
-      <translation type="unfinished">Static Routes</translation>
+      <translation>靜態路由</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="547"/>
       <location filename="../gui/CTranslationDB.cpp" line="2203"/>
       <source>RIP</source>
-      <translation type="unfinished">RIP</translation>
+      <translation>RIP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="548"/>
       <location filename="../gui/CTranslationDB.cpp" line="1345"/>
       <source>Version</source>
-      <translation type="unfinished">Version</translation>
+      <translation>版本</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="549"/>
       <location filename="../gui/CTranslationDB.cpp" line="558"/>
       <source>Auto Summary</source>
-      <translation type="unfinished">Auto Summary</translation>
+      <translation>自動摘要</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="550"/>
@@ -42449,7 +42449,7 @@ Please wait until it is finished.</source>
       <location filename="../gui/CTranslationDB.cpp" line="810"/>
       <location filename="../gui/CTranslationDB.cpp" line="999"/>
       <source>Passive Interface</source>
-      <translation type="unfinished">Passive Interface</translation>
+      <translation>被動介面</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="552"/>
@@ -42457,77 +42457,77 @@ Please wait until it is finished.</source>
       <location filename="../gui/CTranslationDB.cpp" line="998"/>
       <location filename="../gui/CTranslationDB.cpp" line="1161"/>
       <source>Networks</source>
-      <translation type="unfinished">Networks</translation>
+      <translation>網路</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="556"/>
       <location filename="../gui/CTranslationDB.cpp" line="2200"/>
       <source>EIGRP</source>
-      <translation type="unfinished">EIGRP</translation>
+      <translation>EIGRP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="557"/>
       <location filename="../gui/CTranslationDB.cpp" line="881"/>
       <source>Autonomous System [[AS]]</source>
-      <translation type="unfinished">Autonomous System [[AS]]</translation>
+      <translation>自治系統 [[AS]]</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="566"/>
       <location filename="../gui/CTranslationDB.cpp" line="791"/>
       <source>Metrics</source>
-      <translation type="unfinished">Metrics</translation>
+      <translation>度量</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="567"/>
       <source>Variance</source>
-      <translation type="unfinished">Variance</translation>
+      <translation>變異數</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="570"/>
       <source>Console Line</source>
-      <translation type="unfinished">Console Line</translation>
+      <translation>主控台線路</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="681"/>
       <source>RS232</source>
-      <translation type="unfinished">RS232</translation>
+      <translation>RS232</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="577"/>
       <location filename="../gui/CTranslationDB.cpp" line="677"/>
       <location filename="../gui/CTranslationDB.cpp" line="2653"/>
       <source>Speed</source>
-      <translation type="unfinished">Speed</translation>
+      <translation>速度</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="578"/>
       <source>Data Bits</source>
-      <translation type="unfinished">Data Bits</translation>
+      <translation>資料位元</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="579"/>
       <source>Parity</source>
-      <translation type="unfinished">Parity</translation>
+      <translation>同位檢查</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="580"/>
       <source>Stop Bits</source>
-      <translation type="unfinished">Stop Bits</translation>
+      <translation>停止位元</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="581"/>
       <source>Flow Control</source>
-      <translation type="unfinished">Flow Control</translation>
+      <translation>流量控制</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="582"/>
       <source>Transport Input</source>
-      <translation type="unfinished">Transport Input</translation>
+      <translation>Transport Input</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="583"/>
       <source>Transport Output</source>
-      <translation type="unfinished">Transport Output</translation>
+      <translation>Transport Output</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="584"/>
@@ -42537,42 +42537,42 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="586"/>
       <source>AAA Method List Name</source>
-      <translation type="unfinished">AAA Method List Name</translation>
+      <translation>AAA 方法清單名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="588"/>
       <source>History Size</source>
-      <translation type="unfinished">History Size</translation>
+      <translation>歷程大小</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="589"/>
       <source>Access Control Out</source>
-      <translation type="unfinished">Access Control Out</translation>
+      <translation>存取控制（輸出）</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="590"/>
       <source>Access Control In</source>
-      <translation type="unfinished">Access Control In</translation>
+      <translation>存取控制（輸入）</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="591"/>
       <source>Session Limit</source>
-      <translation type="unfinished">Session Limit</translation>
+      <translation>工作階段上限</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="592"/>
       <source>MOTD Banner</source>
-      <translation type="unfinished">MOTD Banner</translation>
+      <translation>MOTD 橫幅</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="593"/>
       <source>VTY Line [[NUM]]</source>
-      <translation type="unfinished">VTY Line [[NUM]]</translation>
+      <translation>VTY 線路 [[NUM]]</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="594"/>
       <source>Terminal Line timed out</source>
-      <translation type="unfinished">Terminal Line timed out</translation>
+      <translation>終端機線路逾時</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="555"/>
@@ -42586,27 +42586,27 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="604"/>
       <source>Startup Config</source>
-      <translation type="unfinished">Startup Config</translation>
+      <translation>啟動組態</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="605"/>
       <source>VTY Lines</source>
-      <translation type="unfinished">VTY Lines</translation>
+      <translation>VTY Lines</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="606"/>
       <source>Config-Register</source>
-      <translation type="unfinished">Config-Register</translation>
+      <translation>組態暫存器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="607"/>
       <source>Banner MOTD</source>
-      <translation type="unfinished">Banner MOTD</translation>
+      <translation>MOTD 橫幅</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="608"/>
       <source>Banner LOGIN</source>
-      <translation type="unfinished">Banner LOGIN</translation>
+      <translation>登入橫幅</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="609"/>
@@ -42617,18 +42617,18 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="610"/>
       <source>Service Password Encryption</source>
-      <translation type="unfinished">Service Password Encryption</translation>
+      <translation>服務密碼加密</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="611"/>
       <source>Clock Timezone</source>
-      <translation type="unfinished">Clock Timezone</translation>
+      <translation>時鐘時區</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="612"/>
       <location filename="../gui/CTranslationDB.cpp" line="696"/>
       <source>User Names</source>
-      <translation type="unfinished">User Names</translation>
+      <translation>使用者名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="613"/>
@@ -42641,37 +42641,37 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="615"/>
       <source>Security Password Min-Length</source>
-      <translation type="unfinished">Security Password Min-Length</translation>
+      <translation>安全性密碼最小長度</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="616"/>
       <source>Login Options</source>
-      <translation type="unfinished">Login Options</translation>
+      <translation>登入選項</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="619"/>
       <source>Blocking</source>
-      <translation type="unfinished">Blocking</translation>
+      <translation>封鎖</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="621"/>
       <source>Duration</source>
-      <translation type="unfinished">Duration</translation>
+      <translation>持續時間</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="622"/>
       <source>Attempts</source>
-      <translation type="unfinished">Attempts</translation>
+      <translation>嘗試次數</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="623"/>
       <source>Period</source>
-      <translation type="unfinished">Period</translation>
+      <translation>期間</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="642"/>
       <source>Enable Secret</source>
-      <translation type="unfinished">Enable Secret</translation>
+      <translation>Enable Secret</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="643"/>
@@ -42681,120 +42681,120 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="644"/>
       <source>Trap Debug</source>
-      <translation type="unfinished">Trap Debug</translation>
+      <translation>陷阱偵錯</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="645"/>
       <source>Service timestamp debug</source>
-      <translation type="unfinished">Service timestamp debug</translation>
+      <translation>服務時間戳記偵錯</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="646"/>
       <source>Service timestamp log</source>
-      <translation type="unfinished">Service timestamp log</translation>
+      <translation>服務時間戳記記錄</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="647"/>
       <source>Logging console</source>
-      <translation type="unfinished">Logging console</translation>
+      <translation>主控台記錄</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="648"/>
       <source>Logging buffered</source>
-      <translation type="unfinished">Logging buffered</translation>
+      <translation>緩衝記錄</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="649"/>
       <source>Logging On</source>
-      <translation type="unfinished">Logging On</translation>
+      <translation>記錄已開啟</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1940"/>
       <location filename="../gui/CTranslationDB.cpp" line="1941"/>
       <location filename="../gui/CTranslationDB.cpp" line="2209"/>
       <source>STP</source>
-      <translation type="unfinished">STP</translation>
+      <translation>STP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1942"/>
       <source>RSTP</source>
-      <translation type="unfinished">RSTP</translation>
+      <translation>RSTP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="492"/>
       <location filename="../gui/CTranslationDB.cpp" line="1943"/>
       <source>VLANs</source>
-      <translation type="unfinished">VLANs</translation>
+      <translation>VLANs</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1944"/>
       <source>VLAN Number</source>
-      <translation type="unfinished">VLAN Number</translation>
+      <translation>VLAN 編號</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1946"/>
       <source>PortFast Default</source>
-      <translation type="unfinished">PortFast Default</translation>
+      <translation>PortFast 預設值</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="651"/>
       <source>Port Security</source>
-      <translation type="unfinished">Port Security</translation>
+      <translation>連接埠安全性</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="652"/>
       <source>[[MAC]]</source>
-      <translation type="unfinished">[[MAC]]</translation>
+      <translation>[[MAC]]</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="653"/>
       <source>Static MACs</source>
-      <translation type="unfinished">Static MACs</translation>
+      <translation>靜態 MAC</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="654"/>
       <source>Maximum Static MACs</source>
-      <translation type="unfinished">Maximum Static MACs</translation>
+      <translation>最大靜態 MAC 數</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="655"/>
       <source>Port Security Violation</source>
-      <translation type="unfinished">Port Security Violation</translation>
+      <translation>連接埠安全性違規</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="657"/>
       <source>Sticky Enabled</source>
-      <translation type="unfinished">Sticky Enabled</translation>
+      <translation>已啟用 Sticky</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="658"/>
       <source>Sticky MACs</source>
-      <translation type="unfinished">Sticky MACs</translation>
+      <translation>Sticky MAC</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="661"/>
       <source>Frame-Relay Connections</source>
-      <translation type="unfinished">Frame-Relay Connections</translation>
+      <translation>訊框中繼連線</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="662"/>
       <source>DSL Connections</source>
-      <translation type="unfinished">DSL Connections</translation>
+      <translation>DSL 連線</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="663"/>
       <source>Cable Connections</source>
-      <translation type="unfinished">Cable Connections</translation>
+      <translation>纜線連線</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="666"/>
       <source>Power</source>
-      <translation type="unfinished">Power</translation>
+      <translation>電源</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="667"/>
       <source>In Physical Shape</source>
-      <translation type="unfinished">In Physical Shape</translation>
+      <translation>In Physical Shape</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="669"/>
@@ -42802,98 +42802,98 @@ Please wait until it is finished.</source>
       <location filename="../gui/CTranslationDB.cpp" line="2924"/>
       <location filename="../gui/CTranslationDB.cpp" line="3412"/>
       <source>Ports</source>
-      <translation type="unfinished">Ports</translation>
+      <translation>連接埠</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="670"/>
       <location filename="../gui/CTranslationDB.cpp" line="2823"/>
       <source>Authorization</source>
-      <translation type="unfinished">Authorization</translation>
+      <translation>授權</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="711"/>
       <source>VLANS</source>
-      <translation type="unfinished">VLANS</translation>
+      <translation>VLANS</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="712"/>
       <source>VLAN Name</source>
-      <translation type="unfinished">VLAN Name</translation>
+      <translation>VLAN 名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="713"/>
       <source>VLAN Interface</source>
-      <translation type="unfinished">VLAN Interface</translation>
+      <translation>VLAN 介面</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="600"/>
       <location filename="../gui/CTranslationDB.cpp" line="716"/>
       <source>Host Name</source>
-      <translation type="unfinished">Host Name</translation>
+      <translation>主機名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="601"/>
       <location filename="../gui/CTranslationDB.cpp" line="717"/>
       <source>Flash Files</source>
-      <translation type="unfinished">Flash Files</translation>
+      <translation>Flash 檔案</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="718"/>
       <source>Phone Number</source>
-      <translation type="unfinished">Phone Number</translation>
+      <translation>電話號碼</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="719"/>
       <location filename="../gui/CTranslationDB.cpp" line="920"/>
       <source>Frame Relay</source>
-      <translation type="unfinished">Frame Relay</translation>
+      <translation>訊框中繼</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="720"/>
       <location filename="../gui/CTranslationDB.cpp" line="922"/>
       <source>LMI Type</source>
-      <translation type="unfinished">LMI Type</translation>
+      <translation>LMI 類型</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="723"/>
       <source>Sublinks</source>
-      <translation type="unfinished">Sublinks</translation>
+      <translation>子連結</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="724"/>
       <source>Port Status</source>
-      <translation type="unfinished">Port Status</translation>
+      <translation>連接埠狀態</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="726"/>
       <source>Duplex</source>
-      <translation type="unfinished">Duplex</translation>
+      <translation>雙工</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="727"/>
       <location filename="../gui/CTranslationDB.cpp" line="1037"/>
       <source>MAC Address</source>
-      <translation type="unfinished">MAC Address</translation>
+      <translation>MAC 位址</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="729"/>
       <source>Clock Rate</source>
-      <translation type="unfinished">Clock Rate</translation>
+      <translation>時脈速率</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="730"/>
       <source>Link to [[DEVICE_NAME]]</source>
-      <translation type="unfinished">Link to [[DEVICE_NAME]]</translation>
+      <translation>連結至 [[DEVICE_NAME]]</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="731"/>
       <source>Wireless Links</source>
-      <translation type="unfinished">Wireless Links</translation>
+      <translation>無線連結</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="732"/>
       <source>Wireless Link to [[DEVICE_NAME]]</source>
-      <translation type="unfinished">Wireless Link to [[DEVICE_NAME]]</translation>
+      <translation>無線連結至 [[DEVICE_NAME]]</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="734"/>
@@ -42906,7 +42906,7 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="735"/>
       <source>Connects to [[PORT_NAME]]</source>
-      <translation type="unfinished">Connects to [[PORT_NAME]]</translation>
+      <translation>連接至 [[PORT_NAME]]</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="332"/>
@@ -42917,254 +42917,254 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="738"/>
       <source>Tx Ring Limit</source>
-      <translation type="unfinished">Tx Ring Limit</translation>
+      <translation>Tx Ring Limit</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="751"/>
       <source>Peer Address</source>
-      <translation type="unfinished">Peer Address</translation>
+      <translation>對等位址</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="752"/>
       <source>Peer Network Name</source>
-      <translation type="unfinished">Peer Network Name</translation>
+      <translation>對等網路名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="754"/>
       <source>Connected</source>
-      <translation type="unfinished">Connected</translation>
+      <translation>已連線</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="776"/>
       <source>Type (Point-to-Point/Multipoint)</source>
-      <translation type="unfinished">Type (Point-to-Point/Multipoint)</translation>
+      <translation>類型 (點對點/多點)</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="777"/>
       <source>DLCI [[NUM]]</source>
-      <translation type="unfinished">DLCI [[NUM]]</translation>
+      <translation>DLCI [[NUM]]</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="778"/>
       <source>DLCI</source>
-      <translation type="unfinished">DLCI</translation>
+      <translation>DLCI</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="780"/>
       <source>Routing v6</source>
-      <translation type="unfinished">Routing v6</translation>
+      <translation>路由 v6</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="781"/>
       <source>IPv6 Unicast Routing</source>
-      <translation type="unfinished">IPv6 Unicast Routing</translation>
+      <translation>IPv6 單點傳播路由</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="783"/>
       <location filename="../gui/CTranslationDB.cpp" line="891"/>
       <source>RIPv6</source>
-      <translation type="unfinished">RIPv6</translation>
+      <translation>RIPv6</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="784"/>
       <source>RIPv6 [[NAME]]</source>
-      <translation type="unfinished">RIPv6 [[NAME]]</translation>
+      <translation>RIPv6 [[NAME]]</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="785"/>
       <location filename="../gui/CTranslationDB.cpp" line="790"/>
       <location filename="../gui/CTranslationDB.cpp" line="812"/>
       <source>Shutdown</source>
-      <translation type="unfinished">Shutdown</translation>
+      <translation>關閉</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="786"/>
       <source>Distance</source>
-      <translation type="unfinished">Distance</translation>
+      <translation>距離</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="788"/>
       <location filename="../gui/CTranslationDB.cpp" line="895"/>
       <location filename="../gui/CTranslationDB.cpp" line="2201"/>
       <source>EIGRPv6</source>
-      <translation type="unfinished">EIGRPv6</translation>
+      <translation>EIGRPv6</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="789"/>
       <source>EIGRPv6 [[ASV6]]</source>
-      <translation type="unfinished">EIGRPv6 [[ASV6]]</translation>
+      <translation>EIGRPv6 [[ASV6]]</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="568"/>
       <location filename="../gui/CTranslationDB.cpp" line="799"/>
       <location filename="../gui/CTranslationDB.cpp" line="1169"/>
       <source>Router ID</source>
-      <translation type="unfinished">Router ID</translation>
+      <translation>Router ID</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="792"/>
       <location filename="../gui/CTranslationDB.cpp" line="918"/>
       <location filename="../gui/CTranslationDB.cpp" line="2211"/>
       <source>OSPFv6</source>
-      <translation type="unfinished">OSPFv6</translation>
+      <translation>OSPFv6</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="793"/>
       <source>OSPFv6 [[PID]]</source>
-      <translation type="unfinished">OSPFv6 [[PID]]</translation>
+      <translation>OSPFv6 [[PID]]</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="795"/>
       <location filename="../gui/CTranslationDB.cpp" line="804"/>
       <location filename="../gui/CTranslationDB.cpp" line="916"/>
       <source>Area</source>
-      <translation type="unfinished">Area</translation>
+      <translation>區域</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="796"/>
       <location filename="../gui/CTranslationDB.cpp" line="807"/>
       <source>Area Status</source>
-      <translation type="unfinished">Area Status</translation>
+      <translation>區域狀態</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="797"/>
       <location filename="../gui/CTranslationDB.cpp" line="806"/>
       <source>Virtual Link</source>
-      <translation type="unfinished">Virtual Link</translation>
+      <translation>虛擬連結</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="798"/>
       <location filename="../gui/CTranslationDB.cpp" line="808"/>
       <source>Default Cost</source>
-      <translation type="unfinished">Default Cost</translation>
+      <translation>預設成本</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="805"/>
       <location filename="../gui/CTranslationDB.cpp" line="1002"/>
       <source>Area [[NUM]]</source>
-      <translation type="unfinished">Area [[NUM]]</translation>
+      <translation>區域 [[NUM]]</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="809"/>
       <location filename="../gui/CTranslationDB.cpp" line="997"/>
       <source>Log Adjacency Changes</source>
-      <translation type="unfinished">Log Adjacency Changes</translation>
+      <translation>記錄鄰接變更</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="825"/>
       <source>Redistribution</source>
-      <translation type="unfinished">Redistribution</translation>
+      <translation>重新發佈</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="827"/>
       <source>Default Networks</source>
-      <translation type="unfinished">Default Networks</translation>
+      <translation>預設網路</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="828"/>
       <source>IP Routing</source>
-      <translation type="unfinished">IP Routing</translation>
+      <translation>IP 路由</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="830"/>
       <source>Unicast Routing</source>
-      <translation type="unfinished">Unicast Routing</translation>
+      <translation>單點傳播路由</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="831"/>
       <source>Routes</source>
-      <translation type="unfinished">Routes</translation>
+      <translation>路由</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="832"/>
       <source>Route</source>
-      <translation type="unfinished">Route</translation>
+      <translation>路由</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="836"/>
       <source>Default Information Originate</source>
-      <translation type="unfinished">Default Information Originate</translation>
+      <translation>Default Information Originate</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="602"/>
       <source>Boot System Files</source>
-      <translation type="unfinished">Boot System Files</translation>
+      <translation>開機系統檔案</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="837"/>
       <source>Timers Basic</source>
-      <translation type="unfinished">Timers Basic</translation>
+      <translation>計時器基本</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="840"/>
       <location filename="../gui/CTranslationDB.cpp" line="2595"/>
       <location filename="../gui/CTranslationDB.cpp" line="2598"/>
       <source>IP Address</source>
-      <translation type="unfinished">IP Address</translation>
+      <translation>IP 位址</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="841"/>
       <location filename="../gui/CTranslationDB.cpp" line="2596"/>
       <location filename="../gui/CTranslationDB.cpp" line="2599"/>
       <source>Subnet Mask</source>
-      <translation type="unfinished">Subnet Mask</translation>
+      <translation>子網路遮罩</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="845"/>
       <source>DHCPv6 Client Prefix Delegation Name</source>
-      <translation type="unfinished">DHCPv6 Client Prefix Delegation Name</translation>
+      <translation>DHCPv6 用戶端前置碼委派名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="846"/>
       <source>DHCP client enable</source>
-      <translation type="unfinished">DHCP client enable</translation>
+      <translation>啟用 DHCP 用戶端</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="874"/>
       <source>Access-group In</source>
-      <translation type="unfinished">Access-group In</translation>
+      <translation>存取群組（輸入）</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="875"/>
       <source>Access-group Out</source>
-      <translation type="unfinished">Access-group Out</translation>
+      <translation>存取群組（輸出）</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="877"/>
       <source>NAT Mode</source>
-      <translation type="unfinished">NAT Mode</translation>
+      <translation>NAT 模式</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="878"/>
       <source>Bandwidth Info</source>
-      <translation type="unfinished">Bandwidth Info</translation>
+      <translation>頻寬資訊</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="879"/>
       <source>Delay</source>
-      <translation type="unfinished">Delay</translation>
+      <translation>延遲</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="880"/>
       <source>EIGRP Hello Interval</source>
-      <translation type="unfinished">EIGRP Hello Interval</translation>
+      <translation>EIGRP Hello 間隔</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="882"/>
       <source>EIGRP Summary Addresses</source>
-      <translation type="unfinished">EIGRP Summary Addresses</translation>
+      <translation>EIGRP 摘要位址</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="748"/>
       <location filename="../gui/CTranslationDB.cpp" line="884"/>
       <source>Encapsulation</source>
-      <translation type="unfinished">Encapsulation</translation>
+      <translation>封裝</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="885"/>
       <location filename="../gui/CTranslationDB.cpp" line="2256"/>
       <source>PPP</source>
-      <translation type="unfinished">PPP</translation>
+      <translation>PPP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="886"/>
@@ -43172,211 +43172,211 @@ Please wait until it is finished.</source>
       <location filename="../gui/CTranslationDB.cpp" line="2781"/>
       <location filename="../gui/CTranslationDB.cpp" line="2819"/>
       <source>Authentication</source>
-      <translation type="unfinished">Authentication</translation>
+      <translation>驗證</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="887"/>
       <location filename="../gui/CTranslationDB.cpp" line="1172"/>
       <source>Keepalive</source>
-      <translation type="unfinished">Keepalive</translation>
+      <translation>保持連線</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="890"/>
       <source>Zone Member</source>
-      <translation type="unfinished">Zone Member</translation>
+      <translation>區域成員</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="892"/>
       <source>RIPv6 [[NAME]] Enabled</source>
-      <translation type="unfinished">RIPv6 [[NAME]] Enabled</translation>
+      <translation>已啟用 RIPv6 [[NAME]]</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="893"/>
       <source>EIGRPv6 Summary Address</source>
-      <translation type="unfinished">EIGRPv6 Summary Address</translation>
+      <translation>EIGRPv6 摘要位址</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="894"/>
       <source>EIGRPv6 [[ASV6]] Enabled</source>
-      <translation type="unfinished">EIGRPv6 [[ASV6]] Enabled</translation>
+      <translation>已啟用 EIGRPv6 [[ASV6]]</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="896"/>
       <source>EIGRPv6 Hello Interval</source>
-      <translation type="unfinished">EIGRPv6 Hello Interval</translation>
+      <translation>EIGRPv6 Hello 間隔</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="897"/>
       <source>OSPF Authentication</source>
-      <translation type="unfinished">OSPF Authentication</translation>
+      <translation>OSPF 驗證</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="900"/>
       <source>OSPF Authentication Key</source>
-      <translation type="unfinished">OSPF Authentication Key</translation>
+      <translation>OSPF 驗證金鑰</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="903"/>
       <source>OSPF Cost</source>
-      <translation type="unfinished">OSPF Cost</translation>
+      <translation>OSPF 成本</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="904"/>
       <source>OSPF Dead-Interval</source>
-      <translation type="unfinished">OSPF Dead-Interval</translation>
+      <translation>OSPF Dead 間隔</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="905"/>
       <source>OSPF Hello-Interval</source>
-      <translation type="unfinished">OSPF Hello-Interval</translation>
+      <translation>OSPF Hello 間隔</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="906"/>
       <source>OSPF Message Digest Key</source>
-      <translation type="unfinished">OSPF Message Digest Key</translation>
+      <translation>OSPF 訊息摘要金鑰</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="907"/>
       <source>OSPF Priority</source>
-      <translation type="unfinished">OSPF Priority</translation>
+      <translation>OSPF 優先順序</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="909"/>
       <source>Key ID [[ID]]</source>
-      <translation type="unfinished">Key ID [[ID]]</translation>
+      <translation>金鑰 ID [[ID]]</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="911"/>
       <source>Cost</source>
-      <translation type="unfinished">Cost</translation>
+      <translation>成本</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="912"/>
       <source>Hello Interval</source>
-      <translation type="unfinished">Hello Interval</translation>
+      <translation>Hello 間隔</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="913"/>
       <source>Dead Interval</source>
-      <translation type="unfinished">Dead Interval</translation>
+      <translation>Dead 間隔</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="542"/>
       <location filename="../gui/CTranslationDB.cpp" line="915"/>
       <source>Instance</source>
-      <translation type="unfinished">Instance</translation>
+      <translation>執行個體</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="917"/>
       <source>Process ID</source>
-      <translation type="unfinished">Process ID</translation>
+      <translation>處理程序 ID</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="919"/>
       <source>RIP Split Horizon</source>
-      <translation type="unfinished">RIP Split Horizon</translation>
+      <translation>RIP 水平分割</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="921"/>
       <source>Encapsulation Type</source>
-      <translation type="unfinished">Encapsulation Type</translation>
+      <translation>封裝類型</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="923"/>
       <source>IP Maps</source>
-      <translation type="unfinished">IP Maps</translation>
+      <translation>IP 對應</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="924"/>
       <source>802.1Q</source>
-      <translation type="unfinished">802.1Q</translation>
+      <translation>802.1Q</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="925"/>
       <source>VLAN ID</source>
-      <translation type="unfinished">VLAN ID</translation>
+      <translation>VLAN ID</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="926"/>
       <location filename="../gui/CTranslationDB.cpp" line="971"/>
       <source>Native VLAN</source>
-      <translation type="unfinished">Native VLAN</translation>
+      <translation>原生 VLAN</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="927"/>
       <source>Route CEF</source>
-      <translation type="unfinished">Route CEF</translation>
+      <translation>Route CEF</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="928"/>
       <source>Helper Addresses</source>
-      <translation type="unfinished">Helper Addresses</translation>
+      <translation>輔助位址</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="929"/>
       <source>Helper Address</source>
-      <translation type="unfinished">Helper Address</translation>
+      <translation>輔助位址</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="930"/>
       <source>DHCPv6 Server Pool Name</source>
-      <translation type="unfinished">DHCPv6 Server Pool Name</translation>
+      <translation>DHCPv6 伺服器集區名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="967"/>
       <source>Voice VLAN</source>
-      <translation type="unfinished">Voice VLAN</translation>
+      <translation>語音 VLAN</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="968"/>
       <source>Port Mode</source>
-      <translation type="unfinished">Port Mode</translation>
+      <translation>連接埠模式</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="969"/>
       <source>Access VLAN</source>
-      <translation type="unfinished">Access VLAN</translation>
+      <translation>存取 VLAN</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="970"/>
       <source>Trunk VLANs</source>
-      <translation type="unfinished">Trunk VLANs</translation>
+      <translation>Trunk VLANs</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="972"/>
       <source>Storm Control</source>
-      <translation type="unfinished">Storm Control</translation>
+      <translation>風暴控制</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="973"/>
       <source>Bpduguard</source>
-      <translation type="unfinished">Bpduguard</translation>
+      <translation>Bpduguard</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="974"/>
       <source>Root Guard</source>
-      <translation type="unfinished">Root Guard</translation>
+      <translation>根防護</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="975"/>
       <source>Nonegotiate</source>
-      <translation type="unfinished">Nonegotiate</translation>
+      <translation>Nonegotiate</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="976"/>
       <source>Dynamic Mode</source>
-      <translation type="unfinished">Dynamic Mode</translation>
+      <translation>動態模式</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="977"/>
       <source>PortFast</source>
-      <translation type="unfinished">PortFast</translation>
+      <translation>PortFast</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="988"/>
       <location filename="../gui/CTranslationDB.cpp" line="2207"/>
       <source>VTP</source>
-      <translation type="unfinished">VTP</translation>
+      <translation>VTP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="522"/>
@@ -43385,535 +43385,535 @@ Please wait until it is finished.</source>
       <location filename="../gui/CTranslationDB.cpp" line="2983"/>
       <location filename="../gui/CTranslationDB.cpp" line="3007"/>
       <source>Domain Name</source>
-      <translation type="unfinished">Domain Name</translation>
+      <translation>網域名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="990"/>
       <source>VTP Mode</source>
-      <translation type="unfinished">VTP Mode</translation>
+      <translation>VTP 模式</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="991"/>
       <source>VTP Password</source>
-      <translation type="unfinished">VTP Password</translation>
+      <translation>VTP 密碼</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="992"/>
       <source>VTP Version</source>
-      <translation type="unfinished">VTP Version</translation>
+      <translation>VTP 版本</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="603"/>
       <source>Static MAC</source>
-      <translation type="unfinished">Static MAC</translation>
+      <translation>靜態 MAC</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="993"/>
       <location filename="../gui/CTranslationDB.cpp" line="2210"/>
       <source>OSPF</source>
-      <translation type="unfinished">OSPF</translation>
+      <translation>OSPF</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="994"/>
       <source>Area Authentication</source>
-      <translation type="unfinished">Area Authentication</translation>
+      <translation>區域驗證</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="996"/>
       <source>Default Information</source>
-      <translation type="unfinished">Default Information</translation>
+      <translation>預設資訊</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1001"/>
       <source>Process ID [[PID]]</source>
-      <translation type="unfinished">Process ID [[PID]]</translation>
+      <translation>處理程序 ID [[PID]]</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1005"/>
       <source>IP Domain-Lookup</source>
-      <translation type="unfinished">IP Domain-Lookup</translation>
+      <translation>IP 網域查詢</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1006"/>
       <source>IP Name Server</source>
-      <translation type="unfinished">IP Name Server</translation>
+      <translation>IP 名稱伺服器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1009"/>
       <source>Host [[HOST]]</source>
-      <translation type="unfinished">Host [[HOST]]</translation>
+      <translation>主機 [[HOST]]</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1010"/>
       <location filename="../gui/CTranslationDB.cpp" line="2218"/>
       <location filename="../gui/CTranslationDB.cpp" line="3006"/>
       <source>DNS</source>
-      <translation type="unfinished">DNS</translation>
+      <translation>DNS</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1014"/>
       <source>V6V4 Pool</source>
-      <translation type="unfinished">V6V4 Pool</translation>
+      <translation>V6V4 Pool</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1015"/>
       <source>V4V6 Pool</source>
-      <translation type="unfinished">V4V6 Pool</translation>
+      <translation>V4V6 Pool</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1089"/>
       <location filename="../gui/CTranslationDB.cpp" line="1096"/>
       <location filename="../gui/CTranslationDB.cpp" line="1101"/>
       <source>The packet matches the criteria of the following statement: [[STATEMENT]]. The packet is permitted.</source>
-      <translation type="unfinished">The packet matches the criteria of the following statement: [[STATEMENT]]. The packet is permitted.</translation>
+      <translation>封包符合下列陳述式的條件：[[STATEMENT]]。封包被允許通過。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1090"/>
       <location filename="../gui/CTranslationDB.cpp" line="1097"/>
       <location filename="../gui/CTranslationDB.cpp" line="1102"/>
       <source>The packet matches the criteria of the following statement: [[STATEMENT]]. The packet is denied and dropped.</source>
-      <translation type="unfinished">The packet matches the criteria of the following statement: [[STATEMENT]]. The packet is denied and dropped.</translation>
+      <translation>封包符合下列陳述式的條件：[[STATEMENT]]。封包被拒絕並捨棄。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1098"/>
       <location filename="../gui/CTranslationDB.cpp" line="1103"/>
       <source>The packet does not match the criteria of any statement in the access-list. The packet is denied and dropped by default.</source>
-      <translation type="unfinished">The packet does not match the criteria of any statement in the access-list. The packet is denied and dropped by default.</translation>
+      <translation>封包不符合存取清單中任何陳述式的條件。封包預設會被拒絕並捨棄。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1106"/>
       <source>The next-hop IP address is a broadcast. The ARP process sets the frame&apos;s destination MAC address to the broadcast MAC address.</source>
-      <translation type="unfinished">The next-hop IP address is a broadcast. The ARP process sets the frame&apos;s destination MAC address to the broadcast MAC address.</translation>
+      <translation>下一跳 IP 位址是廣播位址。ARP 處理程序將訊框的目的 MAC 位址設定為廣播 MAC 位址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1107"/>
       <source>The next-hop IP address is a multicast. The ARP process sets the frame&apos;s destination MAC address to a multicast MAC address.</source>
-      <translation type="unfinished">The next-hop IP address is a multicast. The ARP process sets the frame&apos;s destination MAC address to a multicast MAC address.</translation>
+      <translation>下一跳 IP 位址是多點傳送位址。ARP 處理程序將訊框的目的 MAC 位址設定為多點傳送 MAC 位址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1108"/>
       <source>The next-hop IP address is a unicast. The ARP process looks it up in the ARP table.</source>
-      <translation type="unfinished">The next-hop IP address is a unicast. The ARP process looks it up in the ARP table.</translation>
+      <translation>下一跳 IP 位址是單點傳播位址。ARP 處理程序在 ARP 表中查詢。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1109"/>
       <source>The next-hop IP address is not in the ARP table. The ARP process tries to send an ARP request for that IP address and drops this packet.</source>
-      <translation type="unfinished">The next-hop IP address is not in the ARP table. The ARP process tries to send an ARP request for that IP address and drops this packet.</translation>
+      <translation>下一跳 IP 位址不在 ARP 表中。ARP 處理程序嘗試對該 IP 位址傳送 ARP 要求，並捨棄此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1110"/>
       <source>The next-hop IP address is not in the ARP table. The ARP process tries to send an ARP request for that IP address and buffers this packet.</source>
-      <translation type="unfinished">The next-hop IP address is not in the ARP table. The ARP process tries to send an ARP request for that IP address and buffers this packet.</translation>
+      <translation>下一跳 IP 位址不在 ARP 表中。ARP 處理程序嘗試對該 IP 位址傳送 ARP 要求，並將此封包放入緩衝區。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1111"/>
       <source>The next-hop IP address is in the ARP table. The ARP process sets the frame&apos;s destination MAC address to the one found in the table.</source>
-      <translation type="unfinished">The next-hop IP address is in the ARP table. The ARP process sets the frame&apos;s destination MAC address to the one found in the table.</translation>
+      <translation>下一跳 IP 位址在 ARP 表中。ARP 處理程序將訊框的目的 MAC 位址設定為表中找到的位址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1112"/>
       <source>The next-hop IP address is in the adjacency table. The device sets the frame&apos;s destination MAC address to the one found in the table.</source>
-      <translation type="unfinished">The next-hop IP address is in the adjacency table. The device sets the frame&apos;s destination MAC address to the one found in the table.</translation>
+      <translation>下一跳 IP 位址在鄰接表中。裝置將訊框的目的 MAC 位址設定為表中找到的位址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1113"/>
       <source>The active VLAN interface is not up. The ARP process ignores the frame.</source>
-      <translation type="unfinished">The active VLAN interface is not up. The ARP process ignores the frame.</translation>
+      <translation>作用中的 VLAN 介面未啟動。ARP 處理程序忽略此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1114"/>
       <source>The ARP process updates the ARP table with received information.</source>
-      <translation type="unfinished">The ARP process updates the ARP table with received information.</translation>
+      <translation>ARP 處理程序以收到的資訊更新 ARP 表。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1115"/>
       <source>The frame is an ARP frame. The ARP process processes it.</source>
-      <translation type="unfinished">The frame is an ARP frame. The ARP process processes it.</translation>
+      <translation>此訊框是 ARP 訊框。ARP 處理程序會處理它。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1116"/>
       <source>The receiving port is a NAT outside port. The ARP process checks the NAT table for the requested IP address.</source>
-      <translation type="unfinished">The receiving port is a NAT outside port. The ARP process checks the NAT table for the requested IP address.</translation>
+      <translation>接收連接埠是 NAT 外部連接埠。ARP 處理程序在 NAT 表中檢查所要求的 IP 位址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1117"/>
       <source>The ARP process checks the routing table whether the requested IP address is reachable.</source>
-      <translation type="unfinished">The ARP process checks the routing table whether the requested IP address is reachable.</translation>
+      <translation>ARP 處理程序檢查路由表，確認所要求的 IP 位址是否可到達。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1118"/>
       <source>The ARP request&apos;s sender IP address is in a different network than the receiving port.</source>
-      <translation type="unfinished">The ARP request&apos;s sender IP address is in a different network than the receiving port.</translation>
+      <translation>ARP 要求的傳送端 IP 位址與接收連接埠位於不同網路。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1119"/>
       <source>The ARP process drops the frame.</source>
-      <translation type="unfinished">The ARP process drops the frame.</translation>
+      <translation>ARP 處理程序捨棄此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1120"/>
       <source>The ARP request&apos;s target IP address matches the receiving port&apos;s IP address.</source>
-      <translation type="unfinished">The ARP request&apos;s target IP address matches the receiving port&apos;s IP address.</translation>
+      <translation>ARP 要求的目標 IP 位址與接收連接埠的 IP 位址相符。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1121"/>
       <source>The requested IP address is in the NAT table.</source>
-      <translation type="unfinished">The requested IP address is in the NAT table.</translation>
+      <translation>所要求的 IP 位址在 NAT 表中。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1122"/>
       <source>The requested IP address is not in the NAT table.</source>
-      <translation type="unfinished">The requested IP address is not in the NAT table.</translation>
+      <translation>所要求的 IP 位址不在 NAT 表中。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1123"/>
       <source>The receiving port does not have an IP address.</source>
-      <translation type="unfinished">The receiving port does not have an IP address.</translation>
+      <translation>接收連接埠沒有 IP 位址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1124"/>
       <source>The ARP process has not sent a request for the replied IP address recently. The ARP process drops the frame.</source>
-      <translation type="unfinished">The ARP process has not sent a request for the replied IP address recently. The ARP process drops the frame.</translation>
+      <translation>ARP 處理程序最近沒有對所回覆的 IP 位址傳送要求。ARP 處理程序捨棄此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1125"/>
       <source>The ARP request&apos;s target IP address does not match the receiving port&apos;s IP address.</source>
-      <translation type="unfinished">The ARP request&apos;s target IP address does not match the receiving port&apos;s IP address.</translation>
+      <translation>ARP 要求的目標 IP 位址與接收連接埠的 IP 位址不符。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1126"/>
       <source>The ARP frame is a reply.</source>
-      <translation type="unfinished">The ARP frame is a reply.</translation>
+      <translation>此 ARP 訊框是回覆。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1127"/>
       <source>The ARP process replies to the request with the receiving port&apos;s MAC address.</source>
-      <translation type="unfinished">The ARP process replies to the request with the receiving port&apos;s MAC address.</translation>
+      <translation>ARP 處理程序以接收連接埠的 MAC 位址回覆此要求。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1128"/>
       <source>The ARP frame is a request.</source>
-      <translation type="unfinished">The ARP frame is a request.</translation>
+      <translation>此 ARP 訊框是要求。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1130"/>
       <source>The ARP process constructs a request for the target IP address.</source>
-      <translation type="unfinished">The ARP process constructs a request for the target IP address.</translation>
+      <translation>ARP 處理程序針對目標 IP 位址建構要求。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1131"/>
       <source>The sending port is down or it does not have an IP address.</source>
-      <translation type="unfinished">The sending port is down or it does not have an IP address.</translation>
+      <translation>傳送連接埠已關閉或沒有 IP 位址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1132"/>
       <source>The ARP process has sent a request to the same target IP address recently. It does not send out another.</source>
-      <translation type="unfinished">The ARP process has sent a request to the same target IP address recently. It does not send out another.</translation>
+      <translation>ARP 處理程序最近已對相同的目標 IP 位址傳送要求，不會再傳送另一個。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1133"/>
       <source>The ARP process takes out and sends buffer packets waiting for this ARP reply.</source>
-      <translation type="unfinished">The ARP process takes out and sends buffer packets waiting for this ARP reply.</translation>
+      <translation>ARP 處理程序取出並傳送緩衝區中等待此 ARP 回覆的封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1134"/>
       <source>The ARP process takes out this packet from the buffer and resends it.</source>
-      <translation type="unfinished">The ARP process takes out this packet from the buffer and resends it.</translation>
+      <translation>ARP 處理程序從緩衝區取出此封包並重新傳送。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1135"/>
       <source>The [[DEVICE_TYPE]] broadcasts a gratuitous ARP of its own IP and MAC address. </source>
-      <translation type="unfinished">The [[DEVICE_TYPE]] broadcasts a gratuitous ARP of its own IP and MAC address. </translation>
+      <translation>[[DEVICE_TYPE]] 廣播關於自己 IP 與 MAC 位址的免費 ARP。 </translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1136"/>
       <source>The requested IP address is reachable on the receiving port.</source>
-      <translation type="unfinished">The requested IP address is reachable on the receiving port.</translation>
+      <translation>所要求的 IP 位址可透過接收連接埠到達。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1137"/>
       <source>The ARP frame is a gratuitous ARP Request.</source>
-      <translation type="unfinished">The ARP frame is a gratuitous ARP Request.</translation>
+      <translation>此 ARP 訊框是免費 ARP 要求。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1138"/>
       <source>The ARP frame is a gratuitous ARP Reply.</source>
-      <translation type="unfinished">The ARP frame is a gratuitous ARP Reply.</translation>
+      <translation>此 ARP 訊框是免費 ARP 回覆。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1139"/>
       <source>The ARP frame is a gratuitous ARP Request to fix the LAN hosts&apos; ARP cache due to a duplicate IP address conflict.</source>
-      <translation type="unfinished">The ARP frame is a gratuitous ARP Request to fix the LAN hosts&apos; ARP cache due to a duplicate IP address conflict.</translation>
+      <translation>此 ARP 訊框是免費 ARP 要求，用於修正因 IP 位址重複衝突而導致的 LAN 主機 ARP 快取。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1140"/>
       <source>The ARP frame is a gratuitous ARP Reply to notify [[MAC_ADDRESS]] the IP address [[IP_ADDRESS]] is already used in the network.</source>
-      <translation type="unfinished">The ARP frame is a gratuitous ARP Reply to notify [[MAC_ADDRESS]] the IP address [[IP_ADDRESS]] is already used in the network.</translation>
+      <translation>此 ARP 訊框是免費 ARP 回覆，用於通知 [[MAC_ADDRESS]]：IP 位址 [[IP_ADDRESS]] 已在網路中使用。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1141"/>
       <source>The ARP frame is a gratuitous ARP Reply to notify others the IP address [[IP_ADDRESS]] is already used in the network.</source>
-      <translation type="unfinished">The ARP frame is a gratuitous ARP Reply to notify others the IP address [[IP_ADDRESS]] is already used in the network.</translation>
+      <translation>此 ARP 訊框是免費 ARP 回覆，用於通知其他裝置：IP 位址 [[IP_ADDRESS]] 已在網路中使用。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1142"/>
       <source>The requested IP address is in the routing table.</source>
-      <translation type="unfinished">The requested IP address is in the routing table.</translation>
+      <translation>所要求的 IP 位址在路由表中。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1143"/>
       <source>The requested IP address is not in the routing table.</source>
-      <translation type="unfinished">The requested IP address is not in the routing table.</translation>
+      <translation>所要求的 IP 位址不在路由表中。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1144"/>
       <source>The source IP address is in the ARP table. The ARP process updates the ARP table with received information.</source>
-      <translation type="unfinished">The source IP address is in the ARP table. The ARP process updates the ARP table with received information.</translation>
+      <translation>來源 IP 位址在 ARP 表中。ARP 處理程序以收到的資訊更新 ARP 表。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1145"/>
       <source>The source IP address is not in the ARP table.</source>
-      <translation type="unfinished">The source IP address is not in the ARP table.</translation>
+      <translation>來源 IP 位址不在 ARP 表中。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1146"/>
       <source>The ARP request times out. The ARP process drops this buffered packet.</source>
-      <translation type="unfinished">The ARP request times out. The ARP process drops this buffered packet.</translation>
+      <translation>ARP 要求逾時。ARP 處理程序捨棄此緩衝的封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1147"/>
       <source>The ARP process updates the adjacency table with the received information.</source>
-      <translation type="unfinished">The ARP process updates the adjacency table with the received information.</translation>
+      <translation>ARP 處理程序以收到的資訊更新鄰接表。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1179"/>
       <source>The frame is a CDP frame. The CDP process processes it.</source>
-      <translation type="unfinished">The frame is a CDP frame. The CDP process processes it.</translation>
+      <translation>此訊框是 CDP 訊框。CDP 處理程序會處理它。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1180"/>
       <source>The CDP process received an invalid frame. It drops the frame.</source>
-      <translation type="unfinished">The CDP process received an invalid frame. It drops the frame.</translation>
+      <translation>CDP 處理程序收到無效的訊框，並捨棄此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1181"/>
       <source>The CDP process received a neighbor device ID.</source>
-      <translation type="unfinished">The CDP process received a neighbor device ID.</translation>
+      <translation>CDP 處理程序收到鄰居裝置 ID。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1182"/>
       <source>The CDP process received a neighbor port ID.</source>
-      <translation type="unfinished">The CDP process received a neighbor port ID.</translation>
+      <translation>CDP 處理程序收到鄰居連接埠 ID。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1183"/>
       <source>The CDP process received neighbor capabilities.</source>
-      <translation type="unfinished">The CDP process received neighbor capabilities.</translation>
+      <translation>CDP 處理程序收到鄰居功能。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1184"/>
       <source>The CDP process received a neighbor version.</source>
-      <translation type="unfinished">The CDP process received a neighbor version.</translation>
+      <translation>CDP 處理程序收到鄰居版本。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1185"/>
       <source>The CDP process received a neighbor platform.</source>
-      <translation type="unfinished">The CDP process received a neighbor platform.</translation>
+      <translation>CDP 處理程序收到鄰居平台。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1186"/>
       <source>The CDP process received a neighbor native VLAN.</source>
-      <translation type="unfinished">The CDP process received a neighbor native VLAN.</translation>
+      <translation>CDP 處理程序收到鄰居原生 VLAN。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1187"/>
       <source>The CDP process received an address TLV.</source>
-      <translation type="unfinished">The CDP process received an address TLV.</translation>
+      <translation>CDP 處理程序收到位址 TLV。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1188"/>
       <source>The CDP process received an VoIP VLAN.</source>
-      <translation type="unfinished">The CDP process received an VoIP VLAN.</translation>
+      <translation>CDP 處理程序收到 VoIP VLAN。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1189"/>
       <source>The neighbor is already in table. The CDP process resets the hold timer.</source>
-      <translation type="unfinished">The neighbor is already in table. The CDP process resets the hold timer.</translation>
+      <translation>鄰居已在表中。CDP 處理程序重設保持計時器。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1190"/>
       <source>The CDP process adds the neighbor and starts the hold timer.</source>
-      <translation type="unfinished">The CDP process adds the neighbor and starts the hold timer.</translation>
+      <translation>CDP 處理程序新增鄰居並啟動保持計時器。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1191"/>
       <source>The CDP process constructs a CDP frame and sends it out.</source>
-      <translation type="unfinished">The CDP process constructs a CDP frame and sends it out.</translation>
+      <translation>CDP 處理程序建構 CDP 訊框並送出。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1192"/>
       <source>The packet is a DHCP packet. The DHCP client processes it.</source>
-      <translation type="unfinished">The packet is a DHCP packet. The DHCP client processes it.</translation>
+      <translation>此封包是 DHCP 封包。DHCP 用戶端會處理它。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1193"/>
       <source>The DHCP client received a DHCP offer packet.</source>
-      <translation type="unfinished">The DHCP client received a DHCP offer packet.</translation>
+      <translation>DHCP 用戶端收到 DHCP Offer 封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1194"/>
       <source>The DHCP client received and dropped a DHCP offer packet.</source>
-      <translation type="unfinished">The DHCP client received and dropped a DHCP offer packet.</translation>
+      <translation>DHCP 用戶端收到並捨棄 DHCP Offer 封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1195"/>
       <source>The DHCP client received a DHCP acknowledge packet.</source>
-      <translation type="unfinished">The DHCP client received a DHCP acknowledge packet.</translation>
+      <translation>DHCP 用戶端收到 DHCP Acknowledge 封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1196"/>
       <source>The DHCP client received and dropped this DHCP acknowledge packet.</source>
-      <translation type="unfinished">The DHCP client received and dropped this DHCP acknowledge packet.</translation>
+      <translation>DHCP 用戶端收到並捨棄此 DHCP Acknowledge 封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1197"/>
       <source>The DHCP client does not accept DHCP packets other than Offer or Ack. The client drops the packet.</source>
-      <translation type="unfinished">The DHCP client does not accept DHCP packets other than Offer or Ack. The client drops the packet.</translation>
+      <translation>DHCP 用戶端不接受 Offer 或 Ack 以外的 DHCP 封包，並捨棄此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1198"/>
       <source>The packet is not a DHCP packet. The DHCP client drops it.</source>
-      <translation type="unfinished">The packet is not a DHCP packet. The DHCP client drops it.</translation>
+      <translation>此封包不是 DHCP 封包。DHCP 用戶端捨棄它。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1199"/>
       <source>The DHCP packet is not destined to this host. It drops the packet.</source>
-      <translation type="unfinished">The DHCP packet is not destined to this host. It drops the packet.</translation>
+      <translation>此 DHCP 封包的目的地不是這部主機，因此捨棄此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1200"/>
       <source>The DHCP client constructs a Discover packet and sends it out.</source>
-      <translation type="unfinished">The DHCP client constructs a Discover packet and sends it out.</translation>
+      <translation>DHCP 用戶端建構 Discover 封包並送出。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1201"/>
       <source>The DHCP client constructs a Release packet and sends it out.</source>
-      <translation type="unfinished">The DHCP client constructs a Release packet and sends it out.</translation>
+      <translation>DHCP 用戶端建構 Release 封包並送出。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1202"/>
       <source>The DHCP client receives an Offer packet, constructs and sends out a Request packet.</source>
-      <translation type="unfinished">The DHCP client receives an Offer packet, constructs and sends out a Request packet.</translation>
+      <translation>DHCP 用戶端收到 Offer 封包，建構並送出 Request 封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1203"/>
       <source>Lease time has reached 50% of its time. The DHCP client constructs and sends out a Request packet to renew the lease.</source>
-      <translation type="unfinished">Lease time has reached 50% of its time. The DHCP client constructs and sends out a Request packet to renew the lease.</translation>
+      <translation>租用時間已達 50%。DHCP 用戶端建構並送出 Request 封包以更新租用。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1204"/>
       <source>Lease time has reached 87.5% of its time.The DHCP client constructs and sends out a Request packet to rebind the lease.</source>
-      <translation type="unfinished">Lease time has reached 87.5% of its time.The DHCP client constructs and sends out a Request packet to rebind the lease.</translation>
+      <translation>租用時間已達 87.5%。DHCP 用戶端建構並送出 Request 封包以重新繫結租用。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1205"/>
       <source>The DHCP client receives an Ack packet and sets its IP address configuration.</source>
-      <translation type="unfinished">The DHCP client receives an Ack packet and sets its IP address configuration.</translation>
+      <translation>DHCP 用戶端收到 Ack 封包並設定其 IP 位址組態。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1206"/>
       <source>DHCP client is waiting for a reply.  It drops the packet.</source>
-      <translation type="unfinished">DHCP client is waiting for a reply.  It drops the packet.</translation>
+      <translation>DHCP 用戶端正在等待回覆，因此捨棄此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1207"/>
       <source>The packet is a DHCP packet. The DHCP server processes it.</source>
-      <translation type="unfinished">The packet is a DHCP packet. The DHCP server processes it.</translation>
+      <translation>此封包是 DHCP 封包。DHCP 伺服器會處理它。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1208"/>
       <source>The DHCP server received a DHCP Discover packet.</source>
-      <translation type="unfinished">The DHCP server received a DHCP Discover packet.</translation>
+      <translation>DHCP 伺服器收到 DHCP Discover 封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1209"/>
       <source>The DHCP server received a DHCP Request packet.</source>
-      <translation type="unfinished">The DHCP server received a DHCP Request packet.</translation>
+      <translation>DHCP 伺服器收到 DHCP Request 封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1210"/>
       <source>The DHCP server received a DHCP Release packet.</source>
-      <translation type="unfinished">The DHCP server received a DHCP Release packet.</translation>
+      <translation>DHCP 伺服器收到 DHCP Release 封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1211"/>
       <source>The DHCP server finds an existing binding of this host. It renews the lease.</source>
-      <translation type="unfinished">The DHCP server finds an existing binding of this host. It renews the lease.</translation>
+      <translation>DHCP 伺服器找到此主機現有的繫結，並更新租用。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1212"/>
       <source>The DHCP server does not accept DHCP packets other than Discover, Request, or Release. The server drops the packet.</source>
-      <translation type="unfinished">The DHCP server does not accept DHCP packets other than Discover, Request, or Release. The server drops the packet.</translation>
+      <translation>DHCP 伺服器不接受 Discover、Request 或 Release 以外的 DHCP 封包，並捨棄此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1213"/>
       <source>The DHCP server finds the next available IP address in the pool.</source>
-      <translation type="unfinished">The DHCP server finds the next available IP address in the pool.</translation>
+      <translation>DHCP 伺服器在集區中找到下一個可用的 IP 位址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1215"/>
       <source>The DHCP server binds the requested IP address from the pool to the host&apos;s MAC address.</source>
-      <translation type="unfinished">The DHCP server binds the requested IP address from the pool to the host&apos;s MAC address.</translation>
+      <translation>DHCP 伺服器將集區中所要求的 IP 位址繫結到主機的 MAC 位址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1217"/>
       <source>The DHCP server already has an existing binding to this host.</source>
-      <translation type="unfinished">The DHCP server already has an existing binding to this host.</translation>
+      <translation>DHCP 伺服器已有此主機的現有繫結。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1218"/>
       <source>The DHCP server already has an existing binding to another host. It drops the packet.</source>
-      <translation type="unfinished">The DHCP server already has an existing binding to another host. It drops the packet.</translation>
+      <translation>DHCP 伺服器已有另一部主機的現有繫結，因此捨棄此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1219"/>
       <source>The DHCP pool does not have any more available IP addresses. It drops the packet.</source>
-      <translation type="unfinished">The DHCP pool does not have any more available IP addresses. It drops the packet.</translation>
+      <translation>DHCP 集區已沒有可用的 IP 位址，因此捨棄此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1220"/>
       <source>The DHCP server does not have an existing binding to this host. It looks up DHCP pools for a new IP address.</source>
-      <translation type="unfinished">The DHCP server does not have an existing binding to this host. It looks up DHCP pools for a new IP address.</translation>
+      <translation>DHCP 伺服器沒有此主機的現有繫結，因此在 DHCP 集區中尋找新的 IP 位址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1221"/>
       <source>The DHCP server does not have a pool configured for the received port. It drops the packet.</source>
-      <translation type="unfinished">The DHCP server does not have a pool configured for the received port. It drops the packet.</translation>
+      <translation>DHCP 伺服器沒有為接收連接埠設定集區，因此捨棄此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1222"/>
       <source>The packet is not a DHCP packet. The DHCP process drops it.</source>
-      <translation type="unfinished">The packet is not a DHCP packet. The DHCP process drops it.</translation>
+      <translation>此封包不是 DHCP 封包。DHCP 處理程序捨棄它。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1223"/>
       <source>The DHCP server releases the lease.</source>
-      <translation type="unfinished">The DHCP server releases the lease.</translation>
+      <translation>DHCP 伺服器釋放租用。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1224"/>
       <source>The DHCP server sends out an Ack packet to host.</source>
-      <translation type="unfinished">The DHCP server sends out an Ack packet to host.</translation>
+      <translation>DHCP 伺服器對主機送出 Ack 封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1226"/>
       <source>The requested IP address is not available. The DHCP server offers another available address to this host.</source>
-      <translation type="unfinished">The requested IP address is not available. The DHCP server offers another available address to this host.</translation>
+      <translation>所要求的 IP 位址不可用。DHCP 伺服器向此主機提供另一個可用的位址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1227"/>
       <source>The requested IP address is not available. The DHCP server drops the packet.</source>
-      <translation type="unfinished">The requested IP address is not available. The DHCP server drops the packet.</translation>
+      <translation>所要求的 IP 位址不可用。DHCP 伺服器捨棄此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1303"/>
@@ -43923,7 +43923,7 @@ Please wait until it is finished.</source>
       <location filename="../gui/CTranslationDB.cpp" line="1467"/>
       <location filename="../gui/CTranslationDB.cpp" line="1483"/>
       <source>The port is sending another frame at this time. The device buffers the frame to be sent later.</source>
-      <translation type="unfinished">The port is sending another frame at this time. The device buffers the frame to be sent later.</translation>
+      <translation>連接埠此時正在傳送另一個訊框。裝置將此訊框放入緩衝區，稍後再傳送。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1271"/>
@@ -43934,650 +43934,650 @@ Please wait until it is finished.</source>
       <location filename="../gui/CTranslationDB.cpp" line="1469"/>
       <location filename="../gui/CTranslationDB.cpp" line="2425"/>
       <source>The device takes out this frame from the buffer and sends it.</source>
-      <translation type="unfinished">The device takes out this frame from the buffer and sends it.</translation>
+      <translation>裝置從緩衝區取出此訊框並傳送。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="856"/>
       <source>IP Unnumbered Port</source>
-      <translation type="unfinished">IP Unnumbered Port</translation>
+      <translation>IP 無編號連接埠</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="857"/>
       <source>IPv6 Unnumbered Port</source>
-      <translation type="unfinished">IPv6 Unnumbered Port</translation>
+      <translation>IPv6 無編號連接埠</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1088"/>
       <source>The firewall is not found or has no policy configured. The pc permits the packet.</source>
-      <translation type="unfinished">The firewall is not found or has no policy configured. The pc permits the packet.</translation>
+      <translation>找不到防火牆，或防火牆未設定原則。PC 允許此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1174"/>
       <source>The BGP process is sending an OPEN message to the neighbor [[IP_ADDRESS]].</source>
-      <translation type="unfinished">The BGP process is sending an OPEN message to the neighbor [[IP_ADDRESS]].</translation>
+      <translation>BGP 處理程序正在對鄰居 [[IP_ADDRESS]] 傳送 OPEN 訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1175"/>
       <source>The BGP process is sending a KEEPALIVE message to the neighbor [[IP_ADDRESS]].</source>
-      <translation type="unfinished">The BGP process is sending a KEEPALIVE message to the neighbor [[IP_ADDRESS]].</translation>
+      <translation>BGP 處理程序正在對鄰居 [[IP_ADDRESS]] 傳送 KEEPALIVE 訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1176"/>
       <source>The BGP process is sending an UPDATE message to the neighbor [[IP_ADDRESS]].</source>
-      <translation type="unfinished">The BGP process is sending an UPDATE message to the neighbor [[IP_ADDRESS]].</translation>
+      <translation>BGP 處理程序正在對鄰居 [[IP_ADDRESS]] 傳送 UPDATE 訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1177"/>
       <source>The BGP process is sending a NOTIFICATION message to the neighbor [[IP_ADDRESS]].</source>
-      <translation type="unfinished">The BGP process is sending a NOTIFICATION message to the neighbor [[IP_ADDRESS]].</translation>
+      <translation>BGP 處理程序正在對鄰居 [[IP_ADDRESS]] 傳送 NOTIFICATION 訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1274"/>
       <source>The device backs off for a random period of time before retransmitting the frame in the buffer.</source>
-      <translation type="unfinished">The device backs off for a random period of time before retransmitting the frame in the buffer.</translation>
+      <translation>裝置退避一段隨機時間後，再重新傳送緩衝區中的訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1275"/>
       <source>The current frame in the buffer has retransmitted 16 times without success. The device drops the frame from the buffer.</source>
-      <translation type="unfinished">The current frame in the buffer has retransmitted 16 times without success. The device drops the frame from the buffer.</translation>
+      <translation>緩衝區中的目前訊框已重傳 16 次仍未成功。裝置從緩衝區捨棄此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1276"/>
       <source>The port receives a collided frame. The device drops the frame.</source>
-      <translation type="unfinished">The port receives a collided frame. The device drops the frame.</translation>
+      <translation>連接埠收到發生碰撞的訊框。裝置捨棄此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1279"/>
       <source>There is no subinterface with this VLAN enabled. The device drops the frame.</source>
-      <translation type="unfinished">There is no subinterface with this VLAN enabled. The device drops the frame.</translation>
+      <translation>沒有啟用此 VLAN 的子介面。裝置捨棄此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1280"/>
       <source>The subinterface [[PORT_NAME]] accepts frames from this VLAN.</source>
-      <translation type="unfinished">The subinterface [[PORT_NAME]] accepts frames from this VLAN.</translation>
+      <translation>子介面 [[PORT_NAME]] 接受來自此 VLAN 的訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1281"/>
       <source>The device encapsulates the PDU into an Ethernet frame.</source>
-      <translation type="unfinished">The device encapsulates the PDU into an Ethernet frame.</translation>
+      <translation>裝置將 PDU 封裝成乙太網路訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1282"/>
       <source>The device decapsulates the PDU from the Ethernet frame.</source>
-      <translation type="unfinished">The device decapsulates the PDU from the Ethernet frame.</translation>
+      <translation>裝置從乙太網路訊框解封裝 PDU。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1283"/>
       <source>The frame&apos;s destination MAC address does not match the receiving port&apos;s MAC address, the broadcast address, or any multicast address. The device drops the frame.</source>
-      <translation type="unfinished">The frame&apos;s destination MAC address does not match the receiving port&apos;s MAC address, the broadcast address, or any multicast address. The device drops the frame.</translation>
+      <translation>訊框的目的 MAC 位址與接收連接埠的 MAC 位址、廣播位址或任何多點傳送位址都不符。裝置捨棄此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1284"/>
       <source>The frame&apos;s destination MAC address matches the receiving port&apos;s MAC address, the broadcast address, or a multicast address.</source>
-      <translation type="unfinished">The frame&apos;s destination MAC address matches the receiving port&apos;s MAC address, the broadcast address, or a multicast address.</translation>
+      <translation>訊框的目的 MAC 位址與接收連接埠的 MAC 位址、廣播位址或多點傳送位址相符。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1285"/>
       <location filename="../gui/CTranslationDB.cpp" line="1308"/>
       <source>The device does not have a service that accepts this frame. It drops the frame.</source>
-      <translation type="unfinished">The device does not have a service that accepts this frame. It drops the frame.</translation>
+      <translation>裝置沒有可接受此訊框的服務，因此捨棄此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1286"/>
       <source>The packet is broadcast or multicast. The device sends it to all virtual circuits that support broadcast.</source>
-      <translation type="unfinished">The packet is broadcast or multicast. The device sends it to all virtual circuits that support broadcast.</translation>
+      <translation>此封包是廣播或多點傳送。裝置將其傳送到所有支援廣播的虛擬電路。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1287"/>
       <source>The frame&apos;s DLCI number is not found in the Frame Relay map table or it does not match the map entry in the Frame Relay map table. The device drops the frame.</source>
-      <translation type="unfinished">The frame&apos;s DLCI number is not found in the Frame Relay map table or it does not match the map entry in the Frame Relay map table. The device drops the frame.</translation>
+      <translation>在訊框中繼對應表中找不到訊框的 DLCI 編號，或其與對應表項目不符。裝置捨棄此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1288"/>
       <source>The frame&apos;s DLCI number is not found in the Frame Relay map table. The device drops the packet.</source>
-      <translation type="unfinished">The frame&apos;s DLCI number is not found in the Frame Relay map table. The device drops the packet.</translation>
+      <translation>在訊框中繼對應表中找不到訊框的 DLCI 編號。裝置捨棄此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1289"/>
       <source>The frame&apos;s encapsulation type does not match the encapsulation type of the map entry in the Frame Relay map table. The device drops the frame.</source>
-      <translation type="unfinished">The frame&apos;s encapsulation type does not match the encapsulation type of the map entry in the Frame Relay map table. The device drops the frame.</translation>
+      <translation>訊框的封裝類型與訊框中繼對應表項目的封裝類型不符。裝置捨棄此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1290"/>
       <source>The packet&apos;s destination IP address is found in the Frame Relay map table.</source>
-      <translation type="unfinished">The packet&apos;s destination IP address is found in the Frame Relay map table.</translation>
+      <translation>在訊框中繼對應表中找到封包的目的 IP 位址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1291"/>
       <source>The packet&apos;s destination IP address is not found in the Frame Relay map table. The device drops the packet.</source>
-      <translation type="unfinished">The packet&apos;s destination IP address is not found in the Frame Relay map table. The device drops the packet.</translation>
+      <translation>在訊框中繼對應表中找不到封包的目的 IP 位址。裝置捨棄此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1292"/>
       <source>The packet&apos;s source IP address is not found in the Frame Relay map table. The device drops the packet.</source>
-      <translation type="unfinished">The packet&apos;s source IP address is not found in the Frame Relay map table. The device drops the packet.</translation>
+      <translation>在訊框中繼對應表中找不到封包的來源 IP 位址。裝置捨棄此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1293"/>
       <source>The packet is unicast. The device looks up in the Frame Relay map table for the DLCI number.</source>
-      <translation type="unfinished">The packet is unicast. The device looks up in the Frame Relay map table for the DLCI number.</translation>
+      <translation>此封包是單點傳播。裝置在訊框中繼對應表中查詢 DLCI 編號。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1294"/>
       <source>The device de-encapsulates the Frame Relay frame and sends it to the upper layer.</source>
-      <translation type="unfinished">The device de-encapsulates the Frame Relay frame and sends it to the upper layer.</translation>
+      <translation>裝置解封裝訊框中繼訊框並傳送到上層。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1295"/>
       <location filename="../gui/CTranslationDB.cpp" line="1479"/>
       <source>The device does not have a service that accepts this protocol. It drops the frame.</source>
-      <translation type="unfinished">The device does not have a service that accepts this protocol. It drops the frame.</translation>
+      <translation>裝置沒有可接受此通訊協定的服務，因此捨棄此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1296"/>
       <source>The device encapsulates the packet into a Frame Relay header.</source>
-      <translation type="unfinished">The device encapsulates the packet into a Frame Relay header.</translation>
+      <translation>裝置將封包封裝成訊框中繼標頭。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1297"/>
       <location filename="../gui/CTranslationDB.cpp" line="1562"/>
       <source>The frame is not a Frame Relay frame. The device drops the frame.</source>
-      <translation type="unfinished">The frame is not a Frame Relay frame. The device drops the frame.</translation>
+      <translation>此訊框不是訊框中繼訊框。裝置捨棄此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1298"/>
       <location filename="../gui/CTranslationDB.cpp" line="1299"/>
       <location filename="../gui/CTranslationDB.cpp" line="1485"/>
       <source>The port&apos;s line protocol is not up. The device drops the packet.</source>
-      <translation type="unfinished">The port&apos;s line protocol is not up. The device drops the packet.</translation>
+      <translation>連接埠的線路通訊協定未啟動。裝置捨棄此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1300"/>
       <source>If the frame received is an LMI frame, check the device types and LMI types</source>
-      <translation type="unfinished">If the frame received is an LMI frame, check the device types and LMI types</translation>
+      <translation>若收到的訊框是 LMI 訊框，請檢查裝置類型與 LMI 類型</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1301"/>
       <location filename="../gui/CTranslationDB.cpp" line="1465"/>
       <source>If the two devices have same LMI and one is a router and the other is a cloud then set protocol upon the port.</source>
-      <translation type="unfinished">If the two devices have same LMI and one is a router and the other is a cloud then set protocol upon the port.</translation>
+      <translation>若兩部裝置的 LMI 相同，且一部是路由器、另一部是雲端，則啟動連接埠上的通訊協定。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1302"/>
       <source>If the LMI types do not match or the devices are identical, set protocol down on the port.</source>
-      <translation type="unfinished">If the LMI types do not match or the devices are identical, set protocol down on the port.</translation>
+      <translation>若 LMI 類型不符或裝置相同，則關閉連接埠上的通訊協定。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1304"/>
       <location filename="../gui/CTranslationDB.cpp" line="1468"/>
       <location filename="../gui/CTranslationDB.cpp" line="1484"/>
       <source>If the port is ready to send, get the frame from the buffer and send it to the port.</source>
-      <translation type="unfinished">If the port is ready to send, get the frame from the buffer and send it to the port.</translation>
+      <translation>若連接埠已可傳送，從緩衝區取得訊框並傳送到連接埠。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1306"/>
       <source>The frame is not an HDLC frame. The device drops the frame.</source>
-      <translation type="unfinished">The frame is not an HDLC frame. The device drops the frame.</translation>
+      <translation>此訊框不是 HDLC 訊框。裝置捨棄此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1307"/>
       <source>The device de-encapsulates the payload from the HDLC frame and sends it to the upper layer.</source>
-      <translation type="unfinished">The device de-encapsulates the payload from the HDLC frame and sends it to the upper layer.</translation>
+      <translation>裝置從 HDLC 訊框解封裝承載資料並傳送到上層。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1309"/>
       <source>The device encapsulates the packet into an HDLC frame.</source>
-      <translation type="unfinished">The device encapsulates the packet into an HDLC frame.</translation>
+      <translation>裝置將封包封裝成 HDLC 訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1310"/>
       <location filename="../gui/CTranslationDB.cpp" line="1311"/>
       <source>The port is down. The device drops the frame.</source>
-      <translation type="unfinished">The port is down. The device drops the frame.</translation>
+      <translation>連接埠已關閉。裝置捨棄此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1321"/>
       <source>The data flow expires. Netflow Exporter sends the flow to Netflow Collector.</source>
-      <translation type="unfinished">The data flow expires. Netflow Exporter sends the flow to Netflow Collector.</translation>
+      <translation>資料流已到期。Netflow 匯出器將資料流傳送給 Netflow 收集器。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1354"/>
       <source>The packet is an ICMP packet. The ICMP process processes it.</source>
-      <translation type="unfinished">The packet is an ICMP packet. The ICMP process processes it.</translation>
+      <translation>此封包是 ICMP 封包。ICMP 處理程序會處理它。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1355"/>
       <source>The ICMP process received a TTL Exceeded message.</source>
-      <translation type="unfinished">The ICMP process received a TTL Exceeded message.</translation>
+      <translation>ICMP 處理程序收到 TTL Exceeded 訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1356"/>
       <location filename="../gui/CTranslationDB.cpp" line="1357"/>
       <source>The ICMP process has not sent an ICMP message with this identification recently. It drops the message.</source>
-      <translation type="unfinished">The ICMP process has not sent an ICMP message with this identification recently. It drops the message.</translation>
+      <translation>ICMP 處理程序最近沒有傳送具有此識別碼的 ICMP 訊息，因此捨棄此訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1358"/>
       <source>The ICMP process received an Echo Reply message.</source>
-      <translation type="unfinished">The ICMP process received an Echo Reply message.</translation>
+      <translation>ICMP 處理程序收到 Echo Reply 訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1359"/>
       <source>The ICMP process received a Network Unreachable message.</source>
-      <translation type="unfinished">The ICMP process received a Network Unreachable message.</translation>
+      <translation>ICMP 處理程序收到 Network Unreachable 訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1360"/>
       <source>The ICMP process received a Host Unreachable message.</source>
-      <translation type="unfinished">The ICMP process received a Host Unreachable message.</translation>
+      <translation>ICMP 處理程序收到 Host Unreachable 訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1361"/>
       <source>The ICMP process received a Protocol Unreachable message.</source>
-      <translation type="unfinished">The ICMP process received a Protocol Unreachable message.</translation>
+      <translation>ICMP 處理程序收到 Protocol Unreachable 訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1362"/>
       <source>The ICMP process received an Administratively Prohibited Unreachable message.</source>
-      <translation type="unfinished">The ICMP process received an Administratively Prohibited Unreachable message.</translation>
+      <translation>ICMP 處理程序收到 Administratively Prohibited Unreachable 訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1363"/>
       <source>The ICMP process received a Port Unreachable message.</source>
-      <translation type="unfinished">The ICMP process received a Port Unreachable message.</translation>
+      <translation>ICMP 處理程序收到 Port Unreachable 訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1364"/>
       <source>The ICMP process received an Echo Request message.</source>
-      <translation type="unfinished">The ICMP process received an Echo Request message.</translation>
+      <translation>ICMP 處理程序收到 Echo Request 訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1365"/>
       <source>The ICMP process replies to the Echo Request by setting ICMP type to Echo Reply.</source>
-      <translation type="unfinished">The ICMP process replies to the Echo Request by setting ICMP type to Echo Reply.</translation>
+      <translation>ICMP 處理程序將 ICMP 類型設為 Echo Reply 以回覆 Echo Request。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1366"/>
       <source>The ICMP process sends an Echo Reply.</source>
-      <translation type="unfinished">The ICMP process sends an Echo Reply.</translation>
+      <translation>ICMP 處理程序傳送 Echo Reply。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1367"/>
       <source>The ICMP process received an invalid ICMP message.</source>
-      <translation type="unfinished">The ICMP process received an invalid ICMP message.</translation>
+      <translation>ICMP 處理程序收到無效的 ICMP 訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1369"/>
       <source>The destination IP is not the broadcast address and it does not match the port&apos;s IP address. The device drops the packet.</source>
-      <translation type="unfinished">The destination IP is not the broadcast address and it does not match the port&apos;s IP address. The device drops the packet.</translation>
+      <translation>目的 IP 不是廣播位址，也與連接埠的 IP 位址不符。裝置捨棄此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1370"/>
       <source>The port does not have an IP address set. The device drops the packet.</source>
-      <translation type="unfinished">The port does not have an IP address set. The device drops the packet.</translation>
+      <translation>連接埠未設定 IP 位址。裝置捨棄此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1371"/>
       <source>The device does not have a service that accepts this protocol. It drops the packet.</source>
-      <translation type="unfinished">The device does not have a service that accepts this protocol. It drops the packet.</translation>
+      <translation>裝置沒有可接受此通訊協定的服務，因此捨棄此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1372"/>
       <source>The device does not have any ports. It drops the packet.</source>
-      <translation type="unfinished">The device does not have any ports. It drops the packet.</translation>
+      <translation>裝置沒有任何連接埠，因此捨棄此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1373"/>
       <source>The port does not have an IP address.</source>
-      <translation type="unfinished">The port does not have an IP address.</translation>
+      <translation>連接埠沒有 IP 位址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1374"/>
       <source>The packet payload is a DHCP UDP segment. The device sets the source address to the zero IP address.</source>
-      <translation type="unfinished">The packet payload is a DHCP UDP segment. The device sets the source address to the zero IP address.</translation>
+      <translation>封包承載資料是 DHCP UDP 區段。裝置將來源位址設為零 IP 位址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1375"/>
       <source>The device drops the packet.</source>
-      <translation type="unfinished">The device drops the packet.</translation>
+      <translation>裝置捨棄此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1378"/>
       <source>The source IP address is not specified. The device sets it to the port&apos;s IP address.</source>
-      <translation type="unfinished">The source IP address is not specified. The device sets it to the port&apos;s IP address.</translation>
+      <translation>未指定來源 IP 位址。裝置將其設為連接埠的 IP 位址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1380"/>
       <source>The default gateway is set. The device sets the next-hop to default gateway.</source>
-      <translation type="unfinished">The default gateway is set. The device sets the next-hop to default gateway.</translation>
+      <translation>已設定預設閘道。裝置將下一跳設為預設閘道。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1381"/>
       <source>The default gateway is not set. The device drops the packet.</source>
-      <translation type="unfinished">The default gateway is not set. The device drops the packet.</translation>
+      <translation>未設定預設閘道。裝置捨棄此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1382"/>
       <source>The destination IP address is in the same subnet. The device sets the next-hop to destination.</source>
-      <translation type="unfinished">The destination IP address is in the same subnet. The device sets the next-hop to destination.</translation>
+      <translation>目的 IP 位址在同一個子網路中。裝置將下一跳設為目的地。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1383"/>
       <source>The device sets TTL in the packet header.</source>
-      <translation type="unfinished">The device sets TTL in the packet header.</translation>
+      <translation>裝置設定封包標頭中的 TTL。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1384"/>
       <source>The destination IP address matches the port&apos;s IP address.</source>
-      <translation type="unfinished">The destination IP address matches the port&apos;s IP address.</translation>
+      <translation>目的 IP 位址與連接埠的 IP 位址相符。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1385"/>
       <source>The destination IP address matches the loopback IP address.</source>
-      <translation type="unfinished">The destination IP address matches the loopback IP address.</translation>
+      <translation>目的 IP 位址與回送 IP 位址相符。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1386"/>
       <source>Higher process not set, it drops the frame.</source>
-      <translation type="unfinished">Higher process not set, it drops the frame.</translation>
+      <translation>未設定上層處理程序，因此捨棄此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1387"/>
       <location filename="../gui/CTranslationDB.cpp" line="1390"/>
       <source>The packet&apos;s destination IP address matches the device&apos;s IP address or the broadcast address. The device de-encapsulates the packet.</source>
-      <translation type="unfinished">The packet&apos;s destination IP address matches the device&apos;s IP address or the broadcast address. The device de-encapsulates the packet.</translation>
+      <translation>封包的目的 IP 位址與裝置的 IP 位址或廣播位址相符。裝置解封裝此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1410"/>
       <source>The meraki security appliance sends a communication packet to the meraki cloud.</source>
-      <translation type="unfinished">The meraki security appliance sends a communication packet to the meraki cloud.</translation>
+      <translation>Meraki 安全性設備對 Meraki 雲端傳送通訊封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1411"/>
       <source>The meraki security appliance receives a communication packet from the meraki cloud.</source>
-      <translation type="unfinished">The meraki security appliance receives a communication packet from the meraki cloud.</translation>
+      <translation>Meraki 安全性設備收到來自 Meraki 雲端的通訊封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1412"/>
       <source>The meraki cloud sends a communication packet to the meraki security appliance.</source>
-      <translation type="unfinished">The meraki cloud sends a communication packet to the meraki security appliance.</translation>
+      <translation>Meraki 雲端對 Meraki 安全性設備傳送通訊封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1413"/>
       <source>The meraki cloud receives a communication packet from the meraki security appliance.</source>
-      <translation type="unfinished">The meraki cloud receives a communication packet from the meraki security appliance.</translation>
+      <translation>Meraki 雲端收到來自 Meraki 安全性設備的通訊封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1415"/>
       <source>The NAT table has a matched entry for this packet. It replaces the source and destination addresses with the ones in the matched entry.</source>
-      <translation type="unfinished">The NAT table has a matched entry for this packet. It replaces the source and destination addresses with the ones in the matched entry.</translation>
+      <translation>NAT 表中有符合此封包的項目。它將來源與目的位址取代為符合項目中的位址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1418"/>
       <source>The NAT table has a matched static entry for the source global address.</source>
-      <translation type="unfinished">The NAT table has a matched static entry for the source global address.</translation>
+      <translation>NAT 表中有符合來源全域位址的靜態項目。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1419"/>
       <source>The packet matches an outside source list and creates a new entry for source global address.</source>
-      <translation type="unfinished">The packet matches an outside source list and creates a new entry for source global address.</translation>
+      <translation>封包符合外部來源清單，並為來源全域位址建立新項目。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1420"/>
       <source>The NAT table has a matched static entry for the destination global address.</source>
-      <translation type="unfinished">The NAT table has a matched static entry for the destination global address.</translation>
+      <translation>NAT 表中有符合目的全域位址的靜態項目。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1421"/>
       <source>A dynamic entry is created combining both inside and outside translations.</source>
-      <translation type="unfinished">A dynamic entry is created combining both inside and outside translations.</translation>
+      <translation>已結合內部與外部轉譯建立動態項目。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1422"/>
       <location filename="../gui/CTranslationDB.cpp" line="1440"/>
       <source>The NAT table does not have a matched entry for this packet. It passes the packet through without translations.</source>
-      <translation type="unfinished">The NAT table does not have a matched entry for this packet. It passes the packet through without translations.</translation>
+      <translation>NAT 表中沒有符合此封包的項目。封包不經轉譯直接通過。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1424"/>
       <source>The NAT table has a matched dynamic entry for source and destination global addresses.</source>
-      <translation type="unfinished">The NAT table has a matched dynamic entry for source and destination global addresses.</translation>
+      <translation>NAT 表中有符合來源與目的全域位址的動態項目。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1428"/>
       <source>The NAT table has a matched dynamic entry for source and destination local addresses.</source>
-      <translation type="unfinished">The NAT table has a matched dynamic entry for source and destination local addresses.</translation>
+      <translation>NAT 表中有符合來源與目的本機位址的動態項目。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1429"/>
       <source>The NAT table has a matched static entry for the source local address.</source>
-      <translation type="unfinished">The NAT table has a matched static entry for the source local address.</translation>
+      <translation>NAT 表中有符合來源本機位址的靜態項目。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1430"/>
       <source>The packet matches an inside source list and creates a new entry for source local address.</source>
-      <translation type="unfinished">The packet matches an inside source list and creates a new entry for source local address.</translation>
+      <translation>封包符合內部來源清單，並為來源本機位址建立新項目。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1431"/>
       <source>The NAT table has a matched static entry for the destination local address.</source>
-      <translation type="unfinished">The NAT table has a matched static entry for the destination local address.</translation>
+      <translation>NAT 表中有符合目的本機位址的靜態項目。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1433"/>
       <source>An inside source entry is created from a list. The new entry is added to the NAT table.</source>
-      <translation type="unfinished">An inside source entry is created from a list. The new entry is added to the NAT table.</translation>
+      <translation>已依清單建立內部來源項目，並將新項目加入 NAT 表。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1434"/>
       <source>The NAT table does not have existing translations with the inside/outside local address and port. It goes through the inside/outside source lists for necessary translations.</source>
-      <translation type="unfinished">The NAT table does not have existing translations with the inside/outside local address and port. It goes through the inside/outside source lists for necessary translations.</translation>
+      <translation>NAT 表中沒有與內部/外部本機位址和連接埠對應的現有轉譯。它會檢查內部/外部來源清單以取得必要的轉譯。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1435"/>
       <source>The packet does not match any inside/outside source lists.</source>
-      <translation type="unfinished">The packet does not match any inside/outside source lists.</translation>
+      <translation>封包不符合任何內部/外部來源清單。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1436"/>
       <source>The NAT table has a matched entry for this packet. It replaces the inside global address and port with the local ones.</source>
-      <translation type="unfinished">The NAT table has a matched entry for this packet. It replaces the inside global address and port with the local ones.</translation>
+      <translation>NAT 表中有符合此封包的項目。它將內部全域位址與連接埠取代為本機的位址與連接埠。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1437"/>
       <source>The NAT table has a matched entry for this packet. It replaces the outside global address and port with the local ones.</source>
-      <translation type="unfinished">The NAT table has a matched entry for this packet. It replaces the outside global address and port with the local ones.</translation>
+      <translation>NAT 表中有符合此封包的項目。它將外部全域位址與連接埠取代為本機的位址與連接埠。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1438"/>
       <source>The NAT table has a matched entry for this packet. It replaces the inside local address and port with the global ones.</source>
-      <translation type="unfinished">The NAT table has a matched entry for this packet. It replaces the inside local address and port with the global ones.</translation>
+      <translation>NAT 表中有符合此封包的項目。它將內部本機位址與連接埠取代為全域的位址與連接埠。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1439"/>
       <source>The NAT table has a matched entry for this packet. It replaces the outside local address and port with the global ones.</source>
-      <translation type="unfinished">The NAT table has a matched entry for this packet. It replaces the outside local address and port with the global ones.</translation>
+      <translation>NAT 表中有符合此封包的項目。它將外部本機位址與連接埠取代為全域的位址與連接埠。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1442"/>
       <source>The NAT table does not have a matched entry for this packet. It drops the packet.</source>
-      <translation type="unfinished">The NAT table does not have a matched entry for this packet. It drops the packet.</translation>
+      <translation>NAT 表中沒有符合此封包的項目，因此捨棄此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1453"/>
       <source>Invalid username/password.</source>
-      <translation type="unfinished">Invalid username/password.</translation>
+      <translation>使用者名稱/密碼無效。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1463"/>
       <source>If it is a dial frame with the type Connected, set the port status to up.</source>
-      <translation type="unfinished">If it is a dial frame with the type Connected, set the port status to up.</translation>
+      <translation>若是類型為 Connected 的撥號訊框，將連接埠狀態設為啟動。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1464"/>
       <source>If the received frame is a dial frame, check the device types.</source>
-      <translation type="unfinished">If the received frame is a dial frame, check the device types.</translation>
+      <translation>若收到的訊框是撥號訊框，請檢查裝置類型。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1466"/>
       <source>If the LMI types does not match or the devices are identical, then set protocol down on the port</source>
-      <translation type="unfinished">If the LMI types does not match or the devices are identical, then set protocol down on the port</translation>
+      <translation>若 LMI 類型不符或裝置相同，則關閉連接埠上的通訊協定</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1470"/>
       <source>Phone number not answering.</source>
-      <translation type="unfinished">Phone number not answering.</translation>
+      <translation>電話號碼無人接聽。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1471"/>
       <source>No dial tone.</source>
-      <translation type="unfinished">No dial tone.</translation>
+      <translation>沒有撥號音。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1472"/>
       <source>Disconnected.</source>
-      <translation type="unfinished">Disconnected.</translation>
+      <translation>已中斷連線。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1473"/>
       <source>Dialing...</source>
-      <translation type="unfinished">Dialing...</translation>
+      <translation>撥號中...</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1474"/>
       <source>Connected.</source>
-      <translation type="unfinished">Connected.</translation>
+      <translation>已連線。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1475"/>
       <source>Phone number is busy.</source>
-      <translation type="unfinished">Phone number is busy.</translation>
+      <translation>電話號碼忙線中。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1476"/>
       <source>Phone number not found.</source>
-      <translation type="unfinished">Phone number not found.</translation>
+      <translation>找不到電話號碼。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1477"/>
       <source>The device de-encapsulates the PPP frame and sends it to the correct upper layer.</source>
-      <translation type="unfinished">The device de-encapsulates the PPP frame and sends it to the correct upper layer.</translation>
+      <translation>裝置解封裝 PPP 訊框並傳送到正確的上層。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1478"/>
       <source>The frame is not a PPP frame. The device drops the frame.</source>
-      <translation type="unfinished">The frame is not a PPP frame. The device drops the frame.</translation>
+      <translation>此訊框不是 PPP 訊框。裝置捨棄此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1480"/>
       <source>If protocol is not up and the frame is not for CHAP, then drop the frame.</source>
-      <translation type="unfinished">If protocol is not up and the frame is not for CHAP, then drop the frame.</translation>
+      <translation>若通訊協定未啟動且訊框不是 CHAP 用的，則捨棄此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1481"/>
       <source>The device encapsulates the packet into a PPP frame.</source>
-      <translation type="unfinished">The device encapsulates the packet into a PPP frame.</translation>
+      <translation>裝置將封包封裝成 PPP 訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1482"/>
       <source>If no source process is set, drop the frame.</source>
-      <translation type="unfinished">If no source process is set, drop the frame.</translation>
+      <translation>若未設定來源處理程序，則捨棄此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1543"/>
       <source>PTP Process is in transparent mode. The process records the previous corresponding sync&apos;s residence time in the correction field of the FollowUp packet, then forwards the packet as normal multicast traffic.</source>
-      <translation type="unfinished">PTP Process is in transparent mode. The process records the previous corresponding sync&apos;s residence time in the correction field of the FollowUp packet, then forwards the packet as normal multicast traffic.</translation>
+      <translation>PTP 處理程序處於透通模式。處理程序將先前對應 Sync 的停留時間記錄在 FollowUp 封包的校正欄位中，然後將封包當作一般多點傳送流量轉送。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1558"/>
       <source>The cloud looks up the DLCI number on the frame for the connected sublink.</source>
-      <translation type="unfinished">The cloud looks up the DLCI number on the frame for the connected sublink.</translation>
+      <translation>雲端針對已連線的子連結，查詢訊框上的 DLCI 編號。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1559"/>
       <source>The cloud does not have a virtual circuit on the receiving port for this DLCI number. It drops the frame.</source>
-      <translation type="unfinished">The cloud does not have a virtual circuit on the receiving port for this DLCI number. It drops the frame.</translation>
+      <translation>雲端在接收連接埠上沒有此 DLCI 編號的虛擬電路，因此捨棄此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1560"/>
       <source>The cloud changes the frame&apos;s DLCI number to the outgoing sublink&apos;s DLCI number.</source>
-      <translation type="unfinished">The cloud changes the frame&apos;s DLCI number to the outgoing sublink&apos;s DLCI number.</translation>
+      <translation>雲端將訊框的 DLCI 編號改為輸出子連結的 DLCI 編號。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1561"/>
       <source>The cloud sends the frame out to the phone port connected to the receiving port.</source>
-      <translation type="unfinished">The cloud sends the frame out to the phone port connected to the receiving port.</translation>
+      <translation>雲端將訊框送出到與接收連接埠相連的電話連接埠。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1563"/>
       <source>The [[DEVICE_TYPE]] forwards the frame to all ports except [[PORT_NAME]].</source>
-      <translation type="unfinished">The [[DEVICE_TYPE]] forwards the frame to all ports except [[PORT_NAME]].</translation>
+      <translation>[[DEVICE_TYPE]] 將訊框轉送到 [[PORT_NAME]] 以外的所有連接埠。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1564"/>
       <source>The [[DEVICE_TYPE]] does not have any other functional ports. The frame is not forwarded.</source>
-      <translation type="unfinished">The [[DEVICE_TYPE]] does not have any other functional ports. The frame is not forwarded.</translation>
+      <translation>[[DEVICE_TYPE]] 沒有其他運作中的連接埠，因此不轉送此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1565"/>
       <source>There is a loop in the network. [[DEVICE_TYPE]] drops the frame.</source>
-      <translation type="unfinished">There is a loop in the network. [[DEVICE_TYPE]] drops the frame.</translation>
+      <translation>網路中有迴圈。[[DEVICE_TYPE]] 捨棄此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1566"/>
       <source>[[DEVICE_TYPE]] forwards the frame to [[PORT_NAME]].</source>
-      <translation type="unfinished">[[DEVICE_TYPE]] forwards the frame to [[PORT_NAME]].</translation>
+      <translation>[[DEVICE_TYPE]] 將訊框轉送到 [[PORT_NAME]]。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1567"/>
       <source>[[DEVICE_TYPE]] can not send the packet to [[PORT_NAME]]. It drops the frame.</source>
-      <translation type="unfinished">[[DEVICE_TYPE]] can not send the packet to [[PORT_NAME]]. It drops the frame.</translation>
+      <translation>[[DEVICE_TYPE]] 無法將封包傳送到 [[PORT_NAME]]，因此捨棄此訊框。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1568"/>
       <source>The device sends back an ICMP Host Unreachable message.</source>
-      <translation type="unfinished">The device sends back an ICMP Host Unreachable message.</translation>
+      <translation>裝置回傳 ICMP Host Unreachable 訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1569"/>
       <source>The device sends back an ICMP Protocol Unreachable message.</source>
-      <translation type="unfinished">The device sends back an ICMP Protocol Unreachable message.</translation>
+      <translation>裝置回傳 ICMP Protocol Unreachable 訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1570"/>
       <source>The device sends back an ICMP Administratively Prohibited Unreachable message.</source>
-      <translation type="unfinished">The device sends back an ICMP Administratively Prohibited Unreachable message.</translation>
+      <translation>裝置回傳 ICMP Administratively Prohibited Unreachable 訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1581"/>
       <source>The routing table finds a routing entry to the destination IP address.</source>
-      <translation type="unfinished">The routing table finds a routing entry to the destination IP address.</translation>
+      <translation>路由表中找到通往目的 IP 位址的路由項目。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1584"/>
       <source>The destination network can be reached via [[NEXT_HOP]].</source>
-      <translation type="unfinished">The destination network can be reached via [[NEXT_HOP]].</translation>
+      <translation>可透過 [[NEXT_HOP]] 到達目的網路。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1595"/>
       <source>The source IP address of the packet matches one of this device&apos;s IP addresses. This device drops the packet.</source>
-      <translation type="unfinished">The source IP address of the packet matches one of this device&apos;s IP addresses. This device drops the packet.</translation>
+      <translation>封包的來源 IP 位址與此裝置的其中一個 IP 位址相符。此裝置捨棄此封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1597"/>
       <source>The CEF table has an entry for the destination IP address.</source>
-      <translation type="unfinished">The CEF table has an entry for the destination IP address.</translation>
+      <translation>CEF 表中有目的 IP 位址的項目。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1376"/>
       <location filename="../gui/CTranslationDB.cpp" line="1600"/>
       <source>The packet matches the helper criteria. The device forwards the packet to the helper address.</source>
-      <translation type="unfinished">The packet matches the helper criteria. The device forwards the packet to the helper address.</translation>
+      <translation>封包符合輔助條件。裝置將封包轉送到輔助位址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="68"/>
       <source>deprecated</source>
-      <translation type="unfinished">deprecated</translation>
+      <translation>已淘汰</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="118"/>
@@ -44702,32 +44702,32 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="244"/>
       <source>Wireless 2.4G</source>
-      <translation type="unfinished">Wireless 2.4G</translation>
+      <translation>無線 2.4G</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="245"/>
       <source>Wireless 5G(1)</source>
-      <translation type="unfinished">Wireless 5G(1)</translation>
+      <translation>無線 5G(1)</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="246"/>
       <source>Wireless 5G(2)</source>
-      <translation type="unfinished">Wireless 5G(2)</translation>
+      <translation>無線 5G(2)</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="247"/>
       <source>Wireless Guest 2.4G</source>
-      <translation type="unfinished">Wireless Guest 2.4G</translation>
+      <translation>訪客無線 2.4G</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="248"/>
       <source>Wireless Guest 5G(1)</source>
-      <translation type="unfinished">Wireless Guest 5G(1)</translation>
+      <translation>訪客無線 5G(1)</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="249"/>
       <source>Wireless Guest 5G(2)</source>
-      <translation type="unfinished">Wireless Guest 5G(2)</translation>
+      <translation>訪客無線 5G(2)</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="250"/>
@@ -44747,7 +44747,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="338"/>
       <source>fIPS List</source>
-      <translation type="unfinished">fIPS List</translation>
+      <translation>fIPS 清單</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="431"/>
@@ -44764,12 +44764,12 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="436"/>
       <source>Admin VLAN</source>
-      <translation type="unfinished">Admin VLAN</translation>
+      <translation>管理 VLAN</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="437"/>
       <source>REP Segments</source>
-      <translation type="unfinished">REP Segments</translation>
+      <translation>REP 區段</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="440"/>
@@ -44829,7 +44829,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="465"/>
       <source>Subscriber Id</source>
-      <translation type="unfinished">Subscriber Id</translation>
+      <translation>用戶 ID</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="466"/>
@@ -44839,7 +44839,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="467"/>
       <source>DHCP Reservation</source>
-      <translation type="unfinished">DHCP Reservation</translation>
+      <translation>DHCP 保留</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="468"/>
@@ -44898,7 +44898,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="511"/>
       <source>Network Address</source>
-      <translation type="unfinished">Network Address</translation>
+      <translation>網路位址</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="513"/>
@@ -44938,7 +44938,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="526"/>
       <source>WLC Address</source>
-      <translation type="unfinished">WLC Address</translation>
+      <translation>WLC 位址</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="527"/>
@@ -44948,7 +44948,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="541"/>
       <source>L2NAT</source>
-      <translation type="unfinished">L2NAT</translation>
+      <translation>L2NAT</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="544"/>
@@ -44958,7 +44958,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="597"/>
       <source>Remote Networks</source>
-      <translation type="unfinished">Remote Networks</translation>
+      <translation>遠端網路</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="614"/>
@@ -45003,12 +45003,12 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="673"/>
       <source>Custom Device Properties</source>
-      <translation type="unfinished">Custom Device Properties</translation>
+      <translation>自訂裝置屬性</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="675"/>
       <source>Physical Location</source>
-      <translation type="unfinished">Physical Location</translation>
+      <translation>實體位置</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="699"/>
@@ -45018,17 +45018,17 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="700"/>
       <source>Host IP Address</source>
-      <translation type="unfinished">Host IP Address</translation>
+      <translation>主機 IP 位址</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="701"/>
       <source>Host IP Mask</source>
-      <translation type="unfinished">Host IP Mask</translation>
+      <translation>主機 IP 遮罩</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="702"/>
       <source>Host IP Default Gateway</source>
-      <translation type="unfinished">Host IP Default Gateway</translation>
+      <translation>主機 IP 預設閘道</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="704"/>
@@ -45068,12 +45068,12 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="744"/>
       <source>LLDP Transmit</source>
-      <translation type="unfinished">LLDP Transmit</translation>
+      <translation>LLDP 傳送</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="745"/>
       <source>LLDP Receive</source>
-      <translation type="unfinished">LLDP Receive</translation>
+      <translation>LLDP 接收</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="746"/>
@@ -45168,7 +45168,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="910"/>
       <source>Network Type</source>
-      <translation type="unfinished">Network Type</translation>
+      <translation>網路類型</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="936"/>
@@ -45233,12 +45233,12 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="984"/>
       <source>l2Nat List</source>
-      <translation type="unfinished">l2Nat List</translation>
+      <translation>l2Nat 清單</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="985"/>
       <source>l2Nat</source>
-      <translation type="unfinished">l2Nat</translation>
+      <translation>l2Nat</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="986"/>
@@ -45862,7 +45862,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1550"/>
       <source>Port Data</source>
-      <translation type="unfinished">Port Data</translation>
+      <translation>連接埠資料</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1552"/>
@@ -47049,12 +47049,12 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2191"/>
       <source>Shelf</source>
-      <translation type="unfinished">Shelf</translation>
+      <translation>置物架</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2193"/>
       <source>Cable Pegboard</source>
-      <translation type="unfinished">Cable Pegboard</translation>
+      <translation>纜線掛板</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2427"/>
@@ -47104,12 +47104,12 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2614"/>
       <source>2.4Ghz Channel</source>
-      <translation type="unfinished">2.4Ghz Channel</translation>
+      <translation>2.4Ghz Channel</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2615"/>
       <source>5Ghz Channel</source>
-      <translation type="unfinished">5Ghz Channel</translation>
+      <translation>5Ghz Channel</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2677"/>
@@ -47307,12 +47307,12 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3458"/>
       <source>802.1x authentication was successful.</source>
-      <translation type="unfinished">802.1x authentication was successful.</translation>
+      <translation>802.1x authentication was successful.</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3459"/>
       <source>802.1x authentication failed.</source>
-      <translation type="unfinished">802.1x authentication failed.</translation>
+      <translation>802.1x authentication failed.</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3462"/>
@@ -47327,7 +47327,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3465"/>
       <source>802.1x authentication.</source>
-      <translation type="unfinished">802.1x authentication.</translation>
+      <translation>802.1x authentication.</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3466"/>
@@ -47462,7 +47462,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3508"/>
       <source>This file requires more addressable RAM than a 32bit process is allowed to use. Please use the 64bit version of Cisco Packet Tracer to open this file.</source>
-      <translation type="unfinished">This file requires more addressable RAM than a 32bit process is allowed to use. Please use the 64bit version of Cisco Packet Tracer to open this file.</translation>
+      <translation>此檔案需要的可定址記憶體超過 32 位元處理程序所允許的上限。請使用 64 位元版本的 Cisco Packet Tracer 開啟此檔案。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3509"/>
@@ -47672,7 +47672,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2137"/>
       <source>Wireless LANs</source>
-      <translation type="unfinished">Wireless LANs</translation>
+      <translation>無線區域網路</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2141"/>
@@ -47697,7 +47697,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2145"/>
       <source>Radius Shared Secret</source>
-      <translation type="unfinished">Radius Shared Secret</translation>
+      <translation>Radius 共用密鑰</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2147"/>
@@ -47767,7 +47767,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2162"/>
       <source>AP Groups</source>
-      <translation type="unfinished">AP Groups</translation>
+      <translation>AP 群組</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2163"/>
@@ -47777,7 +47777,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2164"/>
       <source>Access Points</source>
-      <translation type="unfinished">Access Points</translation>
+      <translation>存取點</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2172"/>
@@ -47808,32 +47808,32 @@ Click Cancel to stop waiting and save with current replied data.</translation>
       <location filename="../gui/CTranslationDB.cpp" line="2178"/>
       <location filename="../gui/CTranslationDB.cpp" line="2254"/>
       <source>Bluetooth</source>
-      <translation type="unfinished">Bluetooth</translation>
+      <translation>藍牙</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2179"/>
       <source>Transmit Range</source>
-      <translation type="unfinished">Transmit Range</translation>
+      <translation>傳輸範圍</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2180"/>
       <source>Discoverable</source>
-      <translation type="unfinished">Discoverable</translation>
+      <translation>可被探索</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2181"/>
       <source>Paired Devices</source>
-      <translation type="unfinished">Paired Devices</translation>
+      <translation>已配對裝置</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2182"/>
       <source>Beacon Broadcasting</source>
-      <translation type="unfinished">Beacon Broadcasting</translation>
+      <translation>Beacon 廣播</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2183"/>
       <source>Beacon Frequency</source>
-      <translation type="unfinished">Beacon Frequency</translation>
+      <translation>Beacon 頻率</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2184"/>
@@ -47843,7 +47843,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2185"/>
       <source>Beacon Data</source>
-      <translation type="unfinished">Beacon Data</translation>
+      <translation>Beacon 資料</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2250"/>
@@ -48023,7 +48023,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2611"/>
       <source>Pass Phrase</source>
-      <translation type="unfinished">Pass Phrase</translation>
+      <translation>通關密語</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2613"/>
@@ -48033,7 +48033,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2671"/>
       <source>Storm Control Multiplier</source>
-      <translation type="unfinished">Storm Control Multiplier</translation>
+      <translation>風暴控制乘數</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2699"/>
@@ -48118,12 +48118,12 @@ Click Cancel to stop waiting and save with current replied data.</translation>
       <location filename="../gui/CTranslationDB.cpp" line="3427"/>
       <location filename="../gui/CTranslationDB.cpp" line="3438"/>
       <source>IoT Server</source>
-      <translation type="unfinished">IoT Server</translation>
+      <translation>IoT 伺服器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3428"/>
       <source>IoT Enable</source>
-      <translation type="unfinished">IoT Enable</translation>
+      <translation>啟用 IoT</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3433"/>
@@ -48133,7 +48133,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3434"/>
       <source>Sub Component</source>
-      <translation type="unfinished">Sub Component</translation>
+      <translation>子元件</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3444"/>
@@ -48319,12 +48319,12 @@ Click Cancel to stop waiting and save with current replied data.</translation>
       <location filename="../gui/CTranslationDB.cpp" line="2189"/>
       <location filename="../gui/CTranslationDB.cpp" line="2192"/>
       <source>Table</source>
-      <translation type="unfinished">Table</translation>
+      <translation>桌子</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2190"/>
       <source>Rack</source>
-      <translation type="unfinished">Rack</translation>
+      <translation>機架</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2196"/>
@@ -49256,7 +49256,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2594"/>
       <source>Internet</source>
-      <translation type="unfinished">Internet</translation>
+      <translation>網際網路</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2597"/>
@@ -49266,12 +49266,12 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2606"/>
       <source>Wireless</source>
-      <translation type="unfinished">Wireless</translation>
+      <translation>無線</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2607"/>
       <source>Security Mode</source>
-      <translation type="unfinished">Security Mode</translation>
+      <translation>安全性模式</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2608"/>
@@ -49283,22 +49283,22 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2609"/>
       <source>Authen Type</source>
-      <translation type="unfinished">Authen Type</translation>
+      <translation>驗證類型</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2610"/>
       <source>WEP Key</source>
-      <translation type="unfinished">WEP Key</translation>
+      <translation>WEP 金鑰</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2612"/>
       <source>Encryption Type</source>
-      <translation type="unfinished">Encryption Type</translation>
+      <translation>加密類型</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2618"/>
       <source>User Id</source>
-      <translation type="unfinished">User Id</translation>
+      <translation>使用者 ID</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2622"/>
@@ -49348,7 +49348,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2675"/>
       <source>SNMP Communities</source>
-      <translation type="unfinished">SNMP Communities</translation>
+      <translation>SNMP 社群</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2676"/>
@@ -49358,79 +49358,79 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2698"/>
       <source>Service Nagle</source>
-      <translation type="unfinished">Service Nagle</translation>
+      <translation>服務 Nagle</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2702"/>
       <source>Firewall</source>
-      <translation type="unfinished">Firewall</translation>
+      <translation>防火牆</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2703"/>
       <source>IP Inspect Names</source>
-      <translation type="unfinished">IP Inspect Names</translation>
+      <translation>IP 檢查名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2704"/>
       <source>Global Alert</source>
-      <translation type="unfinished">Global Alert</translation>
+      <translation>全域警示</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2705"/>
       <source>Global Audit Trail</source>
-      <translation type="unfinished">Global Audit Trail</translation>
+      <translation>全域稽核記錄</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2706"/>
       <location filename="../gui/CTranslationDB.cpp" line="2726"/>
       <source>DNS Timeout</source>
-      <translation type="unfinished">DNS Timeout</translation>
+      <translation>DNS 逾時</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2707"/>
       <source>FIN-WAIT Time</source>
-      <translation type="unfinished">FIN-WAIT Time</translation>
+      <translation>FIN-WAIT 時間</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2708"/>
       <source>SYN-WAIT Time</source>
-      <translation type="unfinished">SYN-WAIT Time</translation>
+      <translation>SYN-WAIT 時間</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2709"/>
       <location filename="../gui/CTranslationDB.cpp" line="2730"/>
       <source>UDP Idle Time</source>
-      <translation type="unfinished">UDP Idle Time</translation>
+      <translation>UDP 閒置時間</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2710"/>
       <location filename="../gui/CTranslationDB.cpp" line="2731"/>
       <source>TCP Idle Time</source>
-      <translation type="unfinished">TCP Idle Time</translation>
+      <translation>TCP 閒置時間</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2711"/>
       <location filename="../gui/CTranslationDB.cpp" line="2732"/>
       <source>MAX Incomplete High</source>
-      <translation type="unfinished">MAX Incomplete High</translation>
+      <translation>最大未完成高標</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2712"/>
       <location filename="../gui/CTranslationDB.cpp" line="2733"/>
       <source>MAX Incomplete Low</source>
-      <translation type="unfinished">MAX Incomplete Low</translation>
+      <translation>最大未完成低標</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2713"/>
       <location filename="../gui/CTranslationDB.cpp" line="2734"/>
       <source>One Minute High</source>
-      <translation type="unfinished">One Minute High</translation>
+      <translation>每分鐘高標</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2714"/>
       <location filename="../gui/CTranslationDB.cpp" line="2735"/>
       <source>One Minute Low</source>
-      <translation type="unfinished">One Minute Low</translation>
+      <translation>每分鐘低標</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2740"/>
@@ -49461,27 +49461,27 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2749"/>
       <source>Timeout</source>
-      <translation type="unfinished">Timeout</translation>
+      <translation>逾時</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2768"/>
       <source>NTP Authenticate</source>
-      <translation type="unfinished">NTP Authenticate</translation>
+      <translation>NTP 驗證</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2769"/>
       <source>Update Calendar</source>
-      <translation type="unfinished">Update Calendar</translation>
+      <translation>更新日曆</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2770"/>
       <source>Authentication Keys</source>
-      <translation type="unfinished">Authentication Keys</translation>
+      <translation>驗證金鑰</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2773"/>
       <source>Trusted Keys</source>
-      <translation type="unfinished">Trusted Keys</translation>
+      <translation>受信任金鑰</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2645"/>
@@ -49490,23 +49490,23 @@ Click Cancel to stop waiting and save with current replied data.</translation>
       <location filename="../gui/CTranslationDB.cpp" line="2777"/>
       <location filename="../gui/CTranslationDB.cpp" line="2957"/>
       <source>Key</source>
-      <translation type="unfinished">Key</translation>
+      <translation>金鑰</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2775"/>
       <source>NTP Server Information</source>
-      <translation type="unfinished">NTP Server Information</translation>
+      <translation>NTP 伺服器資訊</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2782"/>
       <location filename="../gui/CTranslationDB.cpp" line="2814"/>
       <source>Service</source>
-      <translation type="unfinished">Service</translation>
+      <translation>服務</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2804"/>
       <source>Port Keepalive</source>
-      <translation type="unfinished">Port Keepalive</translation>
+      <translation>連接埠保持連線</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2805"/>
@@ -49516,17 +49516,17 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2808"/>
       <source>SYSLOG Client</source>
-      <translation type="unfinished">SYSLOG Client</translation>
+      <translation>SYSLOG 用戶端</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2809"/>
       <source>Server Addresses</source>
-      <translation type="unfinished">Server Addresses</translation>
+      <translation>伺服器位址</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2813"/>
       <source>SYSLOG Server</source>
-      <translation type="unfinished">SYSLOG Server</translation>
+      <translation>SYSLOG 伺服器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2817"/>
@@ -49551,7 +49551,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2831"/>
       <source>ACS Enabled</source>
-      <translation type="unfinished">ACS Enabled</translation>
+      <translation>已啟用 ACS</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2833"/>
@@ -49561,12 +49561,12 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2834"/>
       <source>Client Name</source>
-      <translation type="unfinished">Client Name</translation>
+      <translation>用戶端名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2835"/>
       <source>Client IP</source>
-      <translation type="unfinished">Client IP</translation>
+      <translation>用戶端 IP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2836"/>
@@ -49583,7 +49583,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
       <location filename="../gui/CTranslationDB.cpp" line="2985"/>
       <location filename="../gui/CTranslationDB.cpp" line="3473"/>
       <source>User</source>
-      <translation type="unfinished">User</translation>
+      <translation>使用者</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="290"/>
@@ -49591,7 +49591,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
       <location filename="../gui/CTranslationDB.cpp" line="2973"/>
       <location filename="../gui/CTranslationDB.cpp" line="2986"/>
       <source>User Name</source>
-      <translation type="unfinished">User Name</translation>
+      <translation>使用者名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2841"/>
@@ -49604,17 +49604,17 @@ Click Cancel to stop waiting and save with current replied data.</translation>
       <location filename="../gui/CTranslationDB.cpp" line="2974"/>
       <location filename="../gui/CTranslationDB.cpp" line="2987"/>
       <source>User Password</source>
-      <translation type="unfinished">User Password</translation>
+      <translation>使用者密碼</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2845"/>
       <source>RADIUS Client</source>
-      <translation type="unfinished">RADIUS Client</translation>
+      <translation>RADIUS 用戶端</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2855"/>
       <source>RADIUS Server</source>
-      <translation type="unfinished">RADIUS Server</translation>
+      <translation>RADIUS 伺服器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2169"/>
@@ -49626,28 +49626,28 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2859"/>
       <source>TACACS Client</source>
-      <translation type="unfinished">TACACS Client</translation>
+      <translation>TACACS 用戶端</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2860"/>
       <source>TACACS Server Hosts</source>
-      <translation type="unfinished">TACACS Server Hosts</translation>
+      <translation>TACACS 伺服器主機</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2861"/>
       <source>TACACS server key</source>
-      <translation type="unfinished">TACACS server key</translation>
+      <translation>TACACS 伺服器金鑰</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2864"/>
       <source>Command Privilege</source>
-      <translation type="unfinished">Command Privilege</translation>
+      <translation>命令權限</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2865"/>
       <location filename="../gui/CTranslationDB.cpp" line="2874"/>
       <source>Commands</source>
-      <translation type="unfinished">Commands</translation>
+      <translation>命令</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2866"/>
@@ -49658,12 +49658,12 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2869"/>
       <source>Parser View</source>
-      <translation type="unfinished">Parser View</translation>
+      <translation>剖析器檢視</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2870"/>
       <source>Views</source>
-      <translation type="unfinished">Views</translation>
+      <translation>檢視</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2871"/>
@@ -49679,7 +49679,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
       <location filename="../gui/CTranslationDB.cpp" line="2170"/>
       <location filename="../gui/CTranslationDB.cpp" line="2873"/>
       <source>Secret</source>
-      <translation type="unfinished">Secret</translation>
+      <translation>密鑰</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2878"/>
@@ -49719,22 +49719,22 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2895"/>
       <source>Crypto ISAKMP Policy</source>
-      <translation type="unfinished">Crypto ISAKMP Policy</translation>
+      <translation>加密 ISAKMP 原則</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2897"/>
       <source>Crypto ISAKMP Key Address Pairs</source>
-      <translation type="unfinished">Crypto ISAKMP Key Address Pairs</translation>
+      <translation>加密 ISAKMP 金鑰位址配對</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2900"/>
       <source>Crypto IpSec Transform Sets</source>
-      <translation type="unfinished">Crypto IpSec Transform Sets</translation>
+      <translation>加密 IPsec 轉換集</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2901"/>
       <source>Crypto Map Sets</source>
-      <translation type="unfinished">Crypto Map Sets</translation>
+      <translation>加密對應集</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2903"/>
@@ -49744,7 +49744,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2904"/>
       <source>Crypto Dynamic Maps</source>
-      <translation type="unfinished">Crypto Dynamic Maps</translation>
+      <translation>加密動態對應</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2905"/>
@@ -49766,7 +49766,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
       <location filename="../gui/CTranslationDB.cpp" line="2915"/>
       <location filename="../gui/CTranslationDB.cpp" line="2942"/>
       <source>Number</source>
-      <translation type="unfinished">Number</translation>
+      <translation>數字</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2916"/>
@@ -49817,45 +49817,45 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2943"/>
       <source>Authentication type</source>
-      <translation type="unfinished">Authentication type</translation>
+      <translation>驗證類型</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2944"/>
       <source>Hash algorithm</source>
-      <translation type="unfinished">Hash algorithm</translation>
+      <translation>雜湊演算法</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2654"/>
       <location filename="../gui/CTranslationDB.cpp" line="2945"/>
       <source>Encryption</source>
-      <translation type="unfinished">Encryption</translation>
+      <translation>加密</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2889"/>
       <location filename="../gui/CTranslationDB.cpp" line="2946"/>
       <location filename="../gui/CTranslationDB.cpp" line="2955"/>
       <source>Group</source>
-      <translation type="unfinished">Group</translation>
+      <translation>群組</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2947"/>
       <source>Lifetime</source>
-      <translation type="unfinished">Lifetime</translation>
+      <translation>存留時間</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2950"/>
       <source>Easy VPN Server</source>
-      <translation type="unfinished">Easy VPN Server</translation>
+      <translation>Easy VPN 伺服器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2951"/>
       <source>IP Local Pools</source>
-      <translation type="unfinished">IP Local Pools</translation>
+      <translation>IP 本機集區</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2952"/>
       <source>Client Configuration Groups</source>
-      <translation type="unfinished">Client Configuration Groups</translation>
+      <translation>用戶端組態群組</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2958"/>
@@ -49909,7 +49909,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
       <location filename="../gui/CTranslationDB.cpp" line="2997"/>
       <location filename="../gui/CTranslationDB.cpp" line="3005"/>
       <source>Pool Name</source>
-      <translation type="unfinished">Pool Name</translation>
+      <translation>集區名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2199"/>
@@ -49920,12 +49920,12 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3002"/>
       <source>DHCPv6 Pools</source>
-      <translation type="unfinished">DHCPv6 Pools</translation>
+      <translation>DHCPv6 集區</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3003"/>
       <source>Local Pools</source>
-      <translation type="unfinished">Local Pools</translation>
+      <translation>本機集區</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3008"/>
@@ -49937,7 +49937,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
       <location filename="../gui/CTranslationDB.cpp" line="3010"/>
       <location filename="../gui/CTranslationDB.cpp" line="3020"/>
       <source>Prefix</source>
-      <translation type="unfinished">Prefix</translation>
+      <translation>前置碼</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3011"/>
@@ -49972,13 +49972,13 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3019"/>
       <source>Local Pool Name</source>
-      <translation type="unfinished">Local Pool Name</translation>
+      <translation>本機集區名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="850"/>
       <location filename="../gui/CTranslationDB.cpp" line="3021"/>
       <source>Prefix Length</source>
-      <translation type="unfinished">Prefix Length</translation>
+      <translation>前置碼長度</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3022"/>
@@ -49990,7 +49990,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
       <location filename="../gui/CTranslationDB.cpp" line="1165"/>
       <location filename="../gui/CTranslationDB.cpp" line="3026"/>
       <source>Neighbors</source>
-      <translation type="unfinished">Neighbors</translation>
+      <translation>鄰居</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3027"/>
@@ -50000,13 +50000,13 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3028"/>
       <source>IPv6 Address</source>
-      <translation type="unfinished">IPv6 Address</translation>
+      <translation>IPv6 位址</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2629"/>
       <location filename="../gui/CTranslationDB.cpp" line="3029"/>
       <source>Mac Address</source>
-      <translation type="unfinished">Mac Address</translation>
+      <translation>MAC 位址</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="88"/>
@@ -50087,12 +50087,12 @@ Click Cancel to stop waiting and save with current replied data.</translation>
       <location filename="../gui/CTranslationDB.cpp" line="213"/>
       <location filename="../gui/CTranslationDB.cpp" line="3430"/>
       <source>Home Gateway</source>
-      <translation type="unfinished">Home Gateway</translation>
+      <translation>家用閘道</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="214"/>
       <source>Cell Tower</source>
-      <translation type="unfinished">Cell Tower</translation>
+      <translation>基地台</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="215"/>
@@ -50107,17 +50107,17 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="255"/>
       <source>ISATAP Router</source>
-      <translation type="unfinished">ISATAP Router</translation>
+      <translation>ISATAP 路由器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="256"/>
       <source>ISATAP Client Enabled</source>
-      <translation type="unfinished">ISATAP Client Enabled</translation>
+      <translation>已啟用 ISATAP 用戶端</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="257"/>
       <source>ISATAP Client</source>
-      <translation type="unfinished">ISATAP Client</translation>
+      <translation>ISATAP 用戶端</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="308"/>
@@ -50134,7 +50134,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="313"/>
       <source>Management Access List</source>
-      <translation type="unfinished">Management Access List</translation>
+      <translation>管理存取清單</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="314"/>
@@ -50144,17 +50144,17 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="316"/>
       <source>Ssh Timeout</source>
-      <translation type="unfinished">Ssh Timeout</translation>
+      <translation>SSH 逾時</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="317"/>
       <source>Telnet Timeout</source>
-      <translation type="unfinished">Telnet Timeout</translation>
+      <translation>Telnet 逾時</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="322"/>
       <source>Access-Group List</source>
-      <translation type="unfinished">Access-Group List</translation>
+      <translation>存取群組清單</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="323"/>
@@ -50164,7 +50164,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="326"/>
       <source>Asa Object List</source>
-      <translation type="unfinished">Asa Object List</translation>
+      <translation>ASA 物件清單</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="329"/>
@@ -50189,7 +50189,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="363"/>
       <source>Action</source>
-      <translation type="unfinished">Action</translation>
+      <translation>動作</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="364"/>
@@ -50215,7 +50215,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
       <location filename="../gui/CTranslationDB.cpp" line="424"/>
       <location filename="../gui/CTranslationDB.cpp" line="774"/>
       <source>Licenses</source>
-      <translation type="unfinished">Licenses</translation>
+      <translation>授權</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="425"/>
@@ -50240,7 +50240,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="477"/>
       <source>DHCP Server List</source>
-      <translation type="unfinished">DHCP Server List</translation>
+      <translation>DHCP 伺服器清單</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="473"/>
@@ -50250,12 +50250,12 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="482"/>
       <source>DHCP Relay Agent</source>
-      <translation type="unfinished">DHCP Relay Agent</translation>
+      <translation>DHCP 轉送代理程式</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="484"/>
       <source>Relay Information Trust All</source>
-      <translation type="unfinished">Relay Information Trust All</translation>
+      <translation>信任所有轉送資訊</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="487"/>
@@ -50265,17 +50265,17 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="489"/>
       <source>MAC Address Verified</source>
-      <translation type="unfinished">MAC Address Verified</translation>
+      <translation>MAC 位址已驗證</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="490"/>
       <source>Option 82 Inserted</source>
-      <translation type="unfinished">Option 82 Inserted</translation>
+      <translation>已插入 Option 82</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="491"/>
       <source>Option 82 Trusted</source>
-      <translation type="unfinished">Option 82 Trusted</translation>
+      <translation>Option 82 受信任</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="493"/>
@@ -50286,7 +50286,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="496"/>
       <source>DHCP Snooping Binding DB Agent</source>
-      <translation type="unfinished">DHCP Snooping Binding DB Agent</translation>
+      <translation>DHCP Snooping 繫結資料庫代理程式</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="497"/>
@@ -50296,12 +50296,12 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="498"/>
       <source>Write Delay</source>
-      <translation type="unfinished">Write Delay</translation>
+      <translation>寫入延遲</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="524"/>
       <source>End IP address</source>
-      <translation type="unfinished">End IP address</translation>
+      <translation>結束 IP 位址</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="553"/>
@@ -50309,7 +50309,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
       <location filename="../gui/CTranslationDB.cpp" line="800"/>
       <location filename="../gui/CTranslationDB.cpp" line="1162"/>
       <source>Distances</source>
-      <translation type="unfinished">Distances</translation>
+      <translation>距離</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="554"/>
@@ -50322,7 +50322,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="571"/>
       <source>AUX Line</source>
-      <translation type="unfinished">AUX Line</translation>
+      <translation>AUX 線路</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="572"/>
@@ -50332,7 +50332,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="587"/>
       <source>Accounting Exec Name</source>
-      <translation type="unfinished">Accounting Exec Name</translation>
+      <translation>記帳 Exec 名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="596"/>
@@ -50342,7 +50342,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="674"/>
       <source>Custom Device Model</source>
-      <translation type="unfinished">Custom Device Model</translation>
+      <translation>自訂裝置型號</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="697"/>
@@ -50363,7 +50363,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="722"/>
       <source>IKEv1 Enabled</source>
-      <translation type="unfinished">IKEv1 Enabled</translation>
+      <translation>已啟用 IKEv1</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="741"/>
@@ -50373,7 +50373,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="742"/>
       <source>Security Level</source>
-      <translation type="unfinished">Security Level</translation>
+      <translation>安全性等級</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="743"/>
@@ -50383,12 +50383,12 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="759"/>
       <source>Clientless Settings</source>
-      <translation type="unfinished">Clientless Settings</translation>
+      <translation>無用戶端設定</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="760"/>
       <source>Bookmarks</source>
-      <translation type="unfinished">Bookmarks</translation>
+      <translation>書籤</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="761"/>
@@ -50408,17 +50408,17 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="766"/>
       <source>Bookmark</source>
-      <translation type="unfinished">Bookmark</translation>
+      <translation>書籤</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="767"/>
       <source>Profile Name</source>
-      <translation type="unfinished">Profile Name</translation>
+      <translation>設定檔名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="768"/>
       <source>Group Policy</source>
-      <translation type="unfinished">Group Policy</translation>
+      <translation>群組原則</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="769"/>
@@ -50483,7 +50483,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="952"/>
       <source>Hot Standby</source>
-      <translation type="unfinished">Hot Standby</translation>
+      <translation>熱備援</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="978"/>
@@ -50503,12 +50503,12 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="981"/>
       <source>DHCP Snooping Trust</source>
-      <translation type="unfinished">DHCP Snooping Trust</translation>
+      <translation>DHCP Snooping 信任</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="982"/>
       <source>DHCP Snooping Limit Rate</source>
-      <translation type="unfinished">DHCP Snooping Limit Rate</translation>
+      <translation>DHCP Snooping 速率限制</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="995"/>
@@ -50678,7 +50678,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1326"/>
       <source>Netflow Collector</source>
-      <translation type="unfinished">Netflow Collector</translation>
+      <translation>Netflow 收集器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1329"/>
@@ -50688,18 +50688,18 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1331"/>
       <source>Records</source>
-      <translation type="unfinished">Records</translation>
+      <translation>記錄</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1332"/>
       <source>Monitors</source>
-      <translation type="unfinished">Monitors</translation>
+      <translation>監視器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1333"/>
       <location filename="../gui/CTranslationDB.cpp" line="1349"/>
       <source>Exporters</source>
-      <translation type="unfinished">Exporters</translation>
+      <translation>匯出器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1335"/>
@@ -50956,7 +50956,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="129"/>
       <source>3650 Series Blank Power Supply Slot Cover</source>
-      <translation type="unfinished">3650 Series Blank Power Supply Slot Cover</translation>
+      <translation>3650 Series Blank Power Supply Slot Cover</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="148"/>
@@ -51923,22 +51923,22 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2715"/>
       <source>TCP MAX Incomplete Host</source>
-      <translation type="unfinished">TCP MAX Incomplete Host</translation>
+      <translation>TCP 最大未完成主機</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2716"/>
       <source>TCP MAX Incomplete Host Blocktime</source>
-      <translation type="unfinished">TCP MAX Incomplete Host Blocktime</translation>
+      <translation>TCP 最大未完成主機封鎖時間</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2719"/>
       <source>Parameter Maps</source>
-      <translation type="unfinished">Parameter Maps</translation>
+      <translation>參數對應</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2720"/>
       <source>Parameter Map List</source>
-      <translation type="unfinished">Parameter Map List</translation>
+      <translation>參數對應清單</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2721"/>
@@ -52031,7 +52031,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
       <location filename="../gui/CTranslationDB.cpp" line="2761"/>
       <location filename="../gui/CTranslationDB.cpp" line="3435"/>
       <source>State</source>
-      <translation type="unfinished">State</translation>
+      <translation>狀態</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2762"/>
@@ -52066,7 +52066,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2824"/>
       <source>Accounting</source>
-      <translation type="unfinished">Accounting</translation>
+      <translation>記帳</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2826"/>
@@ -52096,12 +52096,12 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2899"/>
       <source>IPv6 Crypto ISAKMP Key Address Pairs</source>
-      <translation type="unfinished">IPv6 Crypto ISAKMP Key Address Pairs</translation>
+      <translation>IPv6 加密 ISAKMP 金鑰位址配對</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2902"/>
       <source>IPv6 Crypto Map Sets</source>
-      <translation type="unfinished">IPv6 Crypto Map Sets</translation>
+      <translation>IPv6 加密對應集</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2910"/>
@@ -52621,7 +52621,7 @@ Click Cancel to stop waiting and save with current replied data.</translation>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3429"/>
       <source>Remote Server</source>
-      <translation type="unfinished">Remote Server</translation>
+      <translation>遠端伺服器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3431"/>
@@ -53255,23 +53255,23 @@ If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask valu
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="285"/>
       <source>FTP Server</source>
-      <translation type="unfinished">FTP Server</translation>
+      <translation>FTP 伺服器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="286"/>
       <source>FTP Enable</source>
-      <translation type="unfinished">FTP Enable</translation>
+      <translation>啟用 FTP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="230"/>
       <location filename="../gui/CTranslationDB.cpp" line="287"/>
       <source>Server Files</source>
-      <translation type="unfinished">Server Files</translation>
+      <translation>伺服器檔案</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="288"/>
       <source>User Accounts</source>
-      <translation type="unfinished">User Accounts</translation>
+      <translation>使用者帳戶</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="289"/>
@@ -53281,7 +53281,7 @@ If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask valu
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="292"/>
       <source>User Permission</source>
-      <translation type="unfinished">User Permission</translation>
+      <translation>使用者權限</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="539"/>
@@ -53291,33 +53291,33 @@ If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask valu
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="617"/>
       <source>Login On Success</source>
-      <translation type="unfinished">Login On Success</translation>
+      <translation>登入成功時</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="618"/>
       <source>Login On Failure</source>
-      <translation type="unfinished">Login On Failure</translation>
+      <translation>登入失敗時</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="624"/>
       <source>FTP Username</source>
-      <translation type="unfinished">FTP Username</translation>
+      <translation>FTP 使用者名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="625"/>
       <source>FTP Password</source>
-      <translation type="unfinished">FTP Password</translation>
+      <translation>FTP 密碼</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="671"/>
       <source>Device Model</source>
-      <translation type="unfinished">Device Model</translation>
+      <translation>裝置型號</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="672"/>
       <location filename="../gui/CTranslationDB.cpp" line="3498"/>
       <source>Device Type</source>
-      <translation type="unfinished">Device Type</translation>
+      <translation>裝置類型</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="933"/>
@@ -53362,7 +53362,7 @@ If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask valu
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1025"/>
       <source>EPhone Directories</source>
-      <translation type="unfinished">EPhone Directories</translation>
+      <translation>EPhone 目錄</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1027"/>
@@ -53433,28 +53433,28 @@ If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask valu
       <location filename="../gui/CTranslationDB.cpp" line="1050"/>
       <location filename="../gui/CTranslationDB.cpp" line="1078"/>
       <source>Virtual Template</source>
-      <translation type="unfinished">Virtual Template</translation>
+      <translation>虛擬範本</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1051"/>
       <location filename="../gui/CTranslationDB.cpp" line="1060"/>
       <source>Interfaces</source>
-      <translation type="unfinished">Interfaces</translation>
+      <translation>介面</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1052"/>
       <source>VPDN Enable</source>
-      <translation type="unfinished">VPDN Enable</translation>
+      <translation>啟用 VPDN</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1053"/>
       <source>VPDN Groups</source>
-      <translation type="unfinished">VPDN Groups</translation>
+      <translation>VPDN 群組</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1063"/>
       <source>Default IP Address Pool</source>
-      <translation type="unfinished">Default IP Address Pool</translation>
+      <translation>預設 IP 位址集區</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1067"/>
@@ -53469,7 +53469,7 @@ If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask valu
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="938"/>
       <source>PPP Authentication</source>
-      <translation type="unfinished">PPP Authentication</translation>
+      <translation>PPP 驗證</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1075"/>
@@ -54010,12 +54010,12 @@ The FTP server checks whether the file exists and waits for the corresponding RN
       <location filename="../gui/CTranslationDB.cpp" line="1547"/>
       <location filename="../gui/CTranslationDB.cpp" line="2626"/>
       <source>Mode</source>
-      <translation type="unfinished">Mode</translation>
+      <translation>模式</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2627"/>
       <source>Access Restriction</source>
-      <translation type="unfinished">Access Restriction</translation>
+      <translation>存取限制</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2628"/>
@@ -54025,12 +54025,12 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2633"/>
       <source>Dot11 Configuration</source>
-      <translation type="unfinished">Dot11 Configuration</translation>
+      <translation>Dot11 組態</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2634"/>
       <source>SSID Configurations</source>
-      <translation type="unfinished">SSID Configurations</translation>
+      <translation>SSID 組態</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2636"/>
@@ -54070,7 +54070,7 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2646"/>
       <source>Dot11Radio Configurations</source>
-      <translation type="unfinished">Dot11Radio Configurations</translation>
+      <translation>Dot11Radio 組態</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2650"/>
@@ -54110,17 +54110,17 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2832"/>
       <source>Network Configuration</source>
-      <translation type="unfinished">Network Configuration</translation>
+      <translation>網路組態</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2838"/>
       <source>User Setup</source>
-      <translation type="unfinished">User Setup</translation>
+      <translation>使用者設定</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2968"/>
       <source>Email User</source>
-      <translation type="unfinished">Email User</translation>
+      <translation>電子郵件使用者</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2970"/>
@@ -54130,39 +54130,39 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2971"/>
       <source>Incoming Mail Server</source>
-      <translation type="unfinished">Incoming Mail Server</translation>
+      <translation>收件伺服器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2972"/>
       <source>Outgoing Mail Server</source>
-      <translation type="unfinished">Outgoing Mail Server</translation>
+      <translation>寄件伺服器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2977"/>
       <source>Email Client</source>
-      <translation type="unfinished">Email Client</translation>
+      <translation>電子郵件用戶端</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2980"/>
       <source>Email Server</source>
-      <translation type="unfinished">Email Server</translation>
+      <translation>電子郵件伺服器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2981"/>
       <source>SMTP Service Enabled</source>
-      <translation type="unfinished">SMTP Service Enabled</translation>
+      <translation>已啟用 SMTP 服務</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2982"/>
       <source>POP3 Service Enabled</source>
-      <translation type="unfinished">POP3 Service Enabled</translation>
+      <translation>已啟用 POP3 服務</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="763"/>
       <location filename="../gui/CTranslationDB.cpp" line="2984"/>
       <location filename="../gui/CTranslationDB.cpp" line="3472"/>
       <source>Users</source>
-      <translation type="unfinished">Users</translation>
+      <translation>使用者</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3053"/>
@@ -54480,42 +54480,42 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3378"/>
       <source>H323 client received release complete</source>
-      <translation type="unfinished">H323 client received release complete</translation>
+      <translation>H323 client received release complete</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3379"/>
       <source>H323 client received connect</source>
-      <translation type="unfinished">H323 client received connect</translation>
+      <translation>H323 client received connect</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3380"/>
       <source>H323 client received call proceeding</source>
-      <translation type="unfinished">H323 client received call proceeding</translation>
+      <translation>H323 client received call proceeding</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3381"/>
       <source>H323 client send H323 connect message </source>
-      <translation type="unfinished">H323 client send H323 connect message </translation>
+      <translation>H323 client send H323 connect message </translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3382"/>
       <source>H323 client send connection request to server</source>
-      <translation type="unfinished">H323 client send connection request to server</translation>
+      <translation>H323 client send connection request to server</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3383"/>
       <source>H323 client send setup message</source>
-      <translation type="unfinished">H323 client send setup message</translation>
+      <translation>H323 client send setup message</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3385"/>
       <source>H323 server received release complete</source>
-      <translation type="unfinished">H323 server received release complete</translation>
+      <translation>H323 server received release complete</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3386"/>
       <source>H323 server received set up</source>
-      <translation type="unfinished">H323 server received set up</translation>
+      <translation>H323 server received set up</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3388"/>
@@ -54575,17 +54575,17 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="682"/>
       <source>Accessories</source>
-      <translation type="unfinished">Accessories</translation>
+      <translation>配件</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="683"/>
       <source>Microphone Connected</source>
-      <translation type="unfinished">Microphone Connected</translation>
+      <translation>麥克風已連接</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="684"/>
       <source>Headphone Connected</source>
-      <translation type="unfinished">Headphone Connected</translation>
+      <translation>耳機已連接</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="685"/>
@@ -54600,17 +54600,17 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="691"/>
       <source>Files</source>
-      <translation type="unfinished">Files</translation>
+      <translation>檔案</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="692"/>
       <source>C Directory</source>
-      <translation type="unfinished">C Directory</translation>
+      <translation>C 目錄</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="693"/>
       <source>Desktop</source>
-      <translation type="unfinished">Desktop</translation>
+      <translation>桌面</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2479"/>
@@ -54660,17 +54660,17 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="305"/>
       <source>Modulus Bits</source>
-      <translation type="unfinished">Modulus Bits</translation>
+      <translation>模數位元</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="343"/>
       <source>Config Location</source>
-      <translation type="unfinished">Config Location</translation>
+      <translation>組態位置</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="344"/>
       <source>Config Location Retries</source>
-      <translation type="unfinished">Config Location Retries</translation>
+      <translation>組態位置重試次數</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="627"/>
@@ -54680,12 +54680,12 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="689"/>
       <source>Default Gateway IPv6</source>
-      <translation type="unfinished">Default Gateway IPv6</translation>
+      <translation>預設閘道 IPv6</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="690"/>
       <source>DNS Server IPv6</source>
-      <translation type="unfinished">DNS Server IPv6</translation>
+      <translation>DNS 伺服器 IPv6</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="739"/>
@@ -54710,47 +54710,47 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="531"/>
       <source>Prefix IP</source>
-      <translation type="unfinished">Prefix IP</translation>
+      <translation>前置碼 IP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="532"/>
       <source>Prefix Mask</source>
-      <translation type="unfinished">Prefix Mask</translation>
+      <translation>前置碼遮罩</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="573"/>
       <source>RS 232 Terminal Config</source>
-      <translation type="unfinished">RS 232 Terminal Config</translation>
+      <translation>RS 232 終端機組態</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="574"/>
       <source>IPv6 Access-class In</source>
-      <translation type="unfinished">IPv6 Access-class In</translation>
+      <translation>IPv6 存取類別（輸入）</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="575"/>
       <source>IPv6 Access-class Out</source>
-      <translation type="unfinished">IPv6 Access-class Out</translation>
+      <translation>IPv6 存取類別（輸出）</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="576"/>
       <source>Privilege Level</source>
-      <translation type="unfinished">Privilege Level</translation>
+      <translation>權限等級</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="626"/>
       <source>FTP Passive</source>
-      <translation type="unfinished">FTP Passive</translation>
+      <translation>FTP 被動模式</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="679"/>
       <source>SCCP Server Address</source>
-      <translation type="unfinished">SCCP Server Address</translation>
+      <translation>SCCP 伺服器位址</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="694"/>
       <source>MLS QoS Enabled</source>
-      <translation type="unfinished">MLS QoS Enabled</translation>
+      <translation>已啟用 MLS QoS</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="728"/>
@@ -54760,7 +54760,7 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="733"/>
       <source>Port Type</source>
-      <translation type="unfinished">Port Type</translation>
+      <translation>連接埠類型</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="740"/>
@@ -54775,12 +54775,12 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="756"/>
       <source>Load Balance Method</source>
-      <translation type="unfinished">Load Balance Method</translation>
+      <translation>負載平衡方式</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="833"/>
       <source>Forward Protocols</source>
-      <translation type="unfinished">Forward Protocols</translation>
+      <translation>轉送協定</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="842"/>
@@ -54800,62 +54800,62 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="848"/>
       <source>ARP Timeout</source>
-      <translation type="unfinished">ARP Timeout</translation>
+      <translation>ARP 逾時</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="849"/>
       <source>IPv6 Enable</source>
-      <translation type="unfinished">IPv6 Enable</translation>
+      <translation>啟用 IPv6</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="851"/>
       <source>IPv6 Auto Config</source>
-      <translation type="unfinished">IPv6 Auto Config</translation>
+      <translation>IPv6 自動組態</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="852"/>
       <source>Link Local</source>
-      <translation type="unfinished">Link Local</translation>
+      <translation>連結本地</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="854"/>
       <source>IPv6 Addresses</source>
-      <translation type="unfinished">IPv6 Addresses</translation>
+      <translation>IPv6 位址</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="888"/>
       <source>IPS In</source>
-      <translation type="unfinished">IPS In</translation>
+      <translation>IPS 輸入</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="889"/>
       <source>IPS Out</source>
-      <translation type="unfinished">IPS Out</translation>
+      <translation>IPS 輸出</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="901"/>
       <source>OSPF Authentication Key Type</source>
-      <translation type="unfinished">OSPF Authentication Key Type</translation>
+      <translation>OSPF 驗證金鑰類型</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="908"/>
       <source>OSPF Network Type</source>
-      <translation type="unfinished">OSPF Network Type</translation>
+      <translation>OSPF 網路類型</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="931"/>
       <source>IP Inspect In</source>
-      <translation type="unfinished">IP Inspect In</translation>
+      <translation>IP 檢查（輸入）</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="932"/>
       <source>IP Inspect Out</source>
-      <translation type="unfinished">IP Inspect Out</translation>
+      <translation>IP 檢查（輸出）</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="935"/>
       <source>PPPoE Enabled</source>
-      <translation type="unfinished">PPPoE Enabled</translation>
+      <translation>已啟用 PPPoE</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="940"/>
@@ -54870,7 +54870,7 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="942"/>
       <source>Fair Queue</source>
-      <translation type="unfinished">Fair Queue</translation>
+      <translation>公平佇列</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="943"/>
@@ -54880,17 +54880,17 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="944"/>
       <source>Virtual Reassembly</source>
-      <translation type="unfinished">Virtual Reassembly</translation>
+      <translation>虛擬重組</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="945"/>
       <source>IPv6 Traffic Filter In</source>
-      <translation type="unfinished">IPv6 Traffic Filter In</translation>
+      <translation>IPv6 流量篩選（輸入）</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="946"/>
       <source>IPv6 Traffic Filter Out</source>
-      <translation type="unfinished">IPv6 Traffic Filter Out</translation>
+      <translation>IPv6 流量篩選（輸出）</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="947"/>
@@ -54910,22 +54910,22 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="950"/>
       <source>IPv6 NAT Prefix</source>
-      <translation type="unfinished">IPv6 NAT Prefix</translation>
+      <translation>IPv6 NAT 前置碼</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1007"/>
       <source>IP Hosts</source>
-      <translation type="unfinished">IP Hosts</translation>
+      <translation>IP 主機</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1008"/>
       <source>IPv6 Hosts</source>
-      <translation type="unfinished">IPv6 Hosts</translation>
+      <translation>IPv6 主機</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1011"/>
       <source>IP Domain Name</source>
-      <translation type="unfinished">IP Domain Name</translation>
+      <translation>IP 網域名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1013"/>
@@ -54965,17 +54965,17 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2908"/>
       <source>Security Association</source>
-      <translation type="unfinished">Security Association</translation>
+      <translation>安全性關聯</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2909"/>
       <source>ISAKMP Enable</source>
-      <translation type="unfinished">ISAKMP Enable</translation>
+      <translation>啟用 ISAKMP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3031"/>
       <source>General Prefixes</source>
-      <translation type="unfinished">General Prefixes</translation>
+      <translation>一般前置碼</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3032"/>
@@ -56107,22 +56107,22 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="110"/>
       <source>WPA Enterprise</source>
-      <translation>WPA Enterprise</translation>
+      <translation>WPA 企業版</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="112"/>
       <source>WPA Personal</source>
-      <translation>WPA Personal</translation>
+      <translation>WPA 個人版</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="114"/>
       <source>WPA2 Enterprise</source>
-      <translation>WPA2 Enterprise</translation>
+      <translation>WPA2 企業版</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="116"/>
       <source>WPA2 Personal</source>
-      <translation>WPA2 Personal</translation>
+      <translation>WPA2 個人版</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="106"/>
@@ -58273,7 +58273,7 @@ Flow information:
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BaseServiceTftp.ui" line="14"/>
       <source>TFTP Service</source>
-      <translation>TFTP Service</translation>
+      <translation>TFTP 服務</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BaseServiceTftp.ui" line="58"/>
@@ -58731,7 +58731,7 @@ Flow information:
       <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetSettings.cpp" line="79"/>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetSettings.cpp" line="156"/>
       <source>Mark</source>
-      <translation>Mark</translation>
+      <translation>標記</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetSettings.cpp" line="83"/>
