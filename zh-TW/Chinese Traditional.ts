@@ -52546,77 +52546,77 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3407"/>
       <source>Sending HSRP hello message</source>
-      <translation type="unfinished">Sending HSRP hello message</translation>
+      <translation>傳送 HSRP hello 訊息</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3408"/>
       <source>Sending a resign hello message</source>
-      <translation type="unfinished">Sending a resign hello message</translation>
+      <translation>傳送 resign hello 訊息</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3409"/>
       <source>Sending a coup hello message</source>
-      <translation type="unfinished">Sending a coup hello message</translation>
+      <translation>傳送 coup hello 訊息</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3411"/>
       <source>Encircling Tests</source>
-      <translation type="unfinished">Encircling Tests</translation>
+      <translation>圈選測試</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3413"/>
       <source>itself</source>
-      <translation type="unfinished">itself</translation>
+      <translation>itself</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3414"/>
       <source>Included</source>
-      <translation type="unfinished">Included</translation>
+      <translation>包含</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3415"/>
       <source>Excluded</source>
-      <translation type="unfinished">Excluded</translation>
+      <translation>排除</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3416"/>
       <source>Must Match Name</source>
-      <translation type="unfinished">Must Match Name</translation>
+      <translation>名稱必須相符</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3417"/>
       <source>In Logical View</source>
-      <translation type="unfinished">In Logical View</translation>
+      <translation>在邏輯檢視中</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3418"/>
       <source>In Physical View</source>
-      <translation type="unfinished">In Physical View</translation>
+      <translation>在實體檢視中</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3419"/>
       <source>Shape Name</source>
-      <translation type="unfinished">Shape Name</translation>
+      <translation>形狀名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3421"/>
       <source>The packet received is encapsulated in Ipv4 with the protocol field set to 41.</source>
-      <translation type="unfinished">The packet received is encapsulated in Ipv4 with the protocol field set to 41.</translation>
+      <translation>收到的封包封裝在通訊協定欄位設為 41 的 IPv4 中。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3422"/>
       <source>The protocol field in the Ip Header is 41. The IPv4 header of the packet is removed and sent to port [[PORT_NAME]].</source>
-      <translation type="unfinished">The protocol field in the Ip Header is 41. The IPv4 header of the packet is removed and sent to port [[PORT_NAME]].</translation>
+      <translation>IP 標頭中的通訊協定欄位為 41。封包的 IPv4 標頭已移除，並傳送到連接埠 [[PORT_NAME]]。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3423"/>
       <source>Ipv6Ip head</source>
-      <translation type="unfinished">Ipv6Ip head</translation>
+      <translation>Ipv6Ip head</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3424"/>
       <source>Ipv6Ip tunnels</source>
-      <translation type="unfinished">Ipv6Ip tunnels</translation>
+      <translation>Ipv6Ip tunnels</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3429"/>
@@ -52626,233 +52626,233 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3431"/>
       <source>Registration Server Name</source>
-      <translation type="unfinished">Registration Server Name</translation>
+      <translation>註冊伺服器名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3191"/>
       <source>The default value inserted into the Time-To-Live field of the IPv4 header of datagrams originated at this entity, whenever a TTL value is not supplied by the transport layer protocol.</source>
-      <translation type="unfinished">The default value inserted into the Time-To-Live field of the IPv4 header of datagrams originated at this entity, whenever a TTL value is not supplied by the transport layer protocol.</translation>
+      <translation>當傳輸層通訊協定未提供 TTL 值時，插入此實體所產生資料包 IPv4 標頭 Time-To-Live 欄位的預設值。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2780"/>
       <source>Master</source>
-      <translation type="unfinished">Master</translation>
+      <translation>Master</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2827"/>
       <source>Login Commands</source>
-      <translation type="unfinished">Login Commands</translation>
+      <translation>登入命令</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2166"/>
       <location filename="../gui/CTranslationDB.cpp" line="2847"/>
       <source>RADIUS Servers</source>
-      <translation type="unfinished">RADIUS Servers</translation>
+      <translation>RADIUS 伺服器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2850"/>
       <source>UDP Authentication Port</source>
-      <translation type="unfinished">UDP Authentication Port</translation>
+      <translation>UDP 驗證連接埠</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2851"/>
       <source>Encryption Key</source>
-      <translation type="unfinished">Encryption Key</translation>
+      <translation>加密金鑰</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3074"/>
       <source>NTP client sends out an NTP request.</source>
-      <translation type="unfinished">NTP client sends out an NTP request.</translation>
+      <translation>NTP 用戶端送出 NTP 要求。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3075"/>
       <source>NTP process receives an NTP packet.</source>
-      <translation type="unfinished">NTP process receives an NTP packet.</translation>
+      <translation>NTP 處理程序收到 NTP 封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3076"/>
       <source>NTP server sends out an NTP response.</source>
-      <translation type="unfinished">NTP server sends out an NTP response.</translation>
+      <translation>NTP 伺服器送出 NTP 回應。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3082"/>
       <source>The device&apos;s clock is not synced. Packet is dropped.</source>
-      <translation type="unfinished">The device&apos;s clock is not synced. Packet is dropped.</translation>
+      <translation>裝置的時鐘尚未同步。封包被捨棄。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3084"/>
       <source>The packet must be manycast.  Either NTP not synced or our stratum is above the manycaster. The packet is dropped.</source>
-      <translation type="unfinished">The packet must be manycast.  Either NTP not synced or our stratum is above the manycaster. The packet is dropped.</translation>
+      <translation>此封包必須是 manycast。可能是 NTP 尚未同步，或我們的階層高於 manycast 傳送端。封包被捨棄。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3085"/>
       <source>There is an indication of a non-fatal violation of protocol as the result of a programming error, long - delayed packet, or replayed packet.The peer process discards the packet and exits.</source>
-      <translation type="unfinished">There is an indication of a non-fatal violation of protocol as the result of a programming error, long - delayed packet, or replayed packet.The peer process discards the packet and exits.</translation>
+      <translation>有跡象顯示發生了非致命的通訊協定違規，原因可能是程式錯誤、嚴重延遲的封包或重播的封包。對等端處理程序捨棄此封包並結束。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3086"/>
       <source>Authentication fails, send a crypto-NAK packet.</source>
-      <translation type="unfinished">Authentication fails, send a crypto-NAK packet.</translation>
+      <translation>驗證失敗，傳送 crypto-NAK 封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3087"/>
       <source>This indicates a fatal violation of protocol as the result of a programming error, long - delayed packet, or replayed packet.The peer process discards the packet, demobilizes the symmetric passive association, and exits.</source>
-      <translation type="unfinished">This indicates a fatal violation of protocol as the result of a programming error, long - delayed packet, or replayed packet.The peer process discards the packet, demobilizes the symmetric passive association, and exits.</translation>
+      <translation>這表示發生了致命的通訊協定違規，原因可能是程式錯誤、嚴重延遲的封包或重播的封包。對等端處理程序捨棄此封包、解除對稱被動關聯並結束。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3088"/>
       <source>This indicates a client (mode 3) unicast packet matching no association(mode 0). The server constructs a server(mode 4) packet and returns it to the client without retaining state. </source>
-      <translation type="unfinished">This indicates a client (mode 3) unicast packet matching no association(mode 0). The server constructs a server(mode 4) packet and returns it to the client without retaining state. </translation>
+      <translation>這表示用戶端（模式 3）單點傳播封包沒有符合的關聯（模式 0）。伺服器建構伺服器（模式 4）封包並回傳給用戶端，不保留狀態。 </translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3090"/>
       <source>The transmit timestamp is zero, the server is horribly broken. The packet is dropped.</source>
-      <translation type="unfinished">The transmit timestamp is zero, the server is horribly broken. The packet is dropped.</translation>
+      <translation>傳輸時間戳記為零，伺服器嚴重故障。封包被捨棄。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3091"/>
       <source>The transmit timestamp duplicates a previous one, the packet is a replay; therefore, dropped.</source>
-      <translation type="unfinished">The transmit timestamp duplicates a previous one, the packet is a replay; therefore, dropped.</translation>
+      <translation>傳輸時間戳記與先前的重複，此封包是重播，因此被捨棄。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3092"/>
       <source>It&apos;s a new manycast client ephemeral association.  Authentication fails, the packet dropped.</source>
-      <translation type="unfinished">It&apos;s a new manycast client ephemeral association.  Authentication fails, the packet dropped.</translation>
+      <translation>這是新的 manycast 用戶端暫時關聯。驗證失敗，封包被捨棄。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3093"/>
       <source>It&apos;s a new manycast client ephemeral association.  Authentication passes, the association is mobilized in the same version as in the packet.</source>
-      <translation type="unfinished">It&apos;s a new manycast client ephemeral association.  Authentication passes, the association is mobilized in the same version as in the packet.</translation>
+      <translation>這是新的 manycast 用戶端暫時關聯。驗證通過，關聯以與封包相同的版本啟動。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3094"/>
       <source>This is a unicast packet. The origin timestamp is zero(unsynchronized) or does not match the transmit timestamp(bogus). The packet is dropped.</source>
-      <translation type="unfinished">This is a unicast packet. The origin timestamp is zero(unsynchronized) or does not match the transmit timestamp(bogus). The packet is dropped.</translation>
+      <translation>這是單點傳播封包。原始時間戳記為零（未同步）或與傳輸時間戳記不符（偽造）。封包被捨棄。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3095"/>
       <source>The packet is a crypto-NAK; the server might have just changed keys. The packet is dropped.</source>
-      <translation type="unfinished">The packet is a crypto-NAK; the server might have just changed keys. The packet is dropped.</translation>
+      <translation>此封包是 crypto-NAK；伺服器可能剛變更金鑰。封包被捨棄。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3096"/>
       <source>The association is authenticated; the key ID is nonzero and received packets fails authentication. The packet is dropped to avoid a bait - and-switch attack</source>
-      <translation type="unfinished">The association is authenticated; the key ID is nonzero and received packets fails authentication. The packet is dropped to avoid a bait - and-switch attack</translation>
+      <translation>關聯已通過驗證；金鑰 ID 不為零，且收到的封包驗證失敗。為避免誘騙攻擊 (bait-and-switch)，封包被捨棄</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3097"/>
       <source>The packet indicates a new symmetric passive association.  It is mobilized in the same version as in the packet. Authentication fails, send a crypto - NAK packet.</source>
-      <translation type="unfinished">The packet indicates a new symmetric passive association.  It is mobilized in the same version as in the packet. Authentication fails, send a crypto - NAK packet.</translation>
+      <translation>此封包指出新的對稱被動關聯，並以與封包相同的版本啟動。驗證失敗，傳送 crypto-NAK 封包。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3098"/>
       <source>If restrict no - mobilize, send a symmetric active packet instead</source>
-      <translation type="unfinished">If restrict no - mobilize, send a symmetric active packet instead</translation>
+      <translation>若限制不啟動關聯，則改為傳送對稱主動封包</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3099"/>
       <source>New symmetric passive association.It is mobilized in the same version as in the packet.</source>
-      <translation type="unfinished">New symmetric passive association.It is mobilized in the same version as in the packet.</translation>
+      <translation>新的對稱被動關聯。以與封包相同的版本啟動。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3101"/>
       <source>New broadcast client association. Authentication fails. The packet is dropped.</source>
-      <translation type="unfinished">New broadcast client association. Authentication fails. The packet is dropped.</translation>
+      <translation>新的廣播用戶端關聯。驗證失敗。封包被捨棄。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3102"/>
       <source>New broadcast client association. New broadcast is not enabled. The packet is dropped.</source>
-      <translation type="unfinished">New broadcast client association. New broadcast is not enabled. The packet is dropped.</translation>
+      <translation>新的廣播用戶端關聯。未啟用新的廣播。封包被捨棄。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3103"/>
       <source>New broadcast client association.  It is mobilized in the same version as in the packet.</source>
-      <translation type="unfinished">New broadcast client association.  It is mobilized in the same version as in the packet.</translation>
+      <translation>新的廣播用戶端關聯。以與封包相同的版本啟動。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3104"/>
       <source>The packet is valid. The packet is processed to compute offset, delay, and dispersion.</source>
-      <translation type="unfinished">The packet is valid. The packet is processed to compute offset, delay, and dispersion.</translation>
+      <translation>封包有效。處理封包以計算偏移、延遲與離散度。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3143"/>
       <source>RADIUS CLIENT: Receive access challenge</source>
-      <translation type="unfinished">RADIUS CLIENT: Receive access challenge</translation>
+      <translation>RADIUS 用戶端：收到 access challenge</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3151"/>
       <source>RADIUS SERVER: Send access challenge</source>
-      <translation type="unfinished">RADIUS SERVER: Send access challenge</translation>
+      <translation>RADIUS 伺服器：傳送 access challenge</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3192"/>
       <source>The maximum number of seconds that received fragments is held while they are awaiting reassembly at this entity.</source>
-      <translation type="unfinished">The maximum number of seconds that received fragments is held while they are awaiting reassembly at this entity.</translation>
+      <translation>收到的片段在此實體等待重組時保留的最大秒數。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3193"/>
       <source>This entity&apos;s IP Routing table.</source>
-      <translation type="unfinished">This entity&apos;s IP Routing table.</translation>
+      <translation>此實體的 IP 路由表。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3195"/>
       <source>The default value inserted into the Hop Limit field of the IPv6 header of datagrams originated at this entity whenever a Hop Limit value is not supplied by the transport layer protocol.</source>
-      <translation type="unfinished">The default value inserted into the Hop Limit field of the IPv6 header of datagrams originated at this entity whenever a Hop Limit value is not supplied by the transport layer protocol.</translation>
+      <translation>當傳輸層通訊協定未提供 Hop Limit 值時，插入此實體所產生資料包 IPv6 標頭 Hop Limit 欄位的預設值。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3196"/>
       <source>The value of sysUpTime on the most recent occasion at which a row in the ipv4InterfaceTable was added or deleted, or when an ipv4Interface-ReasmMaxSize or an ipv4Interface-EnableStatus object was modified.</source>
-      <translation type="unfinished">The value of sysUpTime on the most recent occasion at which a row in the ipv4InterfaceTable was added or deleted, or when an ipv4Interface-ReasmMaxSize or an ipv4Interface-EnableStatus object was modified.</translation>
+      <translation>最近一次 ipv4InterfaceTable 中的資料列被新增或刪除，或 ipv4Interface-ReasmMaxSize 或 ipv4Interface-EnableStatus 物件被修改時，sysUpTime 的值。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3197"/>
       <source>The table containing per-interface IPv4-specific information.</source>
-      <translation type="unfinished">The table containing per-interface IPv4-specific information.</translation>
+      <translation>包含各介面 IPv4 專屬資訊的表。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3198"/>
       <source>The value of sysUpTime on the most recent occasion at which a row in the ipv6InterfaceTable was added or deleted or when an ipv6InterfaceReasmMaxSize, ipv6InterfaceIdentifier, ipv6InterfaceEnableStatus, ipv6InterfaceReachableTime, ipv6InterfaceRetransmitTime, or ipv6InterfaceForwarding object was modified.</source>
-      <translation type="unfinished">The value of sysUpTime on the most recent occasion at which a row in the ipv6InterfaceTable was added or deleted or when an ipv6InterfaceReasmMaxSize, ipv6InterfaceIdentifier, ipv6InterfaceEnableStatus, ipv6InterfaceReachableTime, ipv6InterfaceRetransmitTime, or ipv6InterfaceForwarding object was modified.</translation>
+      <translation>最近一次 ipv6InterfaceTable 中的資料列被新增或刪除，或 ipv6InterfaceReasmMaxSize、ipv6InterfaceIdentifier、ipv6InterfaceEnableStatus、ipv6InterfaceReachableTime、ipv6InterfaceRetransmitTime 或 ipv6InterfaceForwarding 物件被修改時，sysUpTime 的值。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3199"/>
       <source>The table containing per-interface IPv6-specific information.</source>
-      <translation type="unfinished">The table containing per-interface IPv6-specific information.</translation>
+      <translation>包含各介面 IPv6 專屬資訊的表。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3204"/>
       <source>A route to a particular destination.</source>
-      <translation type="unfinished">A route to a particular destination.</translation>
+      <translation>通往特定目的地的路由。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3205"/>
       <source>The destination IP address of this route. An entry with a value of 0.0.0.0 is considered a default route. Multiple routes to a single destination can appear in the table, but access to sch multiple entries is dependent on the table- access mechanisms defined by the network management protocol in use.</source>
-      <translation type="unfinished">The destination IP address of this route. An entry with a value of 0.0.0.0 is considered a default route. Multiple routes to a single destination can appear in the table, but access to sch multiple entries is dependent on the table- access mechanisms defined by the network management protocol in use.</translation>
+      <translation>此路由的目的 IP 位址。值為 0.0.0.0 的項目視為預設路由。表中可出現通往同一目的地的多個路由，但存取這些多個項目取決於所使用之網路管理通訊協定所定義的表存取機制。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3206"/>
       <source>The index value which uniquely identifies the local interface through which the next hop of this route should be reached. The interface identified by a particular value of this index is the same interface as identified by the same value of ifIndex.</source>
-      <translation type="unfinished">The index value which uniquely identifies the local interface through which the next hop of this route should be reached. The interface identified by a particular value of this index is the same interface as identified by the same value of ifIndex.</translation>
+      <translation>唯一識別本機介面的索引值，此路由的下一跳應透過該介面到達。此索引特定值所識別的介面，與 ifIndex 相同值所識別的介面相同。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3207"/>
       <source>The primary routing metric for this route. The semantics of this metric are determined by the routing-protocol specified in the route&apos;s ipRouteProto value. If this metric is not used, its value should be set to -1.</source>
-      <translation type="unfinished">The primary routing metric for this route. The semantics of this metric are determined by the routing-protocol specified in the route&apos;s ipRouteProto value. If this metric is not used, its value should be set to -1.</translation>
+      <translation>此路由的主要路由度量。此度量的語意由路由 ipRouteProto 值所指定的路由通訊協定決定。若未使用此度量，其值應設為 -1。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3208"/>
       <source>The IP address of the next hop of this route. (In the case of a route bound to an interface which is realized via a broadcast media, the value of this field is the agent&apos;s IP address on that interface.)</source>
-      <translation type="unfinished">The IP address of the next hop of this route. (In the case of a route bound to an interface which is realized via a broadcast media, the value of this field is the agent&apos;s IP address on that interface.)</translation>
+      <translation>此路由下一跳的 IP 位址。（若路由繫結的介面是透過廣播媒體實現，則此欄位的值是代理程式在該介面上的 IP 位址。）</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3210"/>
       <source>The routing mechanism via which this route was learned. Inclusion of values for gateway routing protocols is not intended to imply that hosts should support those protocols.</source>
-      <translation type="unfinished">The routing mechanism via which this route was learned. Inclusion of values for gateway routing protocols is not intended to imply that hosts should support those protocols.</translation>
+      <translation>學到此路由所用的路由機制。包含閘道路由通訊協定的值，並非暗示主機應支援這些通訊協定。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3211"/>
       <source>The number of seconds since this route was last updated or otherwise determined to be correct.</source>
-      <translation type="unfinished">The number of seconds since this route was last updated or otherwise determined to be correct.</translation>
+      <translation>自此路由上次更新或被判定為正確以來的秒數。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3212"/>
@@ -52862,395 +52862,395 @@ mask network
 255.255.0.0 class-B
 255.255.255.0 class-C
 If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask value is also 0.0.0.0. It should be noted that all IP routing subsystems implicitly use this mechanism.</source>
-      <translation type="unfinished">Indicate the mask to be logical-ANDed with the destination address before being compared to the value in the ipRouteDest field. For those systems that do not support arbitrary subnet masks, an agent constructs the value of the ipRouteMask by  determining whether the value of the correspondent ipRouteDest field belong to a class-A, B, or C network, and then using one of:
-mask network
-255.0.0.0 class-A
-255.255.0.0 class-B
-255.255.255.0 class-C
-If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask value is also 0.0.0.0. It should be noted that all IP routing subsystems implicitly use this mechanism.</translation>
+      <translation>指出在與 ipRouteDest 欄位的值比較之前，要與目的位址進行邏輯 AND 運算的遮罩。對於不支援任意子網路遮罩的系統，代理程式會判斷對應的 ipRouteDest 欄位值屬於 A 類、B 類或 C 類網路，再使用下列其中之一來建構 ipRouteMask 的值：
+遮罩 網路
+255.0.0.0 A 類
+255.255.0.0 B 類
+255.255.255.0 C 類
+若 ipRouteDest 的值為 0.0.0.0（預設路由），則遮罩值也是 0.0.0.0。請注意，所有 IP 路由子系統都隱含使用此機制。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3213"/>
       <source>A reference to MIB definitions specific to the particular routing protocol which is responsible for this route, as determined by the value specified in the route&apos;s ipRouteProto value. If this information is not present, its value should be set to the OBJECT IDENTIFIER { 0 0 }, which is a syntactically valid object identifier, and any conformant implementation of ASN.1 and BER must be able to generate and recognize this value.</source>
-      <translation type="unfinished">A reference to MIB definitions specific to the particular routing protocol which is responsible for this route, as determined by the value specified in the route&apos;s ipRouteProto value. If this information is not present, its value should be set to the OBJECT IDENTIFIER { 0 0 }, which is a syntactically valid object identifier, and any conformant implementation of ASN.1 and BER must be able to generate and recognize this value.</translation>
+      <translation>對負責此路由之特定路由通訊協定專屬 MIB 定義的參照，由路由 ipRouteProto 值所指定的值決定。若沒有此資訊，其值應設為 OBJECT IDENTIFIER { 0 0 }，這是語法上有效的物件識別碼，任何符合規範的 ASN.1 與 BER 實作都必須能夠產生並辨識此值。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3216"/>
       <source>An entry containing IPv4-specific information for a specific interface.</source>
-      <translation type="unfinished">An entry containing IPv4-specific information for a specific interface.</translation>
+      <translation>包含特定介面 IPv4 專屬資訊的項目。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3217"/>
       <location filename="../gui/CTranslationDB.cpp" line="3224"/>
       <source>The index value that uniquely identifies the interface to which this entry is applicable. The interface identified by a particular value of this index is the same interface as identified by the same value of the IF-MIB&apos;s ifIndex.</source>
-      <translation type="unfinished">The index value that uniquely identifies the interface to which this entry is applicable. The interface identified by a particular value of this index is the same interface as identified by the same value of the IF-MIB&apos;s ifIndex.</translation>
+      <translation>唯一識別此項目所適用介面的索引值。此索引特定值所識別的介面，與 IF-MIB 的 ifIndex 相同值所識別的介面相同。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3218"/>
       <source>The size of the largest IPv4 datagram that this entity can re-assemble from incoming IPv4 fragmented datagrams received on this interface.</source>
-      <translation type="unfinished">The size of the largest IPv4 datagram that this entity can re-assemble from incoming IPv4 fragmented datagrams received on this interface.</translation>
+      <translation>此實體可從此介面收到的傳入 IPv4 分段資料包重組出的最大 IPv4 資料包大小。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3219"/>
       <source>The indication of whether IPv4 is enabled (up) or disabled (down) on this interface. This object does not affect the state of the interface itself, only its connection to an IPv4 stack. The IF-MIB should be used to control the state of the interface.</source>
-      <translation type="unfinished">The indication of whether IPv4 is enabled (up) or disabled (down) on this interface. This object does not affect the state of the interface itself, only its connection to an IPv4 stack. The IF-MIB should be used to control the state of the interface.</translation>
+      <translation>指出此介面上 IPv4 是啟用 (up) 還是停用 (down)。此物件不影響介面本身的狀態，只影響它與 IPv4 堆疊的連線。應使用 IF-MIB 來控制介面的狀態。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3220"/>
       <source>The time between retransmissions of ARP requests to a neighbor when resolving the address or when probing the reachability of a neighbor.</source>
-      <translation type="unfinished">The time between retransmissions of ARP requests to a neighbor when resolving the address or when probing the reachability of a neighbor.</translation>
+      <translation>解析位址或探測鄰居可達性時，對鄰居重傳 ARP 要求的間隔時間。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3223"/>
       <source>An entry containing IPv6-specific information for a given interface.</source>
-      <translation type="unfinished">An entry containing IPv6-specific information for a given interface.</translation>
+      <translation>包含指定介面 IPv6 專屬資訊的項目。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3225"/>
       <source>The size of the largest IPv6 datagram that this entity can re-assemble from incoming IPv6 fragmented datagrams received on this interface.</source>
-      <translation type="unfinished">The size of the largest IPv6 datagram that this entity can re-assemble from incoming IPv6 fragmented datagrams received on this interface.</translation>
+      <translation>此實體可從此介面收到的傳入 IPv6 分段資料包重組出的最大 IPv6 資料包大小。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3226"/>
       <source>The Interface Identifier for this interface. The Interface Identifier is combined with an address prefix to form an interface address. By default, the Interface Identifier is auto-configured according to the rules of the link type to which this interface is attached. A zero length identifier may be used where appropriate. One possible example is a loopback interface.</source>
-      <translation type="unfinished">The Interface Identifier for this interface. The Interface Identifier is combined with an address prefix to form an interface address. By default, the Interface Identifier is auto-configured according to the rules of the link type to which this interface is attached. A zero length identifier may be used where appropriate. One possible example is a loopback interface.</translation>
+      <translation>此介面的介面識別碼。介面識別碼會與位址前置碼結合以形成介面位址。預設情況下，介面識別碼依此介面所連接之連結類型的規則自動設定。適當時可使用零長度識別碼，回送介面就是一個可能的例子。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3228"/>
       <source>The time a neighbor is considered reachable after receiving a reachability confirmation.</source>
-      <translation type="unfinished">The time a neighbor is considered reachable after receiving a reachability confirmation.</translation>
+      <translation>收到可達性確認後，鄰居被視為可到達的時間。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3229"/>
       <source>The time between retransmissions of Neighbor Solicitation messages to a neighbor when resolving the address or when probing the reachability of a neighbor.</source>
-      <translation type="unfinished">The time between retransmissions of Neighbor Solicitation messages to a neighbor when resolving the address or when probing the reachability of a neighbor.</translation>
+      <translation>解析位址或探測鄰居可達性時，對鄰居重傳 Neighbor Solicitation 訊息的間隔時間。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3246"/>
       <source>A list of RIP Peers.</source>
-      <translation type="unfinished">A list of RIP Peers.</translation>
+      <translation>RIP 對等端的清單。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3248"/>
       <source>The IP Address that the peer is using as its source address.  Note that on an unnumbered link, this may not be a member of any subnet on the system.</source>
-      <translation type="unfinished">The IP Address that the peer is using as its source address.  Note that on an unnumbered link, this may not be a member of any subnet on the system.</translation>
+      <translation>對等端用作來源位址的 IP 位址。請注意，在無編號連結上，這可能不屬於系統上的任何子網路。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3250"/>
       <source>The value of sysUpTime when the most recent RIP update was received from this system.</source>
-      <translation type="unfinished">The value of sysUpTime when the most recent RIP update was received from this system.</translation>
+      <translation>最近一次收到來自此系統的 RIP 更新時，sysUpTime 的值。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3251"/>
       <source>The RIP version number in the header of the last RIP packet received.</source>
-      <translation type="unfinished">The RIP version number in the header of the last RIP packet received.</translation>
+      <translation>最後收到的 RIP 封包標頭中的 RIP 版本號碼。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3252"/>
       <source>The number of RIP response packets from this peer discarded as invalid.</source>
-      <translation type="unfinished">The number of RIP response packets from this peer discarded as invalid.</translation>
+      <translation>來自此對等端、因無效而被捨棄的 RIP 回應封包數量。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3253"/>
       <source>The number of routes from this peer that were ignored because the entry format was invalid.</source>
-      <translation type="unfinished">The number of routes from this peer that were ignored because the entry format was invalid.</translation>
+      <translation>來自此對等端、因項目格式無效而被忽略的路由數量。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3256"/>
       <source>The table of EIGRP routes and their associated attributes for an Autonomous System (AS) configured in a VPN is called a topology table. All route entries in the topology table will be indexed by IP network type, IP network number and network mask (prefix) size.</source>
-      <translation type="unfinished">The table of EIGRP routes and their associated attributes for an Autonomous System (AS) configured in a VPN is called a topology table. All route entries in the topology table will be indexed by IP network type, IP network number and network mask (prefix) size.</translation>
+      <translation>VPN 中所設定自治系統 (AS) 的 EIGRP 路由及其相關屬性表稱為拓樸表。拓樸表中的所有路由項目都依 IP 網路類型、IP 網路編號與網路遮罩（前置碼）大小建立索引。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3257"/>
       <source>The entry for a single EIGRP topology table in the given AS.</source>
-      <translation type="unfinished">The entry for a single EIGRP topology table in the given AS.</translation>
+      <translation>指定 AS 中單一 EIGRP 拓樸表的項目。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3258"/>
       <source>A value of true(1) indicates the route to the destination network has failed and an active (query) search for an alternative path is in progress. A value of false(2) indicates the route is stable (passive).</source>
-      <translation type="unfinished">A value of true(1) indicates the route to the destination network has failed and an active (query) search for an alternative path is in progress. A value of false(2) indicates the route is stable (passive).</translation>
+      <translation>值為 true(1) 表示通往目的網路的路由已失效，正在主動（查詢）搜尋替代路徑。值為 false(2) 表示路由穩定（被動）。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3259"/>
       <source>A successor is the next routing hop for a path to the destination IP network number for a single route in the topology table in the AS. There can be several potential successors if there are multiple paths to the destination. This is the total number of successors for a topology entry.</source>
-      <translation type="unfinished">A successor is the next routing hop for a path to the destination IP network number for a single route in the topology table in the AS. There can be several potential successors if there are multiple paths to the destination. This is the total number of successors for a topology entry.</translation>
+      <translation>後繼者是 AS 拓樸表中單一路由通往目的 IP 網路編號的路徑的下一個路由跳點。若通往目的地有多條路徑，可能有數個潛在後繼者。這是某個拓樸項目的後繼者總數。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3261"/>
       <source>The format of the IP address defined as the origin of this topology route entry.</source>
-      <translation type="unfinished">The format of the IP address defined as the origin of this topology route entry.</translation>
+      <translation>定義為此拓樸路由項目來源的 IP 位址格式。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3263"/>
       <source>This is the next hop IP address for the route represented by the topology entry. The next hop is where network traffic will be routed to in order to reach the destination network for this topology entry. The format is governed by cEigrpNextHopAddressType.</source>
-      <translation type="unfinished">This is the next hop IP address for the route represented by the topology entry. The next hop is where network traffic will be routed to in order to reach the destination network for this topology entry. The format is governed by cEigrpNextHopAddressType.</translation>
+      <translation>這是拓樸項目所代表路由的下一跳 IP 位址。下一跳是網路流量為到達此拓樸項目的目的網路而被路由到的位置。格式由 cEigrpNextHopAddressType 決定。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3264"/>
       <source>The interface through which the next hop IP address is reached to send network traffic to the destination network represented by the topology entry.</source>
-      <translation type="unfinished">The interface through which the next hop IP address is reached to send network traffic to the destination network represented by the topology entry.</translation>
+      <translation>為將網路流量傳送到拓樸項目所代表的目的網路，到達下一跳 IP 位址所經過的介面。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3269"/>
       <source>The table of established EIGRP peers (neighbors) in the selected autonomous system. Peers are indexed by their unique internal handle id, as well as the AS number and VPN id. The peer entry is removed from the table if the peer is declared down.</source>
-      <translation type="unfinished">The table of established EIGRP peers (neighbors) in the selected autonomous system. Peers are indexed by their unique internal handle id, as well as the AS number and VPN id. The peer entry is removed from the table if the peer is declared down.</translation>
+      <translation>所選自治系統中已建立的 EIGRP 對等端（鄰居）表。對等端依其唯一的內部控制代碼 ID，以及 AS 編號與 VPN ID 建立索引。若對等端被宣告為關閉，其項目會從表中移除。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3270"/>
       <source>Statistics and operational parameters for a single peer in the AS.</source>
-      <translation type="unfinished">Statistics and operational parameters for a single peer in the AS.</translation>
+      <translation>AS 中單一對等端的統計資料與運作參數。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3277"/>
       <source>The current version number of the OSPF protocol is 2.</source>
-      <translation type="unfinished">The current version number of the OSPF protocol is 2.</translation>
+      <translation>OSPF 通訊協定目前的版本號碼為 2。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3280"/>
       <source>A 32-bit integer uniquely identifying an area. Area ID 0.0.0.0 is used for the OSPF backbone.</source>
-      <translation type="unfinished">A 32-bit integer uniquely identifying an area. Area ID 0.0.0.0 is used for the OSPF backbone.</translation>
+      <translation>唯一識別區域的 32 位元整數。區域 ID 0.0.0.0 用於 OSPF 骨幹。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3281"/>
       <source>The authentication type specified for an area. Additional authentication types may be assigned locally on a per Area basis.</source>
-      <translation type="unfinished">The authentication type specified for an area. Additional authentication types may be assigned locally on a per Area basis.</translation>
+      <translation>為區域指定的驗證類型。可依區域在本機指派其他驗證類型。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3282"/>
       <source>The number of times that the intra-area route table has been calculated using this area&apos;s link-state database. This is typically done using Dijkstra&apos;s algorithm.</source>
-      <translation type="unfinished">The number of times that the intra-area route table has been calculated using this area&apos;s link-state database. This is typically done using Dijkstra&apos;s algorithm.</translation>
+      <translation>使用此區域的連結狀態資料庫計算區域內路由表的次數。這通常使用 Dijkstra 演算法完成。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3283"/>
       <source>The total number of link-state advertisements in this area&apos;s link-state database, excluding AS External LSA&apos;s.</source>
-      <translation type="unfinished">The total number of link-state advertisements in this area&apos;s link-state database, excluding AS External LSA&apos;s.</translation>
+      <translation>此區域連結狀態資料庫中的連結狀態通告總數，不含 AS External LSA。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3285"/>
       <source>The OSPF Process&apos;s Links State Database.</source>
-      <translation type="unfinished">The OSPF Process&apos;s Links State Database.</translation>
+      <translation>OSPF 處理程序的連結狀態資料庫。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3286"/>
       <source>A single Link State Advertisement.</source>
-      <translation type="unfinished">A single Link State Advertisement.</translation>
+      <translation>單一連結狀態通告。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3287"/>
       <source>The 32 bit identifier of the Area from which the LSA was received.</source>
-      <translation type="unfinished">The 32 bit identifier of the Area from which the LSA was received.</translation>
+      <translation>接收 LSA 之區域的 32 位元識別碼。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3288"/>
       <source>The type of the link state advertisement. Each link state type has a separate advertisement format.</source>
-      <translation type="unfinished">The type of the link state advertisement. Each link state type has a separate advertisement format.</translation>
+      <translation>連結狀態通告的類型。每種連結狀態類型都有獨立的通告格式。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3289"/>
       <source>The Link State ID is an LS Type Specific field containing either a Router ID or an IP Address; it identifies the piece of the routing domain that is being described by the advertisement.</source>
-      <translation type="unfinished">The Link State ID is an LS Type Specific field containing either a Router ID or an IP Address; it identifies the piece of the routing domain that is being described by the advertisement.</translation>
+      <translation>Link State ID 是 LS 類型專屬欄位，包含路由器 ID 或 IP 位址；它識別通告所描述的路由網域部分。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3291"/>
       <source>The sequence number field is a signed 32-bit integer. It is used to detect old and duplicate link state advertisements. The space of sequence numbers is linearly ordered. The larger the sequence number the more recent the advertisement.</source>
-      <translation type="unfinished">The sequence number field is a signed 32-bit integer. It is used to detect old and duplicate link state advertisements. The space of sequence numbers is linearly ordered. The larger the sequence number the more recent the advertisement.</translation>
+      <translation>序號欄位是帶正負號的 32 位元整數，用於偵測舊的與重複的連結狀態通告。序號空間是線性排序的，序號越大，通告越新。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3292"/>
       <source>This field is the age of the link state advertisement in seconds.</source>
-      <translation type="unfinished">This field is the age of the link state advertisement in seconds.</translation>
+      <translation>此欄位是連結狀態通告的存活時間，單位為秒。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3293"/>
       <source>This field is the checksum of the complete contents of the advertisement, excepting the age field. The age field is excepted so that an advertisement&apos;s age can be incremented without updating the checksum. The checksum used is the same that is used for ISO connectionless datagrams; it is commonly referred to as the Fletcher checksum.</source>
-      <translation type="unfinished">This field is the checksum of the complete contents of the advertisement, excepting the age field. The age field is excepted so that an advertisement&apos;s age can be incremented without updating the checksum. The checksum used is the same that is used for ISO connectionless datagrams; it is commonly referred to as the Fletcher checksum.</translation>
+      <translation>此欄位是通告完整內容的檢查碼，不含存活時間欄位。排除存活時間欄位，是為了在不更新檢查碼的情況下遞增通告的存活時間。所用的檢查碼與 ISO 無連線資料包所用的相同，通常稱為 Fletcher 檢查碼。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3294"/>
       <source>A table of non-virtual neighbor information.</source>
-      <translation type="unfinished">A table of non-virtual neighbor information.</translation>
+      <translation>非虛擬鄰居資訊的表。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3295"/>
       <source>The information regarding a single neighbor.</source>
-      <translation type="unfinished">The information regarding a single neighbor.</translation>
+      <translation>有關單一鄰居的資訊。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3296"/>
       <source>The IP address of this neighbor.</source>
-      <translation type="unfinished">The IP address of this neighbor.</translation>
+      <translation>此鄰居的 IP 位址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3298"/>
       <source>A Bit Mask corresponding to the neighbor&apos;s options field. Bit 0, if set, indicates that the area accepts and operates on external information; if zero, it is a stub area. Bit 1, if set, indicates that the system will operate on Type of Service metrics other than TOS 0. If zero, the neighbor will ignore all metrics except the TOS 0 metric.</source>
-      <translation type="unfinished">A Bit Mask corresponding to the neighbor&apos;s options field. Bit 0, if set, indicates that the area accepts and operates on external information; if zero, it is a stub area. Bit 1, if set, indicates that the system will operate on Type of Service metrics other than TOS 0. If zero, the neighbor will ignore all metrics except the TOS 0 metric.</translation>
+      <translation>對應於鄰居選項欄位的位元遮罩。位元 0 若設定，表示該區域接受並處理外部資訊；若為零，則是 stub 區域。位元 1 若設定，表示系統將處理 TOS 0 以外的服務類型度量；若為零，鄰居將忽略 TOS 0 度量以外的所有度量。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3300"/>
       <source>The State of the relationship with this Neighbor.</source>
-      <translation type="unfinished">The State of the relationship with this Neighbor.</translation>
+      <translation>與此鄰居之關係的狀態。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3301"/>
       <source>The current length of the retransmission queue.</source>
-      <translation type="unfinished">The current length of the retransmission queue.</translation>
+      <translation>重傳佇列的目前長度。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3304"/>
       <source>Placing packet in WFQ.</source>
-      <translation type="unfinished">Placing packet in WFQ.</translation>
+      <translation>將封包放入 WFQ。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3305"/>
       <location filename="../gui/CTranslationDB.cpp" line="3324"/>
       <source>Packet is dropped by WRED.</source>
-      <translation type="unfinished">Packet is dropped by WRED.</translation>
+      <translation>封包被 WRED 捨棄。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3306"/>
       <source>Queue limit exceeded, packet is dropped.</source>
-      <translation type="unfinished">Queue limit exceeded, packet is dropped.</translation>
+      <translation>超過佇列上限，封包被捨棄。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3307"/>
       <location filename="../gui/CTranslationDB.cpp" line="3318"/>
       <location filename="../gui/CTranslationDB.cpp" line="3323"/>
       <source>Queue size exceeded, packet is dropped.</source>
-      <translation type="unfinished">Queue size exceeded, packet is dropped.</translation>
+      <translation>超過佇列大小，封包被捨棄。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3308"/>
       <source>Flow does not exist, create a new flow.</source>
-      <translation type="unfinished">Flow does not exist, create a new flow.</translation>
+      <translation>資料流不存在，建立新的資料流。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3309"/>
       <source>Packet placed in existing flow.</source>
-      <translation type="unfinished">Packet placed in existing flow.</translation>
+      <translation>封包放入現有的資料流。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3311"/>
       <source>Placing packet in CBWFQ.</source>
-      <translation type="unfinished">Placing packet in CBWFQ.</translation>
+      <translation>將封包放入 CBWFQ。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3312"/>
       <source>Placing packet in default class.</source>
-      <translation type="unfinished">Placing packet in default class.</translation>
+      <translation>將封包放入預設類別。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3313"/>
       <source>Placing packet in [[CLASS_NAME]] queue.</source>
-      <translation type="unfinished">Placing packet in [[CLASS_NAME]] queue.</translation>
+      <translation>將封包放入 [[CLASS_NAME]] 佇列。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3314"/>
       <source>Packet within shape limit.</source>
-      <translation type="unfinished">Packet within shape limit.</translation>
+      <translation>封包在整形上限內。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3315"/>
       <source>Packet exceeded shape limit and dropped.</source>
-      <translation type="unfinished">Packet exceeded shape limit and dropped.</translation>
+      <translation>封包超過整形上限並被捨棄。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3317"/>
       <source>Placing packet in Custom Queue.</source>
-      <translation type="unfinished">Placing packet in Custom Queue.</translation>
+      <translation>將封包放入自訂佇列。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3319"/>
       <source>Placing packet in queue number [[QUEUE_NUMBER]].</source>
-      <translation type="unfinished">Placing packet in queue number [[QUEUE_NUMBER]].</translation>
+      <translation>將封包放入佇列編號 [[QUEUE_NUMBER]]。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3322"/>
       <source>Placing packet in FIFO Queue.</source>
-      <translation type="unfinished">Placing packet in FIFO Queue.</translation>
+      <translation>將封包放入 FIFO 佇列。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3327"/>
       <source>Placing packet in Priority Queue.</source>
-      <translation type="unfinished">Placing packet in Priority Queue.</translation>
+      <translation>將封包放入優先佇列。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3332"/>
       <location filename="../gui/CTranslationDB.cpp" line="3343"/>
       <source>High queue size exceeded, packet is dropped.</source>
-      <translation type="unfinished">High queue size exceeded, packet is dropped.</translation>
+      <translation>超過高優先佇列大小，封包被捨棄。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3333"/>
       <location filename="../gui/CTranslationDB.cpp" line="3344"/>
       <source>Medium queue size exceeded, packet is dropped.</source>
-      <translation type="unfinished">Medium queue size exceeded, packet is dropped.</translation>
+      <translation>超過中優先佇列大小，封包被捨棄。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3334"/>
       <location filename="../gui/CTranslationDB.cpp" line="3345"/>
       <source>Normal queue size exceeded, packet is dropped.</source>
-      <translation type="unfinished">Normal queue size exceeded, packet is dropped.</translation>
+      <translation>超過一般優先佇列大小，封包被捨棄。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3335"/>
       <location filename="../gui/CTranslationDB.cpp" line="3346"/>
       <source>Low queue size exceeded, packet is dropped.</source>
-      <translation type="unfinished">Low queue size exceeded, packet is dropped.</translation>
+      <translation>超過低優先佇列大小，封包被捨棄。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3338"/>
       <source>Placing packet in Strict Priority Queue.</source>
-      <translation type="unfinished">Placing packet in Strict Priority Queue.</translation>
+      <translation>將封包放入嚴格優先佇列。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="3347"/>
       <source>Qos not enabled, packet placed in low priority queue.</source>
-      <translation type="unfinished">Qos not enabled, packet placed in low priority queue.</translation>
+      <translation>未啟用 QoS，封包放入低優先佇列。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="101"/>
       <source>The Cisco VoIP power adapter</source>
-      <translation type="unfinished">The Cisco VoIP power adapter</translation>
+      <translation>Cisco VoIP 電源供應器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="103"/>
       <source>The [[MODULE_NAME]] module is a High-Speed WAN Interface Card providing integrated Access Point functionality in the Cisco 1800 (Modular), Cisco 2800, and Cisco 3800 Integrated Services Routers. It supports Single Band 802.11b/g or Dual Band 802.11a/b/g radios.</source>
-      <translation type="unfinished">The [[MODULE_NAME]] module is a High-Speed WAN Interface Card providing integrated Access Point functionality in the Cisco 1800 (Modular), Cisco 2800, and Cisco 3800 Integrated Services Routers. It supports Single Band 802.11b/g or Dual Band 802.11a/b/g radios.</translation>
+      <translation>[[MODULE_NAME]] 模組是高速 WAN 介面卡，在 Cisco 1800（模組化）、Cisco 2800 與 Cisco 3800 整合式服務路由器中提供整合式存取點功能。支援單頻 802.11b/g 或雙頻 802.11a/b/g 無線電。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="191"/>
       <source>Coaxial Splitter</source>
-      <translation type="unfinished">Coaxial Splitter</translation>
+      <translation>同軸分配器</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="201"/>
       <source>TV</source>
-      <translation type="unfinished">TV</translation>
+      <translation>TV</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="202"/>
       <source>Tablet PC</source>
-      <translation type="unfinished">Tablet PC</translation>
+      <translation>平板電腦</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="204"/>
       <source>Wireless End Device</source>
-      <translation type="unfinished">Wireless End Device</translation>
+      <translation>無線終端裝置</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="205"/>
       <source>Wired End Device</source>
-      <translation type="unfinished">Wired End Device</translation>
+      <translation>有線終端裝置</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="206"/>
       <source>Home VoIP</source>
-      <translation type="unfinished">Home VoIP</translation>
+      <translation>家用 VoIP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="207"/>
       <source>Analog Phone</source>
-      <translation type="unfinished">Analog Phone</translation>
+      <translation>類比電話</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="285"/>
@@ -53276,7 +53276,7 @@ If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask valu
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="289"/>
       <source>Account</source>
-      <translation type="unfinished">Account</translation>
+      <translation>帳戶</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="292"/>
@@ -53286,7 +53286,7 @@ If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask valu
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="539"/>
       <source>NAT Source Setting</source>
-      <translation type="unfinished">NAT Source Setting</translation>
+      <translation>NAT 來源設定</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="617"/>
@@ -53322,42 +53322,42 @@ If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask valu
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="933"/>
       <source>Crypto Map</source>
-      <translation type="unfinished">Crypto Map</translation>
+      <translation>Crypto Map</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1017"/>
       <source>Dial Peer</source>
-      <translation type="unfinished">Dial Peer</translation>
+      <translation>Dial Peer</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1018"/>
       <source>Tag Number</source>
-      <translation type="unfinished">Tag Number</translation>
+      <translation>標籤編號</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1019"/>
       <source>Destination Pattern</source>
-      <translation type="unfinished">Destination Pattern</translation>
+      <translation>目的模式</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1020"/>
       <source>Session Target</source>
-      <translation type="unfinished">Session Target</translation>
+      <translation>工作階段目標</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1022"/>
       <source>Call Manager Express</source>
-      <translation type="unfinished">Call Manager Express</translation>
+      <translation>Call Manager Express</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1023"/>
       <source>Dial Peers</source>
-      <translation type="unfinished">Dial Peers</translation>
+      <translation>Dial Peers</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1024"/>
       <source>EPhones</source>
-      <translation type="unfinished">EPhones</translation>
+      <translation>EPhones</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1025"/>
@@ -53367,67 +53367,67 @@ If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask valu
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1027"/>
       <source>Telephony Service</source>
-      <translation type="unfinished">Telephony Service</translation>
+      <translation>電話服務</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1028"/>
       <source>Auto Assign Commands</source>
-      <translation type="unfinished">Auto Assign Commands</translation>
+      <translation>自動指派命令</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1029"/>
       <source>Auto Assign</source>
-      <translation type="unfinished">Auto Assign</translation>
+      <translation>自動指派</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1030"/>
       <source>Max Directory Number</source>
-      <translation type="unfinished">Max Directory Number</translation>
+      <translation>最大目錄號碼數</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1031"/>
       <source>Max EPhone Number</source>
-      <translation type="unfinished">Max EPhone Number</translation>
+      <translation>最大 EPhone 數</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1032"/>
       <source>Source IP</source>
-      <translation type="unfinished">Source IP</translation>
+      <translation>來源 IP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1033"/>
       <source>Source Port</source>
-      <translation type="unfinished">Source Port</translation>
+      <translation>來源連接埠</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1035"/>
       <source>EPhone</source>
-      <translation type="unfinished">EPhone</translation>
+      <translation>EPhone</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1038"/>
       <source>Buttons</source>
-      <translation type="unfinished">Buttons</translation>
+      <translation>Buttons</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1039"/>
       <source>Button</source>
-      <translation type="unfinished">Button</translation>
+      <translation>Button</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1042"/>
       <source>EPhone Directory</source>
-      <translation type="unfinished">EPhone Directory</translation>
+      <translation>EPhone 目錄</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1043"/>
       <source>Directory Number</source>
-      <translation type="unfinished">Directory Number</translation>
+      <translation>目錄號碼</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1044"/>
       <source>Directory Line Number</source>
-      <translation type="unfinished">Directory Line Number</translation>
+      <translation>目錄線路號碼</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1050"/>
@@ -53459,12 +53459,12 @@ If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask valu
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1067"/>
       <source>PPP CHAP Hostname</source>
-      <translation type="unfinished">PPP CHAP Hostname</translation>
+      <translation>PPP CHAP 主機名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1068"/>
       <source>PPP CHAP Password</source>
-      <translation type="unfinished">PPP CHAP Password</translation>
+      <translation>PPP CHAP 密碼</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="938"/>
@@ -53474,193 +53474,193 @@ If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask valu
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1075"/>
       <source>VPDN Group</source>
-      <translation type="unfinished">VPDN Group</translation>
+      <translation>VPDN 群組</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1058"/>
       <location filename="../gui/CTranslationDB.cpp" line="1076"/>
       <source>Group Name</source>
-      <translation type="unfinished">Group Name</translation>
+      <translation>群組名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1077"/>
       <source>Dial-in</source>
-      <translation type="unfinished">Dial-in</translation>
+      <translation>撥入</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1150"/>
       <source>The BGP process is attempting to connect to the neighbor [[IP_ADDRESS]]</source>
-      <translation type="unfinished">The BGP process is attempting to connect to the neighbor [[IP_ADDRESS]]</translation>
+      <translation>BGP 處理程序正嘗試連線到鄰居 [[IP_ADDRESS]]</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1151"/>
       <source>The BGP process has received a NOTIFICATION message from neighbor [[IP_ADDRESS]]. Resetting peer connection.</source>
-      <translation type="unfinished">The BGP process has received a NOTIFICATION message from neighbor [[IP_ADDRESS]]. Resetting peer connection.</translation>
+      <translation>BGP 處理程序收到來自鄰居 [[IP_ADDRESS]] 的 NOTIFICATION 訊息。正在重設對等端連線。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1152"/>
       <source>The BGP process has received an OPEN message from neighbor [[IP_ADDRESS]].</source>
-      <translation type="unfinished">The BGP process has received an OPEN message from neighbor [[IP_ADDRESS]].</translation>
+      <translation>BGP 處理程序收到來自鄰居 [[IP_ADDRESS]] 的 OPEN 訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1153"/>
       <source>The BGP process has received a KEEPALIVE message from neighbor [[IP_ADDRESS]].</source>
-      <translation type="unfinished">The BGP process has received a KEEPALIVE message from neighbor [[IP_ADDRESS]].</translation>
+      <translation>BGP 處理程序收到來自鄰居 [[IP_ADDRESS]] 的 KEEPALIVE 訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1154"/>
       <source>The BGP process has received an UPDATE message from neighbor [[IP_ADDRESS]].</source>
-      <translation type="unfinished">The BGP process has received an UPDATE message from neighbor [[IP_ADDRESS]].</translation>
+      <translation>BGP 處理程序收到來自鄰居 [[IP_ADDRESS]] 的 UPDATE 訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1155"/>
       <source>The BGP UPDATE message contains routes to WITHDRAW.</source>
-      <translation type="unfinished">The BGP UPDATE message contains routes to WITHDRAW.</translation>
+      <translation>BGP UPDATE 訊息包含要撤銷 (WITHDRAW) 的路由。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1156"/>
       <source>The BGP process withdrawn routes based on the UPDATE message.</source>
-      <translation type="unfinished">The BGP process withdrawn routes based on the UPDATE message.</translation>
+      <translation>BGP 處理程序依 UPDATE 訊息撤銷路由。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1157"/>
       <source>The BGP UPDATE message contains routes for updating.</source>
-      <translation type="unfinished">The BGP UPDATE message contains routes for updating.</translation>
+      <translation>BGP UPDATE 訊息包含要更新的路由。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1158"/>
       <source>The BGP UPDATE routes are the same as the current routes, the routes are refreshed.</source>
-      <translation type="unfinished">The BGP UPDATE routes are the same as the current routes, the routes are refreshed.</translation>
+      <translation>BGP UPDATE 的路由與目前路由相同，路由已重新整理。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1159"/>
       <source>The BGP UPDATE message contains new routes.</source>
-      <translation type="unfinished">The BGP UPDATE message contains new routes.</translation>
+      <translation>BGP UPDATE 訊息包含新的路由。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1160"/>
       <source>Autonomous System</source>
-      <translation type="unfinished">Autonomous System</translation>
+      <translation>自治系統</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1166"/>
       <source>Synchronization</source>
-      <translation type="unfinished">Synchronization</translation>
+      <translation>Synchronization</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1167"/>
       <source>Redistribute-internal</source>
-      <translation type="unfinished">Redistribute-internal</translation>
+      <translation>Redistribute-internal</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1168"/>
       <source>Timers</source>
-      <translation type="unfinished">Timers</translation>
+      <translation>Timers</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1170"/>
       <source>Log Neighbor Changes</source>
-      <translation type="unfinished">Log Neighbor Changes</translation>
+      <translation>記錄鄰居變更</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1171"/>
       <source>Next-Hop-Self</source>
-      <translation type="unfinished">Next-Hop-Self</translation>
+      <translation>Next-Hop-Self</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1173"/>
       <source>Holdtime</source>
-      <translation type="unfinished">Holdtime</translation>
+      <translation>Holdtime</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1214"/>
       <source>The DHCP server finds the IP address in the address reservation list reserved for the client&apos;s MAC address.</source>
-      <translation type="unfinished">The DHCP server finds the IP address in the address reservation list reserved for the client&apos;s MAC address.</translation>
+      <translation>DHCP 伺服器在位址保留清單中找到為用戶端 MAC 位址保留的 IP 位址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1216"/>
       <source>The DHCP server binds the requested IP address from the reservation list to the client&apos;s MAC address.</source>
-      <translation type="unfinished">The DHCP server binds the requested IP address from the reservation list to the client&apos;s MAC address.</translation>
+      <translation>DHCP 伺服器將保留清單中所要求的 IP 位址繫結到用戶端的 MAC 位址。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="1827"/>
       <source>There is no service running listening on this port. The device drops the segment.</source>
-      <translation type="unfinished">There is no service running listening on this port. The device drops the segment.</translation>
+      <translation>沒有服務在此連接埠上接聽。裝置捨棄該區段。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2025"/>
       <source>The Router Solicitation packet is dropped because IPv6 is not enabled on the interface [[PORT]].</source>
-      <translation type="unfinished">The Router Solicitation packet is dropped because IPv6 is not enabled on the interface [[PORT]].</translation>
+      <translation>Router Solicitation 封包被捨棄，因為介面 [[PORT]] 未啟用 IPv6。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2027"/>
       <source>The Router Solicitation packet is dropped because the interface [[PORT]] is a loopback.</source>
-      <translation type="unfinished">The Router Solicitation packet is dropped because the interface [[PORT]] is a loopback.</translation>
+      <translation>Router Solicitation 封包被捨棄，因為介面 [[PORT]] 是回送介面。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2052"/>
       <source>The DHCPv6 Client process sends a DHCP Request message.</source>
-      <translation type="unfinished">The DHCPv6 Client process sends a DHCP Request message.</translation>
+      <translation>DHCPv6 Client 處理程序傳送 DHCP Request 訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2080"/>
       <source>The DHCPv6 Server process sends a DHCP Reply message.</source>
-      <translation type="unfinished">The DHCPv6 Server process sends a DHCP Reply message.</translation>
+      <translation>DHCPv6 Server 處理程序傳送 DHCP Reply 訊息。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2085"/>
       <source>PPPoE client removes PPPoE Header and send the packet to the next layer to process.</source>
-      <translation type="unfinished">PPPoE client removes PPPoE Header and send the packet to the next layer to process.</translation>
+      <translation>PPPoE 用戶端移除 PPPoE 標頭，並將封包傳送到下一層處理。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2086"/>
       <source>PPPoE client adds PPPoE Header to the packet and send it to the next layer to process.</source>
-      <translation type="unfinished">PPPoE client adds PPPoE Header to the packet and send it to the next layer to process.</translation>
+      <translation>PPPoE 用戶端為封包加上 PPPoE 標頭，並傳送到下一層處理。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2087"/>
       <source>PPPoE server adds PPPoE Header to the packet and send it to the next layer to process.</source>
-      <translation type="unfinished">PPPoE server adds PPPoE Header to the packet and send it to the next layer to process.</translation>
+      <translation>PPPoE 伺服器為封包加上 PPPoE 標頭，並傳送到下一層處理。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2088"/>
       <source>PPPoE server removes PPPoE Header and send the packet to the next layer to process.</source>
-      <translation type="unfinished">PPPoE server removes PPPoE Header and send the packet to the next layer to process.</translation>
+      <translation>PPPoE 伺服器移除 PPPoE 標頭，並將封包傳送到下一層處理。</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2215"/>
       <source>FTP</source>
-      <translation type="unfinished">FTP</translation>
+      <translation>FTP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2228"/>
       <source>SCCP</source>
-      <translation type="unfinished">SCCP</translation>
+      <translation>SCCP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2229"/>
       <source>RTP</source>
-      <translation type="unfinished">RTP</translation>
+      <translation>RTP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2230"/>
       <source>H.323</source>
-      <translation type="unfinished">H.323</translation>
+      <translation>H.323</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2241"/>
       <source>SMTP</source>
-      <translation type="unfinished">SMTP</translation>
+      <translation>SMTP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2242"/>
       <source>POP3</source>
-      <translation type="unfinished">POP3</translation>
+      <translation>POP3</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2244"/>
       <source>BGP</source>
-      <translation type="unfinished">BGP</translation>
+      <translation>BGP</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="2271"/>
