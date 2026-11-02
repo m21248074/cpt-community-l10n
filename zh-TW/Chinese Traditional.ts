@@ -19902,7 +19902,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1960"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1963"/>
       <source>01</source>
-      <translation type="unfinished">01</translation>
+      <translation>01</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1362"/>
@@ -19936,7 +19936,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1626"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1629"/>
       <source>00:00:00:00:00:00:00</source>
-      <translation type="unfinished">00:00:00:00:00:00:00</translation>
+      <translation>00:00:00:00:00:00:00</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1446"/>
@@ -19949,7 +19949,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1989"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1992"/>
       <source>02</source>
-      <translation type="unfinished">02</translation>
+      <translation>02</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1417"/>
@@ -19962,7 +19962,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="2118"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="2121"/>
       <source>03</source>
-      <translation type="unfinished">03</translation>
+      <translation>03</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1504"/>
@@ -19975,7 +19975,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="2015"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="2018"/>
       <source>04</source>
-      <translation type="unfinished">04</translation>
+      <translation>04</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1562"/>
@@ -19985,7 +19985,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1785"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1788"/>
       <source>05</source>
-      <translation type="unfinished">05</translation>
+      <translation>05</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1475"/>
@@ -19995,102 +19995,102 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1727"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1730"/>
       <source>06</source>
-      <translation type="unfinished">06</translation>
+      <translation>06</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1404"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1407"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1410"/>
       <source>07</source>
-      <translation type="unfinished">07</translation>
+      <translation>07</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1375"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1378"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1381"/>
       <source>08</source>
-      <translation type="unfinished">08</translation>
+      <translation>08</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>對話方塊</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="329"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;List of PCs&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;List of PCs&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;PC 清單&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="320"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="323"/>
       <source>List of PCs</source>
-      <translation type="unfinished">List of PCs</translation>
+      <translation>PC 清單</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="360"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-family:&apos;Verdana&apos;;&quot;&gt;MAC Address&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-family:&apos;Verdana&apos;;&quot;&gt;MAC Address&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-family:&apos;Verdana&apos;;&quot;&gt;MAC 位址&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="354"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="357"/>
       <source>MAC Address</source>
-      <translation type="unfinished">MAC Address</translation>
+      <translation>MAC 位址</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="388"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:&apos;Verdana&apos;;&quot;&gt;IP Address Range&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:&apos;Verdana&apos;;&quot;&gt;IP Address Range&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:&apos;Verdana&apos;;&quot;&gt;IP 位址範圍&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="382"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="385"/>
       <source>IP Address Range</source>
-      <translation type="unfinished">IP Address Range</translation>
+      <translation>IP 位址範圍</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="416"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:&apos;Verdana&apos;;&quot;&gt;IP Address&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:&apos;Verdana&apos;;&quot;&gt;IP Address&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:&apos;Verdana&apos;;&quot;&gt;IP 位址&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="410"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="413"/>
       <source>IP Address</source>
-      <translation type="unfinished">IP Address</translation>
+      <translation>IP 位址</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1071"/>
       <source>Wireless-N&lt;br/&gt;Broadband Router</source>
-      <translation type="unfinished">Wireless-N&lt;br/&gt;Broadband Router</translation>
+      <translation>無線-N&lt;br/&gt;寬頻路由器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1062"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1065"/>
       <source>Wireless-NBroadband Router</source>
-      <translation type="unfinished">Wireless-NBroadband Router</translation>
+      <translation>無線-N寬頻路由器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1131"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1134"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1146"/>
       <source>Firmware Version: v0.93.3</source>
-      <translation type="unfinished">Firmware Version: v0.93.3</translation>
+      <translation>韌體版本：v0.93.3</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1533"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1536"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1539"/>
       <source>09</source>
-      <translation type="unfinished">09</translation>
+      <translation>09</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1591"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1594"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1597"/>
       <source>10</source>
-      <translation type="unfinished">10</translation>
+      <translation>10</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1711"/>
@@ -20124,7 +20124,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="2199"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="2202"/>
       <source>192.168.1.</source>
-      <translation type="unfinished">192.168.1.</translation>
+      <translation>192.168.1.</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1973"/>
@@ -20152,7 +20152,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="2231"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="2234"/>
       <source>0</source>
-      <translation type="unfinished">0</translation>
+      <translation>0</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1999"/>
@@ -20168,21 +20168,21 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="2160"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="2163"/>
       <source>to</source>
-      <translation type="unfinished">to</translation>
+      <translation>至</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="2384"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="2387"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="2390"/>
       <source>Save Settings</source>
-      <translation type="unfinished">Save Settings</translation>
+      <translation>儲存設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="2406"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="2409"/>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="2412"/>
       <source>Cancel Changes</source>
-      <translation type="unfinished">Cancel Changes</translation>
+      <translation>取消變更</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="2422"/>
@@ -21034,110 +21034,110 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="308"/>
       <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Router Information&lt;/b&gt;&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Router Information&lt;/b&gt;&lt;/p&gt;</translation>
+      <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;路由器資訊&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1280"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1283"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1286"/>
       <source>Refresh</source>
-      <translation type="unfinished">Refresh</translation>
+      <translation>重新整理</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="569"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="575"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="578"/>
       <source>Firmware Version:</source>
-      <translation type="unfinished">Firmware Version:</translation>
+      <translation>韌體版本：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="320"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="323"/>
       <source>Router Information</source>
-      <translation type="unfinished">Router Information</translation>
+      <translation>路由器資訊</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="447"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="450"/>
       <source>InternetConnection</source>
-      <translation type="unfinished">InternetConnection</translation>
+      <translation>網際網路連線</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="607"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="613"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="616"/>
       <source>Current Time:</source>
-      <translation type="unfinished">Current Time:</translation>
+      <translation>目前時間：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="626"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="632"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="635"/>
       <source>Not Available</source>
-      <translation type="unfinished">Not Available</translation>
+      <translation>無法使用</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="677"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="683"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="686"/>
       <source>Host Name:</source>
-      <translation type="unfinished">Host Name:</translation>
+      <translation>主機名稱：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="709"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="715"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="718"/>
       <source>Domain Name:</source>
-      <translation type="unfinished">Domain Name:</translation>
+      <translation>網域名稱：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="758"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="764"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="767"/>
       <source>Connection Type:</source>
-      <translation type="unfinished">Connection Type:</translation>
+      <translation>連線類型：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="888"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="894"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="897"/>
       <source>Subnet Mask:</source>
-      <translation type="unfinished">Subnet Mask:</translation>
+      <translation>子網路遮罩：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="952"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="958"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="961"/>
       <source>DNS1:</source>
-      <translation type="unfinished">DNS1:</translation>
+      <translation>DNS1:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="984"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="990"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="993"/>
       <source>DNS2:</source>
-      <translation type="unfinished">DNS2:</translation>
+      <translation>DNS2:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1016"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1022"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1025"/>
       <source>DNS3:</source>
-      <translation type="unfinished">DNS3:</translation>
+      <translation>DNS3:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1048"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1054"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1057"/>
       <source>MTU:</source>
-      <translation type="unfinished">MTU:</translation>
+      <translation>MTU：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1080"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1086"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1089"/>
       <source>DHCP Lease Time:</source>
-      <translation type="unfinished">DHCP Lease Time:</translation>
+      <translation>DHCP 租用時間：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1482"/>
@@ -21146,36 +21146,36 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;說明...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1464"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1467"/>
       <source>Help...</source>
-      <translation type="unfinished">Help...</translation>
+      <translation>說明...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="645"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="651"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="654"/>
       <source>Internet MAC Address:</source>
-      <translation type="unfinished">Internet MAC Address:</translation>
+      <translation>網際網路 MAC 位址：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="20"/>
       <source>Setup</source>
-      <translation type="unfinished">Setup</translation>
+      <translation>設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="433"/>
       <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Internet
 
 Connection&lt;/b&gt;&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Internet
+      <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;網際網路
 
 Connection&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
@@ -21184,42 +21184,42 @@ Connection&lt;/b&gt;&lt;/p&gt;</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="926"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="929"/>
       <source>Default Gateway:</source>
-      <translation type="unfinished">Default Gateway:</translation>
+      <translation>預設閘道：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="856"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="862"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="865"/>
       <source>Internet IP Address:</source>
-      <translation type="unfinished">Internet IP Address:</translation>
+      <translation>網際網路 IP 位址：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1137"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1140"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1143"/>
       <source>IP Address Renew</source>
-      <translation type="unfinished">IP Address Renew</translation>
+      <translation>IP 位址更新</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1115"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1121"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="1124"/>
       <source>IP Address Release</source>
-      <translation type="unfinished">IP Address Release</translation>
+      <translation>IP 位址釋放</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="588"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="594"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="597"/>
       <source>v0.93.3</source>
-      <translation type="unfinished">v0.93.3</translation>
+      <translation>v0.93.3</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="791"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="797"/>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="800"/>
       <source>Login Status:</source>
-      <translation type="unfinished">Login Status:</translation>
+      <translation>登入狀態：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="823"/>
@@ -23774,19 +23774,19 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="234"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="237"/>
       <source>Wireless Security</source>
-      <translation type="unfinished">Wireless Security</translation>
+      <translation>無線安全性</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="243"/>
       <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Wireless Security&lt;/b&gt;&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Wireless Security&lt;/b&gt;&lt;/p&gt;</translation>
+      <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;無線安全性&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="508"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="511"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="514"/>
       <source>Security Mode:</source>
-      <translation type="unfinished">Security Mode:</translation>
+      <translation>安全性模式：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="944"/>
@@ -23808,7 +23808,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1390"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1393"/>
       <source>.</source>
-      <translation type="unfinished">.</translation>
+      <translation>.</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="895"/>
@@ -23818,7 +23818,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1285"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1288"/>
       <source>RADIUS Server:</source>
-      <translation type="unfinished">RADIUS Server:</translation>
+      <translation>RADIUS 伺服器：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1094"/>
@@ -23828,14 +23828,14 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1428"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1431"/>
       <source>RADIUS Port:</source>
-      <translation type="unfinished">RADIUS Port:</translation>
+      <translation>RADIUS 連接埠：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1444"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1447"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1450"/>
       <source>1892</source>
-      <translation type="unfinished">1892</translation>
+      <translation>1892</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1145"/>
@@ -23845,7 +23845,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1463"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1466"/>
       <source>Shared Secret:</source>
-      <translation type="unfinished">Shared Secret:</translation>
+      <translation>共用密鑰：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="777"/>
@@ -23855,13 +23855,13 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1691"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1694"/>
       <source>TX Key:</source>
-      <translation type="unfinished">TX Key:</translation>
+      <translation>TX 金鑰：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="797"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1708"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="747"/>
@@ -23871,7 +23871,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1662"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1665"/>
       <source>Key4:</source>
-      <translation type="unfinished">Key4:</translation>
+      <translation>金鑰4：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="717"/>
@@ -23881,7 +23881,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1633"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1636"/>
       <source>Key3:</source>
-      <translation type="unfinished">Key3:</translation>
+      <translation>金鑰3：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="684"/>
@@ -23891,7 +23891,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1604"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1607"/>
       <source>Key2:</source>
-      <translation type="unfinished">Key2:</translation>
+      <translation>金鑰2：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="651"/>
@@ -23901,7 +23901,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1575"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1578"/>
       <source>Key1:</source>
-      <translation type="unfinished">Key1:</translation>
+      <translation>金鑰1：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="599"/>
@@ -23914,7 +23914,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1807"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1810"/>
       <source>Passphrase:</source>
-      <translation type="unfinished">Passphrase:</translation>
+      <translation>通關密語：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="578"/>
@@ -23930,18 +23930,18 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1763"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1766"/>
       <source>Encryption:</source>
-      <translation type="unfinished">Encryption:</translation>
+      <translation>加密：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="567"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1513"/>
       <source>40/64-Bits (10 Hex digits)</source>
-      <translation type="unfinished">40/64-Bits (10 Hex digits)</translation>
+      <translation>40/64 位元 (10 位十六進位數字)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="450"/>
       <source>Guest Network features are not supported by this device.</source>
-      <translation type="unfinished">Guest Network features are not supported by this device.</translation>
+      <translation>此裝置不支援訪客網路功能。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="631"/>
@@ -23951,7 +23951,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1559"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1562"/>
       <source>Generate</source>
-      <translation type="unfinished">Generate</translation>
+      <translation>產生</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="922"/>
@@ -23979,7 +23979,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1409"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1412"/>
       <source>0</source>
-      <translation type="unfinished">0</translation>
+      <translation>0</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1187"/>
@@ -23989,7 +23989,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1852"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1855"/>
       <source>Key Renewal:</source>
-      <translation type="unfinished">Key Renewal:</translation>
+      <translation>金鑰更新：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1234"/>
@@ -23999,7 +23999,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1899"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1902"/>
       <source>seconds</source>
-      <translation type="unfinished">seconds</translation>
+      <translation>秒</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="2288"/>
@@ -24008,11 +24008,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;說明...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1212"/>
@@ -24022,40 +24022,40 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1877"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1880"/>
       <source>3600</source>
-      <translation type="unfinished">3600</translation>
+      <translation>3600</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="874"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1783"/>
       <source>TKIP</source>
-      <translation type="unfinished">TKIP</translation>
+      <translation>TKIP</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="2055"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="2058"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="2061"/>
       <source>Save Settings</source>
-      <translation type="unfinished">Save Settings</translation>
+      <translation>儲存設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="2083"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="2086"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="2089"/>
       <source>Cancel Changes</source>
-      <translation type="unfinished">Cancel Changes</translation>
+      <translation>取消變更</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="2270"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="2273"/>
       <source>Help...</source>
-      <translation type="unfinished">Help...</translation>
+      <translation>說明...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1119"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1122"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1125"/>
       <source>1645</source>
-      <translation type="unfinished">1645</translation>
+      <translation>1645</translation>
     </message>
   </context>
   <context>
@@ -26523,147 +26523,147 @@ Publisher Certificate Information:
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="637"/>
       <source>The time entered is invalid.</source>
-      <translation type="unfinished">The time entered is invalid.</translation>
+      <translation>輸入的時間無效。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1000"/>
       <source>Enter the DSCP value as a decimal in the TOS field. The DSCP value shows up as hex in PDU details.</source>
-      <translation type="unfinished">Enter the DSCP value as a decimal in the TOS field. The DSCP value shows up as hex in PDU details.</translation>
+      <translation>請在 TOS 欄位以十進位輸入 DSCP 值。DSCP 值在 PDU 詳細資料中會以十六進位顯示。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="619"/>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1393"/>
       <source>The minimum value for the time is 0 and the maximum is 1000000.</source>
-      <translation type="unfinished">The minimum value for the time is 0 and the maximum is 1000000.</translation>
+      <translation>時間的最小值為 0，最大值為 1000000。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="619"/>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="637"/>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1393"/>
       <source>Incorrect Time -- %1</source>
-      <translation type="unfinished">Incorrect Time -- %1</translation>
+      <translation>時間不正確 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="630"/>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1402"/>
       <source>The minimum value for the interval is 0.001 and the maximum is 1000000 seconds.</source>
-      <translation type="unfinished">The minimum value for the interval is 0.001 and the maximum is 1000000 seconds.</translation>
+      <translation>間隔的最小值為 0.001，最大值為 1000000 秒。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="630"/>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1402"/>
       <source>Incorrect Interval -- %1</source>
-      <translation type="unfinished">Incorrect Interval -- %1</translation>
+      <translation>間隔不正確 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1256"/>
       <source>Invalid Destination IP Address Entered.</source>
-      <translation type="unfinished">Invalid Destination IP Address Entered.</translation>
+      <translation>輸入的目的 IP 位址無效。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1262"/>
       <source>Invalid Source IP Address Entered.</source>
-      <translation type="unfinished">Invalid Source IP Address Entered.</translation>
+      <translation>輸入的來源 IP 位址無效。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1272"/>
       <source>Enter TTL</source>
-      <translation type="unfinished">Enter TTL</translation>
+      <translation>輸入 TTL</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1279"/>
       <source>Invalid TTL Entered.</source>
-      <translation type="unfinished">Invalid TTL Entered.</translation>
+      <translation>輸入的 TTL 無效。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1290"/>
       <source>Enter Sequence Number</source>
-      <translation type="unfinished">Enter Sequence Number</translation>
+      <translation>輸入序號</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1297"/>
       <source>Invalid Sequence Number Entered.</source>
-      <translation type="unfinished">Invalid Sequence Number Entered.</translation>
+      <translation>輸入的序號無效。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1309"/>
       <source>Incorrect PDU Size -- %1</source>
-      <translation type="unfinished">Incorrect PDU Size -- %1</translation>
+      <translation>PDU 大小不正確 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1309"/>
       <source>Enter a number between 0 and 15000.  15000 is not the limit on real equipment but in %1 for performance and stability.</source>
-      <translation type="unfinished">Enter a number between 0 and 15000.  15000 is not the limit on real equipment but in %1 for performance and stability.</translation>
+      <translation>請輸入 0 到 15000 之間的數字。真實設備的上限並非 15000，這是 %1 為了效能與穩定性所設的限制。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1353"/>
       <source>Incorrect TTL -- %1</source>
-      <translation type="unfinished">Incorrect TTL -- %1</translation>
+      <translation>TTL 不正確 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1359"/>
       <source>Incorrect Seq Num -- %1</source>
-      <translation type="unfinished">Incorrect Seq Num -- %1</translation>
+      <translation>序號不正確 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1365"/>
       <source>Incorrect Source Port -- %1</source>
-      <translation type="unfinished">Incorrect Source Port -- %1</translation>
+      <translation>來源連接埠不正確 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1371"/>
       <source>Incorrect Destination Port -- %1</source>
-      <translation type="unfinished">Incorrect Destination Port -- %1</translation>
+      <translation>目的連接埠不正確 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1380"/>
       <source>Incorrect TOS -- %1</source>
-      <translation type="unfinished">Incorrect TOS -- %1</translation>
+      <translation>TOS 不正確 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1317"/>
       <source>Enter Source Port</source>
-      <translation type="unfinished">Enter Source Port</translation>
+      <translation>輸入來源連接埠</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1324"/>
       <source>Invalid Source Port Number Entered.</source>
-      <translation type="unfinished">Invalid Source Port Number Entered.</translation>
+      <translation>輸入的來源連接埠號碼無效。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1333"/>
       <source>Enter Destination Port</source>
-      <translation type="unfinished">Enter Destination Port</translation>
+      <translation>輸入目的連接埠</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1339"/>
       <source>Invalid Destination Port Number Entered.</source>
-      <translation type="unfinished">Invalid Destination Port Number Entered.</translation>
+      <translation>輸入的目的連接埠號碼無效。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1353"/>
       <source>TTL out of range [0-255].</source>
-      <translation type="unfinished">TTL out of range [0-255].</translation>
+      <translation>TTL 超出範圍 [0-255]。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1365"/>
       <source>Source Port out of range [1 - 65536].</source>
-      <translation type="unfinished">Source Port out of range [1 - 65536].</translation>
+      <translation>來源連接埠超出範圍 [1 - 65536]。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1371"/>
       <source>Destination Port out of range [1 - 65536].</source>
-      <translation type="unfinished">Destination Port out of range [1 - 65536].</translation>
+      <translation>目的連接埠超出範圍 [1 - 65536]。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1380"/>
       <source>TOS out of range [0 - 255].</source>
-      <translation type="unfinished">TOS out of range [0 - 255].</translation>
+      <translation>TOS 超出範圍 [0 - 255]。</translation>
     </message>
     <message>
       <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1359"/>
       <source>Sequence Number out of range [0 - 65536].</source>
-      <translation type="unfinished">Sequence Number out of range [0 - 65536].</translation>
+      <translation>序號超出範圍 [0 - 65536]。</translation>
     </message>
   </context>
   <context>
@@ -34461,55 +34461,55 @@ Please try to use a different port.</translation>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="90"/>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="218"/>
       <source>Wireless Mode</source>
-      <translation type="unfinished">Wireless Mode</translation>
+      <translation>無線模式</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="91"/>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="219"/>
       <source>Wide Channel</source>
-      <translation type="unfinished">Wide Channel</translation>
+      <translation>寬頻道</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="92"/>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="220"/>
       <source>Wireless Network Name</source>
-      <translation type="unfinished">Wireless Network Name</translation>
+      <translation>無線網路名稱</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="93"/>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="221"/>
       <source>Radio Bandwidth</source>
-      <translation type="unfinished">Radio Bandwidth</translation>
+      <translation>無線電頻寬</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="94"/>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="222"/>
       <source>IP address</source>
-      <translation type="unfinished">IP address</translation>
+      <translation>IP 位址</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="95"/>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="223"/>
       <source>DNS 1</source>
-      <translation type="unfinished">DNS 1</translation>
+      <translation>DNS 1</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="96"/>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="224"/>
       <source>Subnet Mask</source>
-      <translation type="unfinished">Subnet Mask</translation>
+      <translation>子網路遮罩</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="97"/>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="225"/>
       <source>Network Type</source>
-      <translation type="unfinished">Network Type</translation>
+      <translation>網路類型</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="98"/>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="226"/>
       <source>Authentication</source>
-      <translation type="unfinished">Authentication</translation>
+      <translation>驗證</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="99"/>
@@ -34521,24 +34521,24 @@ Please try to use a different port.</translation>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="100"/>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="228"/>
       <source>Standard Channel</source>
-      <translation type="unfinished">Standard Channel</translation>
+      <translation>標準頻道</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="101"/>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="229"/>
       <source>Default Gateway</source>
-      <translation type="unfinished">Default Gateway</translation>
+      <translation>預設閘道</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="102"/>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="230"/>
       <source>Mac Address</source>
-      <translation type="unfinished">Mac Address</translation>
+      <translation>MAC 位址</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="103"/>
       <source>Save to Profiles button</source>
-      <translation type="unfinished">Save to Profiles button</translation>
+      <translation>儲存至設定檔按鈕</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="104"/>
@@ -34553,7 +34553,7 @@ Please try to use a different port.</translation>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="106"/>
       <source>Profiles</source>
-      <translation type="unfinished">Profiles</translation>
+      <translation>設定檔</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="107"/>
@@ -34563,73 +34563,73 @@ Please try to use a different port.</translation>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="181"/>
       <source>20MHz</source>
-      <translation type="unfinished">20MHz</translation>
+      <translation>20MHz</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="183"/>
       <source>Infrastructure</source>
-      <translation type="unfinished">Infrastructure</translation>
+      <translation>基礎結構</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="184"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>不適用</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="188"/>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="200"/>
       <source>Disable</source>
-      <translation type="unfinished">Disable</translation>
+      <translation>停用</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="190"/>
       <source>WEP</source>
-      <translation type="unfinished">WEP</translation>
+      <translation>WEP</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="192"/>
       <source>WPA-Personal</source>
-      <translation type="unfinished">WPA-Personal</translation>
+      <translation>WPA 個人版</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="194"/>
       <source>WPA2-Personal</source>
-      <translation type="unfinished">WPA2-Personal</translation>
+      <translation>WPA2 個人版</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="196"/>
       <source>WPA-Enterprise</source>
-      <translation type="unfinished">WPA-Enterprise</translation>
+      <translation>WPA 企業版</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="198"/>
       <source>WPA2-Enterprise</source>
-      <translation type="unfinished">WPA2-Enterprise</translation>
+      <translation>WPA2 企業版</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="203"/>
       <source>Auto</source>
-      <translation type="unfinished">Auto</translation>
+      <translation>自動</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="205"/>
       <source>Mixed B/G/N</source>
-      <translation type="unfinished">Mixed B/G/N</translation>
+      <translation>混合 B/G/N</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="207"/>
       <source>Wireless-N</source>
-      <translation type="unfinished">Wireless-N</translation>
+      <translation>無線-N</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="209"/>
       <source>Wireless-G</source>
-      <translation type="unfinished">Wireless-G</translation>
+      <translation>無線-G</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="211"/>
       <source>Wireless-B</source>
-      <translation type="unfinished">Wireless-B</translation>
+      <translation>無線-B</translation>
     </message>
   </context>
   <context>
@@ -37117,27 +37117,27 @@ Bluetooth Tether AP: %1
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="276"/>
       <source>DHCP</source>
-      <translation type="unfinished">DHCP</translation>
+      <translation>DHCP</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="277"/>
       <source>DHCPv6</source>
-      <translation type="unfinished">DHCPv6</translation>
+      <translation>DHCPv6</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="275"/>
       <source>CELL TOWER</source>
-      <translation type="unfinished">CELL TOWER</translation>
+      <translation>基地台</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1503"/>
       <source>Internet Settings</source>
-      <translation type="unfinished">Internet Settings</translation>
+      <translation>網際網路設定</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="278"/>
       <source>PAP/CHAP</source>
-      <translation type="unfinished">PAP/CHAP</translation>
+      <translation>PAP/CHAP</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="516"/>
@@ -37147,126 +37147,126 @@ Bluetooth Tether AP: %1
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="527"/>
       <source>ROUTING</source>
-      <translation type="unfinished">ROUTING</translation>
+      <translation>路由</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="528"/>
       <source>Static</source>
-      <translation type="unfinished">Static</translation>
+      <translation>靜態</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="529"/>
       <source>RIP</source>
-      <translation type="unfinished">RIP</translation>
+      <translation>RIP</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1291"/>
       <source>INTERFACE</source>
-      <translation type="unfinished">INTERFACE</translation>
+      <translation>介面</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1303"/>
       <source>Wireless 2.4G</source>
-      <translation type="unfinished">Wireless 2.4G</translation>
+      <translation>無線 2.4G</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1305"/>
       <source>Wireless 5G(1)</source>
-      <translation type="unfinished">Wireless 5G(1)</translation>
+      <translation>無線 5G(1)</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1307"/>
       <source>Wireless 5G(2)</source>
-      <translation type="unfinished">Wireless 5G(2)</translation>
+      <translation>無線 5G(2)</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1310"/>
       <source>Wireless Guest 2.4G</source>
-      <translation type="unfinished">Wireless Guest 2.4G</translation>
+      <translation>訪客無線 2.4G</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1312"/>
       <source>Wireless Guest 5G(1)</source>
-      <translation type="unfinished">Wireless Guest 5G(1)</translation>
+      <translation>訪客無線 5G(1)</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1314"/>
       <source>Wireless Guest 5G(2)</source>
-      <translation type="unfinished">Wireless Guest 5G(2)</translation>
+      <translation>訪客無線 5G(2)</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1496"/>
       <source>Backbone Settings</source>
-      <translation type="unfinished">Backbone Settings</translation>
+      <translation>骨幹設定</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1534"/>
       <source>Tower Interface</source>
-      <translation type="unfinished">Tower Interface</translation>
+      <translation>基地台介面</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1549"/>
       <source>LAN Settings</source>
-      <translation type="unfinished">LAN Settings</translation>
+      <translation>LAN 設定</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1649"/>
       <source>Coverage Range (meters)</source>
-      <translation type="unfinished">Coverage Range (meters)</translation>
+      <translation>涵蓋範圍（公尺）</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1654"/>
       <source>Coverage Range (feet)</source>
-      <translation type="unfinished">Coverage Range (feet)</translation>
+      <translation>涵蓋範圍（英呎）</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1662"/>
       <source>%1 Settings</source>
-      <translation type="unfinished">%1 Settings</translation>
+      <translation>%1 設定</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="616"/>
       <source>Please use CLI to configure.</source>
-      <translation type="unfinished">Please use CLI to configure.</translation>
+      <translation>請使用 CLI 進行設定。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="630"/>
       <source>Device is still booting.
 Please wait until it is finished.</source>
-      <translation type="unfinished">Device is still booting.
-Please wait until it is finished.</translation>
+      <translation>裝置仍在開機中。
+請等待完成。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="660"/>
       <source>Device is in ROMMON mode.</source>
-      <translation type="unfinished">Device is in ROMMON mode.</translation>
+      <translation>裝置處於 ROMMON 模式。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1294"/>
       <source>Backbone</source>
-      <translation type="unfinished">Backbone</translation>
+      <translation>骨幹</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1299"/>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1319"/>
       <source>Internet</source>
-      <translation type="unfinished">Internet</translation>
+      <translation>網際網路</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1295"/>
       <source>Cell Tower</source>
-      <translation type="unfinished">Cell Tower</translation>
+      <translation>基地台</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1300"/>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1320"/>
       <source>LAN</source>
-      <translation type="unfinished">LAN</translation>
+      <translation>LAN</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1321"/>
       <source>Wireless</source>
-      <translation type="unfinished">Wireless</translation>
+      <translation>無線</translation>
     </message>
   </context>
   <context>
@@ -58521,23 +58521,23 @@ Flow information:
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="64"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="67"/>
       <source>Terminal Configuration</source>
-      <translation type="unfinished">Terminal Configuration</translation>
+      <translation>終端機組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="95"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="98"/>
       <source>close</source>
-      <translation type="unfinished">close</translation>
+      <translation>關閉</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="101"/>
       <source>X</source>
-      <translation type="unfinished">X</translation>
+      <translation>X</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="122"/>
       <source>Port Configuration</source>
-      <translation type="unfinished">Port Configuration</translation>
+      <translation>連接埠組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="137"/>
@@ -58551,105 +58551,105 @@ Flow information:
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="160"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="163"/>
       <source>Bits Per Second:</source>
-      <translation type="unfinished">Bits Per Second:</translation>
+      <translation>每秒位元數：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="176"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="179"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="182"/>
       <source>Data Bits:</source>
-      <translation type="unfinished">Data Bits:</translation>
+      <translation>資料位元：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="195"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="198"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="201"/>
       <source>Parity:</source>
-      <translation type="unfinished">Parity:</translation>
+      <translation>同位檢查：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="214"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="217"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="220"/>
       <source>Stop Bits:</source>
-      <translation type="unfinished">Stop Bits:</translation>
+      <translation>停止位元：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="233"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="236"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="239"/>
       <source>Flow Control:</source>
-      <translation type="unfinished">Flow Control:</translation>
+      <translation>流量控制：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="266"/>
       <source>1200</source>
-      <translation type="unfinished">1200</translation>
+      <translation>1200</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="271"/>
       <source>2400</source>
-      <translation type="unfinished">2400</translation>
+      <translation>2400</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="276"/>
       <source>4800</source>
-      <translation type="unfinished">4800</translation>
+      <translation>4800</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="281"/>
       <source>9600</source>
-      <translation type="unfinished">9600</translation>
+      <translation>9600</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="286"/>
       <source>19200</source>
-      <translation type="unfinished">19200</translation>
+      <translation>19200</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="291"/>
       <source>38400</source>
-      <translation type="unfinished">38400</translation>
+      <translation>38400</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="296"/>
       <source>57600</source>
-      <translation type="unfinished">57600</translation>
+      <translation>57600</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="301"/>
       <source>115200</source>
-      <translation type="unfinished">115200</translation>
+      <translation>115200</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="319"/>
       <source>5</source>
-      <translation type="unfinished">5</translation>
+      <translation>5</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="324"/>
       <source>6</source>
-      <translation type="unfinished">6</translation>
+      <translation>6</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="329"/>
       <source>7</source>
-      <translation type="unfinished">7</translation>
+      <translation>7</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="334"/>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="352"/>
       <source>Even</source>
-      <translation type="unfinished">Even</translation>
+      <translation>偶同位</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="357"/>
       <source>Odd</source>
-      <translation type="unfinished">Odd</translation>
+      <translation>奇同位</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="362"/>
@@ -58660,37 +58660,37 @@ Flow information:
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="367"/>
       <source>Mark</source>
-      <translation type="unfinished">Mark</translation>
+      <translation>標記</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="372"/>
       <source>Space</source>
-      <translation type="unfinished">Space</translation>
+      <translation>空白</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="390"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="395"/>
       <source>1.5</source>
-      <translation type="unfinished">1.5</translation>
+      <translation>1.5</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="400"/>
       <source>2</source>
-      <translation type="unfinished">2</translation>
+      <translation>2</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="418"/>
       <source>Xon/Xoff</source>
-      <translation type="unfinished">Xon/Xoff</translation>
+      <translation>Xon/Xoff</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="423"/>
       <source>Hardware</source>
-      <translation type="unfinished">Hardware</translation>
+      <translation>硬體</translation>
     </message>
   </context>
   <context>
