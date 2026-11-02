@@ -31532,27 +31532,27 @@ reset activity?</source>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="314"/>
       <source>Switching to Logical Workspace</source>
-      <translation type="unfinished">Switching to Logical Workspace</translation>
+      <translation>切換至邏輯工作區</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="315"/>
       <source>Switching to Physical Workspace</source>
-      <translation type="unfinished">Switching to Physical Workspace</translation>
+      <translation>切換至實體工作區</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="316"/>
       <source>Switching to Realtime Mode</source>
-      <translation type="unfinished">Switching to Realtime Mode</translation>
+      <translation>切換至即時模式</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="317"/>
       <source>Switching to Simulation Mode</source>
-      <translation type="unfinished">Switching to Simulation Mode</translation>
+      <translation>切換至模擬模式</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="335"/>
       <source>Lock Secondary Toolbar Toggle</source>
-      <translation type="unfinished">Lock Secondary Toolbar Toggle</translation>
+      <translation>鎖定次要工具列切換鈕</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="350"/>
@@ -31562,17 +31562,17 @@ reset activity?</source>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="351"/>
       <source>View Assessment Items</source>
-      <translation type="unfinished">View Assessment Items</translation>
+      <translation>檢視評量項目</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="352"/>
       <source>View Connectivity Tests</source>
-      <translation type="unfinished">View Connectivity Tests</translation>
+      <translation>檢視連線測試</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="354"/>
       <source>Check Results</source>
-      <translation type="unfinished">Check Results</translation>
+      <translation>檢查結果</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="355"/>
@@ -31582,7 +31582,7 @@ reset activity?</source>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="361"/>
       <source>Topology</source>
-      <translation type="unfinished">Topology</translation>
+      <translation>拓樸</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="362"/>
@@ -31593,157 +31593,157 @@ reset activity?</source>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="363"/>
       <source>Create Devices</source>
-      <translation type="unfinished">Create Devices</translation>
+      <translation>建立裝置</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="364"/>
       <source>Remove Devices</source>
-      <translation type="unfinished">Remove Devices</translation>
+      <translation>移除裝置</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="365"/>
       <location filename="../gui/activity/LockingTree.cpp" line="631"/>
       <source>Toggle Power</source>
-      <translation type="unfinished">Toggle Power</translation>
+      <translation>切換電源</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="366"/>
       <source>Configure Devices</source>
-      <translation type="unfinished">Configure Devices</translation>
+      <translation>設定裝置</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="368"/>
       <location filename="../gui/activity/LockingTree.cpp" line="651"/>
       <source>Use CLI Tab</source>
-      <translation type="unfinished">Use CLI Tab</translation>
+      <translation>使用 CLI 分頁</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="369"/>
       <location filename="../gui/activity/LockingTree.cpp" line="655"/>
       <source>Use Desktop Tab</source>
-      <translation type="unfinished">Use Desktop Tab</translation>
+      <translation>使用桌面分頁</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="370"/>
       <location filename="../gui/activity/LockingTree.cpp" line="658"/>
       <source>Use Config Tab</source>
-      <translation type="unfinished">Use Config Tab</translation>
+      <translation>使用組態分頁</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="371"/>
       <location filename="../gui/activity/LockingTree.cpp" line="659"/>
       <source>Use Services Tab</source>
-      <translation type="unfinished">Use Services Tab</translation>
+      <translation>使用服務分頁</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="372"/>
       <source>Change Interface</source>
-      <translation type="unfinished">Change Interface</translation>
+      <translation>變更介面</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="373"/>
       <source>Remove Interface</source>
-      <translation type="unfinished">Remove Interface</translation>
+      <translation>移除介面</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="374"/>
       <source>Connect Links</source>
-      <translation type="unfinished">Connect Links</translation>
+      <translation>連接連結</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="375"/>
       <source>Disconnect Links</source>
-      <translation type="unfinished">Disconnect Links</translation>
+      <translation>中斷連結</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="377"/>
       <source>Create Cluster</source>
-      <translation type="unfinished">Create Cluster</translation>
+      <translation>建立叢集</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="378"/>
       <source>Remove Cluster</source>
-      <translation type="unfinished">Remove Cluster</translation>
+      <translation>移除叢集</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="379"/>
       <source>Enter Cluster</source>
-      <translation type="unfinished">Enter Cluster</translation>
+      <translation>進入叢集</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="381"/>
       <source>Create Physical Level</source>
-      <translation type="unfinished">Create Physical Level</translation>
+      <translation>建立實體層級</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="382"/>
       <source>Remove Physical Level</source>
-      <translation type="unfinished">Remove Physical Level</translation>
+      <translation>移除實體層級</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="383"/>
       <location filename="../gui/activity/LockingTree.cpp" line="634"/>
       <source>Change Physical Level</source>
-      <translation type="unfinished">Change Physical Level</translation>
+      <translation>變更實體層級</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="385"/>
       <source>Global Tooltip</source>
-      <translation type="unfinished">Global Tooltip</translation>
+      <translation>全域工具提示</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="386"/>
       <source>Change Notes/Annotations</source>
-      <translation type="unfinished">Change Notes/Annotations</translation>
+      <translation>變更註解</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="387"/>
       <source>Move Notes/Annotations</source>
-      <translation type="unfinished">Move Notes/Annotations</translation>
+      <translation>移動註解</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="388"/>
       <source>Remove Notes/Annotations</source>
-      <translation type="unfinished">Remove Notes/Annotations</translation>
+      <translation>移除註解</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="389"/>
       <source>Auto Connect</source>
-      <translation type="unfinished">Auto Connect</translation>
+      <translation>自動連線</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="390"/>
       <location filename="../gui/activity/LockingTree.cpp" line="635"/>
       <source>Export/Import IOS Config</source>
-      <translation type="unfinished">Export/Import IOS Config</translation>
+      <translation>匯出/匯入 IOS 組態</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="394"/>
       <source>Read Only Desktop Applets</source>
-      <translation type="unfinished">Read Only Desktop Applets</translation>
+      <translation>桌面小程式唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="395"/>
       <source>Lock Desktop Applets</source>
-      <translation type="unfinished">Lock Desktop Applets</translation>
+      <translation>鎖定桌面小程式</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="415"/>
       <location filename="../gui/activity/LockingTree.cpp" line="616"/>
       <source>Existing Devices</source>
-      <translation type="unfinished">Existing Devices</translation>
+      <translation>現有裝置</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="417"/>
       <location filename="../gui/activity/LockingTree.cpp" line="797"/>
       <source>Existing Annotations</source>
-      <translation type="unfinished">Existing Annotations</translation>
+      <translation>現有註解</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="424"/>
       <location filename="../gui/activity/LockingTree.cpp" line="1127"/>
       <source>Remote Networks</source>
-      <translation type="unfinished">Remote Networks</translation>
+      <translation>遠端網路</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="428"/>
@@ -31753,106 +31753,106 @@ reset activity?</source>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="430"/>
       <source>Create Scenarios</source>
-      <translation type="unfinished">Create Scenarios</translation>
+      <translation>建立情境</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="431"/>
       <source>Remove Scenarios</source>
-      <translation type="unfinished">Remove Scenarios</translation>
+      <translation>移除情境</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="432"/>
       <source>Rename Scenarios</source>
-      <translation type="unfinished">Rename Scenarios</translation>
+      <translation>重新命名情境</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="433"/>
       <source>Create Simple PDUs</source>
-      <translation type="unfinished">Create Simple PDUs</translation>
+      <translation>建立簡易 PDU</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="434"/>
       <source>Create Custom PDUs</source>
-      <translation type="unfinished">Create Custom PDUs</translation>
+      <translation>建立自訂 PDU</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="435"/>
       <source>Remove PDUs</source>
-      <translation type="unfinished">Remove PDUs</translation>
+      <translation>移除 PDU</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="437"/>
       <source>All PDU Info</source>
-      <translation type="unfinished">All PDU Info</translation>
+      <translation>所有 PDU 資訊</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="438"/>
       <source>Open All PDU Info</source>
-      <translation type="unfinished">Open All PDU Info</translation>
+      <translation>開啟所有 PDU 資訊</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="439"/>
       <location filename="../gui/activity/LockingTree.cpp" line="519"/>
       <source>View OSI Model Detail</source>
-      <translation type="unfinished">View OSI Model Detail</translation>
+      <translation>檢視 OSI 模型詳細資料</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="440"/>
       <location filename="../gui/activity/LockingTree.cpp" line="520"/>
       <source>View Inbound Detail</source>
-      <translation type="unfinished">View Inbound Detail</translation>
+      <translation>檢視輸入詳細資料</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="441"/>
       <location filename="../gui/activity/LockingTree.cpp" line="521"/>
       <source>View Outbound Detail</source>
-      <translation type="unfinished">View Outbound Detail</translation>
+      <translation>檢視輸出詳細資料</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="447"/>
       <location filename="../gui/activity/LockingTree.cpp" line="498"/>
       <source>Existing Scenarios</source>
-      <translation type="unfinished">Existing Scenarios</translation>
+      <translation>現有情境</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="511"/>
       <source>Remove Scenario</source>
-      <translation type="unfinished">Remove Scenario</translation>
+      <translation>移除情境</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="512"/>
       <source>Rename Scenario</source>
-      <translation type="unfinished">Rename Scenario</translation>
+      <translation>重新命名情境</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="513"/>
       <source>Create Simple PDU</source>
-      <translation type="unfinished">Create Simple PDU</translation>
+      <translation>建立簡易 PDU</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="514"/>
       <source>Create Custom PDU</source>
-      <translation type="unfinished">Create Custom PDU</translation>
+      <translation>建立自訂 PDU</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="515"/>
       <source>Remove PDU</source>
-      <translation type="unfinished">Remove PDU</translation>
+      <translation>移除 PDU</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="517"/>
       <source>PDU Info</source>
-      <translation type="unfinished">PDU Info</translation>
+      <translation>PDU 資訊</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="518"/>
       <source>Open PDU Info</source>
-      <translation type="unfinished">Open PDU Info</translation>
+      <translation>開啟 PDU 資訊</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="629"/>
       <source>Add/Change Interfaces</source>
-      <translation type="unfinished">Add/Change Interfaces</translation>
+      <translation>新增/變更介面</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="595"/>
@@ -31864,62 +31864,62 @@ reset activity?</source>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="632"/>
       <source>Configure</source>
-      <translation type="unfinished">Configure</translation>
+      <translation>設定</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="597"/>
       <source>Move</source>
-      <translation type="unfinished">Move</translation>
+      <translation>移動</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="299"/>
       <source>Locking / Starting Items</source>
-      <translation type="unfinished">Locking / Starting Items</translation>
+      <translation>鎖定 / 啟動項目</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="304"/>
       <source>Locking / Starting</source>
-      <translation type="unfinished">Locking / Starting</translation>
+      <translation>鎖定 / 啟動</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="318"/>
       <source>Start in Physical Workspace</source>
-      <translation type="unfinished">Start in Physical Workspace</translation>
+      <translation>在實體工作區啟動</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="319"/>
       <source>Start in Simulation Mode</source>
-      <translation type="unfinished">Start in Simulation Mode</translation>
+      <translation>在模擬模式啟動</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="320"/>
       <source>Hide Event List on Start</source>
-      <translation type="unfinished">Hide Event List on Start</translation>
+      <translation>啟動時隱藏事件清單</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="321"/>
       <source>Hide Network Component Box in Wiring Closets</source>
-      <translation type="unfinished">Hide Network Component Box in Wiring Closets</translation>
+      <translation>隱藏配線間中的網路元件方塊</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="322"/>
       <source>Hide User Created Packet Window</source>
-      <translation type="unfinished">Hide User Created Packet Window</translation>
+      <translation>隱藏使用者建立的封包視窗</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="323"/>
       <source>Save Activity</source>
-      <translation type="unfinished">Save Activity</translation>
+      <translation>儲存活動</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="324"/>
       <source>Print Activity</source>
-      <translation type="unfinished">Print Activity</translation>
+      <translation>列印活動</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="325"/>
       <source>Copy and Paste</source>
-      <translation type="unfinished">Copy and Paste</translation>
+      <translation>複製與貼上</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="326"/>
@@ -31929,190 +31929,190 @@ reset activity?</source>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="328"/>
       <source>Note Tool</source>
-      <translation type="unfinished">Note Tool</translation>
+      <translation>註解工具</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="329"/>
       <source>Delete Tool</source>
-      <translation type="unfinished">Delete Tool</translation>
+      <translation>刪除工具</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="330"/>
       <source>Inspection Tool</source>
-      <translation type="unfinished">Inspection Tool</translation>
+      <translation>檢查工具</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="331"/>
       <source>Drawing Tool</source>
-      <translation type="unfinished">Drawing Tool</translation>
+      <translation>繪圖工具</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="332"/>
       <source>Resize Tool</source>
-      <translation type="unfinished">Resize Tool</translation>
+      <translation>調整大小工具</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="333"/>
       <source>Edit Environment</source>
-      <translation type="unfinished">Edit Environment</translation>
+      <translation>編輯環境</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="334"/>
       <source>Lock Main Toolbar Toggle</source>
-      <translation type="unfinished">Lock Main Toolbar Toggle</translation>
+      <translation>鎖定主工具列切換鈕</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="336"/>
       <source>Lock Bottom Toolbar Toggle</source>
-      <translation type="unfinished">Lock Bottom Toolbar Toggle</translation>
+      <translation>鎖定底部工具列切換鈕</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="337"/>
       <source>Hide Wireless/Cellular Connections</source>
-      <translation type="unfinished">Hide Wireless/Cellular Connections</translation>
+      <translation>隱藏無線/行動連線</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="338"/>
       <source>Preferences (Deprecated)</source>
-      <translation type="unfinished">Preferences (Deprecated)</translation>
+      <translation>偏好設定（已淘汰）</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="339"/>
       <source>Toggling Animation (Deprecated)</source>
-      <translation type="unfinished">Toggling Animation (Deprecated)</translation>
+      <translation>切換動畫（已淘汰）</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="340"/>
       <source>Toggling Auto Dock Popup Window (Deprecated)</source>
-      <translation type="unfinished">Toggling Auto Dock Popup Window (Deprecated)</translation>
+      <translation>切換自動停駐彈出視窗（已淘汰）</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="341"/>
       <source>Toggling Sound (Deprecated)</source>
-      <translation type="unfinished">Toggling Sound (Deprecated)</translation>
+      <translation>切換音效（已淘汰）</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="342"/>
       <source>Toggling Telephony Sound (Deprecated)</source>
-      <translation type="unfinished">Toggling Telephony Sound (Deprecated)</translation>
+      <translation>切換電話音效（已淘汰）</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="343"/>
       <source>Toggling Show Port Information (Deprecated)</source>
-      <translation type="unfinished">Toggling Show Port Information (Deprecated)</translation>
+      <translation>切換顯示連接埠資訊（已淘汰）</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="344"/>
       <source>Hide Link Lights (Deprecated)</source>
-      <translation type="unfinished">Hide Link Lights (Deprecated)</translation>
+      <translation>隱藏連結指示燈（已淘汰）</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="345"/>
       <source>Enable Cable Length (Deprecated)</source>
-      <translation type="unfinished">Enable Cable Length (Deprecated)</translation>
+      <translation>啟用纜線長度（已淘汰）</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="346"/>
       <source>Lock Interface Tab (Deprecated)</source>
-      <translation type="unfinished">Lock Interface Tab (Deprecated)</translation>
+      <translation>鎖定介面分頁（已淘汰）</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="347"/>
       <source>Lock Administrative Tab (Deprecated)</source>
-      <translation type="unfinished">Lock Administrative Tab (Deprecated)</translation>
+      <translation>鎖定管理分頁（已淘汰）</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="348"/>
       <source>Lock Hide Tab (Deprecated)</source>
-      <translation type="unfinished">Lock Hide Tab (Deprecated)</translation>
+      <translation>鎖定隱藏分頁（已淘汰）</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="349"/>
       <source>Lock Custom Interfaces Tab (Deprecated)</source>
-      <translation type="unfinished">Lock Custom Interfaces Tab (Deprecated)</translation>
+      <translation>鎖定自訂介面分頁（已淘汰）</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="353"/>
       <source>Edit Instructions (Deprecated)</source>
-      <translation type="unfinished">Edit Instructions (Deprecated)</translation>
+      <translation>編輯說明（已淘汰）</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="357"/>
       <source>Multi-user</source>
-      <translation type="unfinished">Multi-user</translation>
+      <translation>多使用者</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="358"/>
       <source>Enable Top on Start</source>
-      <translation type="unfinished">Enable Top on Start</translation>
+      <translation>啟動時啟用置頂</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="359"/>
       <source>Enable Dock on Start</source>
-      <translation type="unfinished">Enable Dock on Start</translation>
+      <translation>啟動時啟用停駐</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="367"/>
       <location filename="../gui/activity/LockingTree.cpp" line="633"/>
       <source>Change Logical Coordinates</source>
-      <translation type="unfinished">Change Logical Coordinates</translation>
+      <translation>變更邏輯座標</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="376"/>
       <source>Manage All Cables in Wiring Closet</source>
-      <translation type="unfinished">Manage All Cables in Wiring Closet</translation>
+      <translation>管理配線間中的所有纜線</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="392"/>
       <location filename="../gui/activity/LockingTree.cpp" line="643"/>
       <source>Change Wireless Coverage Range</source>
-      <translation type="unfinished">Change Wireless Coverage Range</translation>
+      <translation>變更無線涵蓋範圍</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="393"/>
       <location filename="../gui/activity/LockingTree.cpp" line="647"/>
       <source>Change Bluetooth Transmit Range</source>
-      <translation type="unfinished">Change Bluetooth Transmit Range</translation>
+      <translation>變更藍牙傳輸範圍</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="396"/>
       <location filename="../gui/activity/LockingTree.cpp" line="679"/>
       <source>Use Router/Switch CLI Tab</source>
-      <translation type="unfinished">Use Router/Switch CLI Tab</translation>
+      <translation>使用路由器/交換器 CLI 分頁</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="397"/>
       <location filename="../gui/activity/LockingTree.cpp" line="682"/>
       <source>Use Router/Switch Config Tab</source>
-      <translation type="unfinished">Use Router/Switch Config Tab</translation>
+      <translation>使用路由器/交換器組態分頁</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="399"/>
       <location filename="../gui/activity/LockingTree.cpp" line="671"/>
       <source>Use Programming Tab</source>
-      <translation type="unfinished">Use Programming Tab</translation>
+      <translation>使用程式設計分頁</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="400"/>
       <location filename="../gui/activity/LockingTree.cpp" line="665"/>
       <source>Use Thing Editor Tab</source>
-      <translation type="unfinished">Use Thing Editor Tab</translation>
+      <translation>使用 Thing 編輯器分頁</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="401"/>
       <source>Use I/O Devices Tab</source>
-      <translation type="unfinished">Use I/O Devices Tab</translation>
+      <translation>使用 I/O 裝置分頁</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="402"/>
       <location filename="../gui/activity/LockingTree.cpp" line="670"/>
       <source>Use Attributes Tab</source>
-      <translation type="unfinished">Use Attributes Tab</translation>
+      <translation>使用屬性分頁</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="404"/>
       <source>Hide Devices in Network Component Box</source>
-      <translation type="unfinished">Hide Devices in Network Component Box</translation>
+      <translation>隱藏網路元件方塊中的裝置</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="418"/>
@@ -32123,308 +32123,308 @@ reset activity?</source>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="524"/>
       <source>Start in Scenario</source>
-      <translation type="unfinished">Start in Scenario</translation>
+      <translation>在情境中啟動</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="598"/>
       <source>Connection Popup</source>
-      <translation type="unfinished">Connection Popup</translation>
+      <translation>連線彈出視窗</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="599"/>
       <source>Start in Cluster</source>
-      <translation type="unfinished">Start in Cluster</translation>
+      <translation>在叢集中啟動</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="636"/>
       <source>Change Name</source>
-      <translation type="unfinished">Change Name</translation>
+      <translation>變更名稱</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="664"/>
       <source>Use I/O Tab</source>
-      <translation type="unfinished">Use I/O Tab</translation>
+      <translation>使用 I/O 分頁</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="676"/>
       <source>Device Tooltip</source>
-      <translation type="unfinished">Device Tooltip</translation>
+      <translation>裝置工具提示</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="684"/>
       <source>Open Device Dialog on Start</source>
-      <translation type="unfinished">Open Device Dialog on Start</translation>
+      <translation>啟動時開啟裝置對話方塊</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="686"/>
       <source>Open Physical Tab on Start</source>
-      <translation type="unfinished">Open Physical Tab on Start</translation>
+      <translation>啟動時開啟實體分頁</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="687"/>
       <source>Open Config Tab on Start</source>
-      <translation type="unfinished">Open Config Tab on Start</translation>
+      <translation>啟動時開啟組態分頁</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="689"/>
       <source>Open CLI Tab on Start</source>
-      <translation type="unfinished">Open CLI Tab on Start</translation>
+      <translation>啟動時開啟 CLI 分頁</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="693"/>
       <source>Open Desktop Tab on Start</source>
-      <translation type="unfinished">Open Desktop Tab on Start</translation>
+      <translation>啟動時開啟桌面分頁</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="694"/>
       <source>Open Services Tab on Start</source>
-      <translation type="unfinished">Open Services Tab on Start</translation>
+      <translation>啟動時開啟服務分頁</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="699"/>
       <location filename="../gui/activity/LockingTree.cpp" line="754"/>
       <source>Desktop Applets</source>
-      <translation type="unfinished">Desktop Applets</translation>
+      <translation>桌面小程式</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="701"/>
       <source>IP Settings Read Only</source>
-      <translation type="unfinished">IP Settings Read Only</translation>
+      <translation>IP 設定唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="702"/>
       <source>Lock IP Settings</source>
-      <translation type="unfinished">Lock IP Settings</translation>
+      <translation>鎖定 IP 設定</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="703"/>
       <source>Dial-up Settings Read Only</source>
-      <translation type="unfinished">Dial-up Settings Read Only</translation>
+      <translation>撥號設定唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="704"/>
       <source>Lock Dial-up</source>
-      <translation type="unfinished">Lock Dial-up</translation>
+      <translation>鎖定撥號</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="705"/>
       <source>Terminal Read Only</source>
-      <translation type="unfinished">Terminal Read Only</translation>
+      <translation>終端機唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="706"/>
       <source>Lock Terminal</source>
-      <translation type="unfinished">Lock Terminal</translation>
+      <translation>鎖定終端機</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="707"/>
       <location filename="../gui/activity/LockingTree.cpp" line="756"/>
       <source>Command Prompt Read Only</source>
-      <translation type="unfinished">Command Prompt Read Only</translation>
+      <translation>命令提示字元唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="708"/>
       <location filename="../gui/activity/LockingTree.cpp" line="757"/>
       <source>Lock Command Prompt</source>
-      <translation type="unfinished">Lock Command Prompt</translation>
+      <translation>鎖定命令提示字元</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="709"/>
       <location filename="../gui/activity/LockingTree.cpp" line="758"/>
       <source>Web Browser Read Only</source>
-      <translation type="unfinished">Web Browser Read Only</translation>
+      <translation>網頁瀏覽器唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="710"/>
       <location filename="../gui/activity/LockingTree.cpp" line="759"/>
       <source>Lock Web Browser</source>
-      <translation type="unfinished">Lock Web Browser</translation>
+      <translation>鎖定網頁瀏覽器</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="711"/>
       <source>PC Wireless Read Only</source>
-      <translation type="unfinished">PC Wireless Read Only</translation>
+      <translation>PC 無線唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="712"/>
       <source>Lock PC Wireless</source>
-      <translation type="unfinished">Lock PC Wireless</translation>
+      <translation>鎖定 PC 無線</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="713"/>
       <source>VPN Read Only</source>
-      <translation type="unfinished">VPN Read Only</translation>
+      <translation>VPN 唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="714"/>
       <source>Lock VPN</source>
-      <translation type="unfinished">Lock VPN</translation>
+      <translation>鎖定 VPN</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="715"/>
       <location filename="../gui/activity/LockingTree.cpp" line="760"/>
       <source>Traffic Generator Read Only</source>
-      <translation type="unfinished">Traffic Generator Read Only</translation>
+      <translation>流量產生器唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="716"/>
       <location filename="../gui/activity/LockingTree.cpp" line="761"/>
       <source>Lock Traffic Generator</source>
-      <translation type="unfinished">Lock Traffic Generator</translation>
+      <translation>鎖定流量產生器</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="717"/>
       <source>MIB Browser Read Only</source>
-      <translation type="unfinished">MIB Browser Read Only</translation>
+      <translation>MIB 瀏覽器唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="718"/>
       <source>Lock MIB Browser</source>
-      <translation type="unfinished">Lock MIB Browser</translation>
+      <translation>鎖定 MIB 瀏覽器</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="719"/>
       <source>Cisco IP Communicator Read Only</source>
-      <translation type="unfinished">Cisco IP Communicator Read Only</translation>
+      <translation>Cisco IP Communicator 唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="720"/>
       <source>Lock Cisco IP Communicator</source>
-      <translation type="unfinished">Lock Cisco IP Communicator</translation>
+      <translation>鎖定 Cisco IP Communicator</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="721"/>
       <location filename="../gui/activity/LockingTree.cpp" line="762"/>
       <source>Email Read Only</source>
-      <translation type="unfinished">Email Read Only</translation>
+      <translation>電子郵件唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="722"/>
       <location filename="../gui/activity/LockingTree.cpp" line="763"/>
       <source>Lock Email</source>
-      <translation type="unfinished">Lock Email</translation>
+      <translation>鎖定電子郵件</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="723"/>
       <source>PPPoE Dialer Read Only</source>
-      <translation type="unfinished">PPPoE Dialer Read Only</translation>
+      <translation>PPPoE 撥號器唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="724"/>
       <source>Lock PPPoE Dialer</source>
-      <translation type="unfinished">Lock PPPoE Dialer</translation>
+      <translation>鎖定 PPPoE 撥號器</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="725"/>
       <location filename="../gui/activity/LockingTree.cpp" line="764"/>
       <source>Text Editor Read Only</source>
-      <translation type="unfinished">Text Editor Read Only</translation>
+      <translation>文字編輯器唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="726"/>
       <location filename="../gui/activity/LockingTree.cpp" line="765"/>
       <source>Lock Text Editor</source>
-      <translation type="unfinished">Lock Text Editor</translation>
+      <translation>鎖定文字編輯器</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="727"/>
       <source>AAA Viewer Read Only</source>
-      <translation type="unfinished">AAA Viewer Read Only</translation>
+      <translation>AAA 檢視器唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="728"/>
       <source>Lock AAA Viewer</source>
-      <translation type="unfinished">Lock AAA Viewer</translation>
+      <translation>鎖定 AAA 檢視器</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="729"/>
       <source>Firewall Read Only</source>
-      <translation type="unfinished">Firewall Read Only</translation>
+      <translation>防火牆唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="730"/>
       <source>Lock Firewall</source>
-      <translation type="unfinished">Lock Firewall</translation>
+      <translation>鎖定防火牆</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="731"/>
       <source>IPv6 Firewall Read Only</source>
-      <translation type="unfinished">IPv6 Firewall Read Only</translation>
+      <translation>IPv6 防火牆唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="732"/>
       <source>Lock IPv6 Firewall</source>
-      <translation type="unfinished">Lock IPv6 Firewall</translation>
+      <translation>鎖定 IPv6 防火牆</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="733"/>
       <source>Netflow Collector Read Only</source>
-      <translation type="unfinished">Netflow Collector Read Only</translation>
+      <translation>Netflow 收集器唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="734"/>
       <source>Lock Netflow Collector</source>
-      <translation type="unfinished">Lock Netflow Collector</translation>
+      <translation>鎖定 Netflow 收集器</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="735"/>
       <source>IoX IDE Read Only</source>
-      <translation type="unfinished">IoX IDE Read Only</translation>
+      <translation>IoX IDE 唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="736"/>
       <source>Lock IoX IDE</source>
-      <translation type="unfinished">Lock IoX IDE</translation>
+      <translation>鎖定 IoX IDE</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="737"/>
       <source>IoT Monitor Read Only</source>
-      <translation type="unfinished">IoT Monitor Read Only</translation>
+      <translation>IoT 監視器唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="738"/>
       <source>Lock IoT Monitor</source>
-      <translation type="unfinished">Lock IoT Monitor</translation>
+      <translation>鎖定 IoT 監視器</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="739"/>
       <source>TFTP Read Only</source>
-      <translation type="unfinished">TFTP Read Only</translation>
+      <translation>TFTP 唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="740"/>
       <source>Lock TFTP</source>
-      <translation type="unfinished">Lock TFTP</translation>
+      <translation>鎖定 TFTP</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="741"/>
       <source>SSH Client Read Only</source>
-      <translation type="unfinished">SSH Client Read Only</translation>
+      <translation>SSH 用戶端唯讀</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="742"/>
       <source>Lock SSH Client</source>
-      <translation type="unfinished">Lock SSH Client</translation>
+      <translation>鎖定 SSH 用戶端</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="743"/>
       <source>Lock IoT IDE</source>
-      <translation type="unfinished">Lock IoT IDE</translation>
+      <translation>鎖定 IoT IDE</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="744"/>
       <source>Lock Apps Manager</source>
-      <translation type="unfinished">Lock Apps Manager</translation>
+      <translation>鎖定應用程式管理員</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="745"/>
       <source>Lock Bluetooth</source>
-      <translation type="unfinished">Lock Bluetooth</translation>
+      <translation>鎖定藍牙</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="773"/>
       <source>Ports</source>
-      <translation type="unfinished">Ports</translation>
+      <translation>連接埠</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="781"/>
@@ -32439,37 +32439,37 @@ reset activity?</source>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="837"/>
       <source>Change Note/Annotation</source>
-      <translation type="unfinished">Change Note/Annotation</translation>
+      <translation>變更註解</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="838"/>
       <source>Move Note/Annotation</source>
-      <translation type="unfinished">Move Note/Annotation</translation>
+      <translation>移動註解</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="839"/>
       <source>Remove Note/Annotation</source>
-      <translation type="unfinished">Remove Note/Annotation</translation>
+      <translation>移除註解</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="1139"/>
       <source>Connection Type</source>
-      <translation type="unfinished">Connection Type</translation>
+      <translation>連線類型</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="1140"/>
       <source>Peer Address</source>
-      <translation type="unfinished">Peer Address</translation>
+      <translation>對等位址</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="1141"/>
       <source>Peer Port Number</source>
-      <translation type="unfinished">Peer Port Number</translation>
+      <translation>對等連接埠號碼</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="1142"/>
       <source>Peer Network Name</source>
-      <translation type="unfinished">Peer Network Name</translation>
+      <translation>對等網路名稱</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="1143"/>
@@ -32479,44 +32479,44 @@ reset activity?</source>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="1210"/>
       <source>Start in Physical Location</source>
-      <translation type="unfinished">Start in Physical Location</translation>
+      <translation>在實體位置啟動</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="356"/>
       <source>Fast Forward Time</source>
-      <translation type="unfinished">Fast Forward Time</translation>
+      <translation>快轉時間</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="391"/>
       <source>Change Display Names</source>
-      <translation type="unfinished">Change Display Names</translation>
+      <translation>變更顯示名稱</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="380"/>
       <source>Move Cluster</source>
-      <translation type="unfinished">Move Cluster</translation>
+      <translation>移動叢集</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="416"/>
       <location filename="../gui/activity/LockingTree.cpp" line="582"/>
       <source>Clusters</source>
-      <translation type="unfinished">Clusters</translation>
+      <translation>叢集</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="436"/>
       <source>Edit PDUs</source>
-      <translation type="unfinished">Edit PDUs</translation>
+      <translation>編輯 PDU</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="516"/>
       <source>Edit PDU</source>
-      <translation type="unfinished">Edit PDU</translation>
+      <translation>編輯 PDU</translation>
     </message>
     <message>
       <location filename="../gui/activity/LockingTree.cpp" line="596"/>
       <location filename="../gui/activity/LockingTree.cpp" line="1209"/>
       <source>Enter</source>
-      <translation type="unfinished">Enter</translation>
+      <translation>進入</translation>
     </message>
   </context>
   <context>
