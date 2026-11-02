@@ -21472,27 +21472,27 @@ Connection&lt;/b&gt;&lt;/p&gt;</translation>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="20"/>
       <source>Setup</source>
-      <translation type="unfinished">Setup</translation>
+      <translation>設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="274"/>
       <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Internet Setup&lt;/b&gt;&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Internet Setup&lt;/b&gt;&lt;/p&gt;</translation>
+      <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;網際網路設定&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="399"/>
       <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Network Setup&lt;/b&gt;&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Network Setup&lt;/b&gt;&lt;/p&gt;</translation>
+      <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;網路設定&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="473"/>
       <source>&lt;p align=&quot;right&quot;&gt;Internet Connection Type&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p align=&quot;right&quot;&gt;Internet Connection Type&lt;/p&gt;</translation>
+      <translation>&lt;p align=&quot;right&quot;&gt;網際網路連線類型&lt;/p&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="504"/>
       <source>&lt;p align=&quot;right&quot;&gt;Router IP&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p align=&quot;right&quot;&gt;Router IP&lt;/p&gt;</translation>
+      <translation>&lt;p align=&quot;right&quot;&gt;路由器 IP&lt;/p&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1070"/>
@@ -21619,43 +21619,43 @@ Connection&lt;/b&gt;&lt;/p&gt;</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3354"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3357"/>
       <source>0</source>
-      <translation type="unfinished">0</translation>
+      <translation>0</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2583"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2586"/>
       <source>Maximum number of Users:</source>
-      <translation type="unfinished">Maximum number of Users:</translation>
+      <translation>最大使用者數：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3418"/>
       <source>ISP Vlans</source>
-      <translation type="unfinished">ISP Vlans</translation>
+      <translation>ISP Vlan</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3505"/>
       <source>Vlan IDs:</source>
-      <translation type="unfinished">Vlan IDs:</translation>
+      <translation>Vlan ID：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3549"/>
       <source>Internet: </source>
-      <translation type="unfinished">Internet: </translation>
+      <translation>網際網路：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3569"/>
       <source>VoIP: </source>
-      <translation type="unfinished">VoIP: </translation>
+      <translation>VoIP: </translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3589"/>
       <source>IpTV: </source>
-      <translation type="unfinished">IpTV: </translation>
+      <translation>IpTV: </translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3627"/>
       <source>Port Vlans:</source>
-      <translation type="unfinished">Port Vlans:</translation>
+      <translation>連接埠 Vlan：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3670"/>
@@ -21665,7 +21665,7 @@ Connection&lt;/b&gt;&lt;/p&gt;</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3802"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3821"/>
       <source>Internet</source>
-      <translation type="unfinished">Internet</translation>
+      <translation>網際網路</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3675"/>
@@ -21676,7 +21676,7 @@ Connection&lt;/b&gt;&lt;/p&gt;</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3807"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3826"/>
       <source>VoIP</source>
-      <translation type="unfinished">VoIP</translation>
+      <translation>VoIP</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3680"/>
@@ -21687,54 +21687,54 @@ Connection&lt;/b&gt;&lt;/p&gt;</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3812"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3831"/>
       <source>IPTV</source>
-      <translation type="unfinished">IPTV</translation>
+      <translation>IPTV</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3707"/>
       <source>Port 3:</source>
-      <translation type="unfinished">Port 3:</translation>
+      <translation>連接埠 3：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3717"/>
       <source>Port 2:</source>
-      <translation type="unfinished">Port 2:</translation>
+      <translation>連接埠 2：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3746"/>
       <source>Port 4:</source>
-      <translation type="unfinished">Port 4:</translation>
+      <translation>連接埠 4：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3776"/>
       <source>Internet </source>
-      <translation type="unfinished">Internet </translation>
+      <translation>網際網路 </translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3794"/>
       <source>2.4GHz: </source>
-      <translation type="unfinished">2.4GHz: </translation>
+      <translation>2.4GHz: </translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3839"/>
       <source>5GHz - 1: </source>
-      <translation type="unfinished">5GHz - 1: </translation>
+      <translation>5GHz - 1: </translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3849"/>
       <source>5GHz -2:  </source>
-      <translation type="unfinished">5GHz -2:  </translation>
+      <translation>5GHz -2:  </translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3859"/>
       <source>Port 1: </source>
-      <translation type="unfinished">Port 1: </translation>
+      <translation>連接埠 1：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="4050"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="4053"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="4059"/>
       <source>Cancel Changes</source>
-      <translation type="unfinished">Cancel Changes</translation>
+      <translation>取消變更</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="4260"/>
@@ -21743,11 +21743,11 @@ Connection&lt;/b&gt;&lt;/p&gt;</translation>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;說明...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1803"/>
@@ -21757,35 +21757,35 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2375"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2378"/>
       <source>Subnet Mask:</source>
-      <translation type="unfinished">Subnet Mask:</translation>
+      <translation>子網路遮罩：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1127"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1130"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1133"/>
       <source>Default Gateway:</source>
-      <translation type="unfinished">Default Gateway:</translation>
+      <translation>預設閘道：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1273"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1276"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1279"/>
       <source>DNS 1:</source>
-      <translation type="unfinished">DNS 1:</translation>
+      <translation>DNS 1:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1419"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1422"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1425"/>
       <source>DNS 2 (Optional):</source>
-      <translation type="unfinished">DNS 2 (Optional):</translation>
+      <translation>DNS 2（選填）：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1565"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1568"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1571"/>
       <source>DNS 3 (Optional):</source>
-      <translation type="unfinished">DNS 3 (Optional):</translation>
+      <translation>DNS 3（選填）：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1168"/>
@@ -21888,42 +21888,42 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3335"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3338"/>
       <source>.</source>
-      <translation type="unfinished">.</translation>
+      <translation>.</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1086"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1089"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1092"/>
       <source>Internet IP Address:</source>
-      <translation type="unfinished">Internet IP Address:</translation>
+      <translation>網際網路 IP 位址：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="4025"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="4028"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="4034"/>
       <source>Save Settings</source>
-      <translation type="unfinished">Save Settings</translation>
+      <translation>儲存設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2115"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2118"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2121"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>大小：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2134"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2137"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2140"/>
       <source>1500</source>
-      <translation type="unfinished">1500</translation>
+      <translation>1500</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2266"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2269"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2272"/>
       <source>168</source>
-      <translation type="unfinished">168</translation>
+      <translation>168</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2301"/>
@@ -21933,171 +21933,171 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2339"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2342"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2231"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2234"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2237"/>
       <source>192</source>
-      <translation type="unfinished">192</translation>
+      <translation>192</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="265"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="268"/>
       <source>Internet Setup</source>
-      <translation type="unfinished">Internet Setup</translation>
+      <translation>網際網路設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="390"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="393"/>
       <source>Network Setup</source>
-      <translation type="unfinished">Network Setup</translation>
+      <translation>網路設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="436"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;Optional Settings&lt;br/&gt;(required by some internet service providers)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;Optional Settings&lt;br/&gt;(required by some internet service providers)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;選用設定&lt;br/&gt;(部分網際網路服務供應商要求)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="430"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="433"/>
       <source>Optional Settings(required by some internet service providers)</source>
-      <translation type="unfinished">Optional Settings(required by some internet service providers)</translation>
+      <translation>選用設定(部分網際網路服務供應商要求)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="467"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="470"/>
       <source>Internet Connection Type</source>
-      <translation type="unfinished">Internet Connection Type</translation>
+      <translation>網際網路連線類型</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="498"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="501"/>
       <source>Router IP</source>
-      <translation type="unfinished">Router IP</translation>
+      <translation>路由器 IP</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="529"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="532"/>
       <source>DHCP Server Setting</source>
-      <translation type="unfinished">DHCP Server Setting</translation>
+      <translation>DHCP 伺服器設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2006"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2009"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2012"/>
       <source>Host Name:</source>
-      <translation type="unfinished">Host Name:</translation>
+      <translation>主機名稱：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2092"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2095"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2098"/>
       <source>MTU:</source>
-      <translation type="unfinished">MTU:</translation>
+      <translation>MTU:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2430"/>
       <source>DHCP 
 Server:</source>
-      <translation type="unfinished">DHCP 
-Server:</translation>
+      <translation>DHCP 
+伺服器：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2424"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2427"/>
       <source>DHCP Server:</source>
-      <translation type="unfinished">DHCP Server:</translation>
+      <translation>DHCP 伺服器：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2488"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2491"/>
       <source>DHCP Reservation</source>
-      <translation type="unfinished">DHCP Reservation</translation>
+      <translation>DHCP 保留</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2589"/>
       <source>Maximum number
 of Users:</source>
-      <translation type="unfinished">Maximum number
-of Users:</translation>
+      <translation>最大
+使用者數：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2636"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2639"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2642"/>
       <source>IP Address Range:</source>
-      <translation type="unfinished">IP Address Range:</translation>
+      <translation>IP 位址範圍：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2743"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2746"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2749"/>
       <source>Client Lease Time:</source>
-      <translation type="unfinished">Client Lease Time:</translation>
+      <translation>用戶端租用時間：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2775"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2778"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2781"/>
       <source>minutes (0 means one day)</source>
-      <translation type="unfinished">minutes (0 means one day)</translation>
+      <translation>分鐘（0 代表一天）</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2798"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2801"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2804"/>
       <source>Static DNS 1:</source>
-      <translation type="unfinished">Static DNS 1:</translation>
+      <translation>靜態 DNS 1：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2941"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2944"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2947"/>
       <source>Static DNS 2:</source>
-      <translation type="unfinished">Static DNS 2:</translation>
+      <translation>靜態 DNS 2：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3084"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3087"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3090"/>
       <source>Static DNS 3:</source>
-      <translation type="unfinished">Static DNS 3:</translation>
+      <translation>靜態 DNS 3：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3227"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3230"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3233"/>
       <source>WINS:</source>
-      <translation type="unfinished">WINS:</translation>
+      <translation>WINS:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="4242"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="4245"/>
       <source>Help...</source>
-      <translation type="unfinished">Help...</translation>
+      <translation>說明...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2509"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2512"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2515"/>
       <source>Start IP Address:</source>
-      <translation type="unfinished">Start IP Address:</translation>
+      <translation>起始 IP 位址：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2049"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2052"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2055"/>
       <source>Domain Name:</source>
-      <translation type="unfinished">Domain Name:</translation>
+      <translation>網域名稱：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2212"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2215"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2218"/>
       <source>IP Address:</source>
-      <translation type="unfinished">IP Address:</translation>
+      <translation>IP 位址：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2450"/>
@@ -22105,7 +22105,7 @@ of Users:</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2456"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3452"/>
       <source>Enabled</source>
-      <translation type="unfinished">Enabled</translation>
+      <translation>已啟用</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2466"/>
@@ -22119,22 +22119,22 @@ of Users:</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2494"/>
       <source>DHCP 
 Reservation</source>
-      <translation type="unfinished">DHCP 
-Reservation</translation>
+      <translation>DHCP 
+保留</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2705"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2708"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2711"/>
       <source>149</source>
-      <translation type="unfinished">149</translation>
+      <translation>149</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2689"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2692"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2695"/>
       <source>-</source>
-      <translation type="unfinished">-</translation>
+      <translation>-</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2547"/>
@@ -22144,7 +22144,7 @@ Reservation</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2676"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2679"/>
       <source>100</source>
-      <translation type="unfinished">100</translation>
+      <translation>100</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2525"/>
@@ -22154,28 +22154,28 @@ Reservation</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2655"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2658"/>
       <source>192.168.1.</source>
-      <translation type="unfinished">192.168.1.</translation>
+      <translation>192.168.1.</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2603"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2606"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2609"/>
       <source>50</source>
-      <translation type="unfinished">50</translation>
+      <translation>50</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="940"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="943"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="946"/>
       <source>Service Name(Optional)</source>
-      <translation type="unfinished">Service Name(Optional)</translation>
+      <translation>服務名稱（選填）</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="535"/>
       <source>&lt;p align=&quot;right&quot;&gt;DHCP Server 
 
 Setting&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p align=&quot;right&quot;&gt;DHCP Server 
+      <translation>&lt;p align=&quot;right&quot;&gt;DHCP Server 
 
 Setting&lt;/p&gt;</translation>
     </message>
@@ -22184,21 +22184,21 @@ Setting&lt;/p&gt;</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="991"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="994"/>
       <source>Minute.</source>
-      <translation type="unfinished">Minute.</translation>
+      <translation>分鐘。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1030"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1033"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1036"/>
       <source>Second.</source>
-      <translation type="unfinished">Second.</translation>
+      <translation>秒。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1017"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1020"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1023"/>
       <source>30</source>
-      <translation type="unfinished">30</translation>
+      <translation>30</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="921"/>
@@ -22212,28 +22212,28 @@ Setting&lt;/p&gt;</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1007"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1010"/>
       <source>Keep Alive: Redial Period</source>
-      <translation type="unfinished">Keep Alive: Redial Period</translation>
+      <translation>保持連線：重撥週期</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="959"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="962"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="965"/>
       <source>Connect on Demand: Max Idle Time</source>
-      <translation type="unfinished">Connect on Demand: Max Idle Time</translation>
+      <translation>依需求連線：最大閒置時間</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="975"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="978"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="981"/>
       <source>15</source>
-      <translation type="unfinished">15</translation>
+      <translation>15</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="902"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="905"/>
       <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="908"/>
       <source>UserName:</source>
-      <translation type="unfinished">UserName:</translation>
+      <translation>使用者名稱：</translation>
     </message>
   </context>
   <context>
@@ -22806,12 +22806,12 @@ Setting&lt;/p&gt;</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="382"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="385"/>
       <source>Wireless MAC Filter</source>
-      <translation type="unfinished">Wireless MAC Filter</translation>
+      <translation>無線 MAC 篩選器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="263"/>
       <source>&lt;p align=&quot;right&quot;&gt;MAC Address&lt;br&gt;filter list&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p align=&quot;right&quot;&gt;MAC Address&lt;br&gt;filter list&lt;/p&gt;</translation>
+      <translation>&lt;p align=&quot;right&quot;&gt;MAC 位址&lt;br&gt;篩選清單&lt;/p&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="606"/>
@@ -22825,34 +22825,34 @@ Setting&lt;/p&gt;</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="590"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="593"/>
       <source>Enabled</source>
-      <translation type="unfinished">Enabled</translation>
+      <translation>已啟用</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="257"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="260"/>
       <source>MAC Address filter list</source>
-      <translation type="unfinished">MAC Address filter list</translation>
+      <translation>MAC 位址篩選清單</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="627"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="630"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="633"/>
       <source>Prevent PCs listed below from accessing the wireless network</source>
-      <translation type="unfinished">Prevent PCs listed below from accessing the wireless network</translation>
+      <translation>禁止下列 PC 存取無線網路</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="646"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="649"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="652"/>
       <source>Permit PCs listed below to access wireless network</source>
-      <translation type="unfinished">Permit PCs listed below to access wireless network</translation>
+      <translation>允許下列 PC 存取無線網路</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="676"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="679"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="682"/>
       <source>Wireless Client List</source>
-      <translation type="unfinished">Wireless Client List</translation>
+      <translation>無線用戶端清單</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="726"/>
@@ -23006,139 +23006,139 @@ Setting&lt;/p&gt;</translation>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2918"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2921"/>
       <source>00:00:00:00:00:00</source>
-      <translation type="unfinished">00:00:00:00:00:00</translation>
+      <translation>00:00:00:00:00:00</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2044"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2047"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2050"/>
       <source>MAC 01:</source>
-      <translation type="unfinished">MAC 01:</translation>
+      <translation>MAC 01:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1981"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1984"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1987"/>
       <source>MAC 26:</source>
-      <translation type="unfinished">MAC 26:</translation>
+      <translation>MAC 26:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2451"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2454"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2457"/>
       <source>MAC 02:</source>
-      <translation type="unfinished">MAC 02:</translation>
+      <translation>MAC 02:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2205"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2208"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2211"/>
       <source>MAC 27:</source>
-      <translation type="unfinished">MAC 27:</translation>
+      <translation>MAC 27:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2375"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2378"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2381"/>
       <source>MAC 03:</source>
-      <translation type="unfinished">MAC 03:</translation>
+      <translation>MAC 03:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2224"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2227"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2230"/>
       <source>MAC 28:</source>
-      <translation type="unfinished">MAC 28:</translation>
+      <translation>MAC 28:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2413"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2416"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2419"/>
       <source>MAC 04:</source>
-      <translation type="unfinished">MAC 04:</translation>
+      <translation>MAC 04:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2514"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2517"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2520"/>
       <source>MAC 29:</source>
-      <translation type="unfinished">MAC 29:</translation>
+      <translation>MAC 29:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2394"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2397"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2400"/>
       <source>MAC 05:</source>
-      <translation type="unfinished">MAC 05:</translation>
+      <translation>MAC 05:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2432"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2435"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2438"/>
       <source>MAC 30:</source>
-      <translation type="unfinished">MAC 30:</translation>
+      <translation>MAC 30:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2186"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2189"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2192"/>
       <source>MAC 06:</source>
-      <translation type="unfinished">MAC 06:</translation>
+      <translation>MAC 06:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="235"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;Access Resolution&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;Access Resolution&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;存取限制&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="229"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="232"/>
       <source>Access Resolution</source>
-      <translation type="unfinished">Access Resolution</translation>
+      <translation>存取限制</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="391"/>
       <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Wireless MAC Filter&lt;/b&gt;&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Wireless MAC Filter&lt;/b&gt;&lt;/p&gt;</translation>
+      <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;無線 MAC 篩選器&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="547"/>
       <source>Wireless Port: </source>
-      <translation type="unfinished">Wireless Port: </translation>
+      <translation>無線連接埠： </translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2085"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2088"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2091"/>
       <source>MAC 31:</source>
-      <translation type="unfinished">MAC 31:</translation>
+      <translation>MAC 31:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2167"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2170"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2173"/>
       <source>MAC 07:</source>
-      <translation type="unfinished">MAC 07:</translation>
+      <translation>MAC 07:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2637"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2640"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2643"/>
       <source>MAC 32:</source>
-      <translation type="unfinished">MAC 32:</translation>
+      <translation>MAC 32:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2820"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2823"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2826"/>
       <source>MAC 08:</source>
-      <translation type="unfinished">MAC 08:</translation>
+      <translation>MAC 08:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="3309"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="3312"/>
       <source>Help...</source>
-      <translation type="unfinished">Help...</translation>
+      <translation>說明...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="3327"/>
@@ -23147,270 +23147,270 @@ Setting&lt;/p&gt;</translation>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;說明...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2618"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2621"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2624"/>
       <source>MAC 33:</source>
-      <translation type="unfinished">MAC 33:</translation>
+      <translation>MAC 33:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2675"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2678"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2681"/>
       <source>MAC 09:</source>
-      <translation type="unfinished">MAC 09:</translation>
+      <translation>MAC 09:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2656"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2659"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2662"/>
       <source>MAC 34:</source>
-      <translation type="unfinished">MAC 34:</translation>
+      <translation>MAC 34:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2738"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2741"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2744"/>
       <source>MAC 10:</source>
-      <translation type="unfinished">MAC 10:</translation>
+      <translation>MAC 10:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2757"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2760"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2763"/>
       <source>MAC 35:</source>
-      <translation type="unfinished">MAC 35:</translation>
+      <translation>MAC 35:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2126"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2129"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2132"/>
       <source>MAC 11:</source>
-      <translation type="unfinished">MAC 11:</translation>
+      <translation>MAC 11:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2533"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2536"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2539"/>
       <source>MAC 36:</source>
-      <translation type="unfinished">MAC 36:</translation>
+      <translation>MAC 36:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2931"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2934"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="2937"/>
       <source>MAC 12:</source>
-      <translation type="unfinished">MAC 12:</translation>
+      <translation>MAC 12:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1893"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1896"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1899"/>
       <source>MAC 37:</source>
-      <translation type="unfinished">MAC 37:</translation>
+      <translation>MAC 37:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="789"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="792"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="795"/>
       <source>MAC 13:</source>
-      <translation type="unfinished">MAC 13:</translation>
+      <translation>MAC 13:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="965"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="968"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="971"/>
       <source>MAC 38:</source>
-      <translation type="unfinished">MAC 38:</translation>
+      <translation>MAC 38:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1730"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1733"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1736"/>
       <source>MAC 14:</source>
-      <translation type="unfinished">MAC 14:</translation>
+      <translation>MAC 14:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="946"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="949"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="952"/>
       <source>MAC 39:</source>
-      <translation type="unfinished">MAC 39:</translation>
+      <translation>MAC 39:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1711"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1714"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1717"/>
       <source>MAC 15:</source>
-      <translation type="unfinished">MAC 15:</translation>
+      <translation>MAC 15:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="927"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="930"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="933"/>
       <source>MAC 40:</source>
-      <translation type="unfinished">MAC 40:</translation>
+      <translation>MAC 40:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1037"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1040"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1043"/>
       <source>MAC 16:</source>
-      <translation type="unfinished">MAC 16:</translation>
+      <translation>MAC 16:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="990"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="993"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="996"/>
       <source>MAC 41:</source>
-      <translation type="unfinished">MAC 41:</translation>
+      <translation>MAC 41:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="814"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="817"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="820"/>
       <source>MAC 17:</source>
-      <translation type="unfinished">MAC 17:</translation>
+      <translation>MAC 17:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1504"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1507"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1510"/>
       <source>MAC 42:</source>
-      <translation type="unfinished">MAC 42:</translation>
+      <translation>MAC 42:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1962"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1965"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1968"/>
       <source>MAC 18:</source>
-      <translation type="unfinished">MAC 18:</translation>
+      <translation>MAC 18:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1479"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1482"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1485"/>
       <source>MAC 43:</source>
-      <translation type="unfinished">MAC 43:</translation>
+      <translation>MAC 43:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1385"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1388"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1391"/>
       <source>MAC 19:</source>
-      <translation type="unfinished">MAC 19:</translation>
+      <translation>MAC 19:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1827"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1830"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1833"/>
       <source>MAC 44:</source>
-      <translation type="unfinished">MAC 44:</translation>
+      <translation>MAC 44:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1338"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1341"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1344"/>
       <source>MAC 20:</source>
-      <translation type="unfinished">MAC 20:</translation>
+      <translation>MAC 20:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1780"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1783"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1786"/>
       <source>MAC 45:</source>
-      <translation type="unfinished">MAC 45:</translation>
+      <translation>MAC 45:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1106"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1109"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1112"/>
       <source>MAC 21:</source>
-      <translation type="unfinished">MAC 21:</translation>
+      <translation>MAC 21:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1852"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1855"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1858"/>
       <source>MAC 46:</source>
-      <translation type="unfinished">MAC 46:</translation>
+      <translation>MAC 46:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1598"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1601"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1604"/>
       <source>MAC 22:</source>
-      <translation type="unfinished">MAC 22:</translation>
+      <translation>MAC 22:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1247"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1250"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1253"/>
       <source>MAC 47:</source>
-      <translation type="unfinished">MAC 47:</translation>
+      <translation>MAC 47:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1153"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1156"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1159"/>
       <source>MAC 23:</source>
-      <translation type="unfinished">MAC 23:</translation>
+      <translation>MAC 23:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1222"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1225"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1228"/>
       <source>MAC 48:</source>
-      <translation type="unfinished">MAC 48:</translation>
+      <translation>MAC 48:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="770"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="773"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="776"/>
       <source>MAC 24:</source>
-      <translation type="unfinished">MAC 24:</translation>
+      <translation>MAC 24:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1755"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1758"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1761"/>
       <source>MAC 49:</source>
-      <translation type="unfinished">MAC 49:</translation>
+      <translation>MAC 49:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1454"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1457"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1460"/>
       <source>MAC 25:</source>
-      <translation type="unfinished">MAC 25:</translation>
+      <translation>MAC 25:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1529"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1532"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="1535"/>
       <source>MAC 50:</source>
-      <translation type="unfinished">MAC 50:</translation>
+      <translation>MAC 50:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="3097"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="3100"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="3103"/>
       <source>Save Settings</source>
-      <translation type="unfinished">Save Settings</translation>
+      <translation>儲存設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="3119"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="3122"/>
       <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="3125"/>
       <source>Cancel Changes</source>
-      <translation type="unfinished">Cancel Changes</translation>
+      <translation>取消變更</translation>
     </message>
   </context>
   <context>
@@ -27868,42 +27868,42 @@ Address</translation>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="260"/>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="261"/>
       <source>Light (Sun)</source>
-      <translation type="unfinished">Light (Sun)</translation>
+      <translation>光線（太陽）</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="255"/>
       <source>Luminosity</source>
-      <translation type="unfinished">Luminosity</translation>
+      <translation>亮度</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="256"/>
       <source>Sunlight</source>
-      <translation type="unfinished">Sunlight</translation>
+      <translation>日照</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="257"/>
       <source>Infrared</source>
-      <translation type="unfinished">Infrared</translation>
+      <translation>紅外線</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="258"/>
       <source>Visible</source>
-      <translation type="unfinished">Visible</translation>
+      <translation>可見光</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="259"/>
       <source>Ultraviolet</source>
-      <translation type="unfinished">Ultraviolet</translation>
+      <translation>紫外線</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="260"/>
       <source>Radiant Heat</source>
-      <translation type="unfinished">Radiant Heat</translation>
+      <translation>輻射熱</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="261"/>
       <source>Electromagnetic Radiation</source>
-      <translation type="unfinished">Electromagnetic Radiation</translation>
+      <translation>電磁輻射</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="263"/>
@@ -27911,12 +27911,12 @@ Address</translation>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="265"/>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="266"/>
       <source>Temperature</source>
-      <translation type="unfinished">Temperature</translation>
+      <translation>溫度</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="263"/>
       <source>Ambient Temperature</source>
-      <translation type="unfinished">Ambient Temperature</translation>
+      <translation>環境溫度</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="264"/>
@@ -27926,56 +27926,56 @@ Address</translation>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="265"/>
       <source>Ionization</source>
-      <translation type="unfinished">Ionization</translation>
+      <translation>游離</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="266"/>
       <source>Smoke</source>
-      <translation type="unfinished">Smoke</translation>
+      <translation>煙霧</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="268"/>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="269"/>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="274"/>
       <source>Sound</source>
-      <translation type="unfinished">Sound</translation>
+      <translation>聲音</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="268"/>
       <source>Sound Volume</source>
-      <translation type="unfinished">Sound Volume</translation>
+      <translation>音量</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="269"/>
       <source>Sound Pitch</source>
-      <translation type="unfinished">Sound Pitch</translation>
+      <translation>音調</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="274"/>
       <source>White Noise</source>
-      <translation type="unfinished">White Noise</translation>
+      <translation>白噪音</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="276"/>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="277"/>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="278"/>
       <source>Wind</source>
-      <translation type="unfinished">Wind</translation>
+      <translation>風</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="276"/>
       <source>Wind Speed</source>
-      <translation type="unfinished">Wind Speed</translation>
+      <translation>風速</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="277"/>
       <source>Wind Direction</source>
-      <translation type="unfinished">Wind Direction</translation>
+      <translation>風向</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="278"/>
       <source>Wind Gusts</source>
-      <translation type="unfinished">Wind Gusts</translation>
+      <translation>陣風</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="280"/>
@@ -27988,68 +27988,68 @@ Address</translation>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="287"/>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="288"/>
       <source>Water</source>
-      <translation type="unfinished">Water</translation>
+      <translation>水</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="280"/>
       <source>Water Temperature</source>
-      <translation type="unfinished">Water Temperature</translation>
+      <translation>水溫</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="281"/>
       <source>Humidity</source>
-      <translation type="unfinished">Humidity</translation>
+      <translation>濕度</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="282"/>
       <source>Clouds</source>
-      <translation type="unfinished">Clouds</translation>
+      <translation>雲</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="283"/>
       <source>Rain</source>
-      <translation type="unfinished">Rain</translation>
+      <translation>雨</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="284"/>
       <source>Snow</source>
-      <translation type="unfinished">Snow</translation>
+      <translation>雪</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="285"/>
       <source>Water Speed</source>
-      <translation type="unfinished">Water Speed</translation>
+      <translation>水流速度</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="286"/>
       <source>Water Volume</source>
-      <translation type="unfinished">Water Volume</translation>
+      <translation>水量</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="287"/>
       <source>Water pH</source>
-      <translation type="unfinished">Water pH</translation>
+      <translation>水的 pH 值</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="288"/>
       <source>Water Level</source>
-      <translation type="unfinished">Water Level</translation>
+      <translation>水位</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="290"/>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="291"/>
       <source>Motion</source>
-      <translation type="unfinished">Motion</translation>
+      <translation>運動</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="290"/>
       <source>Motion Speed</source>
-      <translation type="unfinished">Motion Speed</translation>
+      <translation>運動速度</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="291"/>
       <source>Motion Direction</source>
-      <translation type="unfinished">Motion Direction</translation>
+      <translation>運動方向</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="293"/>
@@ -28057,27 +28057,27 @@ Address</translation>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="299"/>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="300"/>
       <source>Earth Physical Features</source>
-      <translation type="unfinished">Earth Physical Features</translation>
+      <translation>地球物理特徵</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="293"/>
       <source>Elevation</source>
-      <translation type="unfinished">Elevation</translation>
+      <translation>海拔</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="294"/>
       <source>Soil pH</source>
-      <translation type="unfinished">Soil pH</translation>
+      <translation>土壤 pH 值</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="299"/>
       <source>Composition Hardness</source>
-      <translation type="unfinished">Composition Hardness</translation>
+      <translation>成分硬度</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="300"/>
       <source>Compaction</source>
-      <translation type="unfinished">Compaction</translation>
+      <translation>緊實度</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="302"/>
@@ -28091,57 +28091,57 @@ Address</translation>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="310"/>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="311"/>
       <source>Gases</source>
-      <translation type="unfinished">Gases</translation>
+      <translation>氣體</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="302"/>
       <source>CO</source>
-      <translation type="unfinished">CO</translation>
+      <translation>CO</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="303"/>
       <source>CO&lt;sub&gt;2&lt;/sub&gt;</source>
-      <translation type="unfinished">CO&lt;sub&gt;2&lt;/sub&gt;</translation>
+      <translation>CO&lt;sub&gt;2&lt;/sub&gt;</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="304"/>
       <source>O&lt;sub&gt;2&lt;/sub&gt;</source>
-      <translation type="unfinished">O&lt;sub&gt;2&lt;/sub&gt;</translation>
+      <translation>O&lt;sub&gt;2&lt;/sub&gt;</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="305"/>
       <source>Hydrogen</source>
-      <translation type="unfinished">Hydrogen</translation>
+      <translation>氫</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="306"/>
       <source>Argon</source>
-      <translation type="unfinished">Argon</translation>
+      <translation>氬</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="307"/>
       <source>Helium</source>
-      <translation type="unfinished">Helium</translation>
+      <translation>氦</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="308"/>
       <source>Ozone</source>
-      <translation type="unfinished">Ozone</translation>
+      <translation>臭氧</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="309"/>
       <source>Nitrogen</source>
-      <translation type="unfinished">Nitrogen</translation>
+      <translation>氮</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="310"/>
       <source>Methane</source>
-      <translation type="unfinished">Methane</translation>
+      <translation>甲烷</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="311"/>
       <source>Propane</source>
-      <translation type="unfinished">Propane</translation>
+      <translation>丙烷</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="314"/>
@@ -28151,96 +28151,96 @@ Address</translation>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="318"/>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="319"/>
       <source>Radiation</source>
-      <translation type="unfinished">Radiation</translation>
+      <translation>輻射</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="314"/>
       <source>Radiation Level</source>
-      <translation type="unfinished">Radiation Level</translation>
+      <translation>輻射量</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="315"/>
       <source>Gamma</source>
-      <translation type="unfinished">Gamma</translation>
+      <translation>加馬射線</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="316"/>
       <source>Alpha</source>
-      <translation type="unfinished">Alpha</translation>
+      <translation>阿爾法射線</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="317"/>
       <source>Beta</source>
-      <translation type="unfinished">Beta</translation>
+      <translation>貝他射線</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="318"/>
       <source>Neutron</source>
-      <translation type="unfinished">Neutron</translation>
+      <translation>中子</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="319"/>
       <source>Photon</source>
-      <translation type="unfinished">Photon</translation>
+      <translation>光子</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="322"/>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="323"/>
       <source>Gravity</source>
-      <translation type="unfinished">Gravity</translation>
+      <translation>重力</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="323"/>
       <source>Moon Phases</source>
-      <translation type="unfinished">Moon Phases</translation>
+      <translation>月相</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="325"/>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="326"/>
       <source>Energy</source>
-      <translation type="unfinished">Energy</translation>
+      <translation>能量</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="325"/>
       <source>Torque</source>
-      <translation type="unfinished">Torque</translation>
+      <translation>扭矩</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="326"/>
       <source>Heat</source>
-      <translation type="unfinished">Heat</translation>
+      <translation>熱</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="328"/>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="329"/>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="330"/>
       <source>Electricity</source>
-      <translation type="unfinished">Electricity</translation>
+      <translation>電力</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="328"/>
       <source>Watts</source>
-      <translation type="unfinished">Watts</translation>
+      <translation>瓦特</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="329"/>
       <source>Ohms</source>
-      <translation type="unfinished">Ohms</translation>
+      <translation>歐姆</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="330"/>
       <source>Voltage</source>
-      <translation type="unfinished">Voltage</translation>
+      <translation>電壓</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="332"/>
       <source>Other</source>
-      <translation type="unfinished">Other</translation>
+      <translation>其他</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="332"/>
       <source>Atmospheric Pressure</source>
-      <translation type="unfinished">Atmospheric Pressure</translation>
+      <translation>大氣壓力</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="1056"/>
@@ -28251,12 +28251,12 @@ Address</translation>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="1057"/>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="1074"/>
       <source> Environment File (*.xml)</source>
-      <translation type="unfinished"> Environment File (*.xml)</translation>
+      <translation> 環境檔案 (*.xml)</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="1106"/>
       <source>Invalid File -- %1</source>
-      <translation type="unfinished">Invalid File -- %1</translation>
+      <translation>無效的檔案 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="1073"/>
@@ -28266,17 +28266,17 @@ Address</translation>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="1092"/>
       <source>Unable to process environment XML</source>
-      <translation type="unfinished">Unable to process environment XML</translation>
+      <translation>無法處理環境 XML</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="1096"/>
       <source>Unable to read environment XML</source>
-      <translation type="unfinished">Unable to read environment XML</translation>
+      <translation>無法讀取環境 XML</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/Environment.cpp" line="1101"/>
       <source>Unable to open file.</source>
-      <translation type="unfinished">Unable to open file.</translation>
+      <translation>無法開啟檔案。</translation>
     </message>
   </context>
   <context>
@@ -59872,7 +59872,7 @@ Do you want to save your changes?</translation>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="14"/>
       <source>HTML Editor</source>
-      <translation type="unfinished">HTML Editor</translation>
+      <translation>HTML 編輯器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="56"/>
@@ -59882,197 +59882,197 @@ Do you want to save your changes?</translation>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="72"/>
       <source>F&amp;ormat</source>
-      <translation type="unfinished">F&amp;ormat</translation>
+      <translation>格式(&amp;O)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="76"/>
       <source>St&amp;yle</source>
-      <translation type="unfinished">St&amp;yle</translation>
+      <translation>樣式(&amp;Y)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="90"/>
       <source>&amp;Align</source>
-      <translation type="unfinished">&amp;Align</translation>
+      <translation>對齊(&amp;A)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="125"/>
       <source>Standard</source>
-      <translation type="unfinished">Standard</translation>
+      <translation>標準</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="151"/>
       <source>Formatting</source>
-      <translation type="unfinished">Formatting</translation>
+      <translation>格式設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="181"/>
       <source>toolBar</source>
-      <translation type="unfinished">toolBar</translation>
+      <translation>toolBar</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="206"/>
       <source>&amp;New</source>
-      <translation type="unfinished">&amp;New</translation>
+      <translation>新增(&amp;N)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="209"/>
       <source>Ctrl+N</source>
-      <translation type="unfinished">Ctrl+N</translation>
+      <translation>Ctrl+N</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="218"/>
       <source>&amp;Open...</source>
-      <translation type="unfinished">&amp;Open...</translation>
+      <translation>開啟舊檔(&amp;O)...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="221"/>
       <source>Ctrl+O</source>
-      <translation type="unfinished">Ctrl+O</translation>
+      <translation>Ctrl+O</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="230"/>
       <source>&amp;Save</source>
-      <translation type="unfinished">&amp;Save</translation>
+      <translation>儲存(&amp;S)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="233"/>
       <source>Ctrl+S</source>
-      <translation type="unfinished">Ctrl+S</translation>
+      <translation>Ctrl+S</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="238"/>
       <source>Save &amp;As...</source>
-      <translation type="unfinished">Save &amp;As...</translation>
+      <translation>另存新檔(&amp;A)...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="247"/>
       <source>&amp;Undo</source>
-      <translation type="unfinished">&amp;Undo</translation>
+      <translation>復原(&amp;U)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="250"/>
       <source>Ctrl+Z</source>
-      <translation type="unfinished">Ctrl+Z</translation>
+      <translation>Ctrl+Z</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="259"/>
       <source>&amp;Redo</source>
-      <translation type="unfinished">&amp;Redo</translation>
+      <translation>重做(&amp;R)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="262"/>
       <source>Ctrl+Y</source>
-      <translation type="unfinished">Ctrl+Y</translation>
+      <translation>Ctrl+Y</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="271"/>
       <source>Cu&amp;t</source>
-      <translation type="unfinished">Cu&amp;t</translation>
+      <translation>剪下(&amp;T)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="274"/>
       <source>Ctrl+X</source>
-      <translation type="unfinished">Ctrl+X</translation>
+      <translation>Ctrl+X</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="283"/>
       <source>&amp;Copy</source>
-      <translation type="unfinished">&amp;Copy</translation>
+      <translation>複製(&amp;C)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="286"/>
       <source>Ctrl+C</source>
-      <translation type="unfinished">Ctrl+C</translation>
+      <translation>Ctrl+C</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="295"/>
       <source>&amp;Paste</source>
-      <translation type="unfinished">&amp;Paste</translation>
+      <translation>貼上(&amp;P)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="298"/>
       <source>Ctrl+V</source>
-      <translation type="unfinished">Ctrl+V</translation>
+      <translation>Ctrl+V</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="307"/>
       <source>Select A&amp;ll</source>
-      <translation type="unfinished">Select A&amp;ll</translation>
+      <translation>全選(&amp;L)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="310"/>
       <source>Ctrl+A</source>
-      <translation type="unfinished">Ctrl+A</translation>
+      <translation>Ctrl+A</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="322"/>
       <source>&amp;Bold</source>
-      <translation type="unfinished">&amp;Bold</translation>
+      <translation>粗體(&amp;B)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="334"/>
       <source>&amp;Italic</source>
-      <translation type="unfinished">&amp;Italic</translation>
+      <translation>斜體(&amp;I)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="346"/>
       <source>&amp;Underline</source>
-      <translation type="unfinished">&amp;Underline</translation>
+      <translation>底線(&amp;U)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="358"/>
       <source>&amp;Strikethrough</source>
-      <translation type="unfinished">&amp;Strikethrough</translation>
+      <translation>刪除線(&amp;S)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="367"/>
       <source>Align &amp;Left</source>
-      <translation type="unfinished">Align &amp;Left</translation>
+      <translation>靠左對齊(&amp;L)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="376"/>
       <source>Align &amp;Center</source>
-      <translation type="unfinished">Align &amp;Center</translation>
+      <translation>置中對齊(&amp;C)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="385"/>
       <source>Align &amp;Right</source>
-      <translation type="unfinished">Align &amp;Right</translation>
+      <translation>靠右對齊(&amp;R)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="394"/>
       <source>Align &amp;Justify</source>
-      <translation type="unfinished">Align &amp;Justify</translation>
+      <translation>左右對齊(&amp;J)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="403"/>
       <source>I&amp;ncrease Indent</source>
-      <translation type="unfinished">I&amp;ncrease Indent</translation>
+      <translation>增加縮排(&amp;N)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="412"/>
       <source>&amp;Decrease Indent</source>
-      <translation type="unfinished">&amp;Decrease Indent</translation>
+      <translation>減少縮排(&amp;D)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="424"/>
       <source>Bulle&amp;ted List</source>
-      <translation type="unfinished">Bulle&amp;ted List</translation>
+      <translation>項目符號清單(&amp;T)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="436"/>
       <source>&amp;Numbered List</source>
-      <translation type="unfinished">&amp;Numbered List</translation>
+      <translation>編號清單(&amp;N)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="445"/>
       <source>Insert &amp;Image...</source>
-      <translation type="unfinished">Insert &amp;Image...</translation>
+      <translation>插入圖片(&amp;I)...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="454"/>
       <source>Create Link...</source>
-      <translation type="unfinished">Create Link...</translation>
+      <translation>建立連結...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="463"/>
@@ -60087,162 +60087,162 @@ Do you want to save your changes?</translation>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="477"/>
       <source>E&amp;xit</source>
-      <translation type="unfinished">E&amp;xit</translation>
+      <translation>結束(&amp;X)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="480"/>
       <source>Ctrl+Q</source>
-      <translation type="unfinished">Ctrl+Q</translation>
+      <translation>Ctrl+Q</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="485"/>
       <source>&amp;Paragraph</source>
-      <translation type="unfinished">&amp;Paragraph</translation>
+      <translation>段落(&amp;P)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="490"/>
       <source>Heading &amp;1</source>
-      <translation type="unfinished">Heading &amp;1</translation>
+      <translation>標題 1(&amp;1)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="495"/>
       <source>Heading &amp;2</source>
-      <translation type="unfinished">Heading &amp;2</translation>
+      <translation>標題 2(&amp;2)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="500"/>
       <source>Heading &amp;3</source>
-      <translation type="unfinished">Heading &amp;3</translation>
+      <translation>標題 3(&amp;3)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="505"/>
       <source>Heading &amp;4</source>
-      <translation type="unfinished">Heading &amp;4</translation>
+      <translation>標題 4(&amp;4)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="510"/>
       <source>Heading &amp;5</source>
-      <translation type="unfinished">Heading &amp;5</translation>
+      <translation>標題 5(&amp;5)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="515"/>
       <source>Heading &amp;6</source>
-      <translation type="unfinished">Heading &amp;6</translation>
+      <translation>標題 6(&amp;6)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="520"/>
       <source>Pre&amp;formatted</source>
-      <translation type="unfinished">Pre&amp;formatted</translation>
+      <translation>預先格式化(&amp;F)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="525"/>
       <source>&amp;Address</source>
-      <translation type="unfinished">&amp;Address</translation>
+      <translation>位址(&amp;A)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="530"/>
       <source>&amp;Font Name...</source>
-      <translation type="unfinished">&amp;Font Name...</translation>
+      <translation>字型名稱(&amp;F)...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="535"/>
       <source>Text &amp;Color...</source>
-      <translation type="unfinished">Text &amp;Color...</translation>
+      <translation>文字色彩(&amp;C)...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="540"/>
       <source>Bac&amp;kground Color...</source>
-      <translation type="unfinished">Bac&amp;kground Color...</translation>
+      <translation>背景色彩(&amp;K)...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="545"/>
       <source>Font Si&amp;ze...</source>
-      <translation type="unfinished">Font Si&amp;ze...</translation>
+      <translation>字型大小(&amp;Z)...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="554"/>
       <source>Insert HTML...</source>
-      <translation type="unfinished">Insert HTML...</translation>
+      <translation>插入 HTML...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="557"/>
       <source>Insert HTML</source>
-      <translation type="unfinished">Insert HTML</translation>
+      <translation>插入 HTML</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="562"/>
       <source>Template 1</source>
-      <translation type="unfinished">Template 1</translation>
+      <translation>範本 1</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="567"/>
       <source>Template 2</source>
-      <translation type="unfinished">Template 2</translation>
+      <translation>範本 2</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="572"/>
       <source>Template 3</source>
-      <translation type="unfinished">Template 3</translation>
+      <translation>範本 3</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="577"/>
       <source>Template 4</source>
-      <translation type="unfinished">Template 4</translation>
+      <translation>範本 4</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="582"/>
       <source>Template 5</source>
-      <translation type="unfinished">Template 5</translation>
+      <translation>範本 5</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="587"/>
       <source>Layout 1</source>
-      <translation type="unfinished">Layout 1</translation>
+      <translation>版面配置 1</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="592"/>
       <source>Layout 2</source>
-      <translation type="unfinished">Layout 2</translation>
+      <translation>版面配置 2</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="597"/>
       <source>Layout 3</source>
-      <translation type="unfinished">Layout 3</translation>
+      <translation>版面配置 3</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="602"/>
       <source>Layout 4</source>
-      <translation type="unfinished">Layout 4</translation>
+      <translation>版面配置 4</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="611"/>
       <source>Font Increase</source>
-      <translation type="unfinished">Font Increase</translation>
+      <translation>增大字型</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="614"/>
       <source>Font Size Increase</source>
-      <translation type="unfinished">Font Size Increase</translation>
+      <translation>增大字型大小</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="617"/>
       <source>Ctrl+J</source>
-      <translation type="unfinished">Ctrl+J</translation>
+      <translation>Ctrl+J</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="626"/>
       <source>Font Decrease</source>
-      <translation type="unfinished">Font Decrease</translation>
+      <translation>縮小字型</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="629"/>
       <source>Font Size Decrease</source>
-      <translation type="unfinished">Font Size Decrease</translation>
+      <translation>縮小字型大小</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="632"/>
       <source>Ctrl+H</source>
-      <translation type="unfinished">Ctrl+H</translation>
+      <translation>Ctrl+H</translation>
     </message>
   </context>
   <context>
