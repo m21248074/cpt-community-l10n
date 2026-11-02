@@ -2,15 +2,22 @@ name: Compile CPT Languages
 
 on:
   push:
+    branches: [main]
     paths:
       - '**/*.ts'
+  pull_request:
+    paths:
+      - '**/*.ts'
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Install Qt Tools
         run: |
@@ -20,11 +27,9 @@ jobs:
       - name: Compile and Rename to PTL
         run: |
           mkdir -p publish
-          # 尋找所有子目錄中的 .ts 檔案
-          find . -name "*.ts" ! -name "template.ts" | while read file; do
-            # 取得檔名（不含路徑與副檔名）
+          # 尋找所有子目錄中的 .ts 檔案（template.ts 為原文範本，不編譯）
+          find . -name "*.ts" ! -name "template.ts" | while read -r file; do
             base=$(basename "$file" .ts)
-            # 使用 lrelease 編譯並直接輸出為 .ptl
             lrelease "$file" -qm "publish/${base}.ptl"
           done
 
@@ -33,3 +38,11 @@ jobs:
         with:
           name: Packet-Tracer-Languages
           path: publish/*.ptl
+
+      - name: Publish Release
+        if: github.event_name == 'push'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: build-${{ github.run_number }}
+          name: Build ${{ github.run_number }}
+          files: publish/*.ptl
