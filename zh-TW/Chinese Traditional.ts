@@ -5946,7 +5946,7 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -6263,7 +6263,7 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -14451,7 +14451,7 @@ Port</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -16410,7 +16410,7 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Verdana&apos;; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Verdana&apos;; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -19453,7 +19453,7 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -25430,7 +25430,7 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -25890,7 +25890,7 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/DesignerFiles/Cloud/CloudCableConnectionsBase.ui" line="13"/>
       <source>Cable Connections</source>
-      <translation type="unfinished">Cable Connections</translation>
+      <translation>纜線連線</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Cloud/CloudCableConnectionsBase.ui" line="24"/>
@@ -26008,7 +26008,7 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/DesignerFiles/Cloud/CloudDSLConnectionsBase.ui" line="13"/>
       <source>DSL Connections</source>
-      <translation type="unfinished">DSL Connections</translation>
+      <translation>DSL 連線</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Cloud/CloudDSLConnectionsBase.ui" line="40"/>
@@ -26893,7 +26893,7 @@ Publisher Certificate Information:
     <message>
       <location filename="../gui/DesignerFiles/devNameListWidget.ui" line="13"/>
       <source>DevNameListWidget</source>
-      <translation type="unfinished">DevNameListWidget</translation>
+      <translation>DevNameListWidget</translation>
     </message>
   </context>
   <context>
@@ -26908,7 +26908,7 @@ Publisher Certificate Information:
     <message>
       <location filename="../gui/NetworkComponentBox/DeviceButton.cpp" line="398"/>
       <source>Auto Connect is disabled.</source>
-      <translation type="unfinished">Auto Connect is disabled.</translation>
+      <translation>自動連線已停用。</translation>
     </message>
   </context>
   <context>
@@ -27179,7 +27179,7 @@ Publisher Certificate Information:
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceFileManager.cpp" line="262"/>
       <source>Files (*.txt *.js *.css *.html *.htm *.php *.jpg *.jpeg *.gif *.bmp *.png)</source>
-      <translation type="unfinished">Files (*.txt *.js *.css *.html *.htm *.php *.jpg *.jpeg *.gif *.bmp *.png)</translation>
+      <translation>檔案 (*.txt *.js *.css *.html *.htm *.php *.jpg *.jpeg *.gif *.bmp *.png)</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceFileManager.cpp" line="332"/>
@@ -27568,7 +27568,7 @@ stamp</source>
     <message>
       <location filename="../gui/DesignerFiles/DeviceTableBase.ui" line="25"/>
       <source> Device Table</source>
-      <translation type="unfinished"> Device Table</translation>
+      <translation> 裝置表</translation>
     </message>
   </context>
   <context>
@@ -28283,7 +28283,7 @@ Address</source>
     <message>
       <location filename="../gui/IoE/EnvironmentDialog.cpp" line="38"/>
       <source>Environments</source>
-      <translation type="unfinished">Environments</translation>
+      <translation>環境</translation>
     </message>
   </context>
   <context>
@@ -28822,7 +28822,7 @@ and all previous settings will be erased.</source>
     <message>
       <location filename="../gui/Workspace/Physical/GeoIconLabel.cpp" line="94"/>
       <source>Duplicate device names are not allowed.</source>
-      <translation type="unfinished">Duplicate device names are not allowed.</translation>
+      <translation>不允許重複的裝置名稱。</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Physical/GeoIconLabel.cpp" line="94"/>
@@ -31112,7 +31112,7 @@ reset activity?</source>
     <message>
       <location filename="../gui/Interfaces/IntCfgUniversal.cpp" line="864"/>
       <source>Transmit Range (meters)</source>
-      <translation type="unfinished">Transmit Range (meters)</translation>
+      <translation>傳輸範圍（公尺）</translation>
     </message>
   </context>
   <context>
@@ -31154,7 +31154,7 @@ reset activity?</source>
     <message>
       <location filename="../gui/DesignerFiles/IoX/IoxProjectNew.ui" line="96"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Warning: A directory based on the project name will be created.&lt;br/&gt;Any directories or files with the same name will be delete.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Warning: A directory based on the project name will be created.&lt;br/&gt;Any directories or files with the same name will be delete.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;警告：將依專案名稱建立目錄。&lt;br/&gt;任何同名的目錄或檔案都將被刪除。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoX/IoxProjectNew.ui" line="138"/>
@@ -31176,7 +31176,7 @@ reset activity?</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/IoX/CIoxProjectNewDlg.cpp" line="52"/>
       <source>Project name should contain only alphanumeric and &quot;_&quot; characters</source>
-      <translation type="unfinished">Project name should contain only alphanumeric and &quot;_&quot; characters</translation>
+      <translation>專案名稱只能包含英數字元與「_」</translation>
     </message>
   </context>
   <context>
@@ -31214,7 +31214,7 @@ reset activity?</source>
     <message>
       <location filename="../gui/DeviceConfig/CiscoWireless/LightWeightAPDialog.cpp" line="239"/>
       <source>WLC</source>
-      <translation type="unfinished">WLC</translation>
+      <translation>WLC</translation>
     </message>
   </context>
   <context>
@@ -31302,7 +31302,7 @@ reset activity?</source>
     <message>
       <location filename="../gui/DeviceConfig/Router/LinkSysGUI.cpp" line="693"/>
       <source>Wireless Tri-Band Home Router</source>
-      <translation type="unfinished">Wireless Tri-Band Home Router</translation>
+      <translation>無線三頻家用路由器</translation>
     </message>
   </context>
   <context>
@@ -31381,7 +31381,7 @@ reset activity?</source>
       <location filename="../gui/DesignerFiles/Routing/BaseLANCfg.ui" line="46"/>
       <location filename="../gui/DesignerFiles/Routing/BaseLANCfg.ui" line="51"/>
       <source>LAN Settings</source>
-      <translation type="unfinished">LAN Settings</translation>
+      <translation>LAN 設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseLANCfg.ui" line="89"/>
@@ -32840,7 +32840,7 @@ reset activity?</source>
     <message>
       <location filename="../gui/DeviceConfig/IoE/CMCUDialog.cpp" line="256"/>
       <source>Files</source>
-      <translation type="unfinished">Files</translation>
+      <translation>檔案</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/IoE/CMCUDialog.cpp" line="337"/>
@@ -32868,7 +32868,7 @@ reset activity?</source>
     <message>
       <location filename="../gui/DesignerFiles/manageDeviceDialogs.ui" line="19"/>
       <source>Manage Device Dialogs</source>
-      <translation type="unfinished">Manage Device Dialogs</translation>
+      <translation>管理裝置對話方塊</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/manageDeviceDialogs.ui" line="76"/>
@@ -32974,7 +32974,7 @@ reset activity?</source>
     <message>
       <location filename="../gui/DeviceConfig/Templates/ModuleListButton.cpp" line="209"/>
       <source>Cannot remove a module when the power is on.</source>
-      <translation type="unfinished">Cannot remove a module when the power is on.</translation>
+      <translation>電源開啟時無法移除模組。</translation>
     </message>
   </context>
   <context>
@@ -33427,7 +33427,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/File/Options.cpp" line="144"/>
       <source>Would you like to run multi-user when application starts?</source>
-      <translation type="unfinished">Would you like to run multi-user when application starts?</translation>
+      <translation>應用程式啟動時是否要執行多使用者？</translation>
     </message>
   </context>
   <context>
@@ -33451,7 +33451,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessClientCfgBase.ui" line="31"/>
       <source>PC Wireless</source>
-      <translation type="unfinished">PC Wireless</translation>
+      <translation>PC Wireless</translation>
     </message>
   </context>
   <context>
@@ -33508,7 +33508,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/PCWirelessModeBase.ui" line="160"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff0000;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff0000;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff0000;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
   </context>
   <context>
@@ -34652,7 +34652,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessNoAssociation.cpp" line="64"/>
       <source>no association with access point</source>
-      <translation type="unfinished">no association with access point</translation>
+      <translation>未與存取點建立關聯</translation>
     </message>
   </context>
   <context>
@@ -34718,7 +34718,7 @@ Please try to use a different port.</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfileSaved.cpp" line="53"/>
       <source>Congratulations, your profile has been successfully configured.</source>
-      <translation type="unfinished">Congratulations, your profile has been successfully configured.</translation>
+      <translation>恭喜，您的設定檔已成功設定。</translation>
     </message>
   </context>
   <context>
@@ -35815,7 +35815,7 @@ What is the device decision in this layer?</source>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BasePCFirewallSettings.ui" line="184"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BasePCFirewallSettings.ui" line="187"/>
@@ -36585,7 +36585,7 @@ Command Prompt Commands: %7</source>
     <message>
       <location filename="../gui/DeviceConfig/Router/QoSSettings.cpp" line="222"/>
       <source>- unknown -</source>
-      <translation type="unfinished">- unknown -</translation>
+      <translation>- unknown -</translation>
     </message>
   </context>
   <context>
@@ -37047,7 +37047,7 @@ Bluetooth Tether AP: %1
     <message>
       <location filename="../gui/Workspace/Physical/RackView/RackViewWidget.cpp" line="390"/>
       <source>&lt;&lt; Cable Conduit to %1</source>
-      <translation type="unfinished">&lt;&lt; Cable Conduit to %1</translation>
+      <translation>&lt;&lt; 通往 %1 的纜線導管</translation>
     </message>
   </context>
   <context>
@@ -37538,7 +37538,7 @@ Please wait until it is finished.</source>
       <location filename="../gui/DesignerFiles/Routing/ServiceDhcpRouter.ui" line="139"/>
       <location filename="../gui/DesignerFiles/Routing/ServiceDhcpRouter.ui" line="142"/>
       <source>IP Address Range</source>
-      <translation type="unfinished">IP Address Range</translation>
+      <translation>IP 位址範圍</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/ServiceDhcpRouter.ui" line="325"/>
@@ -37787,7 +37787,7 @@ Do you want to allow it?</source>
     <message>
       <location filename="../engine/scripting/CScriptHttpServerReply.cpp" line="83"/>
       <source>The requested URL %1 was not found on this server.</source>
-      <translation type="unfinished">The requested URL %1 was not found on this server.</translation>
+      <translation>此伺服器上找不到要求的 URL %1。</translation>
     </message>
   </context>
   <context>
@@ -38060,7 +38060,7 @@ Do you want to allow it?</source>
     <message>
       <location filename="../engine/scripting/CScriptTcpSocket.cpp" line="57"/>
       <source>%1 TCP Port %2</source>
-      <translation type="unfinished">%1 TCP Port %2</translation>
+      <translation>%1 TCP 連接埠 %2</translation>
     </message>
   </context>
   <context>
@@ -38440,7 +38440,7 @@ See Extensions-&gt;Scripting-&gt;Configure Script Modules ...</source>
       <location filename="../gui/DeviceConfig/Server/ServerDhcpv6.cpp" line="405"/>
       <location filename="../gui/DeviceConfig/Server/ServerDhcpv6.cpp" line="600"/>
       <source>Select a record to edit.</source>
-      <translation type="unfinished">Select a record to edit.</translation>
+      <translation>請選取要編輯的記錄。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Server/ServerDhcpv6.cpp" line="355"/>
@@ -38919,7 +38919,7 @@ See Extensions-&gt;Scripting-&gt;Configure Script Modules ...</source>
     <message>
       <location filename="../gui/DeviceConfig/Server/ServerHttp.cpp" line="469"/>
       <source>Files (*.js *.css *.html *.htm *.php *.jpg *.jpeg *.gif *.bmp *.png)</source>
-      <translation type="unfinished">Files (*.js *.css *.html *.htm *.php *.jpg *.jpeg *.gif *.bmp *.png)</translation>
+      <translation>檔案 (*.js *.css *.html *.htm *.php *.jpg *.jpeg *.gif *.bmp *.png)</translation>
     </message>
   </context>
   <context>
@@ -40167,7 +40167,7 @@ Supported file extensions: .html .htm . php .css .js</source>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceHttp.ui" line="179"/>
       <source>HTTPS</source>
-      <translation type="unfinished">HTTPS</translation>
+      <translation>HTTPS</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceHttp.ui" line="230"/>
@@ -40667,7 +40667,7 @@ Password</source>
       <location filename="../gui/DesignerFiles/Server/ServiceTftp.ui" line="167"/>
       <location filename="../gui/DesignerFiles/Server/ServiceTftp.ui" line="169"/>
       <source>Remove File</source>
-      <translation type="unfinished">Remove File</translation>
+      <translation>移除檔案</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceTftp.ui" line="201"/>
@@ -40900,7 +40900,7 @@ Would you like to use the new version?</source>
     <message>
       <location filename="../gui/IoE/SignalDialog.cpp" line="45"/>
       <source>IoT Signal</source>
-      <translation type="unfinished">IoT Signal</translation>
+      <translation>IoT 訊號</translation>
     </message>
   </context>
   <context>
@@ -41154,7 +41154,7 @@ Reset the network?</source>
     <message>
       <location filename="../gui/scripting/CSmResourceReply.cpp" line="82"/>
       <source>Resource not found</source>
-      <translation type="unfinished">Resource not found</translation>
+      <translation>找不到資源</translation>
     </message>
   </context>
   <context>
@@ -41374,7 +41374,7 @@ Please wait until it is finished.</source>
     <message>
       <location filename="../gui/DeviceConfig/Router/TableCellIPEdit.cpp" line="43"/>
       <source>have illegal characters, must be [ 0 - 9 ]</source>
-      <translation type="unfinished">have illegal characters, must be [ 0 - 9 ]</translation>
+      <translation>含有不合法字元，必須為 [ 0 - 9 ]</translation>
     </message>
   </context>
   <context>
@@ -55515,7 +55515,7 @@ Cable Type: %6</source>
     <message>
       <location filename="../gui/scripting/CUserAppResourceReply.cpp" line="97"/>
       <source>Resource not found</source>
-      <translation type="unfinished">Resource not found</translation>
+      <translation>找不到資源</translation>
     </message>
   </context>
   <context>
@@ -55935,14 +55935,14 @@ need to save this file with this version of %1.
 Make sure you review and update your scripts to avoid potential problems with 
 this network in the future. Scripts in question belong to a script module with ID:
 %3</source>
-      <translation type="unfinished">Some scripts in this file were saved in an earlier version of %1.
-As a result, they might not be compatible with version %2 you are using now.
+      <translation>此檔案中的部分指令碼是以舊版 %1 儲存的。
+因此，它們可能與您目前使用的版本 %2 不相容。
 
-To avoid this warning when opening this network next time, you will
-need to save this file with this version of %1.
+若要避免下次開啟此網路時出現此警告，您需要
+以此版本的 %1 儲存此檔案。
 
-Make sure you review and update your scripts to avoid potential problems with 
-this network in the future. Scripts in question belong to a script module with ID:
+請務必檢查並更新您的指令碼，以免日後此網路發生潛在問題。
+相關指令碼屬於 ID 為下列值的指令碼模組：
 %3</translation>
     </message>
   </context>
@@ -56921,7 +56921,7 @@ End the expression with: &quot;)</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationAdvancedMib.cpp" line="109"/>
       <source>SNMP request timed out</source>
-      <translation type="unfinished">SNMP request timed out</translation>
+      <translation>SNMP 要求逾時</translation>
     </message>
   </context>
   <context>
@@ -57043,7 +57043,7 @@ End the expression with: &quot;)</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationCustomApp.cpp" line="144"/>
       <source>Project (%1) not found.</source>
-      <translation type="unfinished">Project (%1) not found.</translation>
+      <translation>找不到專案 (%1)。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationCustomApp.cpp" line="211"/>
@@ -58273,7 +58273,7 @@ Flow information:
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BaseServiceTftp.ui" line="14"/>
       <source>TFTP Service</source>
-      <translation type="unfinished">TFTP Service</translation>
+      <translation>TFTP Service</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/BaseServiceTftp.ui" line="58"/>
@@ -59009,7 +59009,7 @@ Do you want to save your changes?</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkStationVpn.cpp" line="92"/>
       <source>Invalid IP address</source>
-      <translation type="unfinished">Invalid IP address</translation>
+      <translation>IP 位址無效</translation>
     </message>
   </context>
   <context>
@@ -59022,12 +59022,12 @@ Do you want to save your changes?</source>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp" line="893"/>
       <source>&lt;font face=&apos;sans-serif&apos;&gt;&lt;h3&gt;Incorrect password&lt;/h3&gt;You&apos;ve entered incorrect login credentials. The default login is the serial number (e.g. Qxxx-xxxx-xxxx), with no password. The serial number is on the bottom or back of the device. For </source>
-      <translation type="unfinished">&lt;font face=&apos;sans-serif&apos;&gt;&lt;h3&gt;Incorrect password&lt;/h3&gt;You&apos;ve entered incorrect login credentials. The default login is the serial number (e.g. Qxxx-xxxx-xxxx), with no password. The serial number is on the bottom or back of the device. For </translation>
+      <translation>&lt;font face=&apos;sans-serif&apos;&gt;&lt;h3&gt;密碼不正確&lt;/h3&gt;您輸入的登入認證不正確。預設登入帳號為序號（例如 Qxxx-xxxx-xxxx），沒有密碼。序號位於裝置底部或背面。對於 </translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp" line="893"/>
       <source>, the serial number is displayed under the config tab.&lt;br&gt;&lt;br&gt;&lt;a href=&apos;http://setup.meraki.com/&apos;&gt;Try again&lt;/a&gt;&lt;/font&gt;</source>
-      <translation type="unfinished">, the serial number is displayed under the config tab.&lt;br&gt;&lt;br&gt;&lt;a href=&apos;http://setup.meraki.com/&apos;&gt;Try again&lt;/a&gt;&lt;/font&gt;</translation>
+      <translation>，序號會顯示在組態分頁下。&lt;br&gt;&lt;br&gt;&lt;a href=&apos;http://setup.meraki.com/&apos;&gt;重試&lt;/a&gt;&lt;/font&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp" line="896"/>
@@ -59460,7 +59460,7 @@ You can select multiple tags by selecting/unselecting individual table cells.</s
     <message>
       <location filename="../gui/DesignerFiles/scripting/ConfigPublishers.ui" line="17"/>
       <source>Configure Publishers</source>
-      <translation type="unfinished">Configure Publishers</translation>
+      <translation>設定發行者</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ConfigPublishers.ui" line="20"/>
@@ -59583,7 +59583,7 @@ You can select multiple tags by selecting/unselecting individual table cells.</s
     <message>
       <location filename="../gui/DeviceConfig/DialogManager.cpp" line="193"/>
       <source>All usable tabs are hidden or locked away by design in this device&apos;s power state. Dialog will remain closed. There may be tabs hidden away by preference, click the Preferences button to unhide tabs.</source>
-      <translation type="unfinished">All usable tabs are hidden or locked away by design in this device&apos;s power state. Dialog will remain closed. There may be tabs hidden away by preference, click the Preferences button to unhide tabs.</translation>
+      <translation>在此裝置目前的電源狀態下，所有可用的分頁都被設計為隱藏或鎖定，對話方塊將保持關閉。可能有分頁因偏好設定而被隱藏，請按一下「偏好設定」按鈕以顯示分頁。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/DialogManager.cpp" line="196"/>
@@ -59718,7 +59718,7 @@ Do you want to save your changes?</source>
       <location filename="../engine/models/ioe/CUserApp.cpp" line="254"/>
       <source>%1 Error:
 %2</source>
-      <translation type="unfinished">%1 Error:
+      <translation>%1 錯誤：
 %2</translation>
     </message>
   </context>
@@ -61149,7 +61149,7 @@ Make sure you review and update your scripts to avoid potential problems with th
     <message>
       <location filename="../gui/DesignerFiles/QoSTable.ui" line="13"/>
       <source>QoSTable</source>
-      <translation type="unfinished">QoSTable</translation>
+      <translation>QoSTable</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/QoSTable.ui" line="29"/>
@@ -62262,7 +62262,7 @@ The typical sequence in creating a script module is as follows:</source>
       <location filename="../gui/DesignerFiles/WlcClients.ui" line="19"/>
       <location filename="../gui/DesignerFiles/WlcClients.ui" line="21"/>
       <source>Select an access point</source>
-      <translation type="unfinished">Select an access point</translation>
+      <translation>選取存取點</translation>
     </message>
   </context>
   <context>
@@ -63053,7 +63053,7 @@ Please contact your test coordinator.</source>
       <location filename="../gui/DeviceConfig/Templates/CDeviceConfigUtils.cpp" line="334"/>
       <location filename="../gui/DeviceConfig/Templates/CDeviceConfigUtils.cpp" line="348"/>
       <source>/%1 is invalid.</source>
-      <translation type="unfinished">/%1 is invalid.</translation>
+      <translation>/%1 無效。</translation>
     </message>
   </context>
 </TS>
