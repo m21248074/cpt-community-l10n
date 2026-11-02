@@ -49,6 +49,14 @@
 
 ---
 
+---
+
+## 🧰 維護工具
+
+- `tools/apply_duplicates.py`：把已翻譯字串套用到原文相同的未翻項目；`--prefer 原文=譯文` 可統一分歧譯名，`--dry-run` 只預覽。
+- 術語與慣例請見 [docs/GLOSSARY.md](docs/GLOSSARY.md)。
+- 本機編譯：`lrelease "zh-TW/Chinese Traditional.ts" -qm "Chinese Traditional.ptl"`。
+
 ## ⚖️ 免責聲明 (Disclaimer)
 
 * 本專案為非官方發起，所有商標權歸 **Cisco Systems, Inc.** 所有。
