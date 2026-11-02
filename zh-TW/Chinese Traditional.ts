@@ -132,7 +132,7 @@ Please refer to the Activity Wizard help files for more detailed information.</t
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12288"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14431"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="3000"/>
@@ -4244,7 +4244,7 @@ Enter a value in the Index Variable text field to use a variable to determine th
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="448"/>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="454"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="457"/>
@@ -4895,7 +4895,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/IoE/DeviceFileManager_edit.ui" line="71"/>
       <location filename="../gui/DesignerFiles/IoE/DeviceFileManager_edit.ui" line="73"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/IoE/DeviceFileManager_edit.ui" line="82"/>
@@ -5754,7 +5754,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2987"/>
       <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2990"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="3005"/>
@@ -5930,7 +5930,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/activity/BaseProficiencyModelPopup.ui" line="56"/>
       <location filename="../gui/DesignerFiles/activity/BaseProficiencyModelPopup.ui" line="58"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/activity/BaseProficiencyModelPopup.ui" line="66"/>
@@ -6247,7 +6247,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/activity/BaseWorkProductFeaturePopup.ui" line="65"/>
       <location filename="../gui/DesignerFiles/activity/BaseWorkProductFeaturePopup.ui" line="67"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/activity/BaseWorkProductFeaturePopup.ui" line="75"/>
@@ -6392,7 +6392,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/WorkstatonMailConfiguration.ui" line="306"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstatonMailConfiguration.ui" line="309"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstatonMailConfiguration.ui" line="316"/>
@@ -11810,7 +11810,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14672"/>
       <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14964"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8910"/>
@@ -22749,7 +22749,7 @@ Setting&lt;/p&gt;</translation>
     <message>
       <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="41"/>
       <source>Name</source>
-      <translation>姓名</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="44"/>
@@ -25125,7 +25125,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="524"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="534"/>
@@ -26092,7 +26092,7 @@ Please wait until it is finished.</translation>
     <message>
       <location filename="../gui/DeviceConfig/Cloud/CloudDialog.cpp" line="532"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Cloud/CloudDialog.cpp" line="551"/>
@@ -27108,7 +27108,7 @@ Publisher Certificate Information:
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceFileManager.cpp" line="52"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceFileManager.cpp" line="52"/>
@@ -27561,7 +27561,7 @@ stamp</translation>
     <message>
       <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="402"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
   </context>
   <context>
@@ -28503,7 +28503,7 @@ and all previous settings will be erased.</translation>
       <location filename="../gui/DesignerFiles/Cloud/FrameRelaySettings.ui" line="270"/>
       <location filename="../gui/DeviceConfig/Cloud/CFrameRelaySettings.cpp" line="27"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Cloud/FrameRelaySettings.ui" line="338"/>
@@ -31047,7 +31047,7 @@ and all previous settings will be erased.</translation>
     <message>
       <location filename="../gui/activity/InstructionDialog.cpp" line="437"/>
       <source>Save</source>
-      <translation>存檔</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../gui/activity/InstructionDialog.cpp" line="437"/>
@@ -32524,7 +32524,7 @@ reset activity?</source>
     <message>
       <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="56"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="56"/>
@@ -35911,7 +35911,7 @@ What is the device decision in this layer?</translation>
       <location filename="../gui/DesignerFiles/Workstation/BasePCFirewallSettings.ui" line="448"/>
       <location filename="../gui/DesignerFiles/Workstation/BasePCFirewallSettings.ui" line="451"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
   </context>
   <context>
@@ -36041,7 +36041,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/BasePCIPV6FirewallSettings.ui" line="476"/>
       <location filename="../gui/DesignerFiles/Workstation/BasePCIPV6FirewallSettings.ui" line="479"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
   </context>
   <context>
@@ -36161,7 +36161,7 @@ Cable Type: %6</translation>
     <message>
       <location filename="../gui/Workspace/PhysicalLocationListView.cpp" line="56"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/PhysicalLocationListView.cpp" line="56"/>
@@ -37307,7 +37307,7 @@ Please wait until it is finished.</translation>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterIoxIde.cpp" line="94"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/RouterIoxIde.cpp" line="98"/>
@@ -37560,7 +37560,7 @@ Please wait until it is finished.</translation>
       <location filename="../gui/DesignerFiles/Routing/ServiceDhcpRouter.ui" line="429"/>
       <location filename="../gui/DesignerFiles/Routing/ServiceDhcpRouter.ui" line="432"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
   </context>
   <context>
@@ -39276,7 +39276,7 @@ Supported file extensions: .html .htm . php .css .js</translation>
       <location filename="../gui/DesignerFiles/Server/ServiceDhcp.ui" line="604"/>
       <location filename="../gui/DesignerFiles/Server/ServiceDhcp.ui" line="607"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceDhcp.ui" line="620"/>
@@ -39495,7 +39495,7 @@ Supported file extensions: .html .htm . php .css .js</translation>
       <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6AddressPrefixConfig.ui" line="40"/>
       <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6AddressPrefixConfig.ui" line="43"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6AddressPrefixConfig.ui" line="50"/>
@@ -39599,7 +39599,7 @@ Supported file extensions: .html .htm . php .css .js</translation>
       <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6LocalPoolConfig.ui" line="109"/>
       <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6LocalPoolConfig.ui" line="111"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6LocalPoolConfig.ui" line="116"/>
@@ -39749,7 +39749,7 @@ Supported file extensions: .html .htm . php .css .js</translation>
       <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6PoolConfig.ui" line="476"/>
       <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6PoolConfig.ui" line="479"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6PoolConfig.ui" line="486"/>
@@ -39869,7 +39869,7 @@ Supported file extensions: .html .htm . php .css .js</translation>
       <location filename="../gui/DesignerFiles/Server/ServiceDns.ui" line="948"/>
       <location filename="../gui/DesignerFiles/Server/ServiceDns.ui" line="951"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceDns.ui" line="961"/>
@@ -39967,7 +39967,7 @@ Supported file extensions: .html .htm . php .css .js</translation>
       <location filename="../gui/DesignerFiles/Server/ServiceDns.ui" line="612"/>
       <location filename="../gui/DesignerFiles/Server/ServiceDns.ui" line="615"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceDns.ui" line="898"/>
@@ -40096,7 +40096,7 @@ Supported file extensions: .html .htm . php .css .js</translation>
       <location filename="../gui/DesignerFiles/Server/ServiceFtp.ui" line="226"/>
       <location filename="../gui/DesignerFiles/Server/ServiceFtp.ui" line="228"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceFtp.ui" line="265"/>
@@ -40215,7 +40215,7 @@ Supported file extensions: .html .htm . php .css .js</translation>
       <location filename="../gui/DesignerFiles/Server/ServiceHttp_edit.ui" line="71"/>
       <location filename="../gui/DesignerFiles/Server/ServiceHttp_edit.ui" line="73"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServiceHttp_edit.ui" line="82"/>
@@ -40575,7 +40575,7 @@ Password</translation>
       <location filename="../gui/DesignerFiles/Server/ServicePapChap.ui" line="370"/>
       <location filename="../gui/DesignerFiles/Server/ServicePapChap.ui" line="373"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/ServicePapChap.ui" line="380"/>
@@ -40758,7 +40758,7 @@ Password</translation>
       <location filename="../gui/DesignerFiles/Server/SeviceAAA.ui" line="395"/>
       <location filename="../gui/DesignerFiles/Server/SeviceAAA.ui" line="397"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Server/SeviceAAA.ui" line="326"/>
@@ -42113,7 +42113,7 @@ Please wait until it is finished.</translation>
       <location filename="../gui/CTranslationDB.cpp" line="2969"/>
       <location filename="../gui/CTranslationDB.cpp" line="3015"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../gui/CTranslationDB.cpp" line="370"/>
@@ -55214,7 +55214,7 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="600"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="616"/>
@@ -55829,7 +55829,7 @@ Cable Type: %6</translation>
       <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="604"/>
       <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="607"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="620"/>
@@ -56641,7 +56641,7 @@ End the expression with: &quot;)</translation>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="163"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="164"/>
@@ -57610,7 +57610,7 @@ Port</translation>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="117"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="121"/>
@@ -58761,7 +58761,7 @@ Flow information:
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationTextEditor.cpp" line="86"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationTextEditor.cpp" line="89"/>
@@ -61375,7 +61375,7 @@ The typical sequence in creating a script module is as follows:</translation>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="347"/>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="350"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="357"/>
@@ -62204,7 +62204,7 @@ The typical sequence in creating a script module is as follows:</translation>
       <location filename="../gui/DesignerFiles/WlcApGroups.ui" line="104"/>
       <location filename="../gui/DesignerFiles/WlcApGroups.ui" line="151"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/WlcApGroups.ui" line="90"/>
@@ -62249,7 +62249,7 @@ The typical sequence in creating a script module is as follows:</translation>
     <message>
       <location filename="../gui/DesignerFiles/WlcApGroups.ui" line="194"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
   </context>
   <context>
@@ -62296,7 +62296,7 @@ The typical sequence in creating a script module is as follows:</translation>
       <location filename="../gui/DesignerFiles/WlcProfiles.ui" line="68"/>
       <location filename="../gui/DesignerFiles/WlcWlans.ui" line="52"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/WlcProfiles.ui" line="85"/>
@@ -62404,7 +62404,7 @@ The typical sequence in creating a script module is as follows:</translation>
       <location filename="../gui/DesignerFiles/WlcProfiles.ui" line="437"/>
       <location filename="../gui/DesignerFiles/WlcWlans.ui" line="478"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/WlcWlans.ui" line="353"/>
