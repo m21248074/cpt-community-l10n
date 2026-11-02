@@ -21272,12 +21272,12 @@ Connection&lt;/b&gt;&lt;/p&gt;</translation>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="14"/>
       <source>Set Background Image</source>
-      <translation type="unfinished">Set Background Image</translation>
+      <translation>設定背景影像</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="24"/>
       <source>Background Image</source>
-      <translation type="unfinished">Background Image</translation>
+      <translation>背景影像</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="64"/>
@@ -21295,14 +21295,14 @@ Connection&lt;/b&gt;&lt;/p&gt;</translation>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="237"/>
       <source>Image Options</source>
-      <translation type="unfinished">Image Options</translation>
+      <translation>影像選項</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="252"/>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="255"/>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="258"/>
       <source>Use Original Image</source>
-      <translation type="unfinished">Use Original Image</translation>
+      <translation>使用原始影像</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="45"/>
@@ -21315,120 +21315,120 @@ Connection&lt;/b&gt;&lt;/p&gt;</translation>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="820"/>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="823"/>
       <source>Click Browse to select an image.</source>
-      <translation type="unfinished">Click Browse to select an image.</translation>
+      <translation>按一下「瀏覽」選取影像。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="277"/>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="280"/>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="283"/>
       <source>Display Tiled Background Image</source>
-      <translation type="unfinished">Display Tiled Background Image</translation>
+      <translation>以並排方式顯示背景影像</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="296"/>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="299"/>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="302"/>
       <source>Resize to Fit Current View</source>
-      <translation type="unfinished">Resize to Fit Current View</translation>
+      <translation>調整大小以符合目前檢視</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="320"/>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="323"/>
       <source>Custom Size:</source>
-      <translation type="unfinished">Custom Size:</translation>
+      <translation>自訂大小：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="410"/>
       <source>Physical Properties</source>
-      <translation type="unfinished">Physical Properties</translation>
+      <translation>實體屬性</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="419"/>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="422"/>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="425"/>
       <source>Size of container in meters:</source>
-      <translation type="unfinished">Size of container in meters:</translation>
+      <translation>容器大小（公尺）：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="432"/>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="435"/>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="438"/>
       <source>Width:</source>
-      <translation type="unfinished">Width:</translation>
+      <translation>寬度：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="445"/>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="448"/>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="451"/>
       <source>Length:</source>
-      <translation type="unfinished">Length:</translation>
+      <translation>長度：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="471"/>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="474"/>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="477"/>
       <source>Height:</source>
-      <translation type="unfinished">Height:</translation>
+      <translation>高度：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="555"/>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="558"/>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="561"/>
       <source>Scale:</source>
-      <translation type="unfinished">Scale:</translation>
+      <translation>比例：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="513"/>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="516"/>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="519"/>
       <source>meters/pixel</source>
-      <translation type="unfinished">meters/pixel</translation>
+      <translation>公尺/像素</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="84"/>
       <source>Visual Dimensions</source>
-      <translation type="unfinished">Visual Dimensions</translation>
+      <translation>視覺尺寸</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="102"/>
       <source>Image:</source>
-      <translation type="unfinished">Image:</translation>
+      <translation>影像：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="139"/>
       <source>View:</source>
-      <translation type="unfinished">View:</translation>
+      <translation>檢視：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="176"/>
       <source>Recommended Image:</source>
-      <translation type="unfinished">Recommended Image:</translation>
+      <translation>建議的影像：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="326"/>
       <source>Custom Width</source>
-      <translation type="unfinished">Custom Width</translation>
+      <translation>自訂寬度</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="366"/>
       <source>Custom Height</source>
-      <translation type="unfinished">Custom Height</translation>
+      <translation>自訂高度</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="568"/>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="571"/>
       <source>Volume</source>
-      <translation type="unfinished">Volume</translation>
+      <translation>體積</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="574"/>
       <source>Volume:</source>
-      <translation type="unfinished">Volume:</translation>
+      <translation>體積：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="594"/>
       <source>cubic meters</source>
-      <translation type="unfinished">cubic meters</translation>
+      <translation>立方公尺</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="625"/>
@@ -21459,12 +21459,12 @@ Connection&lt;/b&gt;&lt;/p&gt;</translation>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="660"/>
       <source>Cluster Icon</source>
-      <translation type="unfinished">Cluster Icon</translation>
+      <translation>叢集圖示</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="790"/>
       <source>Container Icon</source>
-      <translation type="unfinished">Container Icon</translation>
+      <translation>容器圖示</translation>
     </message>
   </context>
   <context>
@@ -23418,18 +23418,18 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="20"/>
       <source>Wireless Status</source>
-      <translation type="unfinished">Wireless Status</translation>
+      <translation>無線狀態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="320"/>
       <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Wireless Network&lt;/b&gt;&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Wireless Network&lt;/b&gt;&lt;/p&gt;</translation>
+      <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;無線網路&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="311"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="314"/>
       <source>Wireless Network</source>
-      <translation type="unfinished">Wireless Network</translation>
+      <translation>無線網路</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="753"/>
@@ -23451,7 +23451,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2436"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2439"/>
       <source>MAC Address:</source>
-      <translation type="unfinished">MAC Address:</translation>
+      <translation>MAC 位址：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="645"/>
@@ -23473,12 +23473,12 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2328"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2331"/>
       <source>Mode:</source>
-      <translation type="unfinished">Mode:</translation>
+      <translation>模式：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="462"/>
       <source>Wireless 2.4G</source>
-      <translation type="unfinished">Wireless 2.4G</translation>
+      <translation>無線 2.4G</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="505"/>
@@ -23500,7 +23500,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2188"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2191"/>
       <source>Mixed</source>
-      <translation type="unfinished">Mixed</translation>
+      <translation>混合</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="524"/>
@@ -23522,7 +23522,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2207"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2210"/>
       <source>Network Name (SSID):</source>
-      <translation type="unfinished">Network Name (SSID):</translation>
+      <translation>網路名稱 (SSID)：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="600"/>
@@ -23544,32 +23544,32 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2283"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2286"/>
       <source>Radio Band:</source>
-      <translation type="unfinished">Radio Band:</translation>
+      <translation>無線電頻段：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="798"/>
       <source>Wireless 5.1G - 1</source>
-      <translation type="unfinished">Wireless 5.1G - 1</translation>
+      <translation>無線 5.1G - 1</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="1134"/>
       <source>Wireless 5.1G - 2</source>
-      <translation type="unfinished">Wireless 5.1G - 2</translation>
+      <translation>無線 5.1G - 2</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="1470"/>
       <source>Wireless Guest 2.4G</source>
-      <translation type="unfinished">Wireless Guest 2.4G</translation>
+      <translation>訪客無線 2.4G</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="1806"/>
       <source>Wireless Guest 5.1G - 1</source>
-      <translation type="unfinished">Wireless Guest 5.1G - 1</translation>
+      <translation>訪客無線 5.1G - 1</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2142"/>
       <source>Wireless Guest 5.1G - 2</source>
-      <translation type="unfinished">Wireless Guest 5.1G - 2</translation>
+      <translation>訪客無線 5.1G - 2</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2768"/>
@@ -23578,11 +23578,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;說明...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="486"/>
@@ -23604,7 +23604,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2169"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2172"/>
       <source>Auto</source>
-      <translation type="unfinished">Auto</translation>
+      <translation>自動</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="543"/>
@@ -23626,7 +23626,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2226"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2229"/>
       <source>Wide Channel:</source>
-      <translation type="unfinished">Wide Channel:</translation>
+      <translation>寬頻道：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="562"/>
@@ -23648,7 +23648,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2245"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2248"/>
       <source>4</source>
-      <translation type="unfinished">4</translation>
+      <translation>4</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="696"/>
@@ -23670,7 +23670,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2379"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2382"/>
       <source>6</source>
-      <translation type="unfinished">6</translation>
+      <translation>6</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="677"/>
@@ -23692,7 +23692,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2360"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2363"/>
       <source>Security:</source>
-      <translation type="unfinished">Security:</translation>
+      <translation>安全性：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="734"/>
@@ -23714,7 +23714,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2417"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2420"/>
       <source>SSID Broadcast:</source>
-      <translation type="unfinished">SSID Broadcast:</translation>
+      <translation>SSID 廣播：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="715"/>
@@ -23736,13 +23736,13 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2398"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2401"/>
       <source>Enabled</source>
-      <translation type="unfinished">Enabled</translation>
+      <translation>已啟用</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2750"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2753"/>
       <source>Help...</source>
-      <translation type="unfinished">Help...</translation>
+      <translation>說明...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="581"/>
@@ -23764,7 +23764,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2264"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2267"/>
       <source>Standard Channel:</source>
-      <translation type="unfinished">Standard Channel:</translation>
+      <translation>標準頻道：</translation>
     </message>
   </context>
   <context>
@@ -24063,25 +24063,25 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="20"/>
       <source>Wireless Security</source>
-      <translation type="unfinished">Wireless Security</translation>
+      <translation>無線安全性</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="147"/>
       <source>~title text~</source>
-      <translation type="unfinished">~title text~</translation>
+      <translation>~標題文字~</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="171"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="174"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="177"/>
       <source>Security Mode:</source>
-      <translation type="unfinished">Security Mode:</translation>
+      <translation>安全性模式：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="240"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1384"/>
       <source>40/64-Bits (10 Hex digits)</source>
-      <translation type="unfinished">40/64-Bits (10 Hex digits)</translation>
+      <translation>40/64 位元 (10 位十六進位數字)</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="251"/>
@@ -24097,7 +24097,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1370"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1373"/>
       <source>Encryption:</source>
-      <translation type="unfinished">Encryption:</translation>
+      <translation>加密：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="272"/>
@@ -24110,7 +24110,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1398"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1401"/>
       <source>Passphrase:</source>
-      <translation type="unfinished">Passphrase:</translation>
+      <translation>通關密語：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="304"/>
@@ -24120,7 +24120,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1430"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1433"/>
       <source>Generate</source>
-      <translation type="unfinished">Generate</translation>
+      <translation>產生</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="324"/>
@@ -24130,7 +24130,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1446"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1449"/>
       <source>Key1:</source>
-      <translation type="unfinished">Key1:</translation>
+      <translation>金鑰1：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="357"/>
@@ -24140,7 +24140,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1475"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1478"/>
       <source>Key2:</source>
-      <translation type="unfinished">Key2:</translation>
+      <translation>金鑰2：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="390"/>
@@ -24150,7 +24150,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1504"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1507"/>
       <source>Key3:</source>
-      <translation type="unfinished">Key3:</translation>
+      <translation>金鑰3：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="420"/>
@@ -24160,7 +24160,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1533"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1536"/>
       <source>Key4:</source>
-      <translation type="unfinished">Key4:</translation>
+      <translation>金鑰4：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="450"/>
@@ -24170,19 +24170,19 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1562"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1565"/>
       <source>TX Key:</source>
-      <translation type="unfinished">TX Key:</translation>
+      <translation>TX 金鑰：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="470"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1579"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="547"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="992"/>
       <source>TKIP</source>
-      <translation type="unfinished">TKIP</translation>
+      <translation>TKIP</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="568"/>
@@ -24192,7 +24192,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1156"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1159"/>
       <source>RADIUS Server:</source>
-      <translation type="unfinished">RADIUS Server:</translation>
+      <translation>RADIUS 伺服器：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="595"/>
@@ -24220,7 +24220,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1280"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1283"/>
       <source>0</source>
-      <translation type="unfinished">0</translation>
+      <translation>0</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="617"/>
@@ -24242,7 +24242,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1261"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1264"/>
       <source>.</source>
-      <translation type="unfinished">.</translation>
+      <translation>.</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="767"/>
@@ -24252,14 +24252,14 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1299"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1302"/>
       <source>RADIUS Port:</source>
-      <translation type="unfinished">RADIUS Port:</translation>
+      <translation>RADIUS 連接埠：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="792"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="795"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="798"/>
       <source>1645</source>
-      <translation type="unfinished">1645</translation>
+      <translation>1645</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="818"/>
@@ -24269,7 +24269,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1334"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1337"/>
       <source>Shared Secret:</source>
-      <translation type="unfinished">Shared Secret:</translation>
+      <translation>共用密鑰：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="860"/>
@@ -24279,7 +24279,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1061"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1064"/>
       <source>Key Renewal:</source>
-      <translation type="unfinished">Key Renewal:</translation>
+      <translation>金鑰更新：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="885"/>
@@ -24289,7 +24289,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1086"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1089"/>
       <source>3600</source>
-      <translation type="unfinished">3600</translation>
+      <translation>3600</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="907"/>
@@ -24299,14 +24299,14 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1108"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1111"/>
       <source>seconds</source>
-      <translation type="unfinished">seconds</translation>
+      <translation>秒</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1315"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1318"/>
       <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1321"/>
       <source>1892</source>
-      <translation type="unfinished">1892</translation>
+      <translation>1892</translation>
     </message>
   </context>
   <context>
@@ -24809,7 +24809,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="29"/>
       <source>IP Config</source>
-      <translation type="unfinished">IP Config</translation>
+      <translation>IP 組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="95"/>
@@ -24817,18 +24817,18 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="104"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="257"/>
       <source>IP Configuration</source>
-      <translation type="unfinished">IP Configuration</translation>
+      <translation>IP 組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="151"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="154"/>
       <source>close</source>
-      <translation type="unfinished">close</translation>
+      <translation>關閉</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="157"/>
       <source>X</source>
-      <translation type="unfinished">X</translation>
+      <translation>X</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="203"/>
@@ -24842,51 +24842,51 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="278"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="281"/>
       <source> DHCP Refresh  </source>
-      <translation type="unfinished"> DHCP Refresh  </translation>
+      <translation> DHCP 重新整理  </translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="770"/>
       <source>IPv4 Address</source>
-      <translation type="unfinished">IPv4 Address</translation>
+      <translation>IPv4 位址</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1294"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1297"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1300"/>
       <source>DHCP</source>
-      <translation type="unfinished">DHCP</translation>
+      <translation>DHCP</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2274"/>
       <source>Automatic</source>
-      <translation type="unfinished">Automatic</translation>
+      <translation>自動</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2400"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2403"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2406"/>
       <source>DHCPv6 Refresh</source>
-      <translation type="unfinished">DHCPv6 Refresh</translation>
+      <translation>DHCPv6 重新整理</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2438"/>
       <source>802.1X</source>
-      <translation type="unfinished">802.1X</translation>
+      <translation>802.1X</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2447"/>
       <source>Use 802.1X Security</source>
-      <translation type="unfinished">Use 802.1X Security</translation>
+      <translation>使用 802.1X 安全性</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2454"/>
       <source>Authentication</source>
-      <translation type="unfinished">Authentication</translation>
+      <translation>驗證</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2462"/>
       <source>MD5</source>
-      <translation type="unfinished">MD5</translation>
+      <translation>MD5</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2470"/>
@@ -24906,20 +24906,20 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2302"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2305"/>
       <source>Static</source>
-      <translation type="unfinished">Static</translation>
+      <translation>靜態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="764"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="767"/>
       <source>IP Address</source>
-      <translation type="unfinished">IP Address</translation>
+      <translation>IP 位址</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1266"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1269"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1272"/>
       <source>Subnet Mask</source>
-      <translation type="unfinished">Subnet Mask</translation>
+      <translation>子網路遮罩</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1029"/>
@@ -24927,7 +24927,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1035"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2000"/>
       <source>Default Gateway</source>
-      <translation type="unfinished">Default Gateway</translation>
+      <translation>預設閘道</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="537"/>
@@ -24935,51 +24935,51 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="543"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2224"/>
       <source>DNS Server</source>
-      <translation type="unfinished">DNS Server</translation>
+      <translation>DNS 伺服器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1329"/>
       <source>IPv6 Configuration</source>
-      <translation type="unfinished">IPv6 Configuration</translation>
+      <translation>IPv6 組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2268"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2271"/>
       <source>Auto Config</source>
-      <translation type="unfinished">Auto Config</translation>
+      <translation>自動組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1546"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1549"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1552"/>
       <source>IPv6 Address</source>
-      <translation type="unfinished">IPv6 Address</translation>
+      <translation>IPv6 位址</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2360"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2363"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2366"/>
       <source>/</source>
-      <translation type="unfinished">/</translation>
+      <translation>/</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1770"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1773"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1776"/>
       <source>Link Local Address</source>
-      <translation type="unfinished">Link Local Address</translation>
+      <translation>連結本地位址</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1994"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1997"/>
       <source>IPv6 Gateway</source>
-      <translation type="unfinished">IPv6 Gateway</translation>
+      <translation>IPv6 閘道</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2218"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2221"/>
       <source>IPv6 DNS Server</source>
-      <translation type="unfinished">IPv6 DNS Server</translation>
+      <translation>IPv6 DNS 伺服器</translation>
     </message>
   </context>
   <context>
@@ -25058,36 +25058,36 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="26"/>
       <source>Interface Configuration</source>
-      <translation type="unfinished">Interface Configuration</translation>
+      <translation>介面組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="255"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="258"/>
       <source>Netflow Collector</source>
-      <translation type="unfinished">Netflow Collector</translation>
+      <translation>Netflow 收集器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="261"/>
       <source>Bluetooth Configuration</source>
-      <translation type="unfinished">Bluetooth Configuration</translation>
+      <translation>藍牙組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="286"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="289"/>
       <source>close</source>
-      <translation type="unfinished">close</translation>
+      <translation>關閉</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="292"/>
       <source>X</source>
-      <translation type="unfinished">X</translation>
+      <translation>X</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="312"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="315"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="318"/>
       <source>Port Status</source>
-      <translation type="unfinished">Port Status</translation>
+      <translation>連接埠狀態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="353"/>
@@ -25097,7 +25097,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="618"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="862"/>
       <source>On</source>
-      <translation type="unfinished">On</translation>
+      <translation>開啟</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="391"/>
@@ -25105,17 +25105,17 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="397"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="529"/>
       <source>MAC Address</source>
-      <translation type="unfinished">MAC Address</translation>
+      <translation>MAC 位址</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="436"/>
       <source>Coverage Range (meters)</source>
-      <translation type="unfinished">Coverage Range (meters)</translation>
+      <translation>涵蓋範圍（公尺）</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="462"/>
       <source>Discoverable</source>
-      <translation type="unfinished">Discoverable</translation>
+      <translation>可被探索</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="505"/>
@@ -25130,86 +25130,86 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="534"/>
       <source>Status</source>
-      <translation type="unfinished">Status</translation>
+      <translation>狀態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="544"/>
       <source>Discover</source>
-      <translation type="unfinished">Discover</translation>
+      <translation>探索</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="551"/>
       <source>Pair</source>
-      <translation type="unfinished">Pair</translation>
+      <translation>配對</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="558"/>
       <source>Unpair</source>
-      <translation type="unfinished">Unpair</translation>
+      <translation>取消配對</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="565"/>
       <source>Tether</source>
-      <translation type="unfinished">Tether</translation>
+      <translation>網路共用</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="572"/>
       <source>Untether</source>
-      <translation type="unfinished">Untether</translation>
+      <translation>取消網路共用</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="584"/>
       <source>Beacon Broadcasting</source>
-      <translation type="unfinished">Beacon Broadcasting</translation>
+      <translation>Beacon 廣播</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="598"/>
       <source>Broadcast</source>
-      <translation type="unfinished">Broadcast</translation>
+      <translation>廣播</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="629"/>
       <source>UUID</source>
-      <translation type="unfinished">UUID</translation>
+      <translation>UUID</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="639"/>
       <source>Data</source>
-      <translation type="unfinished">Data</translation>
+      <translation>資料</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="646"/>
       <source>Frequency (seconds)</source>
-      <translation type="unfinished">Frequency (seconds)</translation>
+      <translation>頻率（秒）</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="698"/>
       <source>IP Configuration</source>
-      <translation type="unfinished">IP Configuration</translation>
+      <translation>IP 組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="715"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="718"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="721"/>
       <source>IP Address</source>
-      <translation type="unfinished">IP Address</translation>
+      <translation>IP 位址</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="775"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="778"/>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="781"/>
       <source>Subnet Mask</source>
-      <translation type="unfinished">Subnet Mask</translation>
+      <translation>子網路遮罩</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="834"/>
       <source>Cellular Tethering</source>
-      <translation type="unfinished">Cellular Tethering</translation>
+      <translation>行動數據共用</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="842"/>
       <source>Bluetooth</source>
-      <translation type="unfinished">Bluetooth</translation>
+      <translation>藍牙</translation>
     </message>
   </context>
   <context>
@@ -32610,7 +32610,7 @@ reset activity?</source>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="3120"/>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="3228"/>
       <source>The selected cable does not match the remote cable type.</source>
-      <translation type="unfinished">The selected cable does not match the remote cable type.</translation>
+      <translation>所選纜線與遠端纜線類型不符。</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="2899"/>
@@ -32624,13 +32624,13 @@ reset activity?</source>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="3228"/>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="3283"/>
       <source>Connection Error</source>
-      <translation type="unfinished">Connection Error</translation>
+      <translation>連線錯誤</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="449"/>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="9520"/>
       <source> cluster</source>
-      <translation type="unfinished"> cluster</translation>
+      <translation> 叢集</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="2815"/>
@@ -32638,7 +32638,7 @@ reset activity?</source>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="2917"/>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="3079"/>
       <source>Inventory Shelf -- %1</source>
-      <translation type="unfinished">Inventory Shelf -- %1</translation>
+      <translation>庫存架 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="2899"/>
@@ -32647,12 +32647,12 @@ reset activity?</source>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="3174"/>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="3283"/>
       <source>The cable cannot be connected to that port.</source>
-      <translation type="unfinished">The cable cannot be connected to that port.</translation>
+      <translation>纜線無法連接到該連接埠。</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="3086"/>
       <source>The cable cannot be connected to another Multiuser.</source>
-      <translation type="unfinished">The cable cannot be connected to another Multiuser.</translation>
+      <translation>纜線無法連接到另一個多使用者。</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4133"/>
@@ -32669,12 +32669,12 @@ reset activity?</source>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4171"/>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4173"/>
       <source>Do you want to uncluster the components of %1?</source>
-      <translation type="unfinished">Do you want to uncluster the components of %1?</translation>
+      <translation>是否要取消 %1 的元件叢集？</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="8549"/>
       <source>No PDU Info -- %1</source>
-      <translation type="unfinished">No PDU Info -- %1</translation>
+      <translation>沒有 PDU 資訊 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="8623"/>
@@ -32689,7 +32689,7 @@ reset activity?</source>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4906"/>
       <source>Auto-connection is not applicable for cluster(s)</source>
-      <translation type="unfinished">Auto-connection is not applicable for cluster(s)</translation>
+      <translation>自動連線不適用於叢集</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="2815"/>
@@ -32697,7 +32697,7 @@ reset activity?</source>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="2917"/>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="3079"/>
       <source>Devices on the inventory shelf cannot be connected. Please move it to a rack or table first.</source>
-      <translation type="unfinished">Devices on the inventory shelf cannot be connected. Please move it to a rack or table first.</translation>
+      <translation>庫存架上的裝置無法連接。請先將其移到機架或桌面上。</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4128"/>
@@ -32718,12 +32718,12 @@ reset activity?</source>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4927"/>
       <source>Auto-connection is not applicable for multiuser connections.</source>
-      <translation type="unfinished">Auto-connection is not applicable for multiuser connections.</translation>
+      <translation>自動連線不適用於多使用者連線。</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4927"/>
       <source>Multiuser Info</source>
-      <translation type="unfinished">Multiuser Info</translation>
+      <translation>多使用者資訊</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="5541"/>
@@ -32741,33 +32741,33 @@ reset activity?</source>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="5591"/>
       <source>Duplicate MultiUser names are not allowed.</source>
-      <translation type="unfinished">Duplicate MultiUser names are not allowed.</translation>
+      <translation>不允許重複的多使用者名稱。</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="5647"/>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="5659"/>
       <source>Duplicate device names are not allowed.</source>
-      <translation type="unfinished">Duplicate device names are not allowed.</translation>
+      <translation>不允許重複的裝置名稱。</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="8760"/>
       <source>Your version of %1 does not match the remote peer&apos;s version.</source>
-      <translation type="unfinished">Your version of %1 does not match the remote peer&apos;s version.</translation>
+      <translation>您的 %1 版本與遠端對等端的版本不符。</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="10760"/>
       <source>Selection focus on </source>
-      <translation type="unfinished">Selection focus on </translation>
+      <translation>選取焦點位於 </translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="10815"/>
       <source> added to selection</source>
-      <translation type="unfinished"> added to selection</translation>
+      <translation> 已加入選取</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="10822"/>
       <source> removed from selection</source>
-      <translation type="unfinished"> removed from selection</translation>
+      <translation> 已從選取移除</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4117"/>
@@ -32777,39 +32777,39 @@ reset activity?</source>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4129"/>
       <source>Do you want to delete the selected item?</source>
-      <translation type="unfinished">Do you want to delete the selected item?</translation>
+      <translation>是否要刪除所選項目？</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="8550"/>
       <source>This PDU is in transit.
  No information is known at this point.</source>
-      <translation type="unfinished">This PDU is in transit.
- No information is known at this point.</translation>
+      <translation>此 PDU 正在傳輸中。
+目前尚無任何資訊。</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="8617"/>
       <source>A peer (%1 at %2) wants to make a new remote network connection to you. Do you want to accept this connection?</source>
-      <translation type="unfinished">A peer (%1 at %2) wants to make a new remote network connection to you. Do you want to accept this connection?</translation>
+      <translation>對等端 (%1，位於 %2) 想要與您建立新的遠端網路連線。是否接受此連線？</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="8618"/>
       <source>A peer (%1 at %2) wants to make a connection to one of your existing remote networks (%3). Do you want to accept this connection?</source>
-      <translation type="unfinished">A peer (%1 at %2) wants to make a connection to one of your existing remote networks (%3). Do you want to accept this connection?</translation>
+      <translation>對等端 (%1，位於 %2) 想要連線到您現有的其中一個遠端網路 (%3)。是否接受此連線？</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="8623"/>
       <source>Incoming Peer Connection</source>
-      <translation type="unfinished">Incoming Peer Connection</translation>
+      <translation>傳入的對等端連線</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="8760"/>
       <source>Connection Denied</source>
-      <translation type="unfinished">Connection Denied</translation>
+      <translation>連線遭拒</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="8988"/>
       <source>IP header has TOS field set</source>
-      <translation type="unfinished">IP header has TOS field set</translation>
+      <translation>IP 標頭已設定 TOS 欄位</translation>
     </message>
     <message>
       <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="9200"/>
@@ -56287,27 +56287,27 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="56"/>
       <source>Mixed</source>
-      <translation type="unfinished">Mixed</translation>
+      <translation>混合</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="57"/>
       <source>BG-Mixed</source>
-      <translation type="unfinished">BG-Mixed</translation>
+      <translation>BG 混合</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="58"/>
       <source>Wireless-G Only</source>
-      <translation type="unfinished">Wireless-G Only</translation>
+      <translation>僅 Wireless-G</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="59"/>
       <source>Wireless-B Only</source>
-      <translation type="unfinished">Wireless-B Only</translation>
+      <translation>僅 Wireless-B</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="60"/>
       <source>Wireless-N Only</source>
-      <translation type="unfinished">Wireless-N Only</translation>
+      <translation>僅 Wireless-N</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="61"/>
@@ -56318,108 +56318,108 @@ this network in the future. Scripts in question belong to a script module with I
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="64"/>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="334"/>
       <source>Auto</source>
-      <translation type="unfinished">Auto</translation>
+      <translation>自動</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="65"/>
       <source>Standard - 20MHz Channel</source>
-      <translation type="unfinished">Standard - 20MHz Channel</translation>
+      <translation>標準 - 20MHz 頻道</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="66"/>
       <source>Wide - 40MHz Channel</source>
-      <translation type="unfinished">Wide - 40MHz Channel</translation>
+      <translation>寬 - 40MHz 頻道</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="128"/>
       <source>1 - 2.412GHz</source>
-      <translation type="unfinished">1 - 2.412GHz</translation>
+      <translation>1 - 2.412GHz</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="129"/>
       <source>2 - 2.417GHz</source>
-      <translation type="unfinished">2 - 2.417GHz</translation>
+      <translation>2 - 2.417GHz</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="130"/>
       <source>3 - 2.422GHz</source>
-      <translation type="unfinished">3 - 2.422GHz</translation>
+      <translation>3 - 2.422GHz</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="131"/>
       <source>4 - 2.427GHz</source>
-      <translation type="unfinished">4 - 2.427GHz</translation>
+      <translation>4 - 2.427GHz</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="132"/>
       <source>5 - 2.432GHz</source>
-      <translation type="unfinished">5 - 2.432GHz</translation>
+      <translation>5 - 2.432GHz</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="133"/>
       <source>6 - 2.437GHz</source>
-      <translation type="unfinished">6 - 2.437GHz</translation>
+      <translation>6 - 2.437GHz</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="134"/>
       <source>7 - 2.442GHz</source>
-      <translation type="unfinished">7 - 2.442GHz</translation>
+      <translation>7 - 2.442GHz</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="135"/>
       <source>8 - 2.447GHz</source>
-      <translation type="unfinished">8 - 2.447GHz</translation>
+      <translation>8 - 2.447GHz</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="136"/>
       <source>9 - 2.452GHz</source>
-      <translation type="unfinished">9 - 2.452GHz</translation>
+      <translation>9 - 2.452GHz</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="137"/>
       <source>10 - 2.457GHz</source>
-      <translation type="unfinished">10 - 2.457GHz</translation>
+      <translation>10 - 2.457GHz</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="138"/>
       <source>11 - 2.462GHz</source>
-      <translation type="unfinished">11 - 2.462GHz</translation>
+      <translation>11 - 2.462GHz</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="341"/>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="348"/>
       <source>3</source>
-      <translation type="unfinished">3</translation>
+      <translation>3</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="349"/>
       <source>4</source>
-      <translation type="unfinished">4</translation>
+      <translation>4</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="350"/>
       <source>5</source>
-      <translation type="unfinished">5</translation>
+      <translation>5</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="351"/>
       <source>6</source>
-      <translation type="unfinished">6</translation>
+      <translation>6</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="352"/>
       <source>7</source>
-      <translation type="unfinished">7</translation>
+      <translation>7</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="353"/>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="354"/>
       <source>9</source>
-      <translation type="unfinished">9</translation>
+      <translation>9</translation>
     </message>
   </context>
   <context>
@@ -58035,12 +58035,12 @@ Port</translation>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="146"/>
       <source>Ctrl+F4</source>
-      <translation type="unfinished">Ctrl+F4</translation>
+      <translation>Ctrl+F4</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="361"/>
       <source>SNMP command no results</source>
-      <translation type="unfinished">SNMP command no results</translation>
+      <translation>SNMP 命令無結果</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="387"/>
@@ -58062,42 +58062,42 @@ Port</translation>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="550"/>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="554"/>
       <source>SNMP command Error</source>
-      <translation type="unfinished">SNMP command Error</translation>
+      <translation>SNMP 命令錯誤</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="685"/>
       <source>router_std MIBs</source>
-      <translation type="unfinished">router_std MIBs</translation>
+      <translation>router_std MIBs</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="697"/>
       <source>router_advip MIBs</source>
-      <translation type="unfinished">router_advip MIBs</translation>
+      <translation>router_advip MIBs</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="708"/>
       <source>switch_L2 MIBs</source>
-      <translation type="unfinished">switch_L2 MIBs</translation>
+      <translation>switch_L2 MIBs</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="719"/>
       <source>switch_multiLayer MIBs</source>
-      <translation type="unfinished">switch_multiLayer MIBs</translation>
+      <translation>switch_multiLayer MIBs</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="108"/>
       <source>Name :</source>
-      <translation type="unfinished">Name :</translation>
+      <translation>名稱：</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="80"/>
       <source>Name/OID</source>
-      <translation type="unfinished">Name/OID</translation>
+      <translation>名稱/OID</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="80"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>值</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="80"/>
@@ -58107,85 +58107,85 @@ Port</translation>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="111"/>
       <source>OID :</source>
-      <translation type="unfinished">OID :</translation>
+      <translation>OID：</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="114"/>
       <source>Syntax :</source>
-      <translation type="unfinished">Syntax :</translation>
+      <translation>語法：</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="117"/>
       <source>Access :</source>
-      <translation type="unfinished">Access :</translation>
+      <translation>存取：</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="120"/>
       <source>Description :</source>
-      <translation type="unfinished">Description :</translation>
+      <translation>描述：</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="361"/>
       <source>SNMP Command no results found on IP:</source>
-      <translation type="unfinished">SNMP Command no results found on IP:</translation>
+      <translation>在下列 IP 上找不到 SNMP 命令結果：</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="387"/>
       <source>SNMP Command Error </source>
-      <translation type="unfinished">SNMP Command Error </translation>
+      <translation>SNMP 命令錯誤 </translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="423"/>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="476"/>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="531"/>
       <source>Cannot perform SNMP query for invalid OID.</source>
-      <translation type="unfinished">Cannot perform SNMP query for invalid OID.</translation>
+      <translation>無法對無效的 OID 執行 SNMP 查詢。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="429"/>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="482"/>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="537"/>
       <source>Invalid IP address.</source>
-      <translation type="unfinished">Invalid IP address.</translation>
+      <translation>IP 位址無效。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="434"/>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="487"/>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="542"/>
       <source>OID input cannot be empty.</source>
-      <translation type="unfinished">OID input cannot be empty.</translation>
+      <translation>OID 輸入不可為空白。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="438"/>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="491"/>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="546"/>
       <source>IP Address cannot be empty.</source>
-      <translation type="unfinished">IP Address cannot be empty.</translation>
+      <translation>IP 位址不可為空白。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="442"/>
       <source>Read Community cannot be empty</source>
-      <translation type="unfinished">Read Community cannot be empty</translation>
+      <translation>讀取社群不可為空白</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="495"/>
       <source>Read Community cannot be empty.</source>
-      <translation type="unfinished">Read Community cannot be empty.</translation>
+      <translation>讀取社群不可為空白。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="506"/>
       <source>Version 1 does not support getbulk.</source>
-      <translation type="unfinished">Version 1 does not support getbulk.</translation>
+      <translation>版本 1 不支援 getbulk。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="550"/>
       <source>Write Community cannot be empty.</source>
-      <translation type="unfinished">Write Community cannot be empty.</translation>
+      <translation>寫入社群不可為空白。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="554"/>
       <source>Value for set dialog cannot be empty.</source>
-      <translation type="unfinished">Value for set dialog cannot be empty.</translation>
+      <translation>設定對話方塊的值不可為空白。</translation>
     </message>
   </context>
   <context>
