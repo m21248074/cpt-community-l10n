@@ -35995,7 +35995,7 @@ What is the device decision in this layer?</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;/&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -61872,8 +61872,8 @@ The typical sequence in creating a script module is as follows:</source>
       <location filename="../gui/DesignerFiles/Login/loginSkillsforall.ui" line="139"/>
       <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:x-large&quot;&gt;
 &lt;strong&gt;Login is in progress:&lt;/strong&gt; a new window has been opened in your browser. &lt;/span&gt;&lt;span class=&quot;login-sel-color1&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:x-large&quot;&gt;&lt;em&gt;Please sign in using your Skills For All Credentials.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:x-large&quot;&gt;
-&lt;strong&gt;Login is in progress:&lt;/strong&gt; a new window has been opened in your browser. &lt;/span&gt;&lt;span class=&quot;login-sel-color1&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:x-large&quot;&gt;&lt;em&gt;Please sign in using your Skills For All Credentials.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:x-large&quot;&gt;
+&lt;strong&gt;登入進行中：&lt;/strong&gt;已在您的瀏覽器中開啟新視窗。&lt;/span&gt;&lt;span class=&quot;login-sel-color1&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:x-large&quot;&gt;&lt;em&gt;請使用您的 Skills For All 認證登入。&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Login/loginSkillsforall.ui" line="166"/>
