@@ -17207,12 +17207,12 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="32"/>
       <source>Base Device Widget</source>
-      <translation type="unfinished">Base Device Widget</translation>
+      <translation>基本裝置小工具</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="57"/>
       <source>Specifications</source>
-      <translation type="unfinished">Specifications</translation>
+      <translation>規格</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="78"/>
@@ -17224,28 +17224,28 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="97"/>
       <source>I/O Config</source>
-      <translation type="unfinished">I/O Config</translation>
+      <translation>I/O 組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="110"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="113"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="116"/>
       <source>USB Ports</source>
-      <translation type="unfinished">USB Ports</translation>
+      <translation>USB 連接埠</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="260"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="263"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="266"/>
       <source>Digital Slots</source>
-      <translation type="unfinished">Digital Slots</translation>
+      <translation>數位插槽</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="201"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="204"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="207"/>
       <source>Network Adapter</source>
-      <translation type="unfinished">Network Adapter</translation>
+      <translation>網路介面卡</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="173"/>
@@ -17258,38 +17258,38 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="159"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="162"/>
       <source>Analog Slots</source>
-      <translation type="unfinished">Analog Slots</translation>
+      <translation>類比插槽</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="103"/>
       <source>Built-in</source>
-      <translation type="unfinished">Built-in</translation>
+      <translation>內建</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="128"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="131"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="134"/>
       <source>Smart Device</source>
-      <translation type="unfinished">Smart Device</translation>
+      <translation>智慧裝置</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="141"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="144"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="147"/>
       <source>Component</source>
-      <translation type="unfinished">Component</translation>
+      <translation>元件</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="188"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="191"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="194"/>
       <source>Usage</source>
-      <translation type="unfinished">Usage</translation>
+      <translation>用途</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="217"/>
       <source>Network Adapter 2</source>
-      <translation type="unfinished">Network Adapter 2</translation>
+      <translation>網路介面卡 2</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="233"/>
@@ -17297,12 +17297,12 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4998"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5004"/>
       <source>Bluetooth</source>
-      <translation type="unfinished">Bluetooth</translation>
+      <translation>藍牙</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="290"/>
       <source>Show</source>
-      <translation type="unfinished">Show</translation>
+      <translation>顯示</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="298"/>
@@ -17315,7 +17315,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="361"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="542"/>
       <source>Physical Device View</source>
-      <translation type="unfinished">Physical Device View</translation>
+      <translation>實體裝置檢視</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="441"/>
@@ -17329,7 +17329,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="481"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="484"/>
       <source>Original Size</source>
-      <translation type="unfinished">Original Size</translation>
+      <translation>原始大小</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="515"/>
@@ -17341,106 +17341,106 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="567"/>
       <source>Customize Device Image in Physical View</source>
-      <translation type="unfinished">Customize Device Image in Physical View</translation>
+      <translation>在實體檢視中自訂裝置影像</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="570"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="573"/>
       <source>CustomizeIcon in Physical View</source>
-      <translation type="unfinished">CustomizeIcon in Physical View</translation>
+      <translation>在實體檢視中自訂圖示</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="576"/>
       <source>Customize
 Icon in 
 Physical View</source>
-      <translation type="unfinished">Customize
-Icon in 
-Physical View</translation>
+      <translation>自訂
+實體檢視中
+的圖示</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="603"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="606"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="609"/>
       <source>textLabel1</source>
-      <translation type="unfinished">textLabel1</translation>
+      <translation>textLabel1</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="619"/>
       <source>Customize Device Image in Logical View</source>
-      <translation type="unfinished">Customize Device Image in Logical View</translation>
+      <translation>在邏輯檢視中自訂裝置影像</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="622"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="625"/>
       <source>CustomizeIcon inLogical View</source>
-      <translation type="unfinished">CustomizeIcon inLogical View</translation>
+      <translation>在邏輯檢視中自訂圖示</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="628"/>
       <source>Customize
 Icon in
 Logical View</source>
-      <translation type="unfinished">Customize
-Icon in
-Logical View</translation>
+      <translation>自訂
+邏輯檢視中
+的圖示</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="658"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="661"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="667"/>
       <source>textLabel2</source>
-      <translation type="unfinished">textLabel2</translation>
+      <translation>textLabel2</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="711"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="714"/>
       <source>Adding Modules: Drag the module to an available slot on the device.Removing Modules: Drag the module from the device to the module list.</source>
-      <translation type="unfinished">Adding Modules: Drag the module to an available slot on the device.Removing Modules: Drag the module from the device to the module list.</translation>
+      <translation>新增模組：將模組拖曳到裝置上可用的插槽。移除模組：將模組從裝置拖曳到模組清單。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="726"/>
       <source>Adding Modules: Drag the module to an available slot on the device.
 
 Removing Modules: Drag the module from the device to the module list.</source>
-      <translation type="unfinished">Adding Modules: Drag the module to an available slot on the device.
+      <translation>新增模組：將模組拖曳到裝置上可用的插槽。
 
-Removing Modules: Drag the module from the device to the module list.</translation>
+移除模組：將模組從裝置拖曳到模組清單。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="790"/>
       <source>Config</source>
-      <translation type="unfinished">Config</translation>
+      <translation>組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="887"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="890"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="893"/>
       <source>Equivalent IOS Commands</source>
-      <translation type="unfinished">Equivalent IOS Commands</translation>
+      <translation>對等的 IOS 命令</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="962"/>
       <source>Services</source>
-      <translation type="unfinished">Services</translation>
+      <translation>服務</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1009"/>
       <source>CLI</source>
-      <translation type="unfinished">CLI</translation>
+      <translation>CLI</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1018"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1021"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1024"/>
       <source>IOS Command Line Interface</source>
-      <translation type="unfinished">IOS Command Line Interface</translation>
+      <translation>IOS 命令列介面</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1040"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1043"/>
       <source>Router enableRouter# configure terminalRouter(config)#</source>
-      <translation type="unfinished">Router enableRouter# configure terminalRouter(config)#</translation>
+      <translation>Router enableRouter# configure terminalRouter(config)#</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1067"/>
@@ -17450,7 +17450,7 @@ Router# configure terminal&lt;br&gt;
 
 Router(config)#&lt;/font&gt;
 </source>
-      <translation type="unfinished">&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font face=&quot;Courier&quot;&gt;Router&gt; enable&lt;br&gt;
+      <translation>&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font face=&quot;Courier&quot;&gt;Router&gt; enable&lt;br&gt;
 
 Router# configure terminal&lt;br&gt;
 
@@ -17460,12 +17460,12 @@ Router(config)#&lt;/font&gt;
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1084"/>
       <source>Ctrl+F6 to exit CLI focus</source>
-      <translation type="unfinished">Ctrl+F6 to exit CLI focus</translation>
+      <translation>Ctrl+F6 結束 CLI 焦點</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1110"/>
       <source>Copy to Clipboard</source>
-      <translation type="unfinished">Copy to Clipboard</translation>
+      <translation>複製到剪貼簿</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1113"/>
@@ -17477,12 +17477,12 @@ Router(config)#&lt;/font&gt;
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1122"/>
       <source>Ctrl+Ins</source>
-      <translation type="unfinished">Ctrl+Ins</translation>
+      <translation>Ctrl+Ins</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1132"/>
       <source>Paste to CLI</source>
-      <translation type="unfinished">Paste to CLI</translation>
+      <translation>貼到 CLI</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1135"/>
@@ -17495,122 +17495,122 @@ Router(config)#&lt;/font&gt;
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="283"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1170"/>
       <source>Desktop</source>
-      <translation type="unfinished">Desktop</translation>
+      <translation>桌面</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1144"/>
       <source>Shift+Ins</source>
-      <translation type="unfinished">Shift+Ins</translation>
+      <translation>Shift+Ins</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1378"/>
       <source>Open the PC command line interface.</source>
-      <translation type="unfinished">Open the PC command line interface.</translation>
+      <translation>開啟 PC 命令列介面。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1397"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1400"/>
       <source>CommandPrompt</source>
-      <translation type="unfinished">CommandPrompt</translation>
+      <translation>命令提示字元</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1406"/>
       <source>Command
 Prompt</source>
-      <translation type="unfinished">Command
-Prompt</translation>
+      <translation>命令
+提示字元</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1564"/>
       <source>Open the Web Browser application.</source>
-      <translation type="unfinished">Open the Web Browser application.</translation>
+      <translation>開啟網頁瀏覽器應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1911"/>
       <source>Open the IP Configuration application.</source>
-      <translation type="unfinished">Open the IP Configuration application.</translation>
+      <translation>開啟 IP 組態應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1933"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1936"/>
       <source>IPConfiguration</source>
-      <translation type="unfinished">IPConfiguration</translation>
+      <translation>IP 組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2173"/>
       <source>Open the dial-up networking application.</source>
-      <translation type="unfinished">Open the dial-up networking application.</translation>
+      <translation>開啟撥號網路應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2342"/>
       <source>Open the terminal emulator application.</source>
-      <translation type="unfinished">Open the terminal emulator application.</translation>
+      <translation>開啟終端機模擬器應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2504"/>
       <source>Open the IP Communicator application.</source>
-      <translation type="unfinished">Open the IP Communicator application.</translation>
+      <translation>開啟 IP Communicator 應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2689"/>
       <source>Open the PC Wireless configuration window.</source>
-      <translation type="unfinished">Open the PC Wireless configuration window.</translation>
+      <translation>開啟 PC 無線組態視窗。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2874"/>
       <source>Open the Traffic Generator application.</source>
-      <translation type="unfinished">Open the Traffic Generator application.</translation>
+      <translation>開啟流量產生器應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3032"/>
       <source>Open the SNMP MIB Browser application.</source>
-      <translation type="unfinished">Open the SNMP MIB Browser application.</translation>
+      <translation>開啟 SNMP MIB 瀏覽器應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3214"/>
       <source>Open the VPN client application.</source>
-      <translation type="unfinished">Open the VPN client application.</translation>
+      <translation>開啟 VPN 用戶端應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3233"/>
       <source>Open the VPN configuration application.</source>
-      <translation type="unfinished">Open the VPN configuration application.</translation>
+      <translation>開啟 VPN 組態應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3236"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3239"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3242"/>
       <source>VPN</source>
-      <translation type="unfinished">VPN</translation>
+      <translation>VPN</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3398"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3401"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3407"/>
       <source>PPPoE Dialer</source>
-      <translation type="unfinished">PPPoE Dialer</translation>
+      <translation>PPPoE 撥號器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3537"/>
       <source>Open the Text Editor application.</source>
-      <translation type="unfinished">Open the Text Editor application.</translation>
+      <translation>開啟文字編輯器應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3559"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3562"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3568"/>
       <source>Text Editor</source>
-      <translation type="unfinished">Text Editor</translation>
+      <translation>文字編輯器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3698"/>
       <source>Open the Firewall application.</source>
-      <translation type="unfinished">Open the Firewall application.</translation>
+      <translation>開啟防火牆應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3859"/>
       <source>Open the Email application.</source>
-      <translation type="unfinished">Open the Email application.</translation>
+      <translation>開啟電子郵件應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3881"/>
@@ -17621,246 +17621,246 @@ Prompt</translation>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3887"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;Email&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;Email&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;電子郵件&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4017"/>
       <source>Open the IPv6 Firewall application.</source>
-      <translation type="unfinished">Open the IPv6 Firewall application.</translation>
+      <translation>開啟 IPv6 防火牆應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4182"/>
       <source>Open the AAA Accounting viewer.</source>
-      <translation type="unfinished">Open the AAA Accounting viewer.</translation>
+      <translation>開啟 AAA 記帳檢視器。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4340"/>
       <source>Open the Netflow Collector application.</source>
-      <translation type="unfinished">Open the Netflow Collector application.</translation>
+      <translation>開啟 Netflow 收集器應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4498"/>
       <source>Open the IoX IDE application.</source>
-      <translation type="unfinished">Open the IoX IDE application.</translation>
+      <translation>開啟 IoX IDE 應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4656"/>
       <source>Open the TFTP Server application.</source>
-      <translation type="unfinished">Open the TFTP Server application.</translation>
+      <translation>開啟 TFTP 伺服器應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4814"/>
       <source>Open the Telnet / SSH Client application.</source>
-      <translation type="unfinished">Open the Telnet / SSH Client application.</translation>
+      <translation>開啟 Telnet / SSH 用戶端應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4833"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4836"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4842"/>
       <source>Telnet / SSH Client</source>
-      <translation type="unfinished">Telnet / SSH Client</translation>
+      <translation>Telnet / SSH 用戶端</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4976"/>
       <source>Open the Bluetooth viewer.</source>
-      <translation type="unfinished">Open the Bluetooth viewer.</translation>
+      <translation>開啟藍牙檢視器。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5283"/>
       <source>Thing Editor</source>
-      <translation type="unfinished">Thing Editor</translation>
+      <translation>Thing 編輯器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5289"/>
       <source>Attributes</source>
-      <translation type="unfinished">Attributes</translation>
+      <translation>屬性</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5295"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5298"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5301"/>
       <source>Attributes:</source>
-      <translation type="unfinished">Attributes:</translation>
+      <translation>屬性：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5315"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5318"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5321"/>
       <source>Properties:</source>
-      <translation type="unfinished">Properties:</translation>
+      <translation>特性：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5332"/>
       <source>Property</source>
-      <translation type="unfinished">Property</translation>
+      <translation>特性</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5337"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>值</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5366"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5369"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5372"/>
       <source>Refresh</source>
-      <translation type="unfinished">Refresh</translation>
+      <translation>重新整理</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5387"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5390"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5393"/>
       <source>Top</source>
-      <translation type="unfinished">Top</translation>
+      <translation>置頂</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5413"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5416"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5419"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>進階</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2154"/>
       <source>Configure Dialup Settings</source>
-      <translation type="unfinished">Configure Dialup Settings</translation>
+      <translation>設定撥號設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1942"/>
       <source>IP
 Configuration</source>
-      <translation type="unfinished">IP
-Configuration</translation>
+      <translation>IP
+組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2176"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2179"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2185"/>
       <source>Dial-up</source>
-      <translation type="unfinished">Dial-up</translation>
+      <translation>撥號</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2361"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2364"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2370"/>
       <source>Terminal</source>
-      <translation type="unfinished">Terminal</translation>
+      <translation>終端機</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1583"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1586"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1592"/>
       <source>Web Browser</source>
-      <translation type="unfinished">Web Browser</translation>
+      <translation>網頁瀏覽器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2708"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2711"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2717"/>
       <source>PC Wireless</source>
-      <translation type="unfinished">PC Wireless</translation>
+      <translation>PC 無線</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2893"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2896"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2902"/>
       <source>Traffic Generator</source>
-      <translation type="unfinished">Traffic Generator</translation>
+      <translation>流量產生器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3051"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3054"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3057"/>
       <source>MIB Browser</source>
-      <translation type="unfinished">MIB Browser</translation>
+      <translation>MIB 瀏覽器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2523"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2526"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="2532"/>
       <source>Cisco IP Communicator</source>
-      <translation type="unfinished">Cisco IP Communicator</translation>
+      <translation>Cisco IP Communicator</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4201"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4204"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4210"/>
       <source>AAA Accounting</source>
-      <translation type="unfinished">AAA Accounting</translation>
+      <translation>AAA 記帳</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3720"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3723"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3729"/>
       <source>Firewall</source>
-      <translation type="unfinished">Firewall</translation>
+      <translation>防火牆</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4039"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4042"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4048"/>
       <source>IPv6 Firewall</source>
-      <translation type="unfinished">IPv6 Firewall</translation>
+      <translation>IPv6 防火牆</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4517"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4520"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4526"/>
       <source>IoX IDE</source>
-      <translation type="unfinished">IoX IDE</translation>
+      <translation>IoX IDE</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4359"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4362"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4368"/>
       <source>Netflow Collector</source>
-      <translation type="unfinished">Netflow Collector</translation>
+      <translation>Netflow 收集器</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3376"/>
       <source>Open the PPPoE dialer application.</source>
-      <translation type="unfinished">Open the PPPoE dialer application.</translation>
+      <translation>開啟 PPPoE 撥號器應用程式。</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4675"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4678"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4684"/>
       <source>TFTP Service</source>
-      <translation type="unfinished">TFTP Service</translation>
+      <translation>TFTP 服務</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5171"/>
       <source>GUI</source>
-      <translation type="unfinished">GUI</translation>
+      <translation>GUI</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5194"/>
       <source>GUI </source>
-      <translation type="unfinished">GUI </translation>
+      <translation>GUI </translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5208"/>
       <source>HTML</source>
-      <translation type="unfinished">HTML</translation>
+      <translation>HTML</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5216"/>
       <source>Lock HTML</source>
-      <translation type="unfinished">Lock HTML</translation>
+      <translation>鎖定 HTML</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5222"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5225"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5228"/>
       <source>Don&apos;t Lock</source>
-      <translation type="unfinished">Don&apos;t Lock</translation>
+      <translation>不鎖定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5235"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5238"/>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5241"/>
       <source>Lock</source>
-      <translation type="unfinished">Lock</translation>
+      <translation>鎖定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5248"/>
@@ -35069,56 +35069,56 @@ Please try to use a different port.</translation>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="271"/>
       <source>Removes a header or a header and trailer from this
 layer&apos;s PDU to create the PDU at the next higher layer.</source>
-      <translation type="unfinished">Removes a header or a header and trailer from this
-layer&apos;s PDU to create the PDU at the next higher layer.</translation>
+      <translation>移除此層 PDU 的標頭或標頭與標尾，
+以建立下一個較高層的 PDU。</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="272"/>
       <source>Adds a header or a header and trailer to this layer&apos;s
 PDU to create the PDU at the next lower layer.</source>
-      <translation type="unfinished">Adds a header or a header and trailer to this layer&apos;s
-PDU to create the PDU at the next lower layer.</translation>
+      <translation>為此層 PDU 加上標頭或標頭與標尾，
+以建立下一個較低層的 PDU。</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="273"/>
       <source>Moves the PDU from the inbound OSI stack to the
 outbound OSI stack.</source>
-      <translation type="unfinished">Moves the PDU from the inbound OSI stack to the
-outbound OSI stack.</translation>
+      <translation>將 PDU 從輸入 OSI 堆疊移至
+輸出 OSI 堆疊。</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="274"/>
       <source>Accepts and finishes processing of the PDU.</source>
-      <translation type="unfinished">Accepts and finishes processing of the PDU.</translation>
+      <translation>接受並完成 PDU 的處理。</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="275"/>
       <source>Holds the PDU for processing or sending at a later time.</source>
-      <translation type="unfinished">Holds the PDU for processing or sending at a later time.</translation>
+      <translation>保留 PDU，以便稍後處理或傳送。</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="276"/>
       <source>Eliminates the PDU.</source>
-      <translation type="unfinished">Eliminates the PDU.</translation>
+      <translation>捨棄 PDU。</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="277"/>
       <source>Sends the signal out the physical media.</source>
-      <translation type="unfinished">Sends the signal out the physical media.</translation>
+      <translation>將訊號送出至實體媒體。</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="286"/>
       <source>PDU Information at Device: %1</source>
-      <translation type="unfinished">PDU Information at Device: %1</translation>
+      <translation>裝置上的 PDU 資訊：%1</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="672"/>
       <source>At Device: %1
 Source: %2
 Destination: %3</source>
-      <translation type="unfinished">At Device: %1
-Source: %2
-Destination: %3</translation>
+      <translation>裝置：%1
+來源：%2
+目的地：%3</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="798"/>
@@ -35126,22 +35126,22 @@ Destination: %3</translation>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="823"/>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1026"/>
       <source>%1 &gt;&gt; %2</source>
-      <translation type="unfinished">%1 &gt;&gt; %2</translation>
+      <translation>%1 &gt;&gt; %2</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="799"/>
       <source>Ethernet II Header</source>
-      <translation type="unfinished">Ethernet II Header</translation>
+      <translation>乙太網路 II 標頭</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="812"/>
       <source>IEEE 802.3 Header</source>
-      <translation type="unfinished">IEEE 802.3 Header</translation>
+      <translation>IEEE 802.3 標頭</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="824"/>
       <source>IEEE 802.3z Header</source>
-      <translation type="unfinished">IEEE 802.3z Header</translation>
+      <translation>IEEE 802.3z 標頭</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="832"/>
@@ -35209,127 +35209,127 @@ Destination: %3</translation>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2186"/>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2192"/>
       <source>%1</source>
-      <translation type="unfinished">%1</translation>
+      <translation>%1</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="854"/>
       <source>DTP</source>
-      <translation type="unfinished">DTP</translation>
+      <translation>DTP</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="863"/>
       <source>PTP</source>
-      <translation type="unfinished">PTP</translation>
+      <translation>PTP</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="896"/>
       <source>LLDP</source>
-      <translation type="unfinished">LLDP</translation>
+      <translation>LLDP</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="909"/>
       <source>Wireless</source>
-      <translation type="unfinished">Wireless</translation>
+      <translation>無線</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="930"/>
       <source>Bluetooth</source>
-      <translation type="unfinished">Bluetooth</translation>
+      <translation>藍牙</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="938"/>
       <source>Authentication Header</source>
-      <translation type="unfinished">Authentication Header</translation>
+      <translation>驗證標頭</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="947"/>
       <source>ESP Header</source>
-      <translation type="unfinished">ESP Header</translation>
+      <translation>ESP 標頭</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="956"/>
       <source>STP BPDU</source>
-      <translation type="unfinished">STP BPDU</translation>
+      <translation>STP BPDU</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="971"/>
       <source>RSTP BPDU</source>
-      <translation type="unfinished">RSTP BPDU</translation>
+      <translation>RSTP BPDU</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="984"/>
       <source>VTP Summary Frame: domain=%1, config revision=%2, followers=%3</source>
-      <translation type="unfinished">VTP Summary Frame: domain=%1, config revision=%2, followers=%3</translation>
+      <translation>VTP 摘要訊框：網域=%1，組態修訂=%2，追隨者=%3</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="995"/>
       <source>VTP Request Frame: domain=%1</source>
-      <translation type="unfinished">VTP Request Frame: domain=%1</translation>
+      <translation>VTP 要求訊框：網域=%1</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1007"/>
       <source>VTP Subset Frame: domain=%1, config revision=%2</source>
-      <translation type="unfinished">VTP Subset Frame: domain=%1, config revision=%2</translation>
+      <translation>VTP 子集訊框：網域=%1，組態修訂=%2</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1038"/>
       <source>CDP Frame</source>
-      <translation type="unfinished">CDP Frame</translation>
+      <translation>CDP 訊框</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1051"/>
       <source>Server: %1, Client: %2</source>
-      <translation type="unfinished">Server: %1, Client: %2</translation>
+      <translation>伺服器：%1，用戶端：%2</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1079"/>
       <source>HDLC Frame</source>
-      <translation type="unfinished">HDLC Frame</translation>
+      <translation>HDLC 訊框</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1089"/>
       <source>PPP Frame</source>
-      <translation type="unfinished">PPP Frame</translation>
+      <translation>PPP 訊框</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1099"/>
       <source>Frame Relay</source>
-      <translation type="unfinished">Frame Relay</translation>
+      <translation>訊框中繼</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1110"/>
       <source>LACP Frame</source>
-      <translation type="unfinished">LACP Frame</translation>
+      <translation>LACP 訊框</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1121"/>
       <source>PAgP Frame</source>
-      <translation type="unfinished">PAgP Frame</translation>
+      <translation>PAgP 訊框</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1144"/>
       <source>OSPF HELLO</source>
-      <translation type="unfinished">OSPF HELLO</translation>
+      <translation>OSPF HELLO</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1155"/>
       <source>OSPF DATABASE</source>
-      <translation type="unfinished">OSPF DATABASE</translation>
+      <translation>OSPF DATABASE</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1170"/>
       <source>OSPF LINKSTATE</source>
-      <translation type="unfinished">OSPF LINKSTATE</translation>
+      <translation>OSPF LINKSTATE</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1185"/>
       <source>OSPF LINK STATE UPDATE</source>
-      <translation type="unfinished">OSPF LINK STATE UPDATE</translation>
+      <translation>OSPF LINK STATE UPDATE</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1222"/>
       <source>OSPF ACKNOWLEDGMENT</source>
-      <translation type="unfinished">OSPF ACKNOWLEDGMENT</translation>
+      <translation>OSPF ACKNOWLEDGMENT</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1237"/>
@@ -35337,99 +35337,99 @@ Destination: %3</translation>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1279"/>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1952"/>
       <source>Src. IP: %1, Dest. IP: %2</source>
-      <translation type="unfinished">Src. IP: %1, Dest. IP: %2</translation>
+      <translation>來源 IP：%1，目的 IP：%2</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1240"/>
       <source>ARP Packet</source>
-      <translation type="unfinished">ARP Packet</translation>
+      <translation>ARP 封包</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1252"/>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1264"/>
       <source>IP Header</source>
-      <translation type="unfinished">IP Header</translation>
+      <translation>IP 標頭</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1272"/>
       <source>GRE Header</source>
-      <translation type="unfinished">GRE Header</translation>
+      <translation>GRE 標頭</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1282"/>
       <source>IPv6 Header</source>
-      <translation type="unfinished">IPv6 Header</translation>
+      <translation>IPv6 標頭</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1289"/>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1311"/>
       <source>Version: %1, Command: %2</source>
-      <translation type="unfinished">Version: %1, Command: %2</translation>
+      <translation>版本：%1，命令：%2</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1292"/>
       <source>RIP</source>
-      <translation type="unfinished">RIP</translation>
+      <translation>RIP</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1314"/>
       <source>RIPv6</source>
-      <translation type="unfinished">RIPv6</translation>
+      <translation>RIPv6</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1342"/>
       <source>TELNET</source>
-      <translation type="unfinished">TELNET</translation>
+      <translation>TELNET</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1349"/>
       <source>NTP</source>
-      <translation type="unfinished">NTP</translation>
+      <translation>NTP</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1356"/>
       <source>SSH</source>
-      <translation type="unfinished">SSH</translation>
+      <translation>SSH</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1378"/>
       <source>DNS</source>
-      <translation type="unfinished">DNS</translation>
+      <translation>DNS</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1426"/>
       <source>ISAKMP</source>
-      <translation type="unfinished">ISAKMP</translation>
+      <translation>ISAKMP</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1569"/>
       <source>SNMP</source>
-      <translation type="unfinished">SNMP</translation>
+      <translation>SNMP</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1576"/>
       <source>TFTP</source>
-      <translation type="unfinished">TFTP</translation>
+      <translation>TFTP</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1588"/>
       <source>HTTPS</source>
-      <translation type="unfinished">HTTPS</translation>
+      <translation>HTTPS</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1593"/>
       <source>HTTP</source>
-      <translation type="unfinished">HTTP</translation>
+      <translation>HTTP</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1604"/>
       <source>TACACS</source>
-      <translation type="unfinished">TACACS</translation>
+      <translation>TACACS</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1612"/>
       <source>SYSLOG</source>
-      <translation type="unfinished">SYSLOG</translation>
+      <translation>SYSLOG</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1726"/>
@@ -35438,13 +35438,13 @@ Destination: %3</translation>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1770"/>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1781"/>
       <source>Version: %1</source>
-      <translation type="unfinished">Version: %1</translation>
+      <translation>版本：%1</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1906"/>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1924"/>
       <source>Src Port: %1, Dst Port: %2</source>
-      <translation type="unfinished">Src Port: %1, Dst Port: %2</translation>
+      <translation>來源連接埠：%1，目的連接埠：%2</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1934"/>
@@ -35454,80 +35454,80 @@ Destination: %3</translation>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1996"/>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2019"/>
       <source>Type: %1</source>
-      <translation type="unfinished">Type: %1</translation>
+      <translation>類型：%1</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1955"/>
       <source>IPv6 Fragment Extension Header</source>
-      <translation type="unfinished">IPv6 Fragment Extension Header</translation>
+      <translation>IPv6 分段延伸標頭</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2117"/>
       <source>Netflow Exporter Packet</source>
-      <translation type="unfinished">Netflow Exporter Packet</translation>
+      <translation>Netflow 匯出器封包</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2169"/>
       <source>Control Message Type: %1</source>
-      <translation type="unfinished">Control Message Type: %1</translation>
+      <translation>控制訊息類型：%1</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2406"/>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2419"/>
       <source>Layer 1: </source>
-      <translation type="unfinished">Layer 1: </translation>
+      <translation>第 1 層：</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2407"/>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2418"/>
       <source>Layer 2: </source>
-      <translation type="unfinished">Layer 2: </translation>
+      <translation>第 2 層：</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2408"/>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2417"/>
       <source>Layer 3: </source>
-      <translation type="unfinished">Layer 3: </translation>
+      <translation>第 3 層：</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2409"/>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2416"/>
       <source>Layer 4: </source>
-      <translation type="unfinished">Layer 4: </translation>
+      <translation>第 4 層：</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2410"/>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2415"/>
       <source>Layer 5: </source>
-      <translation type="unfinished">Layer 5: </translation>
+      <translation>第 5 層：</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2411"/>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2414"/>
       <source>Layer 6: </source>
-      <translation type="unfinished">Layer 6: </translation>
+      <translation>第 6 層：</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2412"/>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2413"/>
       <source>Layer 7: </source>
-      <translation type="unfinished">Layer 7: </translation>
+      <translation>第 7 層：</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2616"/>
       <source>Layer 1: Port %1</source>
-      <translation type="unfinished">Layer 1: Port %1</translation>
+      <translation>第 1 層：連接埠 %1</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2620"/>
       <source>Layer 1: Port(s): </source>
-      <translation type="unfinished">Layer 1: Port(s): </translation>
+      <translation>第 1 層：連接埠：</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2628"/>
       <source>Layer 2: 
 </source>
-      <translation type="unfinished">Layer 2: 
+      <translation>第 2 層：
 </translation>
     </message>
     <message>
@@ -35540,7 +35540,7 @@ Destination: %3</translation>
       <source>
 %1
 %2</source>
-      <translation type="unfinished">
+      <translation>
 %1
 %2</translation>
     </message>
@@ -35548,113 +35548,113 @@ Destination: %3</translation>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2636"/>
       <source>Layer 3: 
 </source>
-      <translation type="unfinished">Layer 3: 
+      <translation>第 3 層：
 </translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2645"/>
       <source>Layer 4: 
 </source>
-      <translation type="unfinished">Layer 4: 
+      <translation>第 4 層：
 </translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2653"/>
       <source>Layer 5: 
 </source>
-      <translation type="unfinished">Layer 5: 
+      <translation>第 5 層：
 </translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2661"/>
       <source>Layer 6: 
 </source>
-      <translation type="unfinished">Layer 6: 
+      <translation>第 6 層：
 </translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2669"/>
       <source>Layer 7: 
 </source>
-      <translation type="unfinished">Layer 7: 
+      <translation>第 7 層：
 </translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2675"/>
       <source>
 %1</source>
-      <translation type="unfinished">
+      <translation>
 %1</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2731"/>
       <source>PDU Info Dialog</source>
-      <translation type="unfinished">PDU Info Dialog</translation>
+      <translation>PDU 資訊對話方塊</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2746"/>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2904"/>
       <source>What is the device decision in this layer?</source>
-      <translation type="unfinished">What is the device decision in this layer?</translation>
+      <translation>此層的裝置決策是什麼？</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2805"/>
       <source>Good Job! What about this layer?
 What is the device decision in this layer?</source>
-      <translation type="unfinished">Good Job! What about this layer?
-What is the device decision in this layer?</translation>
+      <translation>做得好！那這一層呢？
+此層的裝置決策是什麼？</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2814"/>
       <source>Congratulations! You have successfully completed this challenge. You may repeat this challenge by toggling the &quot;Challenge Me&quot; button, or you may try your knowledge at another protocol data unit (PDU).</source>
-      <translation type="unfinished">Congratulations! You have successfully completed this challenge. You may repeat this challenge by toggling the &quot;Challenge Me&quot; button, or you may try your knowledge at another protocol data unit (PDU).</translation>
+      <translation>恭喜！您已成功完成此挑戰。您可以切換「Challenge Me」按鈕重複此挑戰，或嘗試另一個通訊協定資料單元 (PDU) 來測試您的知識。</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2828"/>
       <source>Sorry. That is not the right answer. Please try again.
 What is the device decision in this layer?</source>
-      <translation type="unfinished">Sorry. That is not the right answer. Please try again.
-What is the device decision in this layer?</translation>
+      <translation>抱歉，這不是正確答案。請再試一次。
+此層的裝置決策是什麼？</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="833"/>
       <source>LLC</source>
-      <translation type="unfinished">LLC</translation>
+      <translation>LLC</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="844"/>
       <source>SNAP</source>
-      <translation type="unfinished">SNAP</translation>
+      <translation>SNAP</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="872"/>
       <source>REP LSL</source>
-      <translation type="unfinished">REP LSL</translation>
+      <translation>REP LSL</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="883"/>
       <source>REP HFL</source>
-      <translation type="unfinished">REP HFL</translation>
+      <translation>REP HFL</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1620"/>
       <source>SMTP</source>
-      <translation type="unfinished">SMTP</translation>
+      <translation>SMTP</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1628"/>
       <source>POP3</source>
-      <translation type="unfinished">POP3</translation>
+      <translation>POP3</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1636"/>
       <source>FTP DATA</source>
-      <translation type="unfinished">FTP DATA</translation>
+      <translation>FTP DATA</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1644"/>
       <source>FTP</source>
-      <translation type="unfinished">FTP</translation>
+      <translation>FTP</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1652"/>
@@ -35662,27 +35662,27 @@ What is the device decision in this layer?</translation>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1680"/>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1688"/>
       <source>BGP</source>
-      <translation type="unfinished">BGP</translation>
+      <translation>BGP</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1696"/>
       <source>RTP</source>
-      <translation type="unfinished">RTP</translation>
+      <translation>RTP</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1704"/>
       <source>VOIP DATA</source>
-      <translation type="unfinished">VOIP DATA</translation>
+      <translation>VOIP DATA</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1711"/>
       <source>SCCP MESSAGE</source>
-      <translation type="unfinished">SCCP MESSAGE</translation>
+      <translation>SCCP MESSAGE</translation>
     </message>
     <message>
       <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1719"/>
       <source>PPPOE</source>
-      <translation type="unfinished">PPPOE</translation>
+      <translation>PPPOE</translation>
     </message>
   </context>
   <context>
