@@ -7181,49 +7181,49 @@ Replace the Initial Network?</source>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="444"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="447"/>
       <source>Web Access</source>
-      <translation type="unfinished">Web Access</translation>
+      <translation>網頁存取</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="370"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="382"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="385"/>
       <source>Remote Access</source>
-      <translation type="unfinished">Remote Access</translation>
+      <translation>遠端存取</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="401"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="413"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="416"/>
       <source>Upnp</source>
-      <translation type="unfinished">Upnp</translation>
+      <translation>Upnp</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="339"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="351"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="354"/>
       <source>BackUp and Restore</source>
-      <translation type="unfinished">BackUp and Restore</translation>
+      <translation>備份與還原</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="463"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="475"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="478"/>
       <source>Router Access</source>
-      <translation type="unfinished">Router Access</translation>
+      <translation>路由器存取</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="597"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="600"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="603"/>
       <source>Router Password:</source>
-      <translation type="unfinished">Router Password:</translation>
+      <translation>路由器密碼：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="636"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="639"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="642"/>
       <source>Re-enter to confirm:</source>
-      <translation type="unfinished">Re-enter to confirm:</translation>
+      <translation>再次輸入以確認：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="688"/>
@@ -7233,14 +7233,14 @@ Replace the Initial Network?</source>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="971"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="974"/>
       <source>Web Utility Access:</source>
-      <translation type="unfinished">Web Utility Access:</translation>
+      <translation>網頁公用程式存取：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="773"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="779"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="782"/>
       <source>Web Utility Access via Wireless: </source>
-      <translation type="unfinished">Web Utility Access via Wireless: </translation>
+      <translation>透過無線存取網頁公用程式： </translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="725"/>
@@ -7250,23 +7250,23 @@ Replace the Initial Network?</source>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="999"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1002"/>
       <source>HTTP</source>
-      <translation type="unfinished">HTTP</translation>
+      <translation>HTTP</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="20"/>
       <source>Setup</source>
-      <translation type="unfinished">Setup</translation>
+      <translation>設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="308"/>
       <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Management&lt;/b&gt;&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Management&lt;/b&gt;&lt;/p&gt;</translation>
+      <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;管理&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="320"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="323"/>
       <source>Management</source>
-      <translation type="unfinished">Management</translation>
+      <translation>管理</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="747"/>
@@ -7276,7 +7276,7 @@ Replace the Initial Network?</source>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1018"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1021"/>
       <source>HTTPS</source>
-      <translation type="unfinished">HTTPS</translation>
+      <translation>HTTPS</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="807"/>
@@ -7289,7 +7289,7 @@ Replace the Initial Network?</source>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1078"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1081"/>
       <source>Enabled</source>
-      <translation type="unfinished">Enabled</translation>
+      <translation>已啟用</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="829"/>
@@ -7318,28 +7318,28 @@ Replace the Initial Network?</source>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="865"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="868"/>
       <source>Remote Management:</source>
-      <translation type="unfinished">Remote Management:</translation>
+      <translation>遠端管理：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1038"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1041"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1044"/>
       <source>Remote Upgrade:</source>
-      <translation type="unfinished">Remote Upgrade:</translation>
+      <translation>遠端升級：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1118"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1121"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1124"/>
       <source>Allowed Remote Ip Address:</source>
-      <translation type="unfinished">Allowed Remote Ip Address:</translation>
+      <translation>允許的遠端 IP 位址：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1170"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1173"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1176"/>
       <source>Any Ip Address</source>
-      <translation type="unfinished">Any Ip Address</translation>
+      <translation>任何 IP 位址</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1215"/>
@@ -7358,7 +7358,7 @@ Replace the Initial Network?</source>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1370"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1373"/>
       <source>0</source>
-      <translation type="unfinished">0</translation>
+      <translation>0</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1231"/>
@@ -7371,57 +7371,57 @@ Replace the Initial Network?</source>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1304"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1307"/>
       <source>.</source>
-      <translation type="unfinished">.</translation>
+      <translation>.</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1342"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1345"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1348"/>
       <source>to</source>
-      <translation type="unfinished">to</translation>
+      <translation>至</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1417"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1420"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1423"/>
       <source>Remote Management Port:</source>
-      <translation type="unfinished">Remote Management Port:</translation>
+      <translation>遠端管理連接埠：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1448"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1451"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1454"/>
       <source>80</source>
-      <translation type="unfinished">80</translation>
+      <translation>80</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1500"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1503"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1506"/>
       <source>Upnp:</source>
-      <translation type="unfinished">Upnp:</translation>
+      <translation>Upnp:</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1585"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1591"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1594"/>
       <source>Allow Users to Configure:</source>
-      <translation type="unfinished">Allow Users to Configure:</translation>
+      <translation>允許使用者設定：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1679"/>
       <source>Allow Users to 
 Disable Internet
 Access:</source>
-      <translation type="unfinished">Allow Users to 
-Disable Internet
-Access:</translation>
+      <translation>允許使用者
+停用網際網路
+存取：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1687"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1690"/>
       <source>Allow Users to Disable InternetAccess:</source>
-      <translation type="unfinished">Allow Users to Disable InternetAccess:</translation>
+      <translation>允許使用者停用網際網路存取：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="2342"/>
@@ -7430,17 +7430,17 @@ Access:</translation>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;說明...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="2324"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="2327"/>
       <source>Help...</source>
-      <translation type="unfinished">Help...</translation>
+      <translation>說明...</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1537"/>
@@ -7453,35 +7453,35 @@ p, li { white-space: pre-wrap; }
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1730"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1733"/>
       <source>Enabled </source>
-      <translation type="unfinished">Enabled </translation>
+      <translation>已啟用 </translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1897"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1900"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1903"/>
       <source>BackUp Configurations</source>
-      <translation type="unfinished">BackUp Configurations</translation>
+      <translation>備份組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1956"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1959"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="1962"/>
       <source>Restore Configurations</source>
-      <translation type="unfinished">Restore Configurations</translation>
+      <translation>還原組態</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="2112"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="2118"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="2121"/>
       <source>Save Settings</source>
-      <translation type="unfinished">Save Settings</translation>
+      <translation>儲存設定</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="2137"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="2143"/>
       <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="2146"/>
       <source>Cancel Changes</source>
-      <translation type="unfinished">Cancel Changes</translation>
+      <translation>取消變更</translation>
     </message>
   </context>
   <context>
@@ -20305,12 +20305,12 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="26"/>
       <source>PDU Info Base Dialog</source>
-      <translation type="unfinished">PDU Info Base Dialog</translation>
+      <translation>PDU 資訊基礎對話方塊</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="68"/>
       <source>OSI Model</source>
-      <translation type="unfinished">OSI Model</translation>
+      <translation>OSI 模型</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="92"/>
@@ -20319,215 +20319,215 @@ p, li { white-space: pre-wrap; }
 Source:
 
 Destination:</source>
-      <translation type="unfinished">At Device:
+      <translation>裝置：
 
-Source:
+來源：
 
-Destination:</translation>
+目的地：</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="150"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="153"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="156"/>
       <source>down arrow</source>
-      <translation type="unfinished">down arrow</translation>
+      <translation>向下箭頭</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="198"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="250"/>
       <source>Layer3</source>
-      <translation type="unfinished">Layer3</translation>
+      <translation>第 3 層</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="220"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="223"/>
       <source>Out Layers</source>
-      <translation type="unfinished">Out Layers</translation>
+      <translation>輸出層</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="226"/>
       <source>&lt;b&gt;Out Layers&lt;/b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;Out Layers&lt;/b&gt;</translation>
+      <translation>&lt;b&gt;輸出層&lt;/b&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="283"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="390"/>
       <source>Layer1</source>
-      <translation type="unfinished">Layer1</translation>
+      <translation>第 1 層</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="311"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="314"/>
       <source>-</source>
-      <translation type="unfinished">-</translation>
+      <translation>-</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="317"/>
       <source>-&gt;</source>
-      <translation type="unfinished">-&gt;</translation>
+      <translation>-&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="341"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="439"/>
       <source>Layer2</source>
-      <translation type="unfinished">Layer2</translation>
+      <translation>第 2 層</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="461"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="464"/>
       <source>In Layers</source>
-      <translation type="unfinished">In Layers</translation>
+      <translation>輸入層</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="467"/>
       <source>&lt;b&gt;In Layers&lt;/b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;In Layers&lt;/b&gt;</translation>
+      <translation>&lt;b&gt;輸入層&lt;/b&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="491"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="645"/>
       <source>Layer7</source>
-      <translation type="unfinished">Layer7</translation>
+      <translation>第 7 層</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="524"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="711"/>
       <source>Layer6</source>
-      <translation type="unfinished">Layer6</translation>
+      <translation>第 6 層</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="557"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="678"/>
       <source>Layer5</source>
-      <translation type="unfinished">Layer5</translation>
+      <translation>第 5 層</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="597"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="600"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="603"/>
       <source>up arrow</source>
-      <translation type="unfinished">up arrow</translation>
+      <translation>向上箭頭</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="744"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="777"/>
       <source>Layer4</source>
-      <translation type="unfinished">Layer4</translation>
+      <translation>第 4 層</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="854"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="857"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="860"/>
       <source>What is the device decision in this layer?</source>
-      <translation type="unfinished">What is the device decision in this layer?</translation>
+      <translation>此層的裝置決策是什麼？</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="882"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="885"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="888"/>
       <source>De-encapsulate</source>
-      <translation type="unfinished">De-encapsulate</translation>
+      <translation>解封裝</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="904"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="907"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="910"/>
       <source>Encapsulate</source>
-      <translation type="unfinished">Encapsulate</translation>
+      <translation>封裝</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="926"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="929"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="932"/>
       <source>Transfer</source>
-      <translation type="unfinished">Transfer</translation>
+      <translation>傳遞</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="948"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="951"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="954"/>
       <source>Accept</source>
-      <translation type="unfinished">Accept</translation>
+      <translation>接受</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="970"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="973"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="976"/>
       <source>Queue</source>
-      <translation type="unfinished">Queue</translation>
+      <translation>佇列</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="992"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="995"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="998"/>
       <source>Drop</source>
-      <translation type="unfinished">Drop</translation>
+      <translation>捨棄</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1014"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1017"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1020"/>
       <source>Transmit</source>
-      <translation type="unfinished">Transmit</translation>
+      <translation>傳送</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1051"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1054"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1072"/>
       <source>PDU INFO</source>
-      <translation type="unfinished">PDU INFO</translation>
+      <translation>PDU 資訊</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1117"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1120"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1123"/>
       <source>Challenge Me</source>
-      <translation type="unfinished">Challenge Me</translation>
+      <translation>Challenge Me</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1148"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1151"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1154"/>
       <source>Hint</source>
-      <translation type="unfinished">Hint</translation>
+      <translation>提示</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1192"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1195"/>
       <source> Previous Layer</source>
-      <translation type="unfinished"> Previous Layer</translation>
+      <translation> 上一層</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1198"/>
       <source>&lt;&lt; Previous Layer</source>
-      <translation type="unfinished">&lt;&lt; Previous Layer</translation>
+      <translation>&lt;&lt; 上一層</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1217"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1220"/>
       <source>Next Layer </source>
-      <translation type="unfinished">Next Layer </translation>
+      <translation>下一層 </translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1223"/>
       <source>Next Layer &gt;&gt;</source>
-      <translation type="unfinished">Next Layer &gt;&gt;</translation>
+      <translation>下一層 &gt;&gt;</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1250"/>
       <source>Inbound PDU Details</source>
-      <translation type="unfinished">Inbound PDU Details</translation>
+      <translation>輸入 PDU 詳細資料</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1262"/>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1301"/>
       <source>PDU Formats</source>
-      <translation type="unfinished">PDU Formats</translation>
+      <translation>PDU 格式</translation>
     </message>
     <message>
       <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1289"/>
       <source>Outbound PDU Details</source>
-      <translation type="unfinished">Outbound PDU Details</translation>
+      <translation>輸出 PDU 詳細資料</translation>
     </message>
   </context>
   <context>
@@ -26920,58 +26920,58 @@ Publisher Certificate Information:
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="945"/>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="950"/>
       <source>Invalid IP address entered.</source>
-      <translation type="unfinished">Invalid IP address entered.</translation>
+      <translation>輸入的 IP 位址無效。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="973"/>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="2130"/>
       <source>Invalid subnet address entered.</source>
-      <translation type="unfinished">Invalid subnet address entered.</translation>
+      <translation>輸入的子網路位址無效。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="995"/>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="1005"/>
       <source>Invalid MAC address entered.</source>
-      <translation type="unfinished">Invalid MAC address entered.</translation>
+      <translation>輸入的 MAC 位址無效。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="1954"/>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="2028"/>
       <source>This is an invalid IP address.</source>
-      <translation type="unfinished">This is an invalid IP address.</translation>
+      <translation>這是無效的 IP 位址。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="1975"/>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="2109"/>
       <source>Invalid IP for this subnet mask entered.</source>
-      <translation type="unfinished">Invalid IP for this subnet mask entered.</translation>
+      <translation>輸入的 IP 與此子網路遮罩不符。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="1967"/>
       <source>Invalid subnet mask entered.</source>
-      <translation type="unfinished">Invalid subnet mask entered.</translation>
+      <translation>輸入的子網路遮罩無效。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="1570"/>
       <source>Cannot remove a module when the power is on.</source>
-      <translation type="unfinished">Cannot remove a module when the power is on.</translation>
+      <translation>電源開啟時無法移除模組。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="270"/>
       <source>Add specifications here.</source>
-      <translation type="unfinished">Add specifications here.</translation>
+      <translation>在此新增規格。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="3964"/>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="3995"/>
       <source>Desktop</source>
-      <translation type="unfinished">Desktop</translation>
+      <translation>桌面</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="3960"/>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="3992"/>
       <source>Config</source>
-      <translation type="unfinished">Config</translation>
+      <translation>組態</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="3958"/>
@@ -26983,74 +26983,74 @@ Publisher Certificate Information:
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="674"/>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="3998"/>
       <source>Programming</source>
-      <translation type="unfinished">Programming</translation>
+      <translation>程式設計</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="1131"/>
       <source>Device Physical View</source>
-      <translation type="unfinished">Device Physical View</translation>
+      <translation>裝置實體檢視</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="1363"/>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="1366"/>
       <source>MODULES</source>
-      <translation type="unfinished">MODULES</translation>
+      <translation>模組</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="1786"/>
       <source>Cannot turn on wireless port when Bluetooth tethering is enabled.</source>
-      <translation type="unfinished">Cannot turn on wireless port when Bluetooth tethering is enabled.</translation>
+      <translation>啟用藍牙網路共用時，無法開啟無線連接埠。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="1850"/>
       <source>SWITCHING</source>
-      <translation type="unfinished">SWITCHING</translation>
+      <translation>交換</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="1851"/>
       <source>VLAN Database</source>
-      <translation type="unfinished">VLAN Database</translation>
+      <translation>VLAN 資料庫</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="2245"/>
       <source>IPv6 Address is invalid.</source>
-      <translation type="unfinished">IPv6 Address is invalid.</translation>
+      <translation>IPv6 位址無效。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="2250"/>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="2258"/>
       <source>IPv6 Mask is invalid.</source>
-      <translation type="unfinished">IPv6 Mask is invalid.</translation>
+      <translation>IPv6 遮罩無效。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="2712"/>
       <source>Tx Ring Limit must be a number.</source>
-      <translation type="unfinished">Tx Ring Limit must be a number.</translation>
+      <translation>Tx Ring Limit 必須是數字。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="2718"/>
       <source>Tx Ring Limit out of range [1 - 32767]</source>
-      <translation type="unfinished">Tx Ring Limit out of range [1 - 32767]</translation>
+      <translation>Tx Ring Limit 超出範圍 [1 - 32767]</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="3230"/>
       <source>IoT IDE</source>
-      <translation type="unfinished">IoT IDE</translation>
+      <translation>IoT IDE</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="3236"/>
       <source>User Apps Manager</source>
-      <translation type="unfinished">User Apps Manager</translation>
+      <translation>使用者應用程式管理員</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="3719"/>
       <source>INTERFACE</source>
-      <translation type="unfinished">INTERFACE</translation>
+      <translation>介面</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="3742"/>
       <source>GLOBAL</source>
-      <translation type="unfinished">GLOBAL</translation>
+      <translation>全域</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="3743"/>
@@ -27060,42 +27060,42 @@ Publisher Certificate Information:
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="3885"/>
       <source>Device must be powered on.</source>
-      <translation type="unfinished">Device must be powered on.</translation>
+      <translation>裝置必須已開機。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="3967"/>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="4000"/>
       <source>Attributes</source>
-      <translation type="unfinished">Attributes</translation>
+      <translation>屬性</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="3985"/>
       <source>I/O Config</source>
-      <translation type="unfinished">I/O Config</translation>
+      <translation>I/O 組態</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="3997"/>
       <source>Thing Editor</source>
-      <translation type="unfinished">Thing Editor</translation>
+      <translation>Thing 編輯器</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="4121"/>
       <source>SERVICES</source>
-      <translation type="unfinished">SERVICES</translation>
+      <translation>服務</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="196"/>
       <source>Customize 
  Physical 
  Image</source>
-      <translation type="unfinished">Customize 
- Physical 
- Image</translation>
+      <translation>自訂 
+ 實體 
+ 影像</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="630"/>
       <source>Script module (%1) not found.</source>
-      <translation type="unfinished">Script module (%1) not found.</translation>
+      <translation>找不到指令碼模組 (%1)。</translation>
     </message>
     <message>
       <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="758"/>
@@ -38085,7 +38085,7 @@ Do you want to allow it?</translation>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="78"/>
       <source>Script Engine</source>
-      <translation type="unfinished">Script Engine</translation>
+      <translation>指令碼引擎</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="81"/>
@@ -38095,28 +38095,28 @@ Do you want to allow it?</translation>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="84"/>
       <source>Data Store</source>
-      <translation type="unfinished">Data Store</translation>
+      <translation>資料儲存區</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="161"/>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="514"/>
       <source>None Selected</source>
-      <translation type="unfinished">None Selected</translation>
+      <translation>未選取</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="333"/>
       <source>Without selecting a valid .p12 file would remove signing for this script module. Do you want to continue?</source>
-      <translation type="unfinished">Without selecting a valid .p12 file would remove signing for this script module. Do you want to continue?</translation>
+      <translation>未選取有效的 .p12 檔案將移除此指令碼模組的簽署。是否要繼續？</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="401"/>
       <source>Any changes to your persistent script module not saved to its pts file will be lost. Do you want to close the Scripting Interface?</source>
-      <translation type="unfinished">Any changes to your persistent script module not saved to its pts file will be lost. Do you want to close the Scripting Interface?</translation>
+      <translation>您尚未儲存至 pts 檔的永久指令碼模組變更將會遺失。是否要關閉指令碼介面？</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="403"/>
       <source>Any unsaved changes to your new script module will be lost. Do you want to close the Scripting Interface?</source>
-      <translation type="unfinished">Any unsaved changes to your new script module will be lost. Do you want to close the Scripting Interface?</translation>
+      <translation>您新指令碼模組的任何未儲存變更都將遺失。是否要關閉指令碼介面？</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="455"/>
@@ -38133,7 +38133,7 @@ Do you want to allow it?</translation>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="509"/>
       <source>%1 to %2</source>
-      <translation type="unfinished">%1 to %2</translation>
+      <translation>%1 至 %2</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="515"/>
@@ -38141,101 +38141,101 @@ Do you want to allow it?</translation>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="517"/>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="518"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>不適用</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="573"/>
       <source>PKCS #12 File (*.p12)</source>
-      <translation type="unfinished">PKCS #12 File (*.p12)</translation>
+      <translation>PKCS #12 File (*.p12)</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="572"/>
       <source>Select PKCS #12 File</source>
-      <translation type="unfinished">Select PKCS #12 File</translation>
+      <translation>選取 PKCS #12 檔案</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="305"/>
       <source>Sign Script?</source>
-      <translation type="unfinished">Sign Script?</translation>
+      <translation>簽署指令碼？</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="307"/>
       <source>This script module was signed with a .p12 file before.
 Please select the .p12 file in order to sign it again.
 Do you wish to resign and edit the script, or edit the scripts unsigned?</source>
-      <translation type="unfinished">This script module was signed with a .p12 file before.
-Please select the .p12 file in order to sign it again.
-Do you wish to resign and edit the script, or edit the scripts unsigned?</translation>
+      <translation>此指令碼模組先前曾以 .p12 檔案簽署。
+請選取 .p12 檔案以再次簽署。
+您要重新簽署並編輯指令碼，還是以未簽署的方式編輯指令碼？</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="578"/>
       <source>.p12 File Pass Phrase</source>
-      <translation type="unfinished">.p12 File Pass Phrase</translation>
+      <translation>.p12 檔案通關密語</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="579"/>
       <source>Enter .p12 file pass phrase:</source>
-      <translation type="unfinished">Enter .p12 file pass phrase:</translation>
+      <translation>輸入 .p12 檔案通關密語：</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="591"/>
       <source>Error opening .p12 file.</source>
-      <translation type="unfinished">Error opening .p12 file.</translation>
+      <translation>開啟 .p12 檔案時發生錯誤。</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="600"/>
       <source>The .p12 file is invalid.</source>
-      <translation type="unfinished">The .p12 file is invalid.</translation>
+      <translation>.p12 檔案無效。</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="606"/>
       <source>The .p12 file or pass phrase is invalid.</source>
-      <translation type="unfinished">The .p12 file or pass phrase is invalid.</translation>
+      <translation>.p12 檔案或通關密語無效。</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="617"/>
       <source>The .p12 file does not contain private key.</source>
-      <translation type="unfinished">The .p12 file does not contain private key.</translation>
+      <translation>.p12 檔案不含私密金鑰。</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="623"/>
       <source>The .p12 file does not contain certificate.</source>
-      <translation type="unfinished">The .p12 file does not contain certificate.</translation>
+      <translation>.p12 檔案不含憑證。</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="646"/>
       <source>The effective dates of certificate are invalid or the certificate is blocked.</source>
-      <translation type="unfinished">The effective dates of certificate are invalid or the certificate is blocked.</translation>
+      <translation>憑證的有效日期無效或憑證已遭封鎖。</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="688"/>
       <source>Passwords do not match.</source>
-      <translation type="unfinished">Passwords do not match.</translation>
+      <translation>密碼不相符。</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="728"/>
       <source>Name cannot be empty.</source>
-      <translation type="unfinished">Name cannot be empty.</translation>
+      <translation>名稱不可為空白。</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="737"/>
       <source>ID cannot be empty.</source>
-      <translation type="unfinished">ID cannot be empty.</translation>
+      <translation>ID 不可為空白。</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="743"/>
       <source>ID cannot be the same as any of the persistent script modules already added.</source>
-      <translation type="unfinished">ID cannot be the same as any of the persistent script modules already added.</translation>
+      <translation>ID 不可與已新增的任何永久指令碼模組相同。</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="766"/>
       <source>Selecting a template will remove all changes made to this script module. Are you sure you want to continue?</source>
-      <translation type="unfinished">Selecting a template will remove all changes made to this script module. Are you sure you want to continue?</translation>
+      <translation>選取範本將移除對此指令碼模組所做的所有變更。確定要繼續嗎？</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="810"/>
       <source>New script modules must be exported and added as persistent script modules before starting.</source>
-      <translation type="unfinished">New script modules must be exported and added as persistent script modules before starting.</translation>
+      <translation>新的指令碼模組必須先匯出並新增為永久指令碼模組，才能啟動。</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="826"/>
@@ -38245,73 +38245,73 @@ Do you wish to resign and edit the script, or edit the scripts unsigned?</transl
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="828"/>
       <source>Start</source>
-      <translation type="unfinished">Start</translation>
+      <translation>啟動</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="865"/>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="912"/>
       <source>The script module includes external files. Do you want to resolve and expand them inline in the saved pts file? You should do this for the distributing pts file, but not for your development file.</source>
-      <translation type="unfinished">The script module includes external files. Do you want to resolve and expand them inline in the saved pts file? You should do this for the distributing pts file, but not for your development file.</translation>
+      <translation>此指令碼模組包含外部檔案。是否要在儲存的 pts 檔中解析並內嵌展開它們？用於發佈的 pts 檔應如此處理，但開發用的檔案則不應。</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="876"/>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="923"/>
       <source>Cannot calculate signature.</source>
-      <translation type="unfinished">Cannot calculate signature.</translation>
+      <translation>無法計算簽章。</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="881"/>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="948"/>
       <source>Script module saved.</source>
-      <translation type="unfinished">Script module saved.</translation>
+      <translation>指令碼模組已儲存。</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="883"/>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="928"/>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="975"/>
       <source>Cannot write to file.</source>
-      <translation type="unfinished">Cannot write to file.</translation>
+      <translation>無法寫入檔案。</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="903"/>
       <source>Export Script Module</source>
-      <translation type="unfinished">Export Script Module</translation>
+      <translation>匯出指令碼模組</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="904"/>
       <source> Script Module File (*.pts)</source>
-      <translation type="unfinished"> Script Module File (*.pts)</translation>
+      <translation> 指令碼模組檔案 (*.pts)</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="934"/>
       <source>Script module exported successfully.
 
 New script modules must be added as persistent script modules before starting. Do you want to add it now? Or you can do that manually in Extensions-&gt;Scripting-&gt;Configure Script Modules ...</source>
-      <translation type="unfinished">Script module exported successfully.
+      <translation>指令碼模組匯出成功。
 
-New script modules must be added as persistent script modules before starting. Do you want to add it now? Or you can do that manually in Extensions-&gt;Scripting-&gt;Configure Script Modules ...</translation>
+新的指令碼模組必須先新增為永久指令碼模組才能啟動。是否現在新增？您也可以稍後在「擴充功能-&gt;指令碼-&gt;設定指令碼模組...」中手動新增。</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="945"/>
       <source>Script module added as a persistent script module.
 See Extensions-&gt;Scripting-&gt;Configure Script Modules ...</source>
-      <translation type="unfinished">Script module added as a persistent script module.
-See Extensions-&gt;Scripting-&gt;Configure Script Modules ...</translation>
+      <translation>指令碼模組已新增為永久指令碼模組。
+請參閱「擴充功能-&gt;指令碼-&gt;設定指令碼模組...」</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="967"/>
       <source>Export Script Module Translation</source>
-      <translation type="unfinished">Export Script Module Translation</translation>
+      <translation>匯出指令碼模組翻譯</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="968"/>
       <source>Qt Translation file (*.ts)</source>
-      <translation type="unfinished">Qt Translation file (*.ts)</translation>
+      <translation>Qt 翻譯檔 (*.ts)</translation>
     </message>
     <message>
       <location filename="../gui/scripting/CScriptingInterface.cpp" line="973"/>
       <source>Script module translation file exported.</source>
-      <translation type="unfinished">Script module translation file exported.</translation>
+      <translation>指令碼模組翻譯檔已匯出。</translation>
     </message>
   </context>
   <context>
@@ -56645,17 +56645,17 @@ End the expression with: &quot;)</translation>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="164"/>
       <source>Model</source>
-      <translation type="unfinished">Model</translation>
+      <translation>型號</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="165"/>
       <source>Power</source>
-      <translation type="unfinished">Power</translation>
+      <translation>電源</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="166"/>
       <source>X</source>
-      <translation type="unfinished">X</translation>
+      <translation>X</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="167"/>
@@ -56670,28 +56670,28 @@ End the expression with: &quot;)</translation>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="173"/>
       <source>Origination Port</source>
-      <translation type="unfinished">Origination Port</translation>
+      <translation>起始連接埠</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="174"/>
       <source>Origination Port Status</source>
-      <translation type="unfinished">Origination Port Status</translation>
+      <translation>起始連接埠狀態</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="175"/>
       <source>Destination Port</source>
-      <translation type="unfinished">Destination Port</translation>
+      <translation>目的連接埠</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="176"/>
       <source>Destination Port Status</source>
-      <translation type="unfinished">Destination Port Status</translation>
+      <translation>目的連接埠狀態</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="222"/>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="682"/>
       <source>Device table </source>
-      <translation type="unfinished">Device table </translation>
+      <translation>裝置表 </translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="222"/>
@@ -56699,18 +56699,18 @@ End the expression with: &quot;)</translation>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="682"/>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="1288"/>
       <source> of </source>
-      <translation type="unfinished"> of </translation>
+      <translation> / </translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="266"/>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="1288"/>
       <source>Link table </source>
-      <translation type="unfinished">Link table </translation>
+      <translation>連結表 </translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="289"/>
       <source>On</source>
-      <translation type="unfinished">On</translation>
+      <translation>開啟</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="289"/>
@@ -56720,12 +56720,12 @@ End the expression with: &quot;)</translation>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="315"/>
       <source>Cluster</source>
-      <translation type="unfinished">Cluster</translation>
+      <translation>叢集</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="322"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>不適用</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="337"/>
@@ -56739,7 +56739,7 @@ End the expression with: &quot;)</translation>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="464"/>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="475"/>
       <source>Amber</source>
-      <translation type="unfinished">Amber</translation>
+      <translation>琥珀色</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="341"/>
@@ -56751,25 +56751,25 @@ End the expression with: &quot;)</translation>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="392"/>
       <source>Wireless</source>
-      <translation type="unfinished">Wireless</translation>
+      <translation>無線</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="398"/>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="400"/>
       <source>Connected</source>
-      <translation type="unfinished">Connected</translation>
+      <translation>已連線</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="502"/>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="503"/>
       <source>Operational</source>
-      <translation type="unfinished">Operational</translation>
+      <translation>運作中</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="502"/>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="503"/>
       <source>Non Operational</source>
-      <translation type="unfinished">Non Operational</translation>
+      <translation>未運作</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="549"/>
@@ -56792,7 +56792,7 @@ End the expression with: &quot;)</translation>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="741"/>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="767"/>
       <source>Slot </source>
-      <translation type="unfinished">Slot </translation>
+      <translation>插槽 </translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="791"/>
@@ -56803,42 +56803,42 @@ End the expression with: &quot;)</translation>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="878"/>
       <source>Cannot remove module when the power is on.</source>
-      <translation type="unfinished">Cannot remove module when the power is on.</translation>
+      <translation>電源開啟時無法移除模組。</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="916"/>
       <source>More than 1 wireless module installed on End Devices is not supported -- %1</source>
-      <translation type="unfinished">More than 1 wireless module installed on End Devices is not supported -- %1</translation>
+      <translation>不支援在終端裝置上安裝多於 1 個無線模組 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="916"/>
       <source> does not support adding more than 1 wireless module on End Devices.</source>
-      <translation type="unfinished"> does not support adding more than 1 wireless module on End Devices.</translation>
+      <translation> 不支援在終端裝置上新增多於 1 個無線模組。</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="921"/>
       <source>More than 1 cellular module installed on End Devices is not supported -- %1</source>
-      <translation type="unfinished">More than 1 cellular module installed on End Devices is not supported -- %1</translation>
+      <translation>不支援在終端裝置上安裝多於 1 個行動網路模組 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="921"/>
       <source> does not support adding more than 1 cellular module on End Devices.</source>
-      <translation type="unfinished"> does not support adding more than 1 cellular module on End Devices.</translation>
+      <translation> 不支援在終端裝置上新增多於 1 個行動網路模組。</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="925"/>
       <source>This module is not compatible.</source>
-      <translation type="unfinished">This module is not compatible.</translation>
+      <translation>此模組不相容。</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="925"/>
       <source>Module Not Compatible -- %1</source>
-      <translation type="unfinished">Module Not Compatible -- %1</translation>
+      <translation>模組不相容 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="928"/>
       <source>Cannot add module when the power is on.</source>
-      <translation type="unfinished">Cannot add module when the power is on.</translation>
+      <translation>電源開啟時無法新增模組。</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="970"/>
@@ -56848,7 +56848,7 @@ End the expression with: &quot;)</translation>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="976"/>
       <source>Media Type</source>
-      <translation type="unfinished">Media Type</translation>
+      <translation>媒體類型</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="993"/>
@@ -56858,32 +56858,32 @@ End the expression with: &quot;)</translation>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="1006"/>
       <source>Origination Device</source>
-      <translation type="unfinished">Origination Device</translation>
+      <translation>起始裝置</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="1007"/>
       <source>Destination Device</source>
-      <translation type="unfinished">Destination Device</translation>
+      <translation>目的裝置</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="1114"/>
       <source>Origination Device Ports</source>
-      <translation type="unfinished">Origination Device Ports</translation>
+      <translation>起始裝置連接埠</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="1162"/>
       <source>Destination Device Ports</source>
-      <translation type="unfinished">Destination Device Ports</translation>
+      <translation>目的裝置連接埠</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="1221"/>
       <source>Connection Error</source>
-      <translation type="unfinished">Connection Error</translation>
+      <translation>連線錯誤</translation>
     </message>
     <message>
       <location filename="../gui/MainWindow/WorkspaceList.cpp" line="1221"/>
       <source>Desired connection was unsuccessful.</source>
-      <translation type="unfinished">Desired connection was unsuccessful.</translation>
+      <translation>所需的連線未成功。</translation>
     </message>
   </context>
   <context>
@@ -62776,7 +62776,7 @@ The typical sequence in creating a script module is as follows:</source>
     <message>
       <location filename="../gui/main.cpp" line="894"/>
       <source>You can change this setting in Options-&gt;Preferences at a later time.</source>
-      <translation type="unfinished">You can change this setting in Options-&gt;Preferences at a later time.</translation>
+      <translation>您之後可在「選項-&gt;偏好設定」中變更此設定。</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1918"/>
@@ -62787,25 +62787,25 @@ The typical sequence in creating a script module is as follows:</source>
       <location filename="../gui/main.cpp" line="1586"/>
       <location filename="../gui/main.cpp" line="1731"/>
       <source>    Name: </source>
-      <translation type="unfinished">    Name: </translation>
+      <translation>    名稱：</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="893"/>
       <source>Cannot write to folder. Setting user folder to </source>
-      <translation type="unfinished">Cannot write to folder. Setting user folder to </translation>
+      <translation>無法寫入資料夾。將使用者資料夾設定為 </translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="893"/>
       <source>&apos;s installed folder.
 </source>
-      <translation type="unfinished">&apos;s installed folder.
+      <translation> 的安裝資料夾。
 </translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1217"/>
       <location filename="../gui/main.cpp" line="1232"/>
       <source> Expired</source>
-      <translation type="unfinished"> Expired</translation>
+      <translation> 已過期</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1218"/>
@@ -62813,7 +62813,7 @@ The typical sequence in creating a script module is as follows:</source>
       <location filename="../gui/main.cpp" line="1245"/>
       <location filename="../gui/main.cpp" line="1250"/>
       <source>The </source>
-      <translation type="unfinished">The </translation>
+      <translation>應用程式 </translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1218"/>
@@ -62821,43 +62821,43 @@ The typical sequence in creating a script module is as follows:</source>
       <source> test period is over.
 This application is no longer functional.
 Please contact your test coordinator.</source>
-      <translation type="unfinished"> test period is over.
-This application is no longer functional.
-Please contact your test coordinator.</translation>
+      <translation> 的測試期間已結束。
+此應用程式已無法使用。
+請聯絡您的測試協調人員。</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1244"/>
       <location filename="../gui/main.cpp" line="1249"/>
       <source> Expires Soon</source>
-      <translation type="unfinished"> Expires Soon</translation>
+      <translation> 即將過期</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1245"/>
       <source> test period is over.
 This application will expire in two weeks.
 Please contact your test coordinator.</source>
-      <translation type="unfinished"> test period is over.
-This application will expire in two weeks.
-Please contact your test coordinator.</translation>
+      <translation> 的測試期間已結束。
+此應用程式將於兩週後過期。
+請聯絡您的測試協調人員。</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1250"/>
       <source> test period is over.
 This application will expire in %1 day(s).
 Please contact your test coordinator.</source>
-      <translation type="unfinished"> test period is over.
-This application will expire in %1 day(s).
-Please contact your test coordinator.</translation>
+      <translation> 的測試期間已結束。
+此應用程式將於 %1 天後過期。
+請聯絡您的測試協調人員。</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1308"/>
       <source>Recovery -- %1</source>
-      <translation type="unfinished">Recovery -- %1</translation>
+      <translation>復原 -- %1</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1309"/>
       <source>%1 has detected your previous session did not exit properly. Would you like to open the previous autosaved file?</source>
-      <translation type="unfinished">%1 has detected your previous session did not exit properly. Would you like to open the previous autosaved file?</translation>
+      <translation>%1 偵測到您上一個工作階段未正常結束。是否要開啟上一個自動儲存的檔案？</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1310"/>
@@ -62873,124 +62873,124 @@ Please contact your test coordinator.</translation>
       <location filename="../gui/main.cpp" line="1587"/>
       <location filename="../gui/main.cpp" line="1732"/>
       <source>    ID: </source>
-      <translation type="unfinished">    ID: </translation>
+      <translation>    ID：</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1588"/>
       <location filename="../gui/main.cpp" line="1733"/>
       <source>    Author: </source>
-      <translation type="unfinished">    Author: </translation>
+      <translation>    作者：</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1589"/>
       <location filename="../gui/main.cpp" line="1734"/>
       <source>    Description: </source>
-      <translation type="unfinished">    Description: </translation>
+      <translation>    說明：</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1615"/>
       <location filename="../gui/main.cpp" line="1760"/>
       <source>    Publisher Certificate Information:
 </source>
-      <translation type="unfinished">    Publisher Certificate Information:
+      <translation>    發行者憑證資訊：
 </translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1616"/>
       <location filename="../gui/main.cpp" line="1761"/>
       <source>        Issued To: </source>
-      <translation type="unfinished">        Issued To: </translation>
+      <translation>        核發對象：</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1617"/>
       <location filename="../gui/main.cpp" line="1762"/>
       <source>        Issued By: </source>
-      <translation type="unfinished">        Issued By: </translation>
+      <translation>        核發者：</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1618"/>
       <location filename="../gui/main.cpp" line="1763"/>
       <source>        Valid Dates: </source>
-      <translation type="unfinished">        Valid Dates: </translation>
+      <translation>        有效日期：</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1619"/>
       <location filename="../gui/main.cpp" line="1764"/>
       <source> to </source>
-      <translation type="unfinished"> to </translation>
+      <translation> 至 </translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1620"/>
       <location filename="../gui/main.cpp" line="1765"/>
       <source>        Serial Number: </source>
-      <translation type="unfinished">        Serial Number: </translation>
+      <translation>        序號：</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1629"/>
       <source> has detected a new script module, but the publisher certificate of this script module has expired or is blocked.</source>
-      <translation type="unfinished"> has detected a new script module, but the publisher certificate of this script module has expired or is blocked.</translation>
+      <translation> 偵測到新的指令碼模組，但此指令碼模組的發行者憑證已過期或遭封鎖。</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1632"/>
       <location filename="../gui/main.cpp" line="1649"/>
       <location filename="../gui/main.cpp" line="1656"/>
       <source> - Add New Script Module</source>
-      <translation type="unfinished"> - Add New Script Module</translation>
+      <translation> - 新增指令碼模組</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1646"/>
       <source> has detected a new script module, but the publisher of this script module is in the Untrusted Publishers list. If you want to enable this script module, please go to Options-&gt;Preferences and remove the publisher.</source>
-      <translation type="unfinished"> has detected a new script module, but the publisher of this script module is in the Untrusted Publishers list. If you want to enable this script module, please go to Options-&gt;Preferences and remove the publisher.</translation>
+      <translation> 偵測到新的指令碼模組，但此指令碼模組的發行者位於不受信任的發行者清單中。若要啟用此指令碼模組，請前往「選項-&gt;偏好設定」移除該發行者。</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1657"/>
       <source> has detected a new script module. Do you want to enable this script module?
 
 </source>
-      <translation type="unfinished"> has detected a new script module. Do you want to enable this script module?
+      <translation> 偵測到新的指令碼模組。是否要啟用此指令碼模組？
 
 </translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1774"/>
       <source> has detected a new ExApp, but the publisher certificate of this ExApp has expired or is blocked.</source>
-      <translation type="unfinished"> has detected a new ExApp, but the publisher certificate of this ExApp has expired or is blocked.</translation>
+      <translation> 偵測到新的 ExApp，但此 ExApp 的發行者憑證已過期或遭封鎖。</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1777"/>
       <location filename="../gui/main.cpp" line="1794"/>
       <location filename="../gui/main.cpp" line="1802"/>
       <source> - Add New ExApp</source>
-      <translation type="unfinished"> - Add New ExApp</translation>
+      <translation> - 新增 ExApp</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1791"/>
       <source> has detected a new ExApp, but the publisher of this ExApp is in the Untrusted Publishers list. If you want to enable this ExApp, please go to Options-&gt;Preferences and remove the publisher.</source>
-      <translation type="unfinished"> has detected a new ExApp, but the publisher of this ExApp is in the Untrusted Publishers list. If you want to enable this ExApp, please go to Options-&gt;Preferences and remove the publisher.</translation>
+      <translation> 偵測到新的 ExApp，但此 ExApp 的發行者位於不受信任的發行者清單中。若要啟用此 ExApp，請前往「選項-&gt;偏好設定」移除該發行者。</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1803"/>
       <source> has detected a new ExApp. Do you want to enable this ExApp?
 
 </source>
-      <translation type="unfinished"> has detected a new ExApp. Do you want to enable this ExApp?
+      <translation> 偵測到新的 ExApp。是否要啟用此 ExApp？
 
 </translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1892"/>
       <source>Required Script Modules do not appear to be running. Please reinstall </source>
-      <translation type="unfinished">Required Script Modules do not appear to be running. Please reinstall </translation>
+      <translation>所需的指令碼模組似乎未在執行。請重新安裝 </translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1892"/>
       <source>.</source>
-      <translation type="unfinished">.</translation>
+      <translation>。</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1893"/>
       <source> - Missing Script Module</source>
-      <translation type="unfinished"> - Missing Script Module</translation>
+      <translation> - 缺少指令碼模組</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1907"/>
@@ -63010,24 +63010,24 @@ Please contact your test coordinator.</translation>
     <message>
       <location filename="../gui/main.cpp" line="1960"/>
       <source>An issue was encountered during netacad.com login. You may continue using the full functions of </source>
-      <translation type="unfinished">An issue was encountered during netacad.com login. You may continue using the full functions of </translation>
+      <translation>登入 netacad.com 時發生問題。您仍可繼續使用 </translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1961"/>
       <source>, but you will be prompted to log in again the next time you restart your computer.</source>
-      <translation type="unfinished">, but you will be prompted to log in again the next time you restart your computer.</translation>
+      <translation> 的完整功能，但下次重新啟動電腦時會再次提示您登入。</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1664"/>
       <location filename="../gui/main.cpp" line="1810"/>
       <source>Always from Same Publisher</source>
-      <translation type="unfinished">Always from Same Publisher</translation>
+      <translation>一律允許同一發行者</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1665"/>
       <location filename="../gui/main.cpp" line="1811"/>
       <source>Never from Same Publisher</source>
-      <translation type="unfinished">Never from Same Publisher</translation>
+      <translation>一律拒絕同一發行者</translation>
     </message>
     <message>
       <location filename="../gui/main.cpp" line="1667"/>
@@ -63044,7 +63044,7 @@ Please contact your test coordinator.</translation>
     <message>
       <location filename="../gui/main.cpp" line="1959"/>
       <source>Authentication Alert</source>
-      <translation type="unfinished">Authentication Alert</translation>
+      <translation>驗證警示</translation>
     </message>
   </context>
   <context>
